@@ -1,0 +1,93 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/KarmaDelek/UT1KG4884/UT1KG4884-026" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:55:34-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="UT1KG4884-026-0017.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0017.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0018.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0018.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0019.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0019.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0020.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0020.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0021.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0021.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0022.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0022.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0023.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0023.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0024.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0024.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0025.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0025.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0026.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0026.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0027.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0027.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0028.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0028.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0029.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0029.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0030.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0030.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0001.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0001.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0002.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0002.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0003.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0003.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0004.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0004.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0005.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0005.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0006.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0006.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0007.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:10-04:00" filename="UT1KG4884-026-0007.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0008.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:34-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0008.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0009.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0009.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0010.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0010.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0011.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0011.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0012.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0012.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0013.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0013.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0014.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0014.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0015.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0015.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1KG4884-026-0016.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:55:35-04:00" modified="2014-09-25T13:58:11-04:00" filename="UT1KG4884-026-0016.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

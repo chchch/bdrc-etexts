@@ -1,0 +1,14 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/KarmaDelek/UT3JT13365" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:56:11-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT3JT13365-008" filename="UT3JT13365-008"/>
+    <subcollection name="UT3JT13365-006" filename="UT3JT13365-006"/>
+    <subcollection name="UT3JT13365-005" filename="UT3JT13365-005"/>
+    <subcollection name="UT3JT13365-003" filename="UT3JT13365-003"/>
+    <subcollection name="UT3JT13365-002" filename="UT3JT13365-002"/>
+    <subcollection name="UT3JT13365-001" filename="UT3JT13365-001"/>
+    <subcollection name="UT3JT13365-004" filename="UT3JT13365-004"/>
+    <subcollection name="UT3JT13365-011" filename="UT3JT13365-011"/>
+    <subcollection name="UT3JT13365-010" filename="UT3JT13365-010"/>
+    <subcollection name="UT3JT13365-009" filename="UT3JT13365-009"/>
+    <subcollection name="UT3JT13365-007" filename="UT3JT13365-007"/>
+</collection>

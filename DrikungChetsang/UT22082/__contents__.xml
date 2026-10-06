@@ -1,0 +1,19 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/DrikungChetsang/UT22082" owner="tbrc" group="eXide" mode="775" created="2014-09-17T18:57:59-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT22082-001" filename="UT22082-001"/>
+    <subcollection name="UT22082-010" filename="UT22082-010"/>
+    <subcollection name="UT22082-011" filename="UT22082-011"/>
+    <subcollection name="UT22082-012" filename="UT22082-012"/>
+    <subcollection name="UT22082-013" filename="UT22082-013"/>
+    <subcollection name="UT22082-006" filename="UT22082-006"/>
+    <subcollection name="UT22082-007" filename="UT22082-007"/>
+    <subcollection name="UT22082-008" filename="UT22082-008"/>
+    <subcollection name="UT22082-009" filename="UT22082-009"/>
+    <subcollection name="UT22082-002" filename="UT22082-002"/>
+    <subcollection name="UT22082-005" filename="UT22082-005"/>
+    <subcollection name="UT22082-003" filename="UT22082-003"/>
+    <subcollection name="UT22082-014" filename="UT22082-014"/>
+    <subcollection name="UT22082-015" filename="UT22082-015"/>
+    <subcollection name="UT22082-016" filename="UT22082-016"/>
+    <subcollection name="UT22082-004" filename="UT22082-004"/>
+</collection>

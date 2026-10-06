@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/DrikungChetsang/UT23892" owner="tbrc" group="eXide" mode="775" created="2014-09-17T18:57:46-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT23892-003" filename="UT23892-003"/>
+    <subcollection name="UT23892-004" filename="UT23892-004"/>
+    <subcollection name="UT23892-005" filename="UT23892-005"/>
+    <subcollection name="UT23892-006" filename="UT23892-006"/>
+    <subcollection name="UT23892-001" filename="UT23892-001"/>
+    <subcollection name="UT23892-002" filename="UT23892-002"/>
+</collection>

@@ -1,0 +1,10 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/UCB-OCR/UT1KG4239" owner="tbrc" group="eXide" mode="775" created="2014-09-18T09:33:19-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT1KG4239-I1PD97690" filename="UT1KG4239-I1PD97690"/>
+    <subcollection name="UT1KG4239-I1PD97684" filename="UT1KG4239-I1PD97684"/>
+    <subcollection name="UT1KG4239-I1PD97685" filename="UT1KG4239-I1PD97685"/>
+    <subcollection name="UT1KG4239-I1PD97686" filename="UT1KG4239-I1PD97686"/>
+    <subcollection name="UT1KG4239-I1PD97687" filename="UT1KG4239-I1PD97687"/>
+    <subcollection name="UT1KG4239-I1PD97688" filename="UT1KG4239-I1PD97688"/>
+    <subcollection name="UT1KG4239-I1PD97689" filename="UT1KG4239-I1PD97689"/>
+</collection>

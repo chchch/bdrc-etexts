@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/DharmaDownload/UT1KG12028" owner="tbrc" group="eXide" mode="775" created="2014-09-17T18:54:15-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT1KG12028-003" filename="UT1KG12028-003"/>
+    <subcollection name="UT1KG12028-001" filename="UT1KG12028-001"/>
+    <subcollection name="UT1KG12028-002" filename="UT1KG12028-002"/>
+</collection>

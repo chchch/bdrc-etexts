@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/KarmaDelek/UT3JT13366/UT3JT13366-018" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:56:36-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="UT3JT13366-018-0001.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:56:40-04:00" modified="2014-09-25T13:59:24-04:00" filename="UT3JT13366-018-0001.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13366-018-0002.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:56:41-04:00" modified="2014-09-25T13:59:25-04:00" filename="UT3JT13366-018-0002.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13366-018-0003.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:56:37-04:00" modified="2014-09-25T13:59:20-04:00" filename="UT3JT13366-018-0003.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13366-018-0004.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:56:38-04:00" modified="2014-09-25T13:59:21-04:00" filename="UT3JT13366-018-0004.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13366-018-0005.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:56:39-04:00" modified="2014-09-25T13:59:21-04:00" filename="UT3JT13366-018-0005.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13366-018-0006.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:56:39-04:00" modified="2014-09-25T13:59:22-04:00" filename="UT3JT13366-018-0006.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13366-018-0007.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:56:40-04:00" modified="2014-09-25T13:59:22-04:00" filename="UT3JT13366-018-0007.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

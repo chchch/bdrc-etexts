@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/KarmaDelek/UT1PD90129" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:54:28-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT1PD90129-006" filename="UT1PD90129-006"/>
+    <subcollection name="UT1PD90129-007" filename="UT1PD90129-007"/>
+    <subcollection name="UT1PD90129-008" filename="UT1PD90129-008"/>
+    <subcollection name="UT1PD90129-009" filename="UT1PD90129-009"/>
+    <subcollection name="UT1PD90129-014" filename="UT1PD90129-014"/>
+    <subcollection name="UT1PD90129-015" filename="UT1PD90129-015"/>
+    <subcollection name="UT1PD90129-017" filename="UT1PD90129-017"/>
+    <subcollection name="UT1PD90129-016" filename="UT1PD90129-016"/>
+    <subcollection name="UT1PD90129-012" filename="UT1PD90129-012"/>
+    <subcollection name="UT1PD90129-018" filename="UT1PD90129-018"/>
+    <subcollection name="UT1PD90129-013" filename="UT1PD90129-013"/>
+    <subcollection name="UT1PD90129-003" filename="UT1PD90129-003"/>
+    <subcollection name="UT1PD90129-002" filename="UT1PD90129-002"/>
+    <subcollection name="UT1PD90129-001" filename="UT1PD90129-001"/>
+    <subcollection name="UT1PD90129-010" filename="UT1PD90129-010"/>
+    <subcollection name="UT1PD90129-011" filename="UT1PD90129-011"/>
+    <subcollection name="UT1PD90129-004" filename="UT1PD90129-004"/>
+    <subcollection name="UT1PD90129-005" filename="UT1PD90129-005"/>
+</collection>

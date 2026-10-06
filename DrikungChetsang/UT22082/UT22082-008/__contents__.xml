@@ -1,0 +1,42 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/DrikungChetsang/UT22082/UT22082-008" owner="tbrc" group="eXide" mode="775" created="2014-09-17T18:58:09-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="UT22082-008-0001.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:58:10-04:00" modified="2014-09-25T12:56:50-04:00" filename="UT22082-008-0001.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT22082-008-0002.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:58:10-04:00" modified="2014-09-25T12:56:50-04:00" filename="UT22082-008-0002.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT22082-008-0003.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:58:09-04:00" modified="2014-09-25T12:56:49-04:00" filename="UT22082-008-0003.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT22082-008-0004.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:58:09-04:00" modified="2014-09-25T12:56:49-04:00" filename="UT22082-008-0004.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT22082-008-0005.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:58:09-04:00" modified="2014-09-25T12:56:49-04:00" filename="UT22082-008-0005.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT22082-008-0006.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:58:09-04:00" modified="2014-09-25T12:56:49-04:00" filename="UT22082-008-0006.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT22082-008-0007.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:58:09-04:00" modified="2014-09-25T12:56:49-04:00" filename="UT22082-008-0007.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT22082-008-0008.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:58:10-04:00" modified="2014-09-25T12:56:50-04:00" filename="UT22082-008-0008.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT22082-008-0009.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:58:10-04:00" modified="2014-09-25T12:56:50-04:00" filename="UT22082-008-0009.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT22082-008-0010.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:58:10-04:00" modified="2014-09-25T12:56:50-04:00" filename="UT22082-008-0010.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT22082-008-0011.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:58:10-04:00" modified="2014-09-25T12:56:50-04:00" filename="UT22082-008-0011.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT22082-008-0012.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:58:10-04:00" modified="2014-09-25T12:56:50-04:00" filename="UT22082-008-0012.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT22082-008-0013.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:58:10-04:00" modified="2014-09-25T12:56:50-04:00" filename="UT22082-008-0013.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

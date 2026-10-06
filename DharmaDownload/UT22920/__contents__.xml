@@ -1,0 +1,10 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/DharmaDownload/UT22920" owner="tbrc" group="eXide" mode="775" created="2014-09-17T18:54:19-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT22920-003" filename="UT22920-003"/>
+    <subcollection name="UT22920-002" filename="UT22920-002"/>
+    <subcollection name="UT22920-001" filename="UT22920-001"/>
+    <subcollection name="UT22920-007" filename="UT22920-007"/>
+    <subcollection name="UT22920-006" filename="UT22920-006"/>
+    <subcollection name="UT22920-005" filename="UT22920-005"/>
+    <subcollection name="UT22920-004" filename="UT22920-004"/>
+</collection>

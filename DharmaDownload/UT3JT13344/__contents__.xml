@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/DharmaDownload/UT3JT13344" owner="tbrc" group="eXide" mode="775" created="2014-09-17T18:53:50-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT3JT13344-008" filename="UT3JT13344-008"/>
+    <subcollection name="UT3JT13344-009" filename="UT3JT13344-009"/>
+    <subcollection name="UT3JT13344-015" filename="UT3JT13344-015"/>
+    <subcollection name="UT3JT13344-014" filename="UT3JT13344-014"/>
+    <subcollection name="UT3JT13344-013" filename="UT3JT13344-013"/>
+    <subcollection name="UT3JT13344-012" filename="UT3JT13344-012"/>
+    <subcollection name="UT3JT13344-011" filename="UT3JT13344-011"/>
+    <subcollection name="UT3JT13344-010" filename="UT3JT13344-010"/>
+    <subcollection name="UT3JT13344-007" filename="UT3JT13344-007"/>
+    <subcollection name="UT3JT13344-006" filename="UT3JT13344-006"/>
+    <subcollection name="UT3JT13344-005" filename="UT3JT13344-005"/>
+    <subcollection name="UT3JT13344-004" filename="UT3JT13344-004"/>
+    <subcollection name="UT3JT13344-003" filename="UT3JT13344-003"/>
+    <subcollection name="UT3JT13344-002" filename="UT3JT13344-002"/>
+    <subcollection name="UT3JT13344-001" filename="UT3JT13344-001"/>
+</collection>

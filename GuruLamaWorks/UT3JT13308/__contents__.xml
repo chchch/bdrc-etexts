@@ -1,0 +1,19 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/GuruLamaWorks/UT3JT13308" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:44:57-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT3JT13308-007" filename="UT3JT13308-007"/>
+    <subcollection name="UT3JT13308-006" filename="UT3JT13308-006"/>
+    <subcollection name="UT3JT13308-005" filename="UT3JT13308-005"/>
+    <subcollection name="UT3JT13308-004" filename="UT3JT13308-004"/>
+    <subcollection name="UT3JT13308-003" filename="UT3JT13308-003"/>
+    <subcollection name="UT3JT13308-002" filename="UT3JT13308-002"/>
+    <subcollection name="UT3JT13308-001" filename="UT3JT13308-001"/>
+    <subcollection name="UT3JT13308-015" filename="UT3JT13308-015"/>
+    <subcollection name="UT3JT13308-014" filename="UT3JT13308-014"/>
+    <subcollection name="UT3JT13308-011" filename="UT3JT13308-011"/>
+    <subcollection name="UT3JT13308-013" filename="UT3JT13308-013"/>
+    <subcollection name="UT3JT13308-016" filename="UT3JT13308-016"/>
+    <subcollection name="UT3JT13308-012" filename="UT3JT13308-012"/>
+    <subcollection name="UT3JT13308-010" filename="UT3JT13308-010"/>
+    <subcollection name="UT3JT13308-009" filename="UT3JT13308-009"/>
+    <subcollection name="UT3JT13308-008" filename="UT3JT13308-008"/>
+</collection>

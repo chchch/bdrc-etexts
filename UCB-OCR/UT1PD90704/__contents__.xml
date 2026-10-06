@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/UCB-OCR/UT1PD90704" owner="tbrc" group="eXide" mode="775" created="2014-09-18T09:32:27-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT1PD90704-I1PD90709" filename="UT1PD90704-I1PD90709"/>
+    <subcollection name="UT1PD90704-I1PD90706" filename="UT1PD90704-I1PD90706"/>
+    <subcollection name="UT1PD90704-I1PD90707" filename="UT1PD90704-I1PD90707"/>
+    <subcollection name="UT1PD90704-I1PD90711" filename="UT1PD90704-I1PD90711"/>
+    <subcollection name="UT1PD90704-I1PD90710" filename="UT1PD90704-I1PD90710"/>
+    <subcollection name="UT1PD90704-I1PD90708" filename="UT1PD90704-I1PD90708"/>
+</collection>

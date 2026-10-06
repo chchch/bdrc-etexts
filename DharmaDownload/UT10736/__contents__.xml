@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/DharmaDownload/UT10736" owner="tbrc" group="eXide" mode="775" created="2014-09-17T18:52:30-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT10736-015" filename="UT10736-015"/>
+    <subcollection name="UT10736-016" filename="UT10736-016"/>
+    <subcollection name="UT10736-017" filename="UT10736-017"/>
+    <subcollection name="UT10736-002" filename="UT10736-002"/>
+    <subcollection name="UT10736-003" filename="UT10736-003"/>
+    <subcollection name="UT10736-001" filename="UT10736-001"/>
+    <subcollection name="UT10736-005" filename="UT10736-005"/>
+    <subcollection name="UT10736-006" filename="UT10736-006"/>
+    <subcollection name="UT10736-007" filename="UT10736-007"/>
+    <subcollection name="UT10736-008" filename="UT10736-008"/>
+    <subcollection name="UT10736-009" filename="UT10736-009"/>
+    <subcollection name="UT10736-018" filename="UT10736-018"/>
+    <subcollection name="UT10736-004" filename="UT10736-004"/>
+    <subcollection name="UT10736-019" filename="UT10736-019"/>
+    <subcollection name="UT10736-020" filename="UT10736-020"/>
+    <subcollection name="UT10736-021" filename="UT10736-021"/>
+    <subcollection name="UT10736-022" filename="UT10736-022"/>
+    <subcollection name="UT10736-023" filename="UT10736-023"/>
+    <subcollection name="UT10736-024" filename="UT10736-024"/>
+    <subcollection name="UT10736-010" filename="UT10736-010"/>
+    <subcollection name="UT10736-011" filename="UT10736-011"/>
+    <subcollection name="UT10736-012" filename="UT10736-012"/>
+    <subcollection name="UT10736-013" filename="UT10736-013"/>
+    <subcollection name="UT10736-014" filename="UT10736-014"/>
+</collection>

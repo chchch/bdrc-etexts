@@ -1,0 +1,13 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/UCB-OCR/UT1PD45150" owner="tbrc" group="eXide" mode="775" created="2014-09-18T09:29:24-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT1PD45150-I2DB57578" filename="UT1PD45150-I2DB57578"/>
+    <subcollection name="UT1PD45150-I2DB57579" filename="UT1PD45150-I2DB57579"/>
+    <subcollection name="UT1PD45150-I2DB57580" filename="UT1PD45150-I2DB57580"/>
+    <subcollection name="UT1PD45150-I2DB57571" filename="UT1PD45150-I2DB57571"/>
+    <subcollection name="UT1PD45150-I2DB57572" filename="UT1PD45150-I2DB57572"/>
+    <subcollection name="UT1PD45150-I2DB57573" filename="UT1PD45150-I2DB57573"/>
+    <subcollection name="UT1PD45150-I2DB57574" filename="UT1PD45150-I2DB57574"/>
+    <subcollection name="UT1PD45150-I2DB57575" filename="UT1PD45150-I2DB57575"/>
+    <subcollection name="UT1PD45150-I2DB57576" filename="UT1PD45150-I2DB57576"/>
+    <subcollection name="UT1PD45150-I2DB57577" filename="UT1PD45150-I2DB57577"/>
+</collection>

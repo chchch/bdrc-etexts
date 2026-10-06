@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/DharmaDownload/UT3JT13299" owner="tbrc" group="eXide" mode="775" created="2014-09-17T18:53:42-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT3JT13299-009" filename="UT3JT13299-009"/>
+    <subcollection name="UT3JT13299-008" filename="UT3JT13299-008"/>
+    <subcollection name="UT3JT13299-007" filename="UT3JT13299-007"/>
+    <subcollection name="UT3JT13299-006" filename="UT3JT13299-006"/>
+    <subcollection name="UT3JT13299-005" filename="UT3JT13299-005"/>
+    <subcollection name="UT3JT13299-004" filename="UT3JT13299-004"/>
+    <subcollection name="UT3JT13299-003" filename="UT3JT13299-003"/>
+    <subcollection name="UT3JT13299-002" filename="UT3JT13299-002"/>
+    <subcollection name="UT3JT13299-001" filename="UT3JT13299-001"/>
+    <subcollection name="UT3JT13299-012" filename="UT3JT13299-012"/>
+    <subcollection name="UT3JT13299-011" filename="UT3JT13299-011"/>
+    <subcollection name="UT3JT13299-010" filename="UT3JT13299-010"/>
+</collection>

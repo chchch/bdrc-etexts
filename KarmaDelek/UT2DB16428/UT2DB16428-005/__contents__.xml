@@ -1,0 +1,39 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/KarmaDelek/UT2DB16428/UT2DB16428-005" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:59:06-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="UT2DB16428-005-0012.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:59:06-04:00" modified="2014-09-25T14:02:21-04:00" filename="UT2DB16428-005-0012.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT2DB16428-005-0001.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:59:06-04:00" modified="2014-09-25T14:02:21-04:00" filename="UT2DB16428-005-0001.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT2DB16428-005-0002.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:59:06-04:00" modified="2014-09-25T14:02:21-04:00" filename="UT2DB16428-005-0002.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT2DB16428-005-0003.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:59:06-04:00" modified="2014-09-25T14:02:21-04:00" filename="UT2DB16428-005-0003.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT2DB16428-005-0004.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:59:06-04:00" modified="2014-09-25T14:02:22-04:00" filename="UT2DB16428-005-0004.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT2DB16428-005-0005.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:59:06-04:00" modified="2014-09-25T14:02:22-04:00" filename="UT2DB16428-005-0005.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT2DB16428-005-0006.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:59:07-04:00" modified="2014-09-25T14:02:22-04:00" filename="UT2DB16428-005-0006.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT2DB16428-005-0007.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:59:07-04:00" modified="2014-09-25T14:02:22-04:00" filename="UT2DB16428-005-0007.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT2DB16428-005-0008.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:59:07-04:00" modified="2014-09-25T14:02:22-04:00" filename="UT2DB16428-005-0008.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT2DB16428-005-0009.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:59:07-04:00" modified="2014-09-25T14:02:22-04:00" filename="UT2DB16428-005-0009.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT2DB16428-005-0010.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:59:07-04:00" modified="2014-09-25T14:02:22-04:00" filename="UT2DB16428-005-0010.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT2DB16428-005-0011.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:59:07-04:00" modified="2014-09-25T14:02:22-04:00" filename="UT2DB16428-005-0011.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

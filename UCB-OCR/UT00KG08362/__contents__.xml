@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/UCB-OCR/UT00KG08362" owner="tbrc" group="eXide" mode="775" created="2014-09-26T15:31:10-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT00KG08362-I00KG08396" filename="UT00KG08362-I00KG08396"/>
+    <subcollection name="UT00KG08362-I00KG08395" filename="UT00KG08362-I00KG08395"/>
+    <subcollection name="UT00KG08362-I00KG08394" filename="UT00KG08362-I00KG08394"/>
+    <subcollection name="UT00KG08362-I00KG08393" filename="UT00KG08362-I00KG08393"/>
+    <subcollection name="UT00KG08362-I00KG08392" filename="UT00KG08362-I00KG08392"/>
+    <subcollection name="UT00KG08362-I00KG08397" filename="UT00KG08362-I00KG08397"/>
+</collection>

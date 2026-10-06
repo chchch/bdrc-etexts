@@ -1,0 +1,10 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/UCB-OCR/UT25007" owner="tbrc" group="eXide" mode="775" created="2014-09-18T09:32:30-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT25007-4911" filename="UT25007-4911"/>
+    <subcollection name="UT25007-4917" filename="UT25007-4917"/>
+    <subcollection name="UT25007-4916" filename="UT25007-4916"/>
+    <subcollection name="UT25007-4915" filename="UT25007-4915"/>
+    <subcollection name="UT25007-4914" filename="UT25007-4914"/>
+    <subcollection name="UT25007-4913" filename="UT25007-4913"/>
+    <subcollection name="UT25007-4912" filename="UT25007-4912"/>
+</collection>

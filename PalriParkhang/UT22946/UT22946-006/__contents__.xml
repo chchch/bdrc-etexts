@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/PalriParkhang/UT22946/UT22946-006" owner="tbrc" group="eXide" mode="775" created="2014-09-17T20:02:37-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="UT22946-006-0001.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T20:02:38-04:00" modified="2014-09-25T14:05:48-04:00" filename="UT22946-006-0001.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

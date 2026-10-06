@@ -1,0 +1,10 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/KarmaDelek/UT1KG1803" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:59:07-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT1KG1803-004" filename="UT1KG1803-004"/>
+    <subcollection name="UT1KG1803-003" filename="UT1KG1803-003"/>
+    <subcollection name="UT1KG1803-002" filename="UT1KG1803-002"/>
+    <subcollection name="UT1KG1803-001" filename="UT1KG1803-001"/>
+    <subcollection name="UT1KG1803-007" filename="UT1KG1803-007"/>
+    <subcollection name="UT1KG1803-006" filename="UT1KG1803-006"/>
+    <subcollection name="UT1KG1803-005" filename="UT1KG1803-005"/>
+</collection>

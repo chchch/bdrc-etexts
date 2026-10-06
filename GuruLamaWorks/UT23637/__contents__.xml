@@ -1,0 +1,14 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/GuruLamaWorks/UT23637" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:45:42-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT23637-002" filename="UT23637-002"/>
+    <subcollection name="UT23637-001" filename="UT23637-001"/>
+    <subcollection name="UT23637-004" filename="UT23637-004"/>
+    <subcollection name="UT23637-011" filename="UT23637-011"/>
+    <subcollection name="UT23637-010" filename="UT23637-010"/>
+    <subcollection name="UT23637-009" filename="UT23637-009"/>
+    <subcollection name="UT23637-007" filename="UT23637-007"/>
+    <subcollection name="UT23637-006" filename="UT23637-006"/>
+    <subcollection name="UT23637-008" filename="UT23637-008"/>
+    <subcollection name="UT23637-005" filename="UT23637-005"/>
+    <subcollection name="UT23637-003" filename="UT23637-003"/>
+</collection>

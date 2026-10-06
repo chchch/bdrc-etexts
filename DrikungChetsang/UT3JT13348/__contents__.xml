@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/DrikungChetsang/UT3JT13348" owner="tbrc" group="eXide" mode="775" created="2014-09-17T18:57:21-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT3JT13348-015" filename="UT3JT13348-015"/>
+    <subcollection name="UT3JT13348-014" filename="UT3JT13348-014"/>
+    <subcollection name="UT3JT13348-013" filename="UT3JT13348-013"/>
+    <subcollection name="UT3JT13348-012" filename="UT3JT13348-012"/>
+    <subcollection name="UT3JT13348-011" filename="UT3JT13348-011"/>
+    <subcollection name="UT3JT13348-010" filename="UT3JT13348-010"/>
+    <subcollection name="UT3JT13348-007" filename="UT3JT13348-007"/>
+    <subcollection name="UT3JT13348-006" filename="UT3JT13348-006"/>
+    <subcollection name="UT3JT13348-005" filename="UT3JT13348-005"/>
+    <subcollection name="UT3JT13348-004" filename="UT3JT13348-004"/>
+    <subcollection name="UT3JT13348-009" filename="UT3JT13348-009"/>
+    <subcollection name="UT3JT13348-002" filename="UT3JT13348-002"/>
+    <subcollection name="UT3JT13348-008" filename="UT3JT13348-008"/>
+    <subcollection name="UT3JT13348-003" filename="UT3JT13348-003"/>
+    <subcollection name="UT3JT13348-001" filename="UT3JT13348-001"/>
+</collection>

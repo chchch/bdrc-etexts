@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/GuruLamaWorks/UT1KG4326" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:52:01-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT1KG4326-009" filename="UT1KG4326-009"/>
+    <subcollection name="UT1KG4326-008" filename="UT1KG4326-008"/>
+    <subcollection name="UT1KG4326-007" filename="UT1KG4326-007"/>
+    <subcollection name="UT1KG4326-006" filename="UT1KG4326-006"/>
+    <subcollection name="UT1KG4326-005" filename="UT1KG4326-005"/>
+    <subcollection name="UT1KG4326-004" filename="UT1KG4326-004"/>
+    <subcollection name="UT1KG4326-019" filename="UT1KG4326-019"/>
+    <subcollection name="UT1KG4326-002" filename="UT1KG4326-002"/>
+    <subcollection name="UT1KG4326-017" filename="UT1KG4326-017"/>
+    <subcollection name="UT1KG4326-016" filename="UT1KG4326-016"/>
+    <subcollection name="UT1KG4326-015" filename="UT1KG4326-015"/>
+    <subcollection name="UT1KG4326-014" filename="UT1KG4326-014"/>
+    <subcollection name="UT1KG4326-013" filename="UT1KG4326-013"/>
+    <subcollection name="UT1KG4326-012" filename="UT1KG4326-012"/>
+    <subcollection name="UT1KG4326-011" filename="UT1KG4326-011"/>
+    <subcollection name="UT1KG4326-010" filename="UT1KG4326-010"/>
+    <subcollection name="UT1KG4326-024" filename="UT1KG4326-024"/>
+    <subcollection name="UT1KG4326-023" filename="UT1KG4326-023"/>
+    <subcollection name="UT1KG4326-022" filename="UT1KG4326-022"/>
+    <subcollection name="UT1KG4326-021" filename="UT1KG4326-021"/>
+    <subcollection name="UT1KG4326-020" filename="UT1KG4326-020"/>
+    <subcollection name="UT1KG4326-018" filename="UT1KG4326-018"/>
+    <subcollection name="UT1KG4326-001" filename="UT1KG4326-001"/>
+    <subcollection name="UT1KG4326-003" filename="UT1KG4326-003"/>
+</collection>

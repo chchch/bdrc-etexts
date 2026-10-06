@@ -1,0 +1,69 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/KarmaDelek/UT1PD45495/UT1PD45495-023" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:58:35-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="UT1PD45495-023-0016.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:32-04:00" filename="UT1PD45495-023-0016.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0017.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:32-04:00" filename="UT1PD45495-023-0017.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0018.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:32-04:00" filename="UT1PD45495-023-0018.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0019.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:32-04:00" filename="UT1PD45495-023-0019.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0020.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:32-04:00" filename="UT1PD45495-023-0020.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0021.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:33-04:00" filename="UT1PD45495-023-0021.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0022.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:33-04:00" filename="UT1PD45495-023-0022.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0001.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:33-04:00" filename="UT1PD45495-023-0001.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0002.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:33-04:00" filename="UT1PD45495-023-0002.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0003.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:33-04:00" filename="UT1PD45495-023-0003.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0004.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:33-04:00" filename="UT1PD45495-023-0004.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0005.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:33-04:00" filename="UT1PD45495-023-0005.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0006.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:33-04:00" filename="UT1PD45495-023-0006.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0007.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:36-04:00" modified="2014-09-25T14:01:33-04:00" filename="UT1PD45495-023-0007.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0008.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:35-04:00" modified="2014-09-25T14:01:32-04:00" filename="UT1PD45495-023-0008.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0009.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:35-04:00" modified="2014-09-25T14:01:32-04:00" filename="UT1PD45495-023-0009.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0010.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:35-04:00" modified="2014-09-25T14:01:32-04:00" filename="UT1PD45495-023-0010.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0011.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:35-04:00" modified="2014-09-25T14:01:32-04:00" filename="UT1PD45495-023-0011.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0012.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:35-04:00" modified="2014-09-25T14:01:32-04:00" filename="UT1PD45495-023-0012.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0013.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:35-04:00" modified="2014-09-25T14:01:32-04:00" filename="UT1PD45495-023-0013.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0014.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:35-04:00" modified="2014-09-25T14:01:32-04:00" filename="UT1PD45495-023-0014.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT1PD45495-023-0015.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:58:35-04:00" modified="2014-09-25T14:01:32-04:00" filename="UT1PD45495-023-0015.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

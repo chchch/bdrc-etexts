@@ -1,0 +1,22 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/DharmaDownload/UT23605" owner="tbrc" group="eXide" mode="775" created="2014-09-17T18:53:15-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT23605-003" filename="UT23605-003"/>
+    <subcollection name="UT23605-002" filename="UT23605-002"/>
+    <subcollection name="UT23605-001" filename="UT23605-001"/>
+    <subcollection name="UT23605-017" filename="UT23605-017"/>
+    <subcollection name="UT23605-016" filename="UT23605-016"/>
+    <subcollection name="UT23605-015" filename="UT23605-015"/>
+    <subcollection name="UT23605-014" filename="UT23605-014"/>
+    <subcollection name="UT23605-013" filename="UT23605-013"/>
+    <subcollection name="UT23605-012" filename="UT23605-012"/>
+    <subcollection name="UT23605-011" filename="UT23605-011"/>
+    <subcollection name="UT23605-010" filename="UT23605-010"/>
+    <subcollection name="UT23605-018" filename="UT23605-018"/>
+    <subcollection name="UT23605-019" filename="UT23605-019"/>
+    <subcollection name="UT23605-009" filename="UT23605-009"/>
+    <subcollection name="UT23605-008" filename="UT23605-008"/>
+    <subcollection name="UT23605-007" filename="UT23605-007"/>
+    <subcollection name="UT23605-006" filename="UT23605-006"/>
+    <subcollection name="UT23605-005" filename="UT23605-005"/>
+    <subcollection name="UT23605-004" filename="UT23605-004"/>
+</collection>

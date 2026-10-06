@@ -1,0 +1,69 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/DharmaDownload/UT23605/UT23605-014" owner="tbrc" group="eXide" mode="775" created="2014-09-17T18:53:21-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="UT23605-014-0019.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0019.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0018.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0018.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0007.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0007.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0017.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0017.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0010.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0010.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0022.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0022.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0002.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0002.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0003.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0003.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0004.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0004.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0005.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0005.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0001.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0001.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0006.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0006.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0008.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0008.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0016.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:22-04:00" modified="2014-09-25T12:50:05-04:00" filename="UT23605-014-0016.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0020.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0020.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0012.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:22-04:00" modified="2014-09-25T12:50:05-04:00" filename="UT23605-014-0012.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0014.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:22-04:00" modified="2014-09-25T12:50:05-04:00" filename="UT23605-014-0014.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0015.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:22-04:00" modified="2014-09-25T12:50:05-04:00" filename="UT23605-014-0015.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0009.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0009.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0021.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:04-04:00" filename="UT23605-014-0021.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0011.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:21-04:00" modified="2014-09-25T12:50:05-04:00" filename="UT23605-014-0011.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT23605-014-0013.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T18:53:22-04:00" modified="2014-09-25T12:50:05-04:00" filename="UT23605-014-0013.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

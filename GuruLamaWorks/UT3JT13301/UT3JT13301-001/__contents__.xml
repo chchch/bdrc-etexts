@@ -1,0 +1,54 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/GuruLamaWorks/UT3JT13301/UT3JT13301-001" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:42:52-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="UT3JT13301-001-0001.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:43:00-04:00" modified="2014-09-25T13:02:10-04:00" filename="UT3JT13301-001-0001.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0002.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:43:00-04:00" modified="2014-09-25T13:02:10-04:00" filename="UT3JT13301-001-0002.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0003.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:52-04:00" modified="2014-09-25T13:02:03-04:00" filename="UT3JT13301-001-0003.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0004.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:53-04:00" modified="2014-09-25T13:02:04-04:00" filename="UT3JT13301-001-0004.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0005.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:54-04:00" modified="2014-09-25T13:02:05-04:00" filename="UT3JT13301-001-0005.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0006.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:56-04:00" modified="2014-09-25T13:02:06-04:00" filename="UT3JT13301-001-0006.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0007.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:57-04:00" modified="2014-09-25T13:02:07-04:00" filename="UT3JT13301-001-0007.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0008.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:57-04:00" modified="2014-09-25T13:02:07-04:00" filename="UT3JT13301-001-0008.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0009.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:57-04:00" modified="2014-09-25T13:02:07-04:00" filename="UT3JT13301-001-0009.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0010.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:57-04:00" modified="2014-09-25T13:02:07-04:00" filename="UT3JT13301-001-0010.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0011.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:57-04:00" modified="2014-09-25T13:02:07-04:00" filename="UT3JT13301-001-0011.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0012.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:58-04:00" modified="2014-09-25T13:02:08-04:00" filename="UT3JT13301-001-0012.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0013.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:58-04:00" modified="2014-09-25T13:02:09-04:00" filename="UT3JT13301-001-0013.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0014.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:58-04:00" modified="2014-09-25T13:02:09-04:00" filename="UT3JT13301-001-0014.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0015.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:59-04:00" modified="2014-09-25T13:02:09-04:00" filename="UT3JT13301-001-0015.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0016.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:59-04:00" modified="2014-09-25T13:02:10-04:00" filename="UT3JT13301-001-0016.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT3JT13301-001-0017.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:59-04:00" modified="2014-09-25T13:02:10-04:00" filename="UT3JT13301-001-0017.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

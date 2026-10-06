@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/Various/UT3JT13384" owner="tbrc" group="eXide" mode="775" created="2014-09-17T22:07:17-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT3JT13384-003" filename="UT3JT13384-003"/>
+    <subcollection name="UT3JT13384-013" filename="UT3JT13384-013"/>
+    <subcollection name="UT3JT13384-002" filename="UT3JT13384-002"/>
+    <subcollection name="UT3JT13384-018" filename="UT3JT13384-018"/>
+    <subcollection name="UT3JT13384-009" filename="UT3JT13384-009"/>
+    <subcollection name="UT3JT13384-008" filename="UT3JT13384-008"/>
+    <subcollection name="UT3JT13384-007" filename="UT3JT13384-007"/>
+    <subcollection name="UT3JT13384-006" filename="UT3JT13384-006"/>
+    <subcollection name="UT3JT13384-005" filename="UT3JT13384-005"/>
+    <subcollection name="UT3JT13384-004" filename="UT3JT13384-004"/>
+    <subcollection name="UT3JT13384-011" filename="UT3JT13384-011"/>
+    <subcollection name="UT3JT13384-010" filename="UT3JT13384-010"/>
+    <subcollection name="UT3JT13384-001" filename="UT3JT13384-001"/>
+    <subcollection name="UT3JT13384-014" filename="UT3JT13384-014"/>
+    <subcollection name="UT3JT13384-017" filename="UT3JT13384-017"/>
+    <subcollection name="UT3JT13384-012" filename="UT3JT13384-012"/>
+    <subcollection name="UT3JT13384-016" filename="UT3JT13384-016"/>
+    <subcollection name="UT3JT13384-015" filename="UT3JT13384-015"/>
+</collection>

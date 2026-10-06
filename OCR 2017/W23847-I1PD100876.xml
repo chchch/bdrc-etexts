@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+<tei:teiHeader>
+<tei:fileDesc>
+  <tei:titleStmt>
+    <tei:title>W23847-I1PD100876</tei:title>
+  </tei:titleStmt>
+  <tei:publicationStmt>
+    <tei:distributor>This OCR'd text was generated using UCB's Namsel-OCR application at the request of the Tibetan Buddhist Resource Center.
+Please note this document has not been finalized and is subject to additional changes and corrections.
+</tei:distributor>
+  </tei:publicationStmt>
+  <tei:sourceDesc>
+    <tei:bibl>
+      <tei:idno type='TBRC_RID'>W23847</tei:idno>
+    </tei:bibl>
+  </tei:sourceDesc>
+</tei:fileDesc>
+</tei:teiHeader>
+<tei:text>
+  <tei:body>
+     <tei:div><tei:milestone unit="page" n="I1PD1008760001.tif" />
+
+<tei:milestone unit="page" n="I1PD1008760002.tif" />
+
+</tei:div>
+</tei:body>
+</tei:text>
+</tei:TEI>

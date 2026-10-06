@@ -1,0 +1,40 @@
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">'phags pa rgyan drug mchog gnyis la bstod pa zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>'phags pa rgyan drug mchog gnyis la bstod pa zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                        applies to this document.
+                                    The licence was added on January 1, 2014.
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-002-0015</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHYEN/rtfs/volume-002/2KHA.KHA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">'phags pa rgyan drug mchog gnyis la bstod pa zhes bya ba bzhugs so// </tei:p>
+<tei:p n="2" unit="page">shākya seṅge sa gsum gyi//
+'dren pas chos 'khor rim pa gsum//
+bskor bas 'gro kun bder mdzad pa//
+thub pa khyod la mgos phyag 'tshal//
+klu zhabs rgyal ba gnyis pa ni//
+rgyal bas lung du bstan pa ltar//
+mtha' bral lta ba rnam dag dpal//
+sgrub mdzad de la bdag phyag 'tshal//
+'phags pa dngos kyang nyan thos tshul//
+thub bstan phas rgol sgra gcan gyis//
+sgrib tshe slar yang gsal mdzad pa//
+lha mchog khyod la bdag phyag 'tshal|&#160;|thogs pa med pa'i rdzu 'phrul gyis//
+ma pham zhal gyi bcud gzhibs nas//
+rigs khams sangs rgyas dngos bstan pas//
+med dgag 'joms mdzad der phyag 'tshal//
+dbyig gi mchog gyur theg pa che'i//
+nor bu dman pa'i 'dam dri mas//
+sbags pa gsal mdzad bstan pa'i bshes//
+gnyen gyur khyod la phyag 'tshal lo//
+phyogs kyi 'khor lo rab gang ba'i|&#160;|rgol ngan ri dwags gang ji snyed//
+rig pa'i mche bas rab bcom pa'i//
+glang po che der gus phyag 'tshal//
+chos kyi rnga sgra cher 'bar ba//
+tshad ma'i nga ros rgol ngan gyi//
+glad pa 'gems zhes sa gsum du//
+grags pa khyod la bdag phyag 'tshal//
+yon tan mchog mnga' 'od 'byed pa'i//
+sa chen la 'gyed 'dul mngon gyi//
+gzhung lugs nyi ma ltar gsal ba'i|&#160;|'od mdzad khyod la bdag phyag 'tshal//
+shākya mchog gi bstan pa yi//
+rtsa bar gyur pa gang dang gang*//
+gsal mdzad nyi ma ltar 'bar ba//
+'od stong ldan pa der phyag 'tshal//
+zhes pa yang bla ma mgar sku skye'i rgyan drug mchog gnyis kyi sku thang so so'i zhal byang du 'bri gung pa chos kyi grags pas rtse ba gzhis kar bris pa'o// //sarba maṅga laṃ// </tei:p>
+</tei:div></tei:body></tei:text></tei:TEI>

@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/UCB-OCR/UT1GS45274" owner="tbrc" group="eXide" mode="775" created="2014-09-18T09:33:14-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT1GS45274-I1GS66285" filename="UT1GS45274-I1GS66285"/>
+    <subcollection name="UT1GS45274-I1GS66283" filename="UT1GS45274-I1GS66283"/>
+    <subcollection name="UT1GS45274-I1GS66284" filename="UT1GS45274-I1GS66284"/>
+</collection>

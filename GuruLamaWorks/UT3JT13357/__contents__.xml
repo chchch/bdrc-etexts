@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/GuruLamaWorks/UT3JT13357" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:49:00-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT3JT13357-008" filename="UT3JT13357-008"/>
+    <subcollection name="UT3JT13357-009" filename="UT3JT13357-009"/>
+    <subcollection name="UT3JT13357-014" filename="UT3JT13357-014"/>
+    <subcollection name="UT3JT13357-013" filename="UT3JT13357-013"/>
+    <subcollection name="UT3JT13357-012" filename="UT3JT13357-012"/>
+    <subcollection name="UT3JT13357-011" filename="UT3JT13357-011"/>
+    <subcollection name="UT3JT13357-010" filename="UT3JT13357-010"/>
+    <subcollection name="UT3JT13357-007" filename="UT3JT13357-007"/>
+    <subcollection name="UT3JT13357-006" filename="UT3JT13357-006"/>
+    <subcollection name="UT3JT13357-005" filename="UT3JT13357-005"/>
+    <subcollection name="UT3JT13357-004" filename="UT3JT13357-004"/>
+    <subcollection name="UT3JT13357-003" filename="UT3JT13357-003"/>
+    <subcollection name="UT3JT13357-002" filename="UT3JT13357-002"/>
+    <subcollection name="UT3JT13357-001" filename="UT3JT13357-001"/>
+    <subcollection name="UT3JT13357-015" filename="UT3JT13357-015"/>
+</collection>

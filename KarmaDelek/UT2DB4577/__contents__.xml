@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/KarmaDelek/UT2DB4577" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:56:00-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT2DB4577-001" filename="UT2DB4577-001"/>
+    <subcollection name="UT2DB4577-002" filename="UT2DB4577-002"/>
+    <subcollection name="UT2DB4577-003" filename="UT2DB4577-003"/>
+    <subcollection name="UT2DB4577-004" filename="UT2DB4577-004"/>
+    <subcollection name="UT2DB4577-005" filename="UT2DB4577-005"/>
+    <subcollection name="UT2DB4577-006" filename="UT2DB4577-006"/>
+    <subcollection name="UT2DB4577-007" filename="UT2DB4577-007"/>
+    <subcollection name="UT2DB4577-008" filename="UT2DB4577-008"/>
+    <subcollection name="UT2DB4577-009" filename="UT2DB4577-009"/>
+    <subcollection name="UT2DB4577-010" filename="UT2DB4577-010"/>
+    <subcollection name="UT2DB4577-011" filename="UT2DB4577-011"/>
+    <subcollection name="UT2DB4577-012" filename="UT2DB4577-012"/>
+</collection>

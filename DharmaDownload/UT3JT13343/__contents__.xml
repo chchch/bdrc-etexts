@@ -1,0 +1,8 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/DharmaDownload/UT3JT13343" owner="tbrc" group="eXide" mode="775" created="2014-09-17T18:53:50-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT3JT13343-001" filename="UT3JT13343-001"/>
+    <subcollection name="UT3JT13343-005" filename="UT3JT13343-005"/>
+    <subcollection name="UT3JT13343-004" filename="UT3JT13343-004"/>
+    <subcollection name="UT3JT13343-003" filename="UT3JT13343-003"/>
+    <subcollection name="UT3JT13343-002" filename="UT3JT13343-002"/>
+</collection>

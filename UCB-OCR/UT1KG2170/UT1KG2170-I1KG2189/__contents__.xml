@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/UCB-OCR/UT1KG2170/UT1KG2170-I1KG2189" owner="tbrc" group="eXide" mode="775" created="2014-09-26T15:31:30-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="UT1KG2170-I1KG2189-0000.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-26T15:31:30-04:00" modified="2014-09-26T15:31:30-04:00" filename="UT1KG2170-I1KG2189-0000.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

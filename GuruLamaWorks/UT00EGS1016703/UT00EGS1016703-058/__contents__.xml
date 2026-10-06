@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/GuruLamaWorks/UT00EGS1016703/UT00EGS1016703-058" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:42:47-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="UT00EGS1016703-058-0000.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T19:42:47-04:00" modified="2014-09-25T13:01:57-04:00" filename="UT00EGS1016703-058-0000.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

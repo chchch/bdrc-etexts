@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/PalriParkhang/UT21019/UT21019-003" owner="tbrc" group="eXide" mode="775" created="2014-09-17T20:02:29-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="UT21019-003-0002.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T20:02:29-04:00" modified="2014-09-25T14:05:37-04:00" filename="UT21019-003-0002.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT21019-003-0003.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T20:02:29-04:00" modified="2014-09-25T14:05:37-04:00" filename="UT21019-003-0003.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT21019-003-0004.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T20:02:29-04:00" modified="2014-09-25T14:05:37-04:00" filename="UT21019-003-0004.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="UT21019-003-0001.xml" owner="tbrc" group="eXide" mode="664" created="2014-09-17T20:02:29-04:00" modified="2014-09-25T14:05:37-04:00" filename="UT21019-003-0001.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

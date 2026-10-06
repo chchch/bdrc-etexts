@@ -1,0 +1,7 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/DharmaDownload/UT23660" owner="tbrc" group="eXide" mode="775" created="2014-09-17T18:55:13-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT23660-004" filename="UT23660-004"/>
+    <subcollection name="UT23660-003" filename="UT23660-003"/>
+    <subcollection name="UT23660-002" filename="UT23660-002"/>
+    <subcollection name="UT23660-001" filename="UT23660-001"/>
+</collection>

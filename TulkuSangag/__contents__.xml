@@ -1,0 +1,4 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/TulkuSangag" owner="tbrc" group="eXide" mode="775" created="2014-09-17T21:32:29-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT4CZ42297" filename="UT4CZ42297"/>
+</collection>

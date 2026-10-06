@@ -1,0 +1,25 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/GuruLamaWorks/UT11577" owner="tbrc" group="eXide" mode="775" created="2014-09-17T19:46:44-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT11577-002" filename="UT11577-002"/>
+    <subcollection name="UT11577-021" filename="UT11577-021"/>
+    <subcollection name="UT11577-022" filename="UT11577-022"/>
+    <subcollection name="UT11577-019" filename="UT11577-019"/>
+    <subcollection name="UT11577-017" filename="UT11577-017"/>
+    <subcollection name="UT11577-010" filename="UT11577-010"/>
+    <subcollection name="UT11577-011" filename="UT11577-011"/>
+    <subcollection name="UT11577-012" filename="UT11577-012"/>
+    <subcollection name="UT11577-013" filename="UT11577-013"/>
+    <subcollection name="UT11577-014" filename="UT11577-014"/>
+    <subcollection name="UT11577-015" filename="UT11577-015"/>
+    <subcollection name="UT11577-016" filename="UT11577-016"/>
+    <subcollection name="UT11577-001" filename="UT11577-001"/>
+    <subcollection name="UT11577-018" filename="UT11577-018"/>
+    <subcollection name="UT11577-003" filename="UT11577-003"/>
+    <subcollection name="UT11577-004" filename="UT11577-004"/>
+    <subcollection name="UT11577-005" filename="UT11577-005"/>
+    <subcollection name="UT11577-006" filename="UT11577-006"/>
+    <subcollection name="UT11577-007" filename="UT11577-007"/>
+    <subcollection name="UT11577-008" filename="UT11577-008"/>
+    <subcollection name="UT11577-009" filename="UT11577-009"/>
+    <subcollection name="UT11577-020" filename="UT11577-020"/>
+</collection>

@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/VajraVidya" owner="tbrc" group="eXide" mode="775" created="2014-09-17T21:38:08-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT3JT13378" filename="UT3JT13378"/>
+    <subcollection name="UT3JT13379" filename="UT3JT13379"/>
+    <subcollection name="UT1KG5478" filename="UT1KG5478"/>
+    <subcollection name="UT2CZ8049" filename="UT2CZ8049"/>
+    <subcollection name="UT1KG4306" filename="UT1KG4306"/>
+    <subcollection name="UT3JT13369" filename="UT3JT13369"/>
+    <subcollection name="UT23259" filename="UT23259"/>
+    <subcollection name="UT1KG11909" filename="UT1KG11909"/>
+    <subcollection name="UT1KG6291" filename="UT1KG6291"/>
+    <subcollection name="UT1KG4307" filename="UT1KG4307"/>
+    <subcollection name="UT22314" filename="UT22314"/>
+    <subcollection name="UT1KG3815" filename="UT1KG3815"/>
+    <subcollection name="UT3JT13380" filename="UT3JT13380"/>
+    <subcollection name="UT3JT13381" filename="UT3JT13381"/>
+    <subcollection name="UT3JT13382" filename="UT3JT13382"/>
+    <subcollection name="UT3JT13383" filename="UT3JT13383"/>
+    <subcollection name="UT3JT13370" filename="UT3JT13370"/>
+    <subcollection name="UT3JT13371" filename="UT3JT13371"/>
+    <subcollection name="UT3JT13372" filename="UT3JT13372"/>
+    <subcollection name="UT3JT13373" filename="UT3JT13373"/>
+    <subcollection name="UT3JT13374" filename="UT3JT13374"/>
+    <subcollection name="UT3JT13375" filename="UT3JT13375"/>
+    <subcollection name="UT3JT13376" filename="UT3JT13376"/>
+    <subcollection name="UT3JT13377" filename="UT3JT13377"/>
+</collection>

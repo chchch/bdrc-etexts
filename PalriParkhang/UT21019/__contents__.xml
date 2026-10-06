@@ -1,0 +1,11 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/eTextsChunked/PalriParkhang/UT21019" owner="tbrc" group="eXide" mode="775" created="2014-09-17T20:02:27-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="UT21019-008" filename="UT21019-008"/>
+    <subcollection name="UT21019-007" filename="UT21019-007"/>
+    <subcollection name="UT21019-006" filename="UT21019-006"/>
+    <subcollection name="UT21019-005" filename="UT21019-005"/>
+    <subcollection name="UT21019-004" filename="UT21019-004"/>
+    <subcollection name="UT21019-003" filename="UT21019-003"/>
+    <subcollection name="UT21019-002" filename="UT21019-002"/>
+    <subcollection name="UT21019-001" filename="UT21019-001"/>
+</collection>

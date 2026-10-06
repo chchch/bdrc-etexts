@@ -1,0 +1,27 @@
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">phur srung gi gsol mchod rgyun khyer bzhugs/badz+ra a mṛtas bsang*/swa bhā was sbyang*/stong pa'i ngang las bhan+dha'i snod du hūm̐ yig zhu ba las byung ba'i</tei:title><tei:author/><tei:title>phur srung gi gsol mchod rgyun khyer bzhugs/badz+ra a mṛtas bsang*/swa bhā was sbyang*/stong pa'i ngang las bhan+dha'i snod du hūm̐ yig zhu ba las byung ba'i</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                        applies to this document.
+                                    The licence was added on January 1, 2014.
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-026-0061</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/32-KHI/TERDZO-KHI-P9.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250phur srung gi gsol mchod rgyun khyer bzhugs/1$0000300 badz+ra a mṛta</tei:p>
+<tei:milestone unit="small"/><tei:p n="2" unit="page">sa bsang*/ </tei:p>
+<tei:milestone unit="normal"/><tei:p n="3" unit="page">swa bhā wa</tei:p>
+<tei:milestone unit="small"/><tei:p n="4" unit="page">sa sbyang*/ </tei:p>
+<tei:milestone unit="normal"/><tei:p n="5" unit="page">stong pa'i ngang las bhan+dha'i snod du hūm̐ yig zhu ba las byung ba'i gtor ma sha khrag gi phung po 'dod yon gyi rol mo cir yang 'char ba zag pa med par gyur/ oṃ āḥhūm̐/ </tei:p>
+<tei:milestone unit="small"/><tei:p n="6" unit="page">lan gsum/ </tei:p>
+<tei:milestone unit="normal"/><tei:p n="7" unit="page">snying ga'i sa bon gyi 'od kyis bka' skyong 'khor dang bcas pa badz+ra sa ma ya dzaḥ sa ma ya hūm̐/ badz+ra kī la ya dharma pā la sa pa ri wā ra i dam ba ling ta kha kha khā hi khā hi/</tei:p>
+<tei:milestone unit="small"/><tei:p n="8" unit="page"> lan gsum/ </tei:p>
+<tei:milestone unit="normal"/><tei:p n="9" unit="page">ar+ghaṃ </tei:p>
+<tei:milestone unit="small"/><tei:p n="10" unit="page">sogs/ </tei:p>
+<tei:milestone unit="normal"/><tei:p n="11" unit="page">hūm̐/ bcom ldan rdo rje gzhon nu yi//
+bka' yi srung mar dam bcas shing*//
+dkyil 'khor skyong ba'i g.yar dam can//
+shwa na bzhi dang bdag nyid ma//
+sa bdag chen mo mched bzhi dang*//
+bse lcags dung gi skyes bu bzhi//
+dam can srung ma 'khor bcas rnams//
+'dir gshegs mthun rdzas mchod gtor bzhes//
+'gal rkyen zhi zhing mthun rkyen spel//
+rnam bzhi'i phrin las sgrub par mdzod//
+sarba gats+tshaḥ </tei:p>
+<tei:milestone unit="small"/><tei:p n="12" unit="page">mnyam nyid chos dbang gi bskul ngor dharma swa mis spel// </tei:p>
+<tei:milestone unit="normal"/></tei:div></tei:body></tei:text></tei:TEI>
