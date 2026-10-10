@@ -1,8 +1,8 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄/  /dz+nyānālokabṛd+dhināmamañdzughoṣatādharmarādzabrah+mādewapuṣ+pas+yayogabiharatisma/  /</tei:title><tei:author/><tei:title>༄/  /dz+nyānālokabṛd+dhināmamañdzughoṣatādharmarādzabrah+mādewapuṣ+pas+yayogabiharatisma/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄/  /dzñānālokabṛd+dhināmamañdzughoṣatādharmarādzabrah+mādewapuṣ+pas+yayogabiharatisma/  /</tei:title><tei:author/><tei:title>༄/  /dzñānālokabṛd+dhināmamañdzughoṣatādharmarādzabrah+mādewapuṣ+pas+yayogabiharatisma/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
                                     The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-011-0034</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/11-DA/terdzo-DA-P33.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄// dz+nyā nā lo ka bṛ d+dhi nā ma ma ñdzu gho ṣa tā dha rma rā dza bra h+mā de wa pu ṣ+pa s+ya yo ga bi ha ra ti sma //</tei:p>
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-011-0034</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/11-DA/terdzo-DA-P33.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄// dzñā nā lo ka bṛ d+dhi nā ma ma ñdzu gho ṣa tā dha rma rā dza bra h+mā de wa pu ṣ+pa s+ya yo ga bi ha ra ti sma //</tei:p>
 <tei:p n="2" unit="page">1$0000280༄//
 'jam pa'i dbyangs dngos chos rgyal tshangs pa lha'i me tog gi rnal 'byor ye shes snang ba rgyas pa zhes bya ba bzhugs so1$0000300// na mo gu ru mañdzu shrī gho ṣā ya/ snying dbus mi shigs thig le ru//
 sgrib gsum zad pa'i 'od po che//
@@ -38,7 +38,7 @@ hūm̐ hūm̐ hūm̐/ lnga pa srung 'khor bsgom pa ni//
 mi phyed mi shigs rdo rje'i gur//
 ye shes snang ba rab 'bar bas//
 gnyis snang rtog pa mtshams gcad do//
-badz+ra dz+nyā na bh+rūm̐/</tei:p>
+badz+ra dzñā na bh+rūm̐/</tei:p>
 <tei:p n="3" unit="page">drug pa byin chen 'beb pa ni//
  hūm̐/ rang snang don gyi 'og min nas//
 'jam dpal gzhon nu khri srong rje//
@@ -148,7 +148,7 @@ thogs med blo gros rgyas par gyur//
 oṃ a ra pa tsa na dhīḥ</tei:p>
 <tei:p n="5" unit="page">bla ma yi dam dbyer med pa'i//
 mtshan sngags 'dis kyang dngos grub bskul//
- oṃ āḥmañdzu shrī brah+mā de ba puṣ+pa sarba pra dz+nyā dz+nyā na sid+dhi hūm̐/ snang ba thams cad lha yi sku /chu zla 'ja' tshon lta bur blta//
+ oṃ āḥmañdzu shrī brah+mā de ba puṣ+pa sarba pra dzñā dzñā na sid+dhi hūm̐/ snang ba thams cad lha yi sku /chu zla 'ja' tshon lta bur blta//
 grags pa rten cing 'brel 'byung sngags//
 sgra brnyan brag ca'i tshul du bsam//
 dran rtog 'od gsal dbyings kyi ngang*//

@@ -32,6 +32,8 @@ All Tibetan characters have been converted to Extended Wylie transliteration, al
 |**ཉྪ**  |**ñtsha**  |
 |**ཉྫ**  |**ñdza**  |
 |**ཉྫྷ**  |**ñdzha**  |
+|**ཛྙ**  |**dzña**  |
+|**ཛྷྙ**  |**dzhña**  |
 |ཊ  |ṭa  |
 |ཋ  |ṭha  |
 |ཌ  |ḍa  |
