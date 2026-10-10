@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">/phyag chen chos drug brgyud pa'i gsol 'debs rigs bdag ma bzhugs so/  /</tei:title><tei:author/><tei:title>/phyag chen chos drug brgyud pa'i gsol 'debs rigs bdag ma bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23892-004-0011</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23892</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/6_KUNRIN/rtfs/volume-004/NGA-NA1.012.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">/phyag chen chos drug brgyud pa'i gsol 'debs rigs bdag ma bzhugs so// </tei:p>
@@ -12,7 +12,7 @@ gsol ba 'debs so byin gyis brlab tu gsol//
 brgyud pa 'dzin no rnam thar byin gyis rlobs//
 bhaṅga la ru thugs rgyud byin gyis brlabs//
 gnyis med bde ba chen po'i rtogs pa shar//
-zung 'jug mngon gyur rje btsun til+li pa//
+zung 'jug mngon gyur rje btsun tilli pa//
 bde chen gnyis med mnga' ba khyod phyag 'tshal//
 gsol ba 'debs so byin gyis brlab tu gsol//
 brgyud pa 'dzin no rnam thar byin gyis rlobs//
@@ -95,5 +95,5 @@ brgyud pa'i bla mas rjes su 'dzin pa dang*//
 lus ngag yid gsum byin gyis brlab tu gsol//
 gsol ba 'debs so byin gyis brlab tu gsol//
 brgyud pa 'dzin no rnam thar byin gyis rlobs///
- /zhes pa 'di yang ā nan+da shrī bha dras sbyar ba'o // //</tei:p>
+ /zhes pa 'di yang ā nanda shrī bha dras sbyar ba'o // //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

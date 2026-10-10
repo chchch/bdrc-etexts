@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">dam chos sprul sku snying thig las/rnam 'joms gsol 'debs byin rlabs myur stsol ma bzhugs so/  /gu ru pad+ma sid+dhi hūm̐ hrīḥ.ā+om̐ āḥhūm̐/ka dag</tei:title><tei:author/><tei:title>dam chos sprul sku snying thig las/rnam 'joms gsol 'debs byin rlabs myur stsol ma bzhugs so/  /gu ru pad+ma sid+dhi hūm̐ hrīḥ.ā+om̐ āḥhūm̐/ka dag</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">dam chos sprul sku snying thig las/rnam 'joms gsol 'debs byin rlabs myur stsol ma bzhugs so/  /gu ru padma siddhi hūm̐ hrīḥ.āom̐ āḥhūm̐/ka dag</tei:title><tei:author/><tei:title>dam chos sprul sku snying thig las/rnam 'joms gsol 'debs byin rlabs myur stsol ma bzhugs so/  /gu ru padma siddhi hūm̐ hrīḥ.āom̐ āḥhūm̐/ka dag</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-047-0020</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/47-TSI/TERDZO-TSI-P19.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250dam chos sprul sku snying thig las/ rnam 'joms gsol 'debs byin rlabs myur stsol ma bzhugs so//
-1$0000300gu ru pad+ma sid+dhi hūm̐ hrīḥ ā+om̐ āḥhūm̐/ ka dag chos sku kun bzang yab yum la//
+1$0000300gu ru padma siddhi hūm̐ hrīḥ āom̐ āḥhūm̐/ ka dag chos sku kun bzang yab yum la//
 gsol ba 'debs so dbang skur byin gyis rlobs//
 gar dbang drug pa rdo rje 'chang chen la//
 gsol ba 'debs so dbang skur byin gyis rlobs//
@@ -32,7 +32,7 @@ rig pa'i rtsal dbang thob par byin gyis rlobs//
 gzhom med 'ja' sku 'grub par byin gyis rlobs//
 </tei:p>
 <tei:p n="2" unit="page">zhes chos grwa chen po dben gnas steng*//
-pad+ma'i lung zin bstan srung gis//
+padma'i lung zin bstan srung gis//
 rnam 'joms gsol 'debs byin rlabs can//
 bskul ngor bdud 'dul rdo rjes bkod//
 maṅga laṃ///

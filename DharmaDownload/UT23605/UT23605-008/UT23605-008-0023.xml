@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(429)༄༅/  /skye med zhang rin po ches mdzad pa'i phyag rgya chen po'i lam mchog </tei:title><tei:author/><tei:title>(429)༄༅/  /skye med zhang rin po ches mdzad pa'i phyag rgya chen po'i lam mchog </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23605-008-0023</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23605</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/gdams-ngag-mdzod/rtfs/08_gdams-ngag-mdzod_nya/08_22_skye-med-zhang-rin-po-ches-mdzad-paqi-phyag-rgya-chen-poqi-lam-mchog-mthar-thug.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ (429)༄༅//
@@ -737,7 +737,7 @@ byang chub chen por blo brtan pas//
 rang 'dod med pa'i bsam pa yis//
 'gro ba'i don du sems bskyed la//
 lha yi nga rgyal ma bral bas//
-bzlas brjod maṇ+ḍal gtor ma dang*//
+bzlas brjod maṇḍal gtor ma dang*//
 mchod sogs yan lag bdun pa dang*//
 yi dwags rnams la gtor ma dang*//
 chu sbyin klu rnams gso ba dang*//
@@ -982,7 +982,7 @@ dpal ldan bla ma la gus te//
 nang nas rtogs pa'i nges shes skye//
 brtags dpyad mkhan la ci cha yod//
 tshig tu shes pa ngas kyang shes//
-rkyen ngan thub bam mi thub brtag /g.yas nas s+t+wa gris gshog byed cing*//
+rkyen ngan thub bam mi thub brtag /g.yas nas st+wa gris gshog byed cing*//
 mi snyan sna tshogs sgrog par byed//
 g.yon nas tsan dan dris mchod cing*//
 gus pas snyan pa sna tshogs sgrog /de 'dra'i bde sdug myong dus su//
@@ -1391,6 +1391,6 @@ phyi ma la bsten sdig pa gsog</tei:p>
 <tei:p n="23" unit="page">/bka' dang bstan bcos rnams dang ni//
 bla ma dam pa'i dgongs pa dang*//
 rang gi rtogs tshogs glengs pa yin//
-gu h+ya sa ma ya///
+gu hya sa ma ya///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

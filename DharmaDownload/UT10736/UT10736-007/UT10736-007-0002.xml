@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /gzhi gsum gyi cho ga phan bde'i gnyen zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /gzhi gsum gyi cho ga phan bde'i gnyen zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT10736-007-0002</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W10736</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Padma-Karpo/rtfs/07_ja/07_02_ja_gzhi-gsum-gyi-cho-ga-phan-bdeqi-gnyen.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ ༄༅//
@@ -42,7 +42,7 @@ dge 'dun la yang phyag 'tshal lo//
 rgyas par spro na bzang po spyod pa'i smon lam las byung ba'i yan lag bdun pa yang bya'o//
 bar du mdo 'don pa ni/</tei:p>
 <tei:p n="3" unit="page">gsol ba btab pa'i dge slong des kyang spro zhing nus na theg pa che chung gi bka' dri ma med pa rgyas pa 'don par bya zhing*/ gcig gis mi nus na mang po res kyis kyang bshad par bya'o//
-de tsam mi nus na mdor bsdus pa 'di tsam zhig brjod par bya ste/ rang gis/ gang zhig gser mchog rang bzhin ri rab la gnas man+dā ra dang lhar bcas gnod sbyin dang*//
+de tsam mi nus na mdor bsdus pa 'di tsam zhig brjod par bya ste/ rang gis/ gang zhig gser mchog rang bzhin ri rab la gnas mandā ra dang lhar bcas gnod sbyin dang*//
 gdengs ka nor bu'i 'od kyis mun pa sel mdzad sa 'og gnas pa'i klu rnams gang yin dang*//
 gangs can rir ni dpal gyis rol zhing rab tu dga' ba'i rig pa 'dzin pa gang yin pa//
 de dag thams cad thar pa dam pa'i sgor gyur thub pa'i gsung mnyan phyir ni 'dir gshegs shig /lha dang lha min mi'am ci yi dbang po dang*//
@@ -341,6 +341,6 @@ tshogs kyi dgag dbye ni/ dge slong gang yang rung ba zhig gi mdun du dgongs gsol
 legs bshad 'di ni mā la yar skyes bzhin//
 blo gros rgya mtsho'i pad dkar 'dzum pa'i las//
 'jig rten gsum gyi phan bde'i gnyen du bskos//
-de yang gzhi gsum gyi lag len gyi cho ga phan bde'i gnyen zhes pa/ bdud bzhi 'joms pa'i dmag sde'i dbus/ thub bstan lang tsho bdo ba'i thang*/ byams pa chen po'i chos kyi gling du/ grwa sa de nyid kyi 'chad nyan pa ngag dbang 'jam dpal grags pas bskul ba ltar/ 'dul ba 'dzin pa pad+ma dkar pos lung bzhin du sbyar bas rgyal ba'i bstan pa yun ring du gnas shing dar bar gyur cig//
+de yang gzhi gsum gyi lag len gyi cho ga phan bde'i gnyen zhes pa/ bdud bzhi 'joms pa'i dmag sde'i dbus/ thub bstan lang tsho bdo ba'i thang*/ byams pa chen po'i chos kyi gling du/ grwa sa de nyid kyi 'chad nyan pa ngag dbang 'jam dpal grags pas bskul ba ltar/ 'dul ba 'dzin pa padma dkar pos lung bzhin du sbyar bas rgyal ba'i bstan pa yun ring du gnas shing dar bar gyur cig//
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,11 +1,11 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /bir+wa pa la bstod pa bzhugs/  /༄༅/bla ma dam pa'i zhabs la spyi bos gus par phyag 'tshal lo/  /dad pa'i chu las tshig gi me tog 'di/  /dpal ldan </tei:title><tei:author/><tei:title>(na)༄༅/  /bir+wa pa la bstod pa bzhugs/  /༄༅/bla ma dam pa'i zhabs la spyi bos gus par phyag 'tshal lo/  /dad pa'i chu las tshig gi me tog 'di/  /dpal ldan </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /birwa pa la bstod pa bzhugs/  /༄༅/bla ma dam pa'i zhabs la spyi bos gus par phyag 'tshal lo/  /dad pa'i chu las tshig gi me tog 'di/  /dpal ldan </tei:title><tei:author/><tei:title>(na)༄༅/  /birwa pa la bstod pa bzhugs/  /༄༅/bla ma dam pa'i zhabs la spyi bos gus par phyag 'tshal lo/  /dad pa'i chu las tshig gi me tog 'di/  /dpal ldan </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-259-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA253.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
-bir+wa pa la bstod pa bzhugs// ༄༅/ bla ma dam pa'i zhabs la spyi bos gus par phyag 'tshal lo//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-259-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA253.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
+birwa pa la bstod pa bzhugs// ༄༅/ bla ma dam pa'i zhabs la spyi bos gus par phyag 'tshal lo//
 dad pa'i chu las tshig gi me tog 'di//
-dpal ldan bir+war grags pa'i zhabs pad la//
+dpal ldan birwar grags pa'i zhabs pad la//
 gus par gtor ro 'di las dge ba gang*//
 grub pa de yang sems can rnams la sbyin//
 dpal ldan khyed kyis shes bya 'di//
@@ -36,7 +36,7 @@ mu stegs ston pa dregs ldan pa//
 khyu mchog rnams kyis khyod thos nas//
 brgyal te dkon mchog gsum 'dzin par//
 'jug pa khyod la phyag 'tshal lo//
-khyod kyi mtshan sngar chos skyong la/ bir+wa pa zhes byin brlabs nas//
+khyod kyi mtshan sngar chos skyong la/ birwa pa zhes byin brlabs nas//
 thos pa tsam gyis sgrib pa kun//
 spong mdzad khyod la phyag 'tshal lo//
 khyod rje bsgrub pa'i gang zag gis//
@@ -74,5 +74,5 @@ thugs rje mnga' ba khyod la 'dis//
 nyi ma re re gang bstod pa//
 de la'ang khyod kyi byin gyis brlab//
 gdon mi za bar 'jug par shog</tei:p>
-<tei:p n="2" unit="page">/rnal 'byor gyi dbang phyug bir+wa pa la sogs pa 'debs pa/ paṇ+ḍi ta kun dga' rgyal mtshan dpal bzang pos/ dpal sa skya'i gtsug lag khang du kha ton du bgyis pa'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+<tei:p n="2" unit="page">/rnal 'byor gyi dbang phyug birwa pa la sogs pa 'debs pa/ paṇḍi ta kun dga' rgyal mtshan dpal bzang pos/ dpal sa skya'i gtsug lag khang du kha ton du bgyis pa'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

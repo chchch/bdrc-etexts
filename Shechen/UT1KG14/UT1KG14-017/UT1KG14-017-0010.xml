@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">gter srung mthu chen sde bzhi'i gsol ka bzhugs so/  /bh+yo/rig 'dzin pad+ma 'byung gnas dang*/  /gnubs chen rdo rje yang dbang gis/  /dam la gnas pa'i da</tei:title><tei:author/><tei:title>gter srung mthu chen sde bzhi'i gsol ka bzhugs so/  /bh+yo/rig 'dzin pad+ma 'byung gnas dang*/  /gnubs chen rdo rje yang dbang gis/  /dam la gnas pa'i da</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">gter srung mthu chen sde bzhi'i gsol ka bzhugs so/  /bhyo/rig 'dzin padma 'byung gnas dang*/  /gnubs chen rdo rje yang dbang gis/  /dam la gnas pa'i da</tei:title><tei:author/><tei:title>gter srung mthu chen sde bzhi'i gsol ka bzhugs so/  /bhyo/rig 'dzin padma 'byung gnas dang*/  /gnubs chen rdo rje yang dbang gis/  /dam la gnas pa'i da</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-017-0010</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/17-TSA/terdzo-tsa-P09.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250gter srung mthu chen sde bzhi'i gsol ka bzhugs so//
-1$0000300bh+yo/ rig 'dzin pad+ma 'byung gnas dang*//
+1$0000300bhyo/ rig 'dzin padma 'byung gnas dang*//
 gnubs chen rdo rje yang dbang gis//
 dam la gnas pa'i dad shugs 'chang*//
 gsang ba snying 'dzin gter bdag rnams//
@@ -11,13 +11,13 @@ bsgrub pa'i sdongs grogs bgyid pa dang*//
 rang nyid mchod pa bzhes slad du//
 gnas 'dir dad pas spyan 'dren gyis//
 dam tshig dbang gis gshegs su gsol//
-badz+ra aṃ ku sha dzaḥdzaḥ</tei:p>
-<tei:p n="2" unit="page"> gtor ma  swa bhā ba sa sbyang*/ stong pa'i ngang las bh+rūm̐ las rin po che las grub pa'i snod yangs shing rgya che ba'i nang du gtor ma zag pa med pa ye shes kyi bdud rtsi'i rgya mtsho chen por gyur/ oṃ āḥhūm̐/ lan gsum/ na maḥsarba ta thā ga te bh+yo  sogs kyis phul la/ bh+yo/ 'gyur ba med pa chos kyi sku /chos sku 'gyur ba med pa las//
-longs sku ya mān+ta ka byung*//
-longs sku ya mān+ta ka las//
+badzra aṃ ku sha dzaḥdzaḥ</tei:p>
+<tei:p n="2" unit="page"> gtor ma  swa bhā ba sa sbyang*/ stong pa'i ngang las bhrūm̐ las rin po che las grub pa'i snod yangs shing rgya che ba'i nang du gtor ma zag pa med pa ye shes kyi bdud rtsi'i rgya mtsho chen por gyur/ oṃ āḥhūm̐/ lan gsum/ na maḥsarba ta thā ga te bhyo  sogs kyis phul la/ bhyo/ 'gyur ba med pa chos kyi sku /chos sku 'gyur ba med pa las//
+longs sku ya mānta ka byung*//
+longs sku ya mānta ka las//
 sprul sku tshe bdag nag po byung*//
 ston pa'i sku gsung thugs las sprul//
-bh+yo/ g.yung phu'i rtse lha mthu bo che//
+bhyo/ g.yung phu'i rtse lha mthu bo che//
 chibs su rta dkar phrum dmar 'chib//
 sku la dar dkar slog pa gsol//
 dbu la dar dkar 'gying thod bcings//
@@ -25,7 +25,7 @@ stag ral g.yas la gzig shub g.yon//
 phyag na dar dkar mdung ring bsnams//
 rgyu 'thums snying gzer dgra la ya//
 dgra bo'i yul du dmag sna drongs//
-bh+yo/ yer pa'i rdzong btsan mthu bo che//
+bhyo/ yer pa'i rdzong btsan mthu bo che//
 chibs su rta dmar gdong gsum 'chib//
 sku la dar dmar ber chen gsol//
 dbu la dar dmar 'gying thod bcings//
@@ -34,7 +34,7 @@ dar dmar ru mtshon gnam du phyar//
 btsan gyi zhags pa klad la bskor//
 dam nyams dgra la btsan zhags thob//
 gri thabs pho gzer dgra la phob//
-bh+yo/ lha sa'i bdud btsan mthu bo che//
+bhyo/ lha sa'i bdud btsan mthu bo che//
 chibs su bra nag rting dkar 'chib//
 sku la ber nag gsum brtsegs gsol//
 dbu la thod nag 'dom gsum bcings//
@@ -42,7 +42,7 @@ stag ral g.yas la gzig shub g.yon//
 phyag na dar nag ru mtshon phyar//
 bdud zhags nag po mda' ltar 'phen//
 'thibs nad nag po dgra la ya//
-bh+yo/ klu bdud rdo rje spyan gcig ma//
+bhyo/ klu bdud rdo rje spyan gcig ma//
 chibs su rus sbal dkar khra 'chib//
 sku la sdig pa'i g.yang gzhi gsol//
 dbu la sbrul gyi gdengs ka can//

@@ -1,10 +1,10 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /mchod rten bskor ba'i tshigs su bcad pa bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /mchod rten bskor ba'i tshigs su bcad pa bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13330-004-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13330</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/P0004_Drimay-Namnyi_Tdoc/Phenyon.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅/ /mchod rten bskor ba'i tshigs su bcad pa bzhugs so//
 </tei:p>
-<tei:p n="2" unit="page">rgya gar skad du/ tsait+ya pra dak+ṣi ṇa gā thā/ bod skad du/ mchod rten bskor ba'i tshigs su bcad pa/ dkon mchog gsum la phyag 'tshal lo//
+<tei:p n="2" unit="page">rgya gar skad du/ tsaitya pra dakṣi ṇa gā thā/ bod skad du/ mchod rten bskor ba'i tshigs su bcad pa/ dkon mchog gsum la phyag 'tshal lo//
 shes rab blo ldan 'jig rten na//
 chos kyi 'khor lo rjes bskor ba//
 shes rab chen po shā ri'i bus//
@@ -240,7 +240,7 @@ mchod rten bskor ba'i tshigs su bcad pa rdzogs so///
 pra se na dzi ta gā thā/</tei:p>
 <tei:p n="5" unit="page">bod skad du/ gsal rgyal gyi tshigs su bcad pa/ dkon mchog gsum la phyag 'tshal lo//
 rgyal po gsal rgyal gdugs dang cod pan dang*//
-rnga yab ral gri nor bu l+h+wam bzhag ste//
+rnga yab ral gri nor bu lh+wam bzhag ste//
 thal mo sbyar te legs par phyag 'tshal nas//
 'jig rten mgon po la ni zhu ba zhus//
 phan par dgongs pa thugs rje'i bdag nyid can//

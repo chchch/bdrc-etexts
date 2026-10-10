@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /dbu ma la 'jug pa'i rang 'grel bzhugs so/  /rgya gar skad du/madh+yamakābatārabhāsh+yaṃnām/bod skad du/dbu ma la 'jug pa'i bshad pa zhes bya ba/'phags pa</tei:title><tei:author/><tei:title>༄༅/  /dbu ma la 'jug pa'i rang 'grel bzhugs so/  /rgya gar skad du/madh+yamakābatārabhāsh+yaṃnām/bod skad du/dbu ma la 'jug pa'i bshad pa zhes bya ba/'phags pa</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /dbu ma la 'jug pa'i rang 'grel bzhugs so/  /rgya gar skad du/madhyamakābatārabhāshyaṃnām/bod skad du/dbu ma la 'jug pa'i bshad pa zhes bya ba/'phags pa</tei:title><tei:author/><tei:title>༄༅/  /dbu ma la 'jug pa'i rang 'grel bzhugs so/  /rgya gar skad du/madhyamakābatārabhāshyaṃnām/bod skad du/dbu ma la 'jug pa'i bshad pa zhes bya ba/'phags pa</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13363-001-0028</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13363</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/UMA/rtfs/volume-001/028UMA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(1)</tei:p>
 <tei:p n="2" unit="page">༄༅//
-dbu ma la 'jug pa'i rang 'grel bzhugs so// rgya gar skad du/ madh+yamakābatārabhāsh+yaṃnām/ bod skad du/ dbu ma la 'jug pa'i bshad pa zhes bya ba/ 'phags pa 'jam dpal gzhon gyur pa la phyag 'tshal lo//
+dbu ma la 'jug pa'i rang 'grel bzhugs so// rgya gar skad du/ madhyamakābatārabhāshyaṃnām/ bod skad du/ dbu ma la 'jug pa'i bshad pa zhes bya ba/ 'phags pa 'jam dpal gzhon gyur pa la phyag 'tshal lo//
 dbu ma'i bstan bcos la 'jug par bya ba'i phyir/ dbu ma la 'jug pa rtsom par 'dod pas/ yang dag par rdzogs pa'i sangs rgyas dang byang chub sems dpa' rnams pas kyang thog mar/ bcom ldan 'das snying rje chen po sangs rgyas nyid kyi rgyu phun sum tshogs pa dang po/ sems can 'khor ba'i btson rar bsdams pa skyabs med pa dpag tu med pa ma lus pa yongs su skyob pa'i mtshan nyid can la bstod par 'os pa nyid du bstan pa'i phyir/ nyan thos sangs rgyas 'bring rnams thub dbang skyes//
 sangs rgyas byang chub sems dpa' las 'khrungs shing*//
 snying rje'i sems dang gnyis su med blo dang*//
@@ -27,7 +27,7 @@ rten pa med par rab tu 'byung*//
  (3) zhes gsungs so//
 de la yang dag pa'i gdams ngag gi 'bras bu thob par byed pas na nyan thos dag ste/ 'di ltar bya ba byas so//
 'di las srid pa gzhan mi shes so zhes bya ba la sogs pa 'byung ba yin no//
-yang na 'bras bu'i mchog gam bla na med pa yang dag par rdzogs pa'i sangs rgyas kyi lam de bzhin gshegs pa rnams las thos nas de don du gnyer ba rnams la sgrogs par byed pas na nyan thos dag ste/ dam pa'i chos pad+ma dkar po'i mdo las/ mgon po de ring bdag cag nyan thos gyur//
+yang na 'bras bu'i mchog gam bla na med pa yang dag par rdzogs pa'i sangs rgyas kyi lam de bzhin gshegs pa rnams las thos nas de don du gnyer ba rnams la sgrogs par byed pas na nyan thos dag ste/ dam pa'i chos padma dkar po'i mdo las/ mgon po de ring bdag cag nyan thos gyur//
 byang chub dam pa yang dag bsgrags par bgyi//
 byang chub pa yis sgra yang rab tu brjod//
 de bas bdag cag nyan thos mi bzad 'dra//
@@ -241,7 +241,7 @@ gzhan gyi zad pa stong pa nyid//
 zad dang mi skye don du ni//
 gcig pa de phyir bzod par gyis//
 zhes bya ba dang*/ de bzhin du/ bcom ldan dngos dang dngos med pa//
-mkhyen pas kā t+yā ya na yi/ (24) /gdams ngag las ni yod pa dang*//
+mkhyen pas kā tyā ya na yi/ (24) /gdams ngag las ni yod pa dang*//
 med pa gnyis ka dgag pa mdzad//
 ces gsungs so//
 gang zhig gal te nyan thos kyi theg pa las kyang chos la bdag med pa bstan na de'i tshe theg pa chen po bstan pa don med par 'gyur ro snyam du sems pa de'i lugs de yang 'di ltar rigs pa dang lung dang 'gal bar rtogs so//
@@ -711,7 +711,7 @@ nga yi theg pa 'jig rten du//
 bla med theg chen rab bstan nas//
 rab tu dga' ba'i sa bsgrubs te//
 bde ba can du de 'gro 'o//
-zhes gsungs pa dang*/ yang 'phags pa sprin chen po stong phrag bcu gnyis pa las kyang*/ kun dga' bo li ts+tsha byi gzhon nu sems can thams cad mthong na dga' ba zhes bya ba 'di ni nga mya ngan las 'das  (79) nas lo bzhi brgya lon pa na klu zhes bya ba'i dge slong du gyur nas nga'i bstan pa rgyas par rab du bstan te/ mthar gyis rab tu dang ba'i 'od ces bya ba'i 'jig rten gyi khams su de bzhin gshegs pa dgra bcom pa yang dag par rdzogs pa'i sangs rgyas ye shes 'byung gnas 'od ces bya bar 'gyur ro zhes gsungs so//
+zhes gsungs pa dang*/ yang 'phags pa sprin chen po stong phrag bcu gnyis pa las kyang*/ kun dga' bo li tstsha byi gzhon nu sems can thams cad mthong na dga' ba zhes bya ba 'di ni nga mya ngan las 'das  (79) nas lo bzhi brgya lon pa na klu zhes bya ba'i dge slong du gyur nas nga'i bstan pa rgyas par rab du bstan te/ mthar gyis rab tu dang ba'i 'od ces bya ba'i 'jig rten gyi khams su de bzhin gshegs pa dgra bcom pa yang dag par rdzogs pa'i sangs rgyas ye shes 'byung gnas 'od ces bya bar 'gyur ro zhes gsungs so//
 de'i phyir 'dis lung phyin ci ma log par nges par grub bo//
 rten cing 'brel bar 'byung ba yang dag pa ji lta ba bzhin ston pa'i 'bras bu can gyi bstan bcos de yang sngar goms pas rgyud la stong pa nyid kyi sa bon bzhag pa rnams kho na la bstan par bya'i gzhan dag la ni ma yin te/ de dag stong pa nyid nyan par gyur du zin kyang de la log par zhugs pa'i bsam pa dang ldan pa nyid kyi don ma yin pa chen po dang ldan pa'i phyir ro//
 'di ltar res 'ga' ni mi mkhas pas stong pa nyid spangs nas ngan 'gror 'gro bar 'gyur ro//
@@ -854,7 +854,7 @@ yang ji ltar sā lu'i myu gu'i gzhan du gyur pa sā lu'i sa bon las 'byung  (92)
 gang zhig des bskyed nus pa de ni gzhan na'ang rgyu yin la//
 rgyud gcig gtogs dang skyed par byed las skye ba de yi phyir//
 sā lu'i myu gu nas la sogs las de lta min zhe na//
-'dir 'bras bu zhes bya ba ni/ nus pa'i don la kri t+ya'i rkyen can te/</tei:p>
+'dir 'bras bu zhes bya ba ni/ nus pa'i don la kri tya'i rkyen can te/</tei:p>
 <tei:p n="70" unit="page">gang zhig gang gis bya bar nus pa de nyid de'i 'bras bu yin la/ gang zhig 'bras bu 'di bskyed par nus pa de ni gzhan yin du zin kyang rgyu yin te/ des na gzhan nyid khyad par can kho nas rgyu dang 'bras bu'i dngos po yin gyi/ gzhan nyid kyi spyis ni ma yin no//
 rgyud gcig tu gtogs pa dang skyed par byed pa de las kyang skye ba yin gyi rgyud tha dad par gtogs pa nas kyi sa bon la sogs pa'am/ rgyud gcig tu gtogs kyang skyed par byed pa ma yin pa skad cig ma phyi ma las kyang skad cig ma snga ma ma yin pas thams cad las thams cad 'byung bar mi 'gyur ro zhe na/ 'di ni mi rung ste/ 'di ltar gang sā lu'i myu gu'i  (93) rgyu ni sā lu'i sa bon kho na yin gyi gzhan ma yin la/ sā lu'i sa bon gyi 'bras bu ni sā lu'i myu gu kho na yin gyi gzhan ma yin no zhes bya ba'i nges pa gang yin pa 'di ko gang las yin zhes re zhig 'di nyid rgyu dang 'bras bu smra ba 'di la 'dri bar bya'o//
 smras pa/ nges pa mthong ba'i phyir ro zhe na/ yang ci'i phyir de ltar nges pa mthong zhes brgal zhing brtags pa na/ gang gi phyir nges pa mthong ba de'i phyir nges pa mthong ngo zhes bya ba de tsam zhig smra ba 'dis ni nges pa'i rgyu ma bstan par bshad zin pa'i nyes pa cung zad kyang spang bar mi nus so//
@@ -1509,7 +1509,7 @@ de'i phyir de ltar rnam par shes pa las tha dad pa'i mig gi dbang po med par bst
 <tei:p n="113" unit="page">'di na dbang po las byung rnam par rig /phyi gzung med par rang gi sa bon las//
 sngo sogs snang nyid 'byung bar ma rtogs nas//
 skyes bos phyi rol gzung bar sems khas len//
-ji ltar ban dhu dzī ba ka dang king shu ka la sogs pa dag dmar po'i rnam pa can du skye ba na/ nor bu dag bzhin du phyi rol gyi nye bar bsgyur ba'i tshon la mi ltos kyi/ 'on kyang myu gu la sogs pa'i rgyun rang gi sa  (156) bon gyis 'phangs pa'i nus pa dang rjes su 'brel ba las rnam pa khyad par can nyid du skye bar dmigs pa de bzhin du/ sngon po la sogs pa phyi rol gyi gzugs med par rnam par shes pa sngon po la sogs par snang ba 'byung ba yin la/ de'i sngon po la sogs par snang ba nyid gang yin pa de la 'jig rten gyi phyi rol gyi yul gyi ngo bor mngon par zhen te/ dper na mtsho chu shin tu dwangs pas yongs su gang ba'i ngogs kyi mthar skyes pa'i shing gi yal ga la btags pa'i pad+ma rā ga'i gzugs brnyan chu nang na yod pa rin po che'i rnam par snang ba chu'i nang na phyi rol lta bur dmigs mod kyi/ de de'i nang na yod pa ni ma yin pa de bzhin du rnam par shes pa la yang sbyar bar bya'o//
+ji ltar ban dhu dzī ba ka dang king shu ka la sogs pa dag dmar po'i rnam pa can du skye ba na/ nor bu dag bzhin du phyi rol gyi nye bar bsgyur ba'i tshon la mi ltos kyi/ 'on kyang myu gu la sogs pa'i rgyun rang gi sa  (156) bon gyis 'phangs pa'i nus pa dang rjes su 'brel ba las rnam pa khyad par can nyid du skye bar dmigs pa de bzhin du/ sngon po la sogs pa phyi rol gyi gzugs med par rnam par shes pa sngon po la sogs par snang ba 'byung ba yin la/ de'i sngon po la sogs par snang ba nyid gang yin pa de la 'jig rten gyi phyi rol gyi yul gyi ngo bor mngon par zhen te/ dper na mtsho chu shin tu dwangs pas yongs su gang ba'i ngogs kyi mthar skyes pa'i shing gi yal ga la btags pa'i padma rā ga'i gzugs brnyan chu nang na yod pa rin po che'i rnam par snang ba chu'i nang na phyi rol lta bur dmigs mod kyi/ de de'i nang na yod pa ni ma yin pa de bzhin du rnam par shes pa la yang sbyar bar bya'o//
 de ltar na rnam par shes pa las phyi rol gyi don yod pa ma yin no//
 rnam pa gcig tu na/ rmi lam na ni gzugs don gzhan med par//
 rang nus smin las de yi rnam can sems//
@@ -1623,7 +1623,7 @@ shes pa gzhan gyis kyang de myong bar mi rigs te/ ci'i phyir zhe na/ shes pa gzh
 'di ltar sngon po yongs su gcod par byed pa'i shes pa gcig de'i mjug thogs su 'byung ba'i rnam par shes pas gcod par khas len na/ sngon po'i shes pas shes pa de la yang myong ba po gzhan yod par bya dgos shing*/ de la yang gzhan zhig 'gyur dgos pas thug pa med pa'i skyon du thal lo//
 shes pa yul gzhan yongs su mi gcod par yang 'gyur te/</tei:p>
 <tei:p n="122" unit="page">rnam par shes pa'i rgyun lugs mtha' dag shes pa gzhan gyi yul can yin pa'i phyir dang*/ sems can rnams rnam par shes pa'i rgyud gcig yin pa'i phyir ro//
-rnam par shes pa ut+pala'i 'dab ma brgya 'bigs pa ltar rim gyis 'byung ba rnams 'jug pa myur bas cig car du 'jug pa lta bur mngon pa yin no//
+rnam par shes pa utpala'i 'dab ma brgya 'bigs pa ltar rim gyis 'byung ba rnams 'jug pa myur bas cig car du 'jug pa lta bur mngon pa yin no//
 de'i phyir thug pa med pa'i skyon yongs su spang bar bya ba'i phyir gdon mi za bar rang rig pa khas blang bar bya dgos so//
 de lta na ni ngas mthong ngo snyam du gnyi ga'i yul can gyi dran pa dus phyis 'byung ba yang 'grub ste/ shes pa'i rang bzhin rang rig pa ma gtogs pa la ni de'i yul can gyi dran pa de mi rigs so//
 de'i phyir ngas mthong ngo snyam du dus phyis dran pa'i shes pa skyes pa las/ gang las dus phyis gnyi ga'i yul can gyi dran pa skye ba nyams su myong ba'i shes pa'i rang gi bdag nyid dang*/ yul  (168) gyi bdag nyid myong zhing skyes pa dpog par byed do//
@@ -1771,7 +1771,7 @@ khyod dang 'jig rten 'di ni rtsod gyis dang*/ de la gal te khyod rgyal na ni de'
 'on te khyod 'jig rten gyis pham par byas na ni de'i tshe shin tu stobs dang ldan pa'i 'jig rten nyid la bdag nyid brten par bya'o//
 'dir smras pa/ gal te 'thad pa dang bral yang 'jig rten gyis gnod pas 'jigs nas khyod kyis kun rdzob khas blangs na ni/</tei:p>
 <tei:p n="131" unit="page">lung gi gnod pas 'jigs pas sems tsam nyid du yang khas blang bar bya dgos te/ ji skad du de 'di snyam du sems te 'di ltar khams gsum po 'di ni sems tsam ste zhes gsungs pa lta bu'o//
-brjod par bya ste/ bde bar gshegs pa'i gsung gi nor bu an+da rnyil las sbyar ba'i mdo sde'i sa gzhi bstar ba la/ de'i rang bzhin gyi khyad par ma zin par byas nas rnam par shes pa dngos por smra ba'i chu'i rnam par yongs su 'gyur bar 'khrul pa khyod ni rnam par shes  (181) pa dngos por smra ba'i chu tsam zhig bcu bar 'dod pas/ rang gi blo gros kyi sa'i bum pa so ma btang ba bshal zhing bsnyugs nas dum bu rnam pa brgyar klog pa na/ bdag nyid de'i rang bzhin shes pa rnams kyi bzhad gad du bya ba nyid du 'gyur bar byed pa yin no//
+brjod par bya ste/ bde bar gshegs pa'i gsung gi nor bu anda rnyil las sbyar ba'i mdo sde'i sa gzhi bstar ba la/ de'i rang bzhin gyi khyad par ma zin par byas nas rnam par shes pa dngos por smra ba'i chu'i rnam par yongs su 'gyur bar 'khrul pa khyod ni rnam par shes  (181) pa dngos por smra ba'i chu tsam zhig bcu bar 'dod pas/ rang gi blo gros kyi sa'i bum pa so ma btang ba bshal zhing bsnyugs nas dum bu rnam pa brgyar klog pa na/ bdag nyid de'i rang bzhin shes pa rnams kyi bzhad gad du bya ba nyid du 'gyur bar byed pa yin no//
 mdo'i dgongs pa 'di ni ji ltar khyod kyi blo la snang ba de ltar ma yin no//
 yang 'dir mdo'i don ci yin zhe na/ de'i phyir bshad pa/ mngon gyur mngon phyogs byang chub sems dpa' yis//
 srid gsum rnam shes tsam du gang rtogs pa//
@@ -1877,7 +1877,7 @@ sems spangs nas ni las kyang yod ma yin//
 de las sems can gyi 'jig rten ni sems can rang gi las dang nyon mongs pas bdag gi dngos po rnyed pa rnams so//
 snod kyi 'jig rten </tei:p>
 <tei:p n="138" unit="page">(190) ni de dag kho na'i thun mong gi las kyis bskyed pa'i rlung gi dkyil 'khor la sogs pa'i 'og min gyi gzhal yas khang gi mthar thug pa dag go /de la rma bya la sogs pa rnams kyi mdongs la sogs pa sna tshogs pa gang yin pa de ni rma bya la sogs pa kho na'i las thun mong ma yin pas bskyed pa'o//
-pad+ma la sogs pa sna tshogs pa ni sems can thams cad kyi las thun mong bas bskyed pa yin te/ de bzhin du gzhan yang shes par bya'o//
+padma la sogs pa sna tshogs pa ni sems can thams cad kyi las thun mong bas bskyed pa yin te/ de bzhin du gzhan yang shes par bya'o//
 ji skad du/ sems can las kyi dbang gis ri//
 nag po dus su skyes te dper//
 sems dmyal mtho ris 'jig rten du//
@@ -2019,7 +2019,7 @@ sngar bshad pa'i rigs pa kho nas gnyi ga'i phyogs la yang gnyi ga las skye ba mi
 <tei:p n="148" unit="page">gang phyir re re las ni skye ba 'grub pa yod ma yin//
 dper na til gcig gis 'bru mar 'byin nus pas/ mang po rnams kyis kyang 'gyur la/ nus pa ma mthong ba'i bye ma rnams kyis ni ma yin pa ltar re re bskyed par 'gyur na ni/ de lta bu'i rang bzhin can mang po rnams kyis kyang 'gyur ba zhig go /de'i phyir gnyis ka las skye ba yang rigs pa ma yin no//
 'dir ngo bo nyid smra ba ni/ gal te skye ba rgyu las yin na ni rgyu de 'bras bu'i bdag nyid du gyur pa dang*/ gzhan du gyur pa dang*/ gnyi gar gyur pa zhig tu 'gyur bas nyes pa de dag tu 'gyur ba zhig na/ bdag gis ni rgyu khas ma blangs pas bshad zin pa'i nyes pa'i go skabs med do//
-de'i phyir dngos po rnams kyi skye ba ni ngo bo nyid las 'byung ba kho na yin te/ 'di ltar pad+ma'i chu ba dang de'i 'dab ma rnams kyi rtsub pa dang de'i 'jam sha dag 'ga' zhig gis  (205) bsgrims te byed par ma mthong la/ de'i 'dab ma dang ze'u 'bru dang lte ba rnams kyi kha dog dang dbyibs sna tshogs pa dag kyang byed par mthong ba ma yin no//
+de'i phyir dngos po rnams kyi skye ba ni ngo bo nyid las 'byung ba kho na yin te/ 'di ltar padma'i chu ba dang de'i 'dab ma rnams kyi rtsub pa dang de'i 'jam sha dag 'ga' zhig gis  (205) bsgrims te byed par ma mthong la/ de'i 'dab ma dang ze'u 'bru dang lte ba rnams kyi kha dog dang dbyibs sna tshogs pa dag kyang byed par mthong ba ma yin no//
 de bzhin du pa na sa dang bal po se'u la sogs pa'i sna tshogs pa yang yin no//
 phyi rol dag la ji ltar yin pa de bzhin du rma bya dang bya ti ti ri dang bya gag la sogs pa nang gi bdag nyid can dag la yang 'ga' zhig gis 'bad pas bzung nas kha dog dang dbyibs la sogs pa 'god par ma dmigs pa nyid do de'i phyir dngos po rnams kyi skye ba ni ngo bo nyid las 'byung ba kho na'o zhes smra'o//
 'di la bshad par bya ste/ gal te rgyu med kho nar skye bar lta zhig 'gyur na ni//
@@ -2034,14 +2034,14 @@ de bzhin du rma bya rma bya'i mdongs kyi tshogs kyi rgyu yin pas bya rog la yang
 de ltar 'gro ba'o cog rtag tu skye bar 'gyur na de ni yod pa yang ma yin pas ngo bo nyid du smra ba mi rigs so//
 de ltar rigs pa dang 'gal ba brjod nas/ mthong ba dang 'gal ba brjod pa'i phyir bshad pa/ 'bras 'byung ched du 'jig rten 'di yis sa bon la sogs ni/ brgya phrag dag gi sgo nas sdud par byed par yang mi 'gyur ba zhig na byed pa yang yin pa de'i phyir skye ba ngo bo nyid las byung ba ma yin no//
 gzhan yang*/ gal te 'gro ba rgyu yis stong par 'gyur na nam mkha' yi//
-ut+pa la yi dri mdog ji bzhin gzung du med nyid na//
+utpa la yi dri mdog ji bzhin gzung du med nyid na//
 shin tu ches bkra'i 'jig rten 'dzin pa'ang yin pa de yi phyir//
 rang gi blo bzhin 'jig rten rgyu las yin par shes par gyis//
-gal te 'gro ba rgyu yis stong par 'gyur na ni nam mkha'i ut+pala'i dri dang kha dog bzhin du 'dzin pa'i lam du mi 'gyur ba nyid na 'gyur ba yang yin te/ de'i phyir rang gi blo ltar 'gro ba mtha' dag rgyu kho na las skye'o zhes bya bar rig par gyis shig khyod kyi ltar na ni sngon po'i rnam pa can gyi blo yul sngon po bsal nas nye bar skye ba ma yin te/</tei:p>
+gal te 'gro ba rgyu yis stong par 'gyur na ni nam mkha'i utpala'i dri dang kha dog bzhin du 'dzin pa'i lam du mi 'gyur ba nyid na 'gyur ba yang yin te/ de'i phyir rang gi blo ltar 'gro ba mtha' dag rgyu kho na las skye'o zhes bya bar rig par gyis shig khyod kyi ltar na ni sngon po'i rnam pa can gyi blo yul sngon po bsal nas nye bar skye ba ma yin te/</tei:p>
 <tei:p n="150" unit="page">sngon  (207) po'i rnam pa can gyi blo ni sngon po kho na las yin gyi ngo bo nyid las ma yin pas ngo bo nyid smra ba ni mi rigs so//
 sems pa 'byung ba las gyur pa dag ni rgyu dmigs bzhin pa la ni bsnyon par mi nus te/ mthong ba'i phyir dang*/ ji skad bshad pa'i skyon du thal bar 'gyur ba'i phyir te/ rgyu dang 'bras bu'i dngos po 'jig rten la grags pa 'di ni yod pa nyid do//
 de nyid ni bzhi kho na ste/ 'gro ba sna tshogs pa mtha' dag gi rgyur gyur pa sa dang chu dang me dang rlung zhes bya ba rnams so//
-de rnams kyi yongs su smin pa'i khyad par las pad+ma dang bal po se'u la sogs pa dag dang rma bya dang bya gag gi tshogs pa dag gi sna tshogs pa ji ltar mthong bzhin pa 'thad pa 'ba' zhig tu ma zad kyi/ blo dngos po'i de kho na nyid sna tshogs yongs su gcod pa por gyur pa yang de kho na las skye ba yin no//
+de rnams kyi yongs su smin pa'i khyad par las padma dang bal po se'u la sogs pa dag dang rma bya dang bya gag gi tshogs pa dag gi sna tshogs pa ji ltar mthong bzhin pa 'thad pa 'ba' zhig tu ma zad kyi/ blo dngos po'i de kho na nyid sna tshogs yongs su gcod pa por gyur pa yang de kho na las skye ba yin no//
 de la ji ltar chang dag las 'byung ba'i bye brag phrad pa yongs su 'gyur ba'i khyad par las srog chags rnams kyi myos pa dang brgyal ba'i rgyu myos par 'gyur ba'i nus pa skye ba de bzhin du/ nur nur po la sogs pa'i 'byung ba chen po khyad par can yongs su smin pa las blo dag skye zhing de dag dngos po mtha' dag yongs su gcod par byed pa'i bar du yang 'gyur ro//
 de'i phyir phyi rol dang nang gi dngos po rnams ni 'jig rten 'di'i rgyu las 'byung ba kho na yin gyi/ gang du byas pa'i las kyi rnam par smin pa 'dir ram 'dir byas pa'i rnam par smin pa 'jig rten gzhan du 'byung ba 'jig rten pha rol dag yod pa nyid ni ma yin no snyam du sems so//
  </tei:p>
@@ -2915,7 +2915,7 @@ zhes shes par bya'o//
 rgyu dang 'bras bu dag rang bzhin gyis yod pa nyid ni ma yin no//
 ci ste khyod de gnyis rang gi ngo bos grub par sems na kye/</tei:p>
 <tei:p n="206" unit="page">gang las gang zhig 'gyur ba gang zhig las sngar gang zhig 'gyur de smos//
-ci rgyu'am 'bras bu sngar grub pa gang las rgyu'am 'bras bur skye bar 'gyur ba de gnyis las dang po rgyu'am 'on te 'bras bu zhig 'gyur/ de'i phyir rgyu dang 'bras bur gdags pa yang shing rta ltar rgyur byas nas yin par rig par bya'i rang bzhin las g+r+yur pa ni ma yin no//
+ci rgyu'am 'bras bu sngar grub pa gang las rgyu'am 'bras bur skye bar 'gyur ba de gnyis las dang po rgyu'am 'on te 'bras bu zhig 'gyur/ de'i phyir rgyu dang 'bras bur gdags pa yang shing rta ltar rgyur byas nas yin par rig par bya'i rang bzhin las gr+yur pa ni ma yin no//
 gzhan yang gal te rgyus 'bras bu rang bzhin gyis skyed par byed na phrad nas sam ma phrad par skyed par byed grang*/ de la re zhig gal te khyod kyi rgyu yis phrad nas 'bras bskyed byed na de yi tshe//
 de dag nus pa gcig pas skyed byed 'bras bu tha dad med 'gyur zhing*//
 so sor na ni rgyu 'di rgyu min rnams dang khyad par med 'gyur la/ (289) /gnyis po 'di dag spangs nas rtog pa gzhan yang yod par 'gyur ma yin//
@@ -3280,7 +3280,7 @@ lus kyi las thams cad ye shes sngon du 'gro zhing ye shes kyi rjes su 'brang*/ n
 de lta bu'i sangs rgyas kyi chos ma 'dres pa bco brgyad gang dag yin pa de dag ni mi 'phrogs pa'i mtshan nyid can te/ 'khrul pa la sogs pa mi mnga' bas glags med pa nyid kyis thub par mi nus pa nyid kyi phyir ro//
 'di dag gi bshad pa ni 'phags pa gzungs kyi dbang phyug rgyal pos zhus pa las rig par bya'o//
 rigs kyi bu gzhan yang gang gi phyir de'i lus 'khrul pa'i byis pa'am mkhas pas kyang rung ste/ chos dang mthun par rtsod par 'gyur ba'i 'khrul pa de bzhin gshegs pa la med do//
-de ci'i phyir zhe na/ sangs rgyas bcom ldan 'das rnams ni lus kyi las 'khrul pa med pa dang ldan pa ste/ kun tu lta ba dang rnam par lta ba dang bskum pa dang rkyong ba dang*/ chos gos sbyar ma dang*/ thang pa dang*/ lhung bzed dang*/ chos gos thogs pas spyod lam mdzes par spyod lam bzhi yod pa dang*/ grong dang grong khyer dang grong rdal du 'jug pa dang 'byung ba na rkang mthil sa la mi rig ste/ 'khor lo rtsibs stong pa sa las 'byung zhing dri yid du 'ong ba'i pad+ma mngon par 'byung ste/ de la de bzhin gshegs pa'i rkang pa 'jog go /de la gang byol song gi skye gnas su song ba'i sems can gang dag de bzhin gshegs pa'i rkang pa la reg pa de dag zhag bdun rab tu bde ba dang ldan par 'gyur ro//
+de ci'i phyir zhe na/ sangs rgyas bcom ldan 'das rnams ni lus kyi las 'khrul pa med pa dang ldan pa ste/ kun tu lta ba dang rnam par lta ba dang bskum pa dang rkyong ba dang*/ chos gos sbyar ma dang*/ thang pa dang*/ lhung bzed dang*/ chos gos thogs pas spyod lam mdzes par spyod lam bzhi yod pa dang*/ grong dang grong khyer dang grong rdal du 'jug pa dang 'byung ba na rkang mthil sa la mi rig ste/ 'khor lo rtsibs stong pa sa las 'byung zhing dri yid du 'ong ba'i padma mngon par 'byung ste/ de la de bzhin gshegs pa'i rkang pa 'jog go /de la gang byol song gi skye gnas su song ba'i sems can gang dag de bzhin gshegs pa'i rkang pa la reg pa de dag zhag bdun rab tu bde ba dang ldan par 'gyur ro//
 shi  (322) 'phos nas kyang lha dag gi nang du skye bar 'gyur ro//
 de bzhin gshegs pa'i sku la chos gos sor bzhi tsam gyis mi reg mod kyis/</tei:p>
 <tei:p n="229" unit="page">rdzi rlung yug pa'i rlung gis kyang bzlog par mi nus so//
@@ -3553,9 +3553,9 @@ dam pa thob cing ye shes lhag par mchog tu 'byung bar 'gyur ba'ang yin//
 char sprin rnams las chu char 'bab pa ji ltar de bzhin 'gro rnams kyi//
 dge ba'i lo thog ched du rgyas sras las kyang lhun grub chos char 'bab//
 byang chub sems dpa'i sa bcu pa la gnas pa'i byang chub sems dpa' la ni sangs rgyas bcom ldan 'das rnams kyis dbang bskur te/</tei:p>
-<tei:p n="248" unit="page">ji skad du/ de la ting nge 'dzin grangs med pa 'bum phrag bcu ji snyed pa'i tha ma la byang chub sems dpa'i ting nge 'dzin thams cad mkhyen pa'i ye shes dang khyad par med pa dbang bskur ba dang ldan pa zhes bya ba mngon du 'gyur te/ mngon du gyur ma thag tu stong gsum 'bum phrag bcu'i gtos dang mnyam pa'i rin po che chen po'i pad+ma rin po che rnam pa thams cad kyi mchog dang ldan pas spras pa zhes bya ba nas rgyas par stong gsum 'bum phrag bcur tshang ba'i rdul phra rab kyi rdul snyed kyi pad+ma'i 'khor dang ldan pa 'byung ba 'gyur te/ byang chub sems dpa' de'i lus kyang de dang 'tsham zhing de'i rkyen du 'bab par gnas so//
+<tei:p n="248" unit="page">ji skad du/ de la ting nge 'dzin grangs med pa 'bum phrag bcu ji snyed pa'i tha ma la byang chub sems dpa'i ting nge 'dzin thams cad mkhyen pa'i ye shes dang khyad par med pa dbang bskur ba dang ldan pa zhes bya ba mngon du 'gyur te/ mngon du gyur ma thag tu stong gsum 'bum phrag bcu'i gtos dang mnyam pa'i rin po che chen po'i padma rin po che rnam pa thams cad kyi mchog dang ldan pas spras pa zhes bya ba nas rgyas par stong gsum 'bum phrag bcur tshang ba'i rdul phra rab kyi rdul snyed kyi padma'i 'khor dang ldan pa 'byung ba 'gyur te/ byang chub sems dpa' de'i lus kyang de dang 'tsham zhing de'i rkyen du 'bab par gnas so//
 de ting nge 'dzin  </tei:p>
-<tei:p n="249" unit="page">(350) de thob ma thag tu pad+ma de la 'dug par kun tu snang ngo*//
+<tei:p n="249" unit="page">(350) de thob ma thag tu padma de la 'dug par kun tu snang ngo*//
 de de la 'dug pa dang sangs rgyas bcom ldan 'das sangs rgyas kyi zhing kun nas gdan 'dzom pa rnams kyi mdzod spu nas 'od zer dag phyung nas byang chub sems dpa' de la dbang bskur bar mdzad do zhes bya ba'i bar du gsungs pa lta bu'o//
 'di'i ye shes kyi pha rol tu phyin pa ches yongs su dag par yang 'gyur la/ sprin chen po ltar 'jig rten gyi dge ba'i lo tog mngon par spel ba'i phyir lhun gyis grub par dam pa'i chos kyi char yang mngon par 'bebs so//
 sems bskyed pa bcu pa bshad zin to//
@@ -3696,7 +3696,7 @@ ji 'dra'i chos dang de bdag ji 'dra dang*//
 chos thos spyod pa gang la spyad pa dang*//
 sbyin gang ji tsam de dag la phul ba//
 de ni ma lus sku gcig la ston mdzad//
-bcom ldan 'das kyis sngon sbyin pa'i pha rol tu phyi pa la spyod pa na/ sangs rgyas bcom ldan 'das gang rnams la bsnyen bkur mdzad pa dang*/ sangs rgyas kyi zhing bai ḍūr+ya dang*/ pad+ma rā ga dang*/ in+d+ra ni la dang*/ shel la sogs pa'i rang bzhin can/ rin po che'i ljon shing la sogs pas mdzes par byas pa mchu dang zheng dang kun nas zlum pa dang bcas pa de la brten pa'i sems can gyi khyad par gyis nye bar mdzes pa ci 'dra ba zhig na/ sangs rgyas bcom ldan 'das dag bltams pa la sogs pa ston par mdzad pa de ma lus par sku gcig la ston par mdzad do//
+bcom ldan 'das kyis sngon sbyin pa'i pha rol tu phyi pa la spyod pa na/ sangs rgyas bcom ldan 'das gang rnams la bsnyen bkur mdzad pa dang*/ sangs rgyas kyi zhing bai ḍūrya dang*/ padma rā ga dang*/ ind+ra ni la dang*/ shel la sogs pa'i rang bzhin can/ rin po che'i ljon shing la sogs pas mdzes par byas pa mchu dang zheng dang kun nas zlum pa dang bcas pa de la brten pa'i sems can gyi khyad par gyis nye bar mdzes pa ci 'dra ba zhig na/ sangs rgyas bcom ldan 'das dag bltams pa la sogs pa ston par mdzad pa de ma lus par sku gcig la ston par mdzad do//
 sangs rgyas bcom ldan 'das de dag gi sku dang spyod pa dag gi mthu phul du byung ba gang yin pa dang*/ de dag gi nyan thos kyi dge 'dun 'dus par gyur pa ji snyed pa'am ji lta dang ste/ chos kyi rjes su mthun pa'i chos kyi nan tan rnam pa gang gis nyan thos kyi dge 'dun der gyur pa dang*/ sangs rgyas bcom ldan 'das de dag gis sangs rgyas kyi zhing na byang chub sems  (366) dpa' mtshan dang dpe byad kyis lus spras pa/ dbyibs dang ldan pa chos gos dang zas dang gnas la sogs pa yongs su longs spyod pa nye bar longs spyod pa dang ldan pa ci 'dra ba de dag yod par gyur pa dang*/ ci 'dra ba'i chos dang ste theg pa gcig dang gsum gyi rten can bstan pa de dag thams cad sku gcig la ston par mdzad do//
 de bdag ci 'dra dang ste bram ze la sogs pa'i rigs su skye pa gzugs dang blo dang ldan pa dang*/</tei:p>
 <tei:p n="260" unit="page">khyim pa dang rab tu byung bar gyur pa dang*/ chos thos nas lhag ma dang bcas pa dang lhag ma med pa'i bslab pa khas blangs te spyod pa gang la spyad pa dang*/ sbyin pa gang ci tsam de dag la phul ba ste sangs rgyas bcom ldan 'das nyan thos dang byang chub sems dpa'i dge 'dun dang bcas pa de dag la bza' ba la sogs pa dang*/ chos gos dang rin po che'i rgyan la sogs pa gang phul ba dang*/ ji tsam ste dus ji tsam dang tshad ji tsam phul ba de ma lus par sku gcig la ston par mdzad do//
@@ -3728,7 +3728,7 @@ de bzhin du/ (369) rnam rtog mi mnga' khyod kyis srid mtha'i bar//
 skad cig de re re la spyod sna tshogs//
 ji snyed ston pa de snyed 'dzam bu gling*//
 ma lus rdul gang de dag la grangs med//
-rnam par rtog pa mi mnga' ba khyod 'khor ba'i bar du skad cig dang skad cig la spyod pa sna tshogs ston pa'i tshad gang yin pa'i tshad de'i grangs ni dzam+bu'i gling ma lus pa na rdul phra rab ji snyed yod pa de dag la yod pa ma yin no zhes pa 'di ni thun mong ma yin pa'i yon tan phul du byung bar brjod pa'i sgo nas bcom ldan 'das la bstod pa yin no//
+rnam par rtog pa mi mnga' ba khyod 'khor ba'i bar du skad cig dang skad cig la spyod pa sna tshogs ston pa'i tshad gang yin pa'i tshad de'i grangs ni dzambu'i gling ma lus pa na rdul phra rab ji snyed yod pa de dag la yod pa ma yin no zhes pa 'di ni thun mong ma yin pa'i yon tan phul du byung bar brjod pa'i sgo nas bcom ldan 'das la bstod pa yin no//
 sangs rgyas kyi sa ni stobs bcus rab tu phye ba yin pa'i phyir de'i rnam par dbye ba cha tsam zhig bstan pa'i phyir bshad pa/</tei:p>
 <tei:p n="262" unit="page">gnas dang gnas min mkhyen stobs dang*//
 de bzhin las rnam smin blo dang*//
@@ -4016,7 +4016,7 @@ gang gi phyir 'gro ba rnams theg pa chen po la 'jug pa la gegs byed pa'i rkyen m
 ngal ba nyer sel grong khyer yid 'ong bar du rnam par bkod pa ltar//
 khyod kyi theg pa 'di ni slob ma nye bar zhi ba'i tshul la yid//
 sbyar bar mdzad cing rnam par dben la blo sbyangs rnams la logs su gsungs//
- (403) dpe 'di ni 'phags pa dam pa'i chos pad+ma dkar po las nges par bya'o//
+ (403) dpe 'di ni 'phags pa dam pa'i chos padma dkar po las nges par bya'o//
 bsdus pa'i don ni 'di yin te/ ji ltar bsti ba'i phyir ded dpon des rin po che'i gling du ma phyin pa'i bar du grong khyer mngon par sprul pa de bzhin du/ bcom ldan 'das kyis kyang thabs kyi sgo nas theg pa chen po'i tshu rol tu de thob pa'i thabs su gyur zhing zhi ba'i bde ba'i rten du gyur pa theg pa gnyis po nyan thos dang rang sangs rgyas kyi theg pa gsungs pa yin no//
 de la 'khor ba'i nyon mongs pa spangs pa thob pa rnams la ni phyi nas theg pa chen po kho na nye bar bstan la/ de rnams kyis kyang sangs rgyas rnams ltar tshogs yongs su rdzogs par byas nas gdon mi za bar thams cad mkhyen pa'i ye shes thob par bya dgos so//
 theg pa gcig bstan pa 'di yang mdo kun las btus pa la sogs pa dag las nges par bya'o//
@@ -4078,7 +4078,7 @@ phyin chad skad gnyis 'byung srid na//
 rtsa 'grel sgra don bzhin bsgyur la//
 gzu bor byos la dpyad par gyis//
 kha che'i yul gyi grong khyer dpe med kyi dbus rin chen sbas pa'i </tei:p>
-<tei:p n="294" unit="page">(411) gtsug lag khang du/ kha che'i rgyal po dpal 'phags pa lha'i sku ring la/ rgya gar gyi mkhan po ti lak+ka la sha dang*/ bod kyi lo tswa ba pa tshab nyi ma grags kyis kha che'i dpe dang mthun pa ltar bsgyur/ phyis ra sa ra mo cher rgya gar gyi mkhan po kan+ka warma dang*/ bod kyi lo tswa ba de nyid kyis nyi 'og shar phyogs pa'i dpe dang gtugs shing legs par bcos te gtan la phab pa'o//
+<tei:p n="294" unit="page">(411) gtsug lag khang du/ kha che'i rgyal po dpal 'phags pa lha'i sku ring la/ rgya gar gyi mkhan po ti lakka la sha dang*/ bod kyi lo tswa ba pa tshab nyi ma grags kyis kha che'i dpe dang mthun pa ltar bsgyur/ phyis ra sa ra mo cher rgya gar gyi mkhan po kanka warma dang*/ bod kyi lo tswa ba de nyid kyis nyi 'og shar phyogs pa'i dpe dang gtugs shing legs par bcos te gtan la phab pa'o//
 gzhung 'di'i tshad ni bam po bcu gcig dang bam po gsum gnyis so//
 dge legs 'phel// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
 /1$0000270</tei:p>

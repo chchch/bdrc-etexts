@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">'chi med mtsho skyes snying tig gi brgyud pa'i gsol 'debs sgyu 'phrul rol mo bzhugs so/  /snang ba mtha' yas rang byung gdod ma'i mgon/  /'jig rte</tei:title><tei:author/><tei:title>'chi med mtsho skyes snying tig gi brgyud pa'i gsol 'debs sgyu 'phrul rol mo bzhugs so/  /snang ba mtha' yas rang byung gdod ma'i mgon/  /'jig rte</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-002-0034</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/10-THA/Terdzo-tha.P39.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250'chi med mtsho skyes snying tig gi brgyud pa'i gsol 'debs sgyu 'phrul rol mo bzhugs so//
@@ -14,7 +14,7 @@ gsol ba 'debs so dngos grub rnam gnyis stsol//
 ye shes dbyings las sprulam̐ pam̐'i rdom̐ rjem̐'i gar//
 mchog gi rig 'dzin khyab bdag bla ma la//
 gsol ba 'debs so dngos grub rnam gnyis stsol//
-pad+ma'i zhal tshab pad+ma gar gyi dbang*//
+padma'i zhal tshab padma gar gyi dbang*//
 rtsod bral gter chen mchog gyur gling pa sogs//
 bka' babs las ldan snying gi bu rnams la//
 gsol ba 'debs so dngos grub rnam gnyis stsol//
@@ -33,5 +33,5 @@ tshig dbang sgrub pa chen po'i 'bras thob shog /mos gus stobs kyis lus sems 'chi
 rang rig mtsho skyes bla ma'i zhal mjal te//
 nam mkha' mnyam pa'i 'gro ba ma lus pa//
 bde chen rdo rje'i sa la 'god par shog /</tei:p>
-<tei:milestone unit="small"/><tei:p n="3" unit="page">ces pa'ang zab gsang bdud rtsi'i skal pa dge ba can pad+ma gar gyi dbang phyug rtsal gyis sprel lo sprel zla'i dkar phyogs kyi tshes bcu la bris nas gsol ba btab pa dge legs 'phel// // </tei:p>
+<tei:milestone unit="small"/><tei:p n="3" unit="page">ces pa'ang zab gsang bdud rtsi'i skal pa dge ba can padma gar gyi dbang phyug rtsal gyis sprel lo sprel zla'i dkar phyogs kyi tshes bcu la bris nas gsol ba btab pa dge legs 'phel// // </tei:p>
 <tei:milestone unit="normal"/></tei:div></tei:body></tei:text></tei:TEI>

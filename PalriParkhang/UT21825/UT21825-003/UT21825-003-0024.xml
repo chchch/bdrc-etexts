@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/bka' srung gsol bsdus phrin las myur mgyogs bzhugs/e chos dbyings skye ba med pa las/  /rol rtsal thugs rje'i cho 'phrul ston/  /'das pa'i sang</tei:title><tei:author/><tei:title>༄༅/bka' srung gsol bsdus phrin las myur mgyogs bzhugs/e chos dbyings skye ba med pa las/  /rol rtsal thugs rje'i cho 'phrul ston/  /'das pa'i sang</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT21825-003-0024</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W21825</tei:idno><tei:idno type="SRC_PATH">PalriParkhang/W21825-bkaq-qbum-pad-nor-02-thub-bstan-chos-kyi-glang-po/rtfs/03-penor-kabum-ga/penor-kabum-Ga-0525-528.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅/ </tei:p>
@@ -11,7 +11,7 @@ e kā dza ṭi ral gcig ma//
 khams gsum gzigs pa'i spyan gcig ma//
 gzung 'dzin gcod pa'i mche gcig ma//
 sgrub mchog skyong ba'i nu gcig ma//
-tsit+ta gsol zhing lce spyang 'gyed//
+tsitta gsol zhing lce spyang 'gyed//
 mthing nag gyad gyi 'dor stabs bsgrad//
 sbyor ba'i ging chen ma ning nag /sgrol ba'i ging chen rdo rje legs//
 gsang ba'i sgrol ging rā hu la//
@@ -62,5 +62,5 @@ byang chub sems bskyed ri dbang la//
 phar phyin drug gi nyi zlas bskor//
 bsdu dngos bzhi yi skar tshogs bkra//
 theg mchog dri med thugs dam bskang*//
-sangs rgyas 'grub par byin gyis rlobs/ /kha skong tshig bzhi pad+ma ma ṇis so// 528)</tei:p>
+sangs rgyas 'grub par byin gyis rlobs/ /kha skong tshig bzhi padma ma ṇis so// 528)</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

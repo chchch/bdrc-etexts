@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /kun mkhyen 'jam dbyangs mkhyen brtse'i dbang po'i rnam thar gsol 'debs bkra shis 'khyil ba'i sgra dbyangs zhes bya ba bzhugs/  /</tei:title><tei:author/><tei:title>༄༅/  /kun mkhyen 'jam dbyangs mkhyen brtse'i dbang po'i rnam thar gsol 'debs bkra shis 'khyil ba'i sgra dbyangs zhes bya ba bzhugs/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-001-0011</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/01-KA/Terdzo-ka-P09.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄༅//
@@ -125,6 +125,6 @@ rdo rje 'chang dbang go 'phang 'grub gyur cig /chos bzhin sgrub la bar chad mi '
 lung rtogs chos la rang dbang 'byor pa yis//
 sangs rgyas bstan pa 'dzam gling khyab par spel//
 chos kyi rgyal po khyed dang mtshungs par shog</tei:p>
-<tei:p n="5" unit="page">/ thub bstan yongs rdzogs kyi mnga' bdag kun mkhyen bla ma rin po che'i rnam thar rgya mtsho chen po la dad gus kyi skra rtses blangs pa'i thigs pa 'di nyid rmongs brtul blo gros mtha' yas kyis mnyam med shangs pa bka' brgyud kyi rnam thar gsol 'debs u dum+bā ra'i phreng bar bstar ba las mos ldan du ma'i bzhed ngor khol du phyung ste slar smon tshigs sogs tshigs bcad kha shas kha bskangs pa dge legs 'phel//
+<tei:p n="5" unit="page">/ thub bstan yongs rdzogs kyi mnga' bdag kun mkhyen bla ma rin po che'i rnam thar rgya mtsho chen po la dad gus kyi skra rtses blangs pa'i thigs pa 'di nyid rmongs brtul blo gros mtha' yas kyis mnyam med shangs pa bka' brgyud kyi rnam thar gsol 'debs u dumbā ra'i phreng bar bstar ba las mos ldan du ma'i bzhed ngor khol du phyung ste slar smon tshigs sogs tshigs bcad kha shas kha bskangs pa dge legs 'phel//
 mjug gi kha skong 'das byung dang rjes su 'brel ba'i shwa lo ka gsum chos kyi blo gros pas bsnan pa tshe rabs kun tu rje btsun 'jam dbyangs bla mas rjes su 'dzin zhing ye shes gzigs pa'i byin rlabs snying dbus su 'jug pa'i rgyur gyur cig /maṅga laṃ// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

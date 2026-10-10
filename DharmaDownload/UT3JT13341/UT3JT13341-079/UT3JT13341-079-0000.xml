@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">oṃ swasti/mi 'gyur nam mkha'i sku mnga' tshem̐ mtham̐' yam̐s/  /nges pa lnga ldan gar dbang spyanam̐ ram̐s gzim̐gs/  /'pho bral rtag pa'i sku brnyes pam̐d+ma 'byungam̐</tei:title><tei:author/><tei:title>oṃ swasti/mi 'gyur nam mkha'i sku mnga' tshem̐ mtham̐' yam̐s/  /nges pa lnga ldan gar dbang spyanam̐ ram̐s gzim̐gs/  /'pho bral rtag pa'i sku brnyes pam̐d+ma 'byungam̐</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">oṃ swasti/mi 'gyur nam mkha'i sku mnga' tshem̐ mtham̐' yam̐s/  /nges pa lnga ldan gar dbang spyanam̐ ram̐s gzim̐gs/  /'pho bral rtag pa'i sku brnyes pam̐dma 'byungam̐</tei:title><tei:author/><tei:title>oṃ swasti/mi 'gyur nam mkha'i sku mnga' tshem̐ mtham̐' yam̐s/  /nges pa lnga ldan gar dbang spyanam̐ ram̐s gzim̐gs/  /'pho bral rtag pa'i sku brnyes pam̐dma 'byungam̐</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13341-079-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13341</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/Taksham-Chochod_tdoc/063d_shabtan.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">)oṃ swasti/ mi 'gyur nam mkha'i sku mnga' tshem̐ mtham̐' yam̐s//
 nges pa lnga ldan gar dbang spyanam̐ ram̐s gzim̐gs//
-'pho bral rtag pa'i sku brnyes pam̐d+ma 'byungam̐*//
+'pho bral rtag pa'i sku brnyes pam̐dma 'byungam̐*//
 sku gsum bla mas tshe dbang byin chen phob//
 rdom̐ rjem̐ gzim̐ brjim̐d rtsam̐l thugs namam̐ mkha'am̐ che//
 drim̐ mem̐d dgongs zab ram̐b 'byamam̐s chos gter mdzod//
@@ -13,6 +13,6 @@ bdag sogs deng bzung skye ba'i phreng bar yang*//
 rig 'dzin bla mas dgyes bzhin rjes bzung nas//
 mthar thug khyed thugs gdod ma'i gzhi dbyings su//
 gu ru rje dang dbyer med sangs rgyas shog /</tei:p>
-<tei:p n="2" unit="page">ces ma hā gu ru yab yum gyis tshe dbang rig 'dzin mngon du mdzad pa'i gnas mchog mā ra ti kar bod shing glang nag zla'i yar tshes  15 snga dro'i char tshe sgrub kyi bsnyen pa'i thun gseng du thol byung du dad spro'i rlabs kyis bskul te legs spungs rgyal sprul 'jigs med pad+ma bde chen dbang rgyal du 'bod pas bris pa rig 'dzin bla ma'i gsang gsum rdo rje'i khams su brtan pa'i rgyur gyur cig /sarba dā maṅga laṃ///
+<tei:p n="2" unit="page">ces ma hā gu ru yab yum gyis tshe dbang rig 'dzin mngon du mdzad pa'i gnas mchog mā ra ti kar bod shing glang nag zla'i yar tshes  15 snga dro'i char tshe sgrub kyi bsnyen pa'i thun gseng du thol byung du dad spro'i rlabs kyis bskul te legs spungs rgyal sprul 'jigs med padma bde chen dbang rgyal du 'bod pas bris pa rig 'dzin bla ma'i gsang gsum rdo rje'i khams su brtan pa'i rgyur gyur cig /sarba dā maṅga laṃ///
 / 1$0000024 </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

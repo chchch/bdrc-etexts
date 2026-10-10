@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ka)༄༅/  /rtsa'i mngon rtogs bzhugs/  /༄༅/  /rtsa'i mngon par rtogs pa'i don bstan pa las/rtsa sum cu rtsa gnyis kyi spyi'i mtshan nyid bstan pa dang*/de </tei:title><tei:author/><tei:title>(ka)༄༅/  /rtsa'i mngon rtogs bzhugs/  /༄༅/  /rtsa'i mngon par rtogs pa'i don bstan pa las/rtsa sum cu rtsa gnyis kyi spyi'i mtshan nyid bstan pa dang*/de </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-014-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA014.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ka)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-014-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA014.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ka)༄༅//
 rtsa'i mngon rtogs bzhugs// ༄༅//
 rtsa'i mngon par rtogs pa'i don bstan pa las/ rtsa sum cu rtsa gnyis kyi spyi'i mtshan nyid bstan pa dang*/ de rnams las gtso mo gsum du bstan pa dang*/ gsum po de spyi'i mtshan nyid las dang bcas par bstan pa ni gzhung nyid du gsal lo//
 de nas rtsa sum cu rtsa gnyis po'i gnas dang*/ rang bzhin bstan zer yang rtsa sum cu rtsa gnyis pos bstan pa'i byang chub kyi sems sum cu rtsa gnyis kyi gnas dang rang bzhin bstan te/ rtsa'i gnas dang rang bzhin bstan par yang byas nas/ rtsa'i 'grel pa chung ngu nas bstan pa'i gnas dang 'gal ba'i phyir//
@@ -16,7 +16,7 @@ yar ngo la bstan pa bzhin tshes bcu drug nas gnam stong gi bar 'pho ba bcu drug 
 de ji ltar na zla ba gcig la rtsa sum cu rtsa gnyis nas byang sems sum cu rtsa gnyis su 'pho ba sum cu rtsa gnyis byed do//
 rtsa de dag gi don dam pa'i las kyi dbang du byas te sku gsum gyi ngo bor bzhag pa ni go sla'o//
 ā li kā li'i don yang spyi don du bshad na/</tei:p>
-<tei:p n="2" unit="page">ā li kā li gnyis rang yin la/ sbas par bshad na rdo rje dang pad+ma 'am/ thabs shes rab bo//
+<tei:p n="2" unit="page">ā li kā li gnyis rang yin la/ sbas par bshad na rdo rje dang padma 'am/ thabs shes rab bo//
 sku gsum gyi don ni dbang ltar bshad na dga' ba gsum du bshad do//
 e wam̐ ma ya la sogs pa'i don ni tshul bzhis bshad la/ yang gnyis par na 'khor lo bzhi la bshad do//
 'dir zla ba dang nyi ma dang ā li dang kā li'i don 'dir 'pho ba dang*/ chu tshod dang*/ dbyu gu dang sbyar nas bshad de/ 'pho ba la sbyar na rlung gi 'pho ba rags pa'i cha/ nyi ma dang kā li'i don to//
@@ -24,5 +24,5 @@ byang chub kyi sems kyi 'pho ba phra ba rtogs dka' ba ni zla ba dang ā li'i don
 chu tshod phyi'i dbyu gu'i dus 'dzin pa ni rags pa'o//
 nang gi dbugs kyi grangs brgya nyi shu rtsa gnyis rgyu ba dang*/ yang thabs la byang sems kyi 'pho ba bcu drug shes rab la bcu drug ste sum cu rtsa gnyis brtsi ba ni nang gi phra ba'o//
 dbyu gu yang thabs dang shes rab gnyis las yar ngo mar ngo brtsis pas drug cu rtsa bzhi 'ong ste/ de ni byang sems la brtsis pas phra ba'o//
-sa māp+ta mi thi// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+sa māpta mi thi// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /chos mngon pa'i mdzod kyi tshig le'ur byas pa bzhugs/  /</tei:title><tei:author/><tei:title>༄༅/  /chos mngon pa'i mdzod kyi tshig le'ur byas pa bzhugs/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13303-001-0006</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13303</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/GNONPA/rtfs/volume-001/110NGONPA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000270 </tei:p>
@@ -2336,5 +2336,5 @@ de ltar thub pa dag gi bstan pa ni//
 lkog mar srog phyin 'dra dang dri ma rnams//
 stobs dang ldan pa'i dus su rig nas ni//
 thar pa 'dod pa dag gis bag yod gyis//
-chos mngon pa'i mdzod kyi tshig le'ur byas pa slob dpon shākya'i dge slong dbyig gnyen gyis mdzad pa rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang*/ zhu chen gyi lo ts+tsha ba ban+de dpal brtsegs kyis bsgyur cing zhus te gtan la phab pa'o// //1$0000160bal yul nas rgyal yongs sa chen zhes pa las gu rus spel// //</tei:p>
+chos mngon pa'i mdzod kyi tshig le'ur byas pa slob dpon shākya'i dge slong dbyig gnyen gyis mdzad pa rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang*/ zhu chen gyi lo tstsha ba bande dpal brtsegs kyis bsgyur cing zhus te gtan la phab pa'o// //1$0000160bal yul nas rgyal yongs sa chen zhes pa las gu rus spel// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,12 +1,12 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(cha)༄༅/  /kālimuk+tāhāronāmamahopād+d+yāyodhar+m+mas+yarādzārat+na3k+ṣaraṃdh+wadzikaṃsaṃwar+ṇaṇobidzahāraṃ/  /</tei:title><tei:author/><tei:title>(cha)༄༅/  /kālimuk+tāhāronāmamahopād+d+yāyodhar+m+mas+yarādzārat+na3k+ṣaraṃdh+wadzikaṃsaṃwar+ṇaṇobidzahāraṃ/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(cha)༄༅/  /kālimuktāhāronāmamahopādd+yāyodharm+masyarādzāratna3kṣaraṃdhwadzikaṃsaṃwarṇaṇobidzahāraṃ/  /</tei:title><tei:author/><tei:title>(cha)༄༅/  /kālimuktāhāronāmamahopādd+yāyodharm+masyarādzāratna3kṣaraṃdhwadzikaṃsaṃwarṇaṇobidzahāraṃ/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1016703-068-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1016703</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/ZUCHEN/ZUCN065.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(cha)༄༅//
-kālimuk+tāhāronāmamahopād+d+yāyodhar+m+mas+yarādzārat+na3k+ṣaraṃdh+wadzikaṃsaṃwar+ṇaṇobidzahāraṃ// </tei:p>
+kālimuktāhāronāmamahopādd+yāyodharm+masyarādzāratna3kṣaraṃdhwadzikaṃsaṃwarṇaṇobidzahāraṃ// </tei:p>
 <tei:p n="2" unit="page">༄༅//
 mkhan chen chos kyi rgyal po rin chen mi 'gyur rgyal mtshan pa la bsngags pa ka phreng mu tig do shal zhes bya ba bzhugs// ༄//
-sharaṇ+yārat+nas+t+risaṃgho3karatwamahāgro3k+ṣaras+yāsanānikṛtāpya/ dh+wamatraṃkaṣas+yadh+wadzadhṛg+nayeṇapradzābodhineyāgrashan+sākaromi// ༄༅//
+sharaṇyāratnast+risaṃgho3karatwamahāgro3kṣarasyāsanānikṛtāpya/ dhwamatraṃkaṣasyadhwadzadhṛgnayeṇapradzābodhineyāgrashansākaromi// ༄༅//
 skyabs mchog riṃn cheṃn gsum tshogs 'byung ba'i gnas//
 che mchog miṃ 'gyuraṃ go 'phang mngon bgyis kyang*//
 dus 'dir ngur smrig rgyalaṃ mtshaṃn 'chang zol gyis//
@@ -42,5 +42,5 @@ bskal par 'tsho gzhes saṃ steng rgyan du bzhugs//
 rtogs brjod rkang pas haṃ cang bsnun nyung yang*//
 bstod pa'i bsod nams aṃ sho ka'i me tog</tei:p>
 <tei:p n="3" unit="page">/phyi nang yon tan 'dab ma stong grol nas//
-don gnyis grub pa'i ge sar ngom par shog /ces mkhan chen chos kyi rgyal po rin chen mi 'gyur rgyal mtshan pa la bsngags pa ka phreng mu tig do shal zhes bya ba 'di ni/ drung yig shes rab chos 'phel rang gi ngag 'don rgyur 'di bzhin dgos zhes bskul ba'i ngor/ bstod yul dam pa'i bka' lung gi zil mngar gyis 'tsho ba'i slob 'bangs ban+de tshul khrims rin chen du bod pas/ lhun grub steng gi rgyal khab kyi grags pa'i mu khyud phyogs kyi ba gam gsum par bris pa dge legs 'phel bar gyur cig/ // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
+don gnyis grub pa'i ge sar ngom par shog /ces mkhan chen chos kyi rgyal po rin chen mi 'gyur rgyal mtshan pa la bsngags pa ka phreng mu tig do shal zhes bya ba 'di ni/ drung yig shes rab chos 'phel rang gi ngag 'don rgyur 'di bzhin dgos zhes bskul ba'i ngor/ bstod yul dam pa'i bka' lung gi zil mngar gyis 'tsho ba'i slob 'bangs bande tshul khrims rin chen du bod pas/ lhun grub steng gi rgyal khab kyi grags pa'i mu khyud phyogs kyi ba gam gsum par bris pa dge legs 'phel bar gyur cig/ // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

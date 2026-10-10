@@ -1,9 +1,9 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">gnam chos thugs kyi gter kha'i zur rgyan zhi khro bsam gtan cho ga bzhugs so/  /na mo:dkon mchog gsum dang rtsa ba gsum:skyabs gnas rnams la skyabs su mcha</tei:title><tei:author/><tei:title>gnam chos thugs kyi gter kha'i zur rgyan zhi khro bsam gtan cho ga bzhugs so/  /na mo:dkon mchog gsum dang rtsa ba gsum:skyabs gnas rnams la skyabs su mcha</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-003-0037</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/03-GA/TERZOD-GA-P34.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000260gnam chos thugs kyi gter kha'i zur rgyan zhi khro bsam gtan cho ga bzhugs so//
-1$0000300na mo: dkon mchog gsum dang rtsa ba gsum: skyabs gnas rnams la skyabs su mchi: 'gro kun sangs rgyas la 'god phyir: byang chub mchog tu sems bskyed do: ka dag klong nas sprul pa yi: gnam sa gang ba'i mchod pa'i sprin: sman gtor rak+ta lha mor bcas: zad med gyur cig pū dza ho: rang nyid rdor sems sku mdog dkar: zhal gcig phyag gnyis g.yas rdo rje: thugs kar 'dzin cing g.yon pa yis: dril bu dkur brten zhabs sems skyil: sku la dar dkar na bza' gsol: rin po che yi rgyan gyis spras: snying kha chos kyi 'khor lo ru: zhi ba bzhi bcu rtsa gnyis ni: rgyan dang cha lugs rdzogs par bskyed: mgrin par rig 'dzin lha tshogs gsal: klad pa dung khang gzhal yas su: khrag 'thung 'bar ba lnga bcu brgyad: hūm̐/ chos dbyings skye med bum pa'i nang*//
+1$0000300na mo: dkon mchog gsum dang rtsa ba gsum: skyabs gnas rnams la skyabs su mchi: 'gro kun sangs rgyas la 'god phyir: byang chub mchog tu sems bskyed do: ka dag klong nas sprul pa yi: gnam sa gang ba'i mchod pa'i sprin: sman gtor rakta lha mor bcas: zad med gyur cig pū dza ho: rang nyid rdor sems sku mdog dkar: zhal gcig phyag gnyis g.yas rdo rje: thugs kar 'dzin cing g.yon pa yis: dril bu dkur brten zhabs sems skyil: sku la dar dkar na bza' gsol: rin po che yi rgyan gyis spras: snying kha chos kyi 'khor lo ru: zhi ba bzhi bcu rtsa gnyis ni: rgyan dang cha lugs rdzogs par bskyed: mgrin par rig 'dzin lha tshogs gsal: klad pa dung khang gzhal yas su: khrag 'thung 'bar ba lnga bcu brgyad: hūm̐/ chos dbyings skye med bum pa'i nang*//
 </tei:p>
 <tei:p n="2" unit="page">bum bskyed     sku gsum dkyil 'khor yongs rdzogs gsal//
 chos sku thig le nyag gcig las/ mdun bskyed     longs spyod rdzogs sku'i dkyil 'khor shar//
@@ -36,15 +36,15 @@ skong ba'i rdzas mchog bla na med//
 bkram pa'i lha tshogs thugs dam bskang*//
 bskangs gyur dbang dang dngos grub stsol//
 hūm̐/ 'khor lo lnga yi bhan dha ru//
-thig le rak+ta'i bdud rtsis bkang//
-'di yang rmad byung skong ba'i rak+ta ste//
+thig le rakta'i bdud rtsis bkang//
+'di yang rmad byung skong ba'i rakta ste//
 bcom ldan zhi khro rab 'byams thugs dam bskang*//
 bskangs gyur dbang dang dngos grub stsol//
 gdal khyab pags pa'i gtor gzhong du//
 rig pa rang gsal dpal bshos btsugs//
 rang snang sha yi mtheb kyus sgron//
 bkrag dang gzi mdangs dza gad gsal/</tei:p>
-<tei:p n="3" unit="page">khrag dang chu ser rak+tas bran//
+<tei:p n="3" unit="page">khrag dang chu ser raktas bran//
 skong ba'i gtor ma bla na med//
 zhi khro rab 'byams thugs dam bskang*//
 bskangs gyur dbang dang dngos grub stsol//
@@ -72,7 +72,7 @@ dus gsum byas pa'i sdig sgrib mthol bshags na//
 tshangs par mdzad nas sku gsung thugs la sogs//
 mchog dang thun mong dngos grub bstsal du gsol//
 kun bzang rdor sems che mchog he ru ka /rgyal ba zhi khro'i lha la phyag 'tshal lo//
-oṃ āḥhūm̐ bo dhi tsit+ta ma hā su kha dzñā na dhā tu āḥ.oṃ ru lu ru lu hūm̐ bh+yo hūm̐: oṃ ā hūm̐ swā hā: oṃ badz+ra satwa hūm̐: gang 'dod bzla'o//
-zhes rang gi thugs dam bya phyir rā ga a s+yas shing sbrul mgo zla ba'i tshes bcur gzhung nas btus pa la nyes 'gal mchis na lha la bshags shing dge bas 'brel tshad bde ba can du skye bar gyur cig</tei:p>
+oṃ āḥhūm̐ bo dhi tsitta ma hā su kha dzñā na dhā tu āḥ.oṃ ru lu ru lu hūm̐ bhyo hūm̐: oṃ ā hūm̐ swā hā: oṃ badzra satwa hūm̐: gang 'dod bzla'o//
+zhes rang gi thugs dam bya phyir rā ga a syas shing sbrul mgo zla ba'i tshes bcur gzhung nas btus pa la nyes 'gal mchis na lha la bshags shing dge bas 'brel tshad bde ba can du skye bar gyur cig</tei:p>
 <tei:p n="4" unit="page">/sarba maṅga laṃ// // </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

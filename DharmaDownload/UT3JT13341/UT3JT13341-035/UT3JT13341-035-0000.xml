@@ -1,31 +1,31 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">gdod nas dag pa chos kyi sku/  /'khrul bral stong nyid dbyings kyi ngang*/  /kun bzang bla ma pad+ma 'byung*/  /gsol ba 'debs so thugs rjes gzigs/  /pha</tei:title><tei:author/><tei:title>gdod nas dag pa chos kyi sku/  /'khrul bral stong nyid dbyings kyi ngang*/  /kun bzang bla ma pad+ma 'byung*/  /gsol ba 'debs so thugs rjes gzigs/  /pha</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">gdod nas dag pa chos kyi sku/  /'khrul bral stong nyid dbyings kyi ngang*/  /kun bzang bla ma padma 'byung*/  /gsol ba 'debs so thugs rjes gzigs/  /pha</tei:title><tei:author/><tei:title>gdod nas dag pa chos kyi sku/  /'khrul bral stong nyid dbyings kyi ngang*/  /kun bzang bla ma padma 'byung*/  /gsol ba 'debs so thugs rjes gzigs/  /pha</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13341-035-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13341</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/Taksham-Chochod_tdoc/028a_stag-sham-bsam-pa-lhun-qgrub.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">)gdod nas dag pa chos kyi sku//
 'khrul bral stong nyid dbyings kyi ngang*//
-kun bzang bla ma pad+ma 'byung*//
+kun bzang bla ma padma 'byung*//
 gsol ba 'debs so thugs rjes gzigs//
 phyi yi bar chad phyi ru zlog /nang gi bar chad nang du zhi//
 gsang ba'i bar chad dbyings su dengs//
 bsam pa lhun gyis 'grub par mdzod//
 gsal mdangs chen po longs spyod rdzogs//
 bde chen phyag rgya chen po'i ngang*//
-yi dam bla ma pad+ma 'byung*//
+yi dam bla ma padma 'byung*//
 gsol ba 'debs so thugs rjes gzigs//
 phyi yi bar chad phyi ru zlog /nang gi bar chad nang du zhi//
 gsang ba'i bar chad dbyings su dengs//
 bsam pa lhun gyis 'grub par mdzod//
 sna tshogs 'dzin bral sprul pa'i sku//
 gang 'dul sgyu 'phrul rol pa'i ngang*//
-mkha' 'gro'i bla ma pad+ma 'byung*//
+mkha' 'gro'i bla ma padma 'byung*//
 gsol ba 'debs so thugs rjes gzigs//
 phyi yi bar chad phyi ru zlog /nang gi bar chad nang du zhi//
 gsang ba'i bar chad dbyings su dengs//
 bsam pa lhun gyis 'grub par mdzod//
 rtsa ba'i bla ma'i ngo bo nyid//
 rtsa gsum kun 'dus thugs rje can//
-rtsa ba'i bla ma pad+ma 'byung*//
+rtsa ba'i bla ma padma 'byung*//
 gsol ba 'debs so thugs rjes gzigs//
 phyi yi bar chad phyi ru zlog /nang gi bar chad nang du zhi//
 gsang ba'i bar chad dbyings su dengs//
@@ -41,7 +41,7 @@ deng nas byang chub mchog gi bar//
 'bral med rjes su bzung ba dang*//
 rkyen phyi nang gi bar chad zhi ba dang*//
 mchog thun mong gi dngos grub stsal du gsol//
-oṃ āḥhūm̐ badz+ra gu ru pad+ma sid+dhi hūm̐/ </tei:p>
+oṃ āḥhūm̐ badzra gu ru padma siddhi hūm̐/ </tei:p>
 <tei:p n="2" unit="page">zhes pa'i bar chad lam sel 'di'ang gnyer pa o rgyan skal bzang dbus su khri 'bul 'gro khar nang nub bar chad sel ba'i gsol 'debs zhig dgos shes bskul ngor/ ldem shul 'ba' rab sgar du stag sham pas bris pa don ldan du gyur cig//
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

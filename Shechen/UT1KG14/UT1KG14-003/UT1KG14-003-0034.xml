@@ -1,20 +1,20 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">gnam chos spyi'i brgyud 'debs byin rlabs rmad byung bzhugs/  /kun bzang 'od mi 'gyur ba chos kyi sku/  /rnam snang longs sku gar dbang spyan ras gza</tei:title><tei:author/><tei:title>gnam chos spyi'i brgyud 'debs byin rlabs rmad byung bzhugs/  /kun bzang 'od mi 'gyur ba chos kyi sku/  /rnam snang longs sku gar dbang spyan ras gza</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-003-0034</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/03-GA/TERZOD-GA-P31.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000260gnam chos spyi'i brgyud 'debs byin rlabs rmad byung bzhugs//
 1$0000300kun bzang 'od mi 'gyur ba chos kyi sku//
 rnam snang longs sku gar dbang spyan ras gzigs//
-sprul sku gdul dka' 'dul mdzad pad+ma 'byung*//
+sprul sku gdul dka' 'dul mdzad padma 'byung*//
 gsol ba 'debs so dbang skur byin gyis rlobs//
 gsang 'dzin bai ro mtsho rgyal lha'i me tog /shud pu dpal seng 'gro 'dul sprul pa'i sku//
 thugs rje tshad med mi 'gyur rdo rje la//
 gsol ba 'debs so dbang skur byin gyis rlobs//
 kun bzang shes ra"n ba lhun grub rgya mtsho dang*//
-pad+ma nor bu karma bkra shis zhabs//
+padma nor bu karma bkra shis zhabs//
 karma lha dbang karma 'gyur med la//
 gsol ba 'debs so dbang skur byin gyis rlobs//
-pad+ma gsang sngags bstan 'dzin 'jam pa'i dbyangs//
+padma gsang sngags bstan 'dzin 'jam pa'i dbyangs//
 blo gros mtha' yas mdo sngags chos kyi nyi//
 tshe dbang rgya mtsho ye shes rdo rje rtsal//
 gsol ba 'debs so dbang skur byin gyis rlobs//
@@ -26,6 +26,6 @@ dbang gis rgyud smin dam tshig rnam par dag /bskyed rdzogs gdams pas sa lam yon 
 phrin las mthar phyin sku lnga'i dbyings grol bas//
 don gnyis mtha' ru phyin par byin gyis rlobs//
 </tei:p>
-<tei:p n="2" unit="page">zhes pa'ang mchog sprul rin po che 'jigs med mkhyen brtse'i dbang phyug gi bka' bstsal pa bzhin gnam chos spyi la 'jug pa'i dbang du byas nas maṅga la shrī bhū ti'i bde chen chos kyi gling nas bris pa sid+dhi rastu///
+<tei:p n="2" unit="page">zhes pa'ang mchog sprul rin po che 'jigs med mkhyen brtse'i dbang phyug gi bka' bstsal pa bzhin gnam chos spyi la 'jug pa'i dbang du byas nas maṅga la shrī bhū ti'i bde chen chos kyi gling nas bris pa siddhi rastu///
 / </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

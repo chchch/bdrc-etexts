@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /don dam par bstod pa'i 'grel pa zab don rab tu gsal ba zhes bya ba/bla ma dang lhag pa'i lha la phyag 'tshal lo/  /spros pa nyer zhi rab tu zhi ba'i sku</tei:title><tei:author/><tei:title>༄༅/  /don dam par bstod pa'i 'grel pa zab don rab tu gsal ba zhes bya ba/bla ma dang lhag pa'i lha la phyag 'tshal lo/  /spros pa nyer zhi rab tu zhi ba'i sku</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT28942-045-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W28942</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/RONGTON/RONT045.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -16,7 +16,7 @@ rgyal ba'i gsung rab kun gyi snying po'i don//
 don bzhin ston pa klu sgrub snying po yis//
 legs par gsungs pa don dam bden pa 'di//
 rnam par bshad pa'i tshig don dbye bar bya//
-thog mar mtshan bsgyur cing bshad pa ni/ rgya gar skad du pa ra mār+thasta ba zhes bya ba ni/ bod skad du/ don dam par bstod pa zhes pa'o//
+thog mar mtshan bsgyur cing bshad pa ni/ rgya gar skad du pa ra mārthasta ba zhes bya ba ni/ bod skad du/ don dam par bstod pa zhes pa'o//
 don dam pa zhes pa ni/ don yang yin dam pa yang yin pas don dam mo//
 yang dam pa ni ye shes yin la/ de'i yul yin pas dam pa'i don zhes bya'o//
 yang na don dam ni rigs pa yin la/ de'i yul yin pas dam pa'i don no//
@@ -69,7 +69,7 @@ zab pa'i tshul gyis de lta'i bstod pa khyod la bstod par bgyi'am/ don dam par ni
 yul gang la gang gis bstod par byar med de/ chos thams cad stong pa nyid yin pa'i phyir/ don dam par ni spros bral yin pas chos gang gi sgo nas bstod par mi nus zhes bstan pa ni/ dang por skye ba dang*/ bar du gnas pa dang*/ tha mar 'dzin pa rnams spangs shing*/ don dam gang la mtha' dang dbus med pa'i phyir dang*/ gzung ba dang 'dzin pa mi mnga' ba'i phyir/ 'jig rten 'dir ni khyod la yon tan gang gi sgo nas bstod nus pa gang yang med de/ spros pa'i mtha' thams cad dang bral ba'i phyir/ yang spros pa dang bral ba'i sgo nas bstod pa ni/ ring du gshegs pa dang 'byon pa mi mnga' zhing*/ 'gro ba'i spros pa'ang spangs pa//
 bde bar gshegs pa la bstod pas/ dge ba gang thob des bsod nams dang ye shes kyi tshogs bsags nas/ bde gshegs nyid kyi gnas su 'gro bar shog /ces pa ni bsngo ba'o//
 don dam pa'i bstod pa slob dpon 'phags pa klu sgrub kyis mdzad pa rdzogs so//
-rgya gar gyi mkhan po kriṣ+ṇa paṇ+ḍi ta dang*/ lo tsā ba tshul khrims rgyal bas bsgyur cing zhus te gtan la phab pa'o//
+rgya gar gyi mkhan po kriṣṇa paṇḍi ta dang*/ lo tsā ba tshul khrims rgyal bas bsgyur cing zhus te gtan la phab pa'o//
 slob dpon klu sgrub zhal nas legs 'ongs pa'i//
 chos kyi snying po don dam bstod pa 'di//
 tshig don rnam 'grel legs par bshad pa las//
@@ -78,6 +78,6 @@ sngon chad bod 'dir 'di yi 'grel pa dag</tei:p>
 <tei:p n="4" unit="page">/cung zad tsam yang byas par ma mthong pas//
 kho bos 'bad nas cung zhig byas pa 'di//
 sngon nas med pa'i legs bshad dam pa yin//
-zhes don dam pa'i bstod pa'i 'grel pa zab don rab tu gsal ba zhes bya ba 'di ni rong ston chen pos dpal nā len+d+ra'i dgon par rab byung gi lo la sbyar ba'o//
+zhes don dam pa'i bstod pa'i 'grel pa zab don rab tu gsal ba zhes bya ba 'di ni rong ston chen pos dpal nā lend+ra'i dgon par rab byung gi lo la sbyar ba'o//
 maṅgalaṃ// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

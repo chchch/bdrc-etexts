@@ -1,11 +1,11 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">dpal yang dag thugs kyi snying po'i brgyud pa'i gsol 'debs bde chen rab 'bar bzhugs so/  /ka dag gting gsal rang byung gdod ma'i mgon/  /lhun grub ra</tei:title><tei:author/><tei:title>dpal yang dag thugs kyi snying po'i brgyud pa'i gsol 'debs bde chen rab 'bar bzhugs so/  /ka dag gting gsal rang byung gdod ma'i mgon/  /lhun grub ra</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-027-0043</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/27-SHA/Terzod-sha-P36.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250dpal yang dag thugs kyi snying po'i brgyud pa'i gsol 'debs bde chen rab 'bar bzhugs so//
 1$0000300ka dag gting gsal rang byung gdod ma'i mgon//
 lhun grub rang snang ris med rdo rje sems//
-rig rtsal rdo rje'i lug rgyud badz+ra he//
+rig rtsal rdo rje'i lug rgyud badzra he//
 gsol ba 'debs so phyag rgya che 'grub shog /dri med ye shes mig gcig mañdzu shrī//
 rig 'dzin rgyal po ro langs bde ba'i zhabs//
 yo ga'i mdzod 'dzin sangs rgyas gsang ba la//
@@ -32,5 +32,5 @@ rang rig byang chub sems la gding thob shog</tei:p>
 <tei:p n="2" unit="page">/yang dag grub pa gcig pu'i thig le mchog /bde chen ye shes rnam pa kun 'dus pa//
 rnal 'byor zab mo sku gsum rdzogs pa'i dpal//
 mkha' 'gro sgyu ma bde mchog bde thob shog /</tei:p>
-<tei:p n="3" unit="page">ces pa'ang badz+ra he ru ka'i pho brang lho brag mkhar chu lcags phur can gyi sgrub gnas su 'di nyid kyi bsnyen sgrub 'brel 'jog bgyid skabs/ pad+ma gar dbang phrin las 'gro 'dul rtsal gyis shar mar bris pa dge legs 'phel// // </tei:p>
+<tei:p n="3" unit="page">ces pa'ang badzra he ru ka'i pho brang lho brag mkhar chu lcags phur can gyi sgrub gnas su 'di nyid kyi bsnyen sgrub 'brel 'jog bgyid skabs/ padma gar dbang phrin las 'gro 'dul rtsal gyis shar mar bris pa dge legs 'phel// // </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

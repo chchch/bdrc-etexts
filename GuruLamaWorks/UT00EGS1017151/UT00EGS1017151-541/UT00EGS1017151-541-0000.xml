@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ba)༄༅/  /'jam dpal la mtshan don gyi sgo nas bstod pa bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/na mo mañdzu gho ṣā ya/skyabs mchog sangs rgyas kun gyi dang</tei:title><tei:author/><tei:title>(ba)༄༅/  /'jam dpal la mtshan don gyi sgo nas bstod pa bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/na mo mañdzu gho ṣā ya/skyabs mchog sangs rgyas kun gyi dang</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ba)༄༅/  /'jam dpal la mtshan don gyi sgo nas bstod pa bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/na mo mañdzu gho ṣā ya/skyabs mchog sangs rgyas kun gyi dang</tei:title><tei:author/><tei:title>(ba)༄༅/  /'jam dpal la mtshan don gyi sgo nas bstod pa bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/na mo mañdzu gho ṣā ya/skyabs mchog sangs rgyas kun gyi dang</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-541-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA535.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ba)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-541-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA535.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ba)༄༅//
 'jam dpal la mtshan don gyi sgo nas bstod pa bzhugs// ༄༅//
-oṃ swa sti sid+dhaṃ/ na mo mañdzu gho ṣā ya/ skyabs mchog sangs rgyas kun gyi dngos//
+oṃ swa sti siddhaṃ/ na mo mañdzu gho ṣā ya/ skyabs mchog sangs rgyas kun gyi dngos//
 dpal ldan bla ma la btud de//
 sangs rgyas thams cad bskyed pa'i yab//
 'jam pa'i dpal la bstod par bgyi//
@@ -112,5 +112,5 @@ dad pas brjod slad dge bsags pa//
 gang yin de yis 'gro ba kun//
 blo mchog 'jam mgon rjes zhugs nas//
 'jam pa'i dpal du 'gyur bar shog</tei:p>
-<tei:p n="2" unit="page">/'jam dpal gzhon nur gyur pa la mtshan don gyi sgo nas bstod pa/ tshigs su bcad pa nyi shu rtsa lnga pa 'di ni/ chos kyi rgyal po dpal ldan sa skya paṇ+ḍi ta chen po'i zhabs rdul spyi bos len pa/ 'phags pa'i ming dang ldan pas/ me mo sbrul gyi lo dbyar zla 'bring po'i tshes bcu bdun la ri bo rtse lngar sbyar ba'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+<tei:p n="2" unit="page">/'jam dpal gzhon nur gyur pa la mtshan don gyi sgo nas bstod pa/ tshigs su bcad pa nyi shu rtsa lnga pa 'di ni/ chos kyi rgyal po dpal ldan sa skya paṇḍi ta chen po'i zhabs rdul spyi bos len pa/ 'phags pa'i ming dang ldan pas/ me mo sbrul gyi lo dbyar zla 'bring po'i tshes bcu bdun la ri bo rtse lngar sbyar ba'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

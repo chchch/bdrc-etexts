@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(93)kyai/dkar phyogs skyong ba'i dgra lha che/  /rig 'dzin pad+ma'i 'bangs gcig pu/  /lha srin dregs pa yongs kyi rje/  /dge bsnyen rdo rje ngang dkar</tei:title><tei:author/><tei:title>(93)kyai/dkar phyogs skyong ba'i dgra lha che/  /rig 'dzin pad+ma'i 'bangs gcig pu/  /lha srin dregs pa yongs kyi rje/  /dge bsnyen rdo rje ngang dkar</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(93)kyai/dkar phyogs skyong ba'i dgra lha che/  /rig 'dzin padma'i 'bangs gcig pu/  /lha srin dregs pa yongs kyi rje/  /dge bsnyen rdo rje ngang dkar</tei:title><tei:author/><tei:title>(93)kyai/dkar phyogs skyong ba'i dgra lha che/  /rig 'dzin padma'i 'bangs gcig pu/  /lha srin dregs pa yongs kyi rje/  /dge bsnyen rdo rje ngang dkar</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT21825-002-0029</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W21825</tei:idno><tei:idno type="SRC_PATH">PalriParkhang/W21825-bkaq-qbum-pad-nor-02-thub-bstan-chos-kyi-glang-po/rtfs/02-penor-kabum-kha/93-94.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(93)kyai/ dkar phyogs skyong ba'i dgra lha che//
-rig 'dzin pad+ma'i 'bangs gcig pu//
+rig 'dzin padma'i 'bangs gcig pu//
 lha srin dregs pa yongs kyi rje//
 dge bsnyen rdo rje ngang dkar</tei:p>
 <tei:p n="2" unit="page">rtsal//
@@ -31,6 +31,6 @@ mthu chen srung ma'i dmag tshogs rnams//
 gsol lo mchod do mnga' gsol lo// dbu 'phang gnyen po dgung du bstod//
 rtag tu srung skyob ma g.yel bar//
 bcol pa'i phrin las 'grub par mdzod//
- ces pa'ang rang la nyer mkho'i phyir (95)du dam pa snga ma'i gsung las btus pa'ang pad+ma nor bus so///
+ ces pa'ang rang la nyer mkho'i phyir (95)du dam pa snga ma'i gsung las btus pa'ang padma nor bus so///
 / </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

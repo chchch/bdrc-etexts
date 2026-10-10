@@ -1,11 +1,11 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">bod yul bde ba'i smon lam bzhugs so/  /skyabs gnas bslu med dkon mchog rtsa ba gsum/  /khyad par gangs can mgon po spyan ras gzigs/  /rje btsun sga</tei:title><tei:author/><tei:title>bod yul bde ba'i smon lam bzhugs so/  /skyabs gnas bslu med dkon mchog rtsa ba gsum/  /khyad par gangs can mgon po spyan ras gzigs/  /rje btsun sga</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13341-067-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13341</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/Taksham-Chochod_tdoc/054_skyabs-gnas-bslu-med.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">bod yul bde ba'i smon lam bzhugs so//
 skyabs)  gnas bslu med dkon mchog rtsa ba gsum//
 khyad par gangs can mgon po spyan ras gzigs//
-rje btsun sgrol ma gu ru pad+ma 'byung*//
+rje btsun sgrol ma gu ru padma 'byung*//
 gsol ba 'debs so thugs dam zhal bzhes dgongs//
 smon lam yongs su 'grub par byin gyis rlobs//
 snyigs dus 'gro rnams bsam sbyor log pa dang*//
@@ -23,5 +23,5 @@ bod yul mtha' dbus bde skyid dpal gyis 'byor//
 sangs rgyas bstan pa dar rgyas yun gnas shog /rtsa gsum rgyal ba sras bcas bden pa'i stobs//
 'khor 'das dge ba'i rtsa ba gang mchis dang*//
 bdag cag lhag bsam rnam par dkar ba'i mthus//
-gsol btab smon pa'i 'bras bu 'grub gyur cig /ces rje bla ma rin po che 'jam dbyangs mkhyen brtse dbang po'i zhal snga nas deng sang dus kyi 'tshub 'gyur shin tu che zhing ci ltar 'gyur nges pa med pas/ rje nyid nas bod yul bde ba'i smon lam nyin zhag rer lan drug re mdzad pa yin pas khyed nas kyang de ltar gal che zhes bka' bstsal phebs pa ltar/ rang gi bsnyel gsos su bris pa ji bzhin 'grub par gyur cig /ces blo gros mtha' yas kyis tsā 'dra rin chen brag tu rgyal zla ba'i dkar phyogs 'grub pa'i sbyor ba dang ldan pa'i snga dro'i cha la bris pa ya thā sid+dhi rastu//</tei:p>
+gsol btab smon pa'i 'bras bu 'grub gyur cig /ces rje bla ma rin po che 'jam dbyangs mkhyen brtse dbang po'i zhal snga nas deng sang dus kyi 'tshub 'gyur shin tu che zhing ci ltar 'gyur nges pa med pas/ rje nyid nas bod yul bde ba'i smon lam nyin zhag rer lan drug re mdzad pa yin pas khyed nas kyang de ltar gal che zhes bka' bstsal phebs pa ltar/ rang gi bsnyel gsos su bris pa ji bzhin 'grub par gyur cig /ces blo gros mtha' yas kyis tsā 'dra rin chen brag tu rgyal zla ba'i dkar phyogs 'grub pa'i sbyor ba dang ldan pa'i snga dro'i cha la bris pa ya thā siddhi rastu//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

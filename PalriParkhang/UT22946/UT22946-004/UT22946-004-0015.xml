@@ -1,12 +1,12 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(457)༄༅/  /rta mgrin yang phyung nag po'i brgyud 'debs zhugs so/  /(458)oṃ āḥhūm̐:gdod ma'i mgon po chos sku snang mtha' yas/  /lnga ldan longs </tei:title><tei:author/><tei:title>(457)༄༅/  /rta mgrin yang phyung nag po'i brgyud 'debs zhugs so/  /(458)oṃ āḥhūm̐:gdod ma'i mgon po chos sku snang mtha' yas/  /lnga ldan longs </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22946-004-0015</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22946</tei:idno><tei:idno type="SRC_PATH">PalriParkhang/W22946-mkhan-po-ngag-dbang-dpal-bzang-_ngaga/rtfs/NGAGA-vol-4-NGA/nga_0457-0462_pecha.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(457)༄༅//
 rta mgrin yang phyung nag po'i brgyud 'debs zhugs so// (458)oṃ āḥhūm̐: gdod ma'i mgon po chos sku snang mtha' yas//
 lnga ldan longs sku 'phags mchog spyan ras gzigs//
 thugs rje sprul sku dbang chen rta mchog dpal//
-dbyer med mtsho skyes sprul sku pad+ma 'byung*//
+dbyer med mtsho skyes sprul sku padma 'byung*//
 bla ma yi dam dbyer med la gsol ba 'debs//
 yi dam bla ma dbyer med la gsol ba 'debs//
 gsang sngags bka' yi sdud po mtsho rgyal yum//
@@ -29,12 +29,12 @@ bde chen rang grol sangs rgyas bkra shis dang*//
 kun dga' dpal ba se ston rin chen rgyal//
 mgon po zla ba chos rgyal dbang po'i sde//
 karma don yod karma chags med zhabs//
-bla ma yi dam dbyer med la= /yi dam bla ma dbyer med la= pad+ma dar rgyas pad+ma bstan 'dzin dang*//
+bla ma yi dam dbyer med la= /yi dam bla ma dbyer med la= padma dar rgyas padma bstan 'dzin dang*//
 rig 'dzin bzang po mthu stobs rnam par rgyal//
 'jam dbyangs bla ma mkhyen brtse'i dbang po dang*//
 rgyal bas lung bstan blo gros mtha' yas dang*//
 kun mkhyen bla ma chos kyi rgya mtsho'i zhabs//
-lam 'di'i rnal 'byor pad+ma las 'brel rtsal//
+lam 'di'i rnal 'byor padma las 'brel rtsal//
 bla ma yi dam dbyer med la gsol ba 'debs//
 yi dam bla ma dbyer med la gsol ba 'debs//
 brgyud gsum rig 'dzin bla ma'i tshogs rnams la//
@@ -49,6 +49,6 @@ khams gsum dbang du 'du bar byin gyis rlobs//
 srid gsum zil gyis non par byin gyis rlobs//
 sde brgyad bran du khol bar byin gyis rlobs//
 mchog thun dbyer med 'grub par byin gyis rlobs//
-phrin las rnam bzhi 'grub par byin gyis rlobs/ zhes pa'ang rgyud kyi dgongs pa bzhin dgos pa'i dbang gis pad+ma las 'brel rtsal gyis bris pa dge'o///
+phrin las rnam bzhi 'grub par byin gyis rlobs/ zhes pa'ang rgyud kyi dgongs pa bzhin dgos pa'i dbang gis padma las 'brel rtsal gyis bris pa dge'o///
 ///////////////////////////////////////// </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(nya)༄༅/  /ngan song sbyong rgyud kyi sa bcad bzhugs/  /༄༅/  /bla ma dam pa rnams la phyag 'tshal lo/  /ngan song thams cad yongs su sbyong ba'i rgyud 'di la </tei:title><tei:author/><tei:title>(nya)༄༅/  /ngan song sbyong rgyud kyi sa bcad bzhugs/  /༄༅/  /bla ma dam pa rnams la phyag 'tshal lo/  /ngan song thams cad yongs su sbyong ba'i rgyud 'di la </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-179-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA174.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(nya)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-179-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA174.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(nya)༄༅//
 ngan song sbyong rgyud kyi sa bcad bzhugs// ༄༅//
 bla ma dam pa rnams la phyag 'tshal lo//
 ngan song thams cad yongs su sbyong ba'i rgyud 'di la don bzhi ste gleng gzhi dang*/ gleng bslang dang*/ rgyud kyi gzhung dngos dang*/ rjes su yi rang ba'o//
@@ -119,5 +119,5 @@ ngan song thams cad yongs su sbyong ba gzi brjid kyi rgyal po'i brtag pa'i dbu n
 rin chen bzang po'i lugs bzhin du//
 bla ma'i gsung la brten byas nas//
 'di ni dpal ldan sa skyar bris//
-oṃ badz+ra satwa sa ma ya ma nu pā la ya/ badz+ra satwa twe no pa tiṣ+ṭha/ dṛ ḍho me bha wa/ su to ṣ+yo ma bha wa/ a nu rak+to me bha wa/ su po ṣ+yo me bha wa/ sarba sid+dhi m+me pra yats+tsha/ sarba karma su tsa me/ tsit+taṃ shri yaṃḥku ru hūm̐/ ha ha ha ha ho/ bha ga wān sarba ta thā ga ta badz+ra mā me muñtsa badz+rī bha wa/ ma hā sa ma ya sa twa a// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+oṃ badzra satwa sa ma ya ma nu pā la ya/ badzra satwa twe no pa tiṣṭha/ dṛ ḍho me bha wa/ su to ṣyo ma bha wa/ a nu rakto me bha wa/ su po ṣyo me bha wa/ sarba siddhi mme pra yatstsha/ sarba karma su tsa me/ tsittaṃ shri yaṃḥku ru hūm̐/ ha ha ha ha ho/ bha ga wān sarba ta thā ga ta badzra mā me muñtsa badzrī bha wa/ ma hā sa ma ya sa twa a// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

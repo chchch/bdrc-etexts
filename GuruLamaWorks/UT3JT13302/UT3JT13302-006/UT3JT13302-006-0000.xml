@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /sgrol dkar yid bzhin 'khor lo'i bla ma brgyud pa'i gsol 'debs bzhugs so/  /༈/thub pa'i dbang po rje btsun sgrol ma'i zhabs/  /ngag dbang grags</tei:title><tei:author/><tei:title>༄༅/  /sgrol dkar yid bzhin 'khor lo'i bla ma brgyud pa'i gsol 'debs bzhugs so/  /༈/thub pa'i dbang po rje btsun sgrol ma'i zhabs/  /ngag dbang grags</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13302-006-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13302</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/KHADON/KHAD006.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -23,7 +23,7 @@ gsol ba 'debs so= /(mkhyen rab byams pa rmor chen gnas gsar ba//
 kun dga' blo gros kun dga' mkhas grub dbang*//
 rigs kun khyab bdag kun dga' bstan 'dzin la//
 gsol ba 'debs so= /yid bzhin 'khor lo ngur smrig gar gyi rol//
-mkhyen brtse'i dbang po thugs sras dh+wa dza'i mtshan//
+mkhyen brtse'i dbang po thugs sras dhwa dza'i mtshan//
 mkhan chen dpal chos shar chen 'jam dbyangs rje//
 gsol ba 'debs so= /)(kun dga' bstan 'dzin mkhyen brtse'i dbang po la//
 gsol ba 'debs so= /blo gros rgyal mtshan blo gter dbang po dang*//
@@ -38,7 +38,7 @@ ming gi mthar byas 'chi med 'grub par shog</tei:p>
 'chi med bdud rtsi'i zil dngar 'babs pa yis//
 lus kun phyur bur gtams pa'i dga' ston gyis//
 'chi med tshe yi dngos grub 'grub par shog /'od zer drug sbrags ldan pa'i srung 'khor ni//
-ut+pal gsar pas bar mtshams kun khyab pa//
+utpal gsar pas bar mtshams kun khyab pa//
 sra brtan rdo rje'i rang bzhin bsgoms pa yis//
-mi mthun phyogs las rnam par rgyal bar shog /ces pa 'di yang ban+de blo gsal gyis sbyar ba bkra shis par gyur cig gong gi brgyud pa'i kha skong tshar chen man mañdzu gho ṣas sbyar ba dge'o// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
+mi mthun phyogs las rnam par rgyal bar shog /ces pa 'di yang bande blo gsal gyis sbyar ba bkra shis par gyur cig gong gi brgyud pa'i kha skong tshar chen man mañdzu gho ṣas sbyar ba dge'o// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

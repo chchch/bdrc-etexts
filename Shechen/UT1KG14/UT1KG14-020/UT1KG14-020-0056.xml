@@ -1,16 +1,16 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">zab bdun tshe dkar sman mchod ni/chos sku kun bzang longs sku tshe dpag med/  /rdo rje sems dpa' 'jig rten dbang phyug dang*/  /dbang gi lha mo in+d+ra </tei:title><tei:author/><tei:title>zab bdun tshe dkar sman mchod ni/chos sku kun bzang longs sku tshe dpag med/  /rdo rje sems dpa' 'jig rten dbang phyug dang*/  /dbang gi lha mo in+d+ra </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">zab bdun tshe dkar sman mchod ni/chos sku kun bzang longs sku tshe dpag med/  /rdo rje sems dpa' 'jig rten dbang phyug dang*/  /dbang gi lha mo ind+ra </tei:title><tei:author/><tei:title>zab bdun tshe dkar sman mchod ni/chos sku kun bzang longs sku tshe dpag med/  /rdo rje sems dpa' 'jig rten dbang phyug dang*/  /dbang gi lha mo ind+ra </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-020-0056</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/20-WA/Terzod-wa-P55.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250zab bdun tshe dkar sman mchod ni/1$0000300 chos sku kun bzang longs sku tshe dpag med//
 rdo rje sems dpa' 'jig rten dbang phyug dang*//
-dbang gi lha mo in+d+ra bhū ti la//
+dbang gi lha mo ind+ra bhū ti la//
 sman mchod 'bul lo tshe dbang dngos grub stsol//
 dga' rab rdo rje shrī siṃ ha dang*//
 nā gārdzu na hūm̐ mdzad bi ma la//
 tshe mchog grub pa'i rig 'dzin rgya mtsho la//
 sman mchod 'bul lo tshe dbang dngos grub stsol//
-mtsho skyes rdo rje lha lcam man+dā ra//
+mtsho skyes rdo rje lha lcam mandā ra//
 ye shes mtsho rgyal mnga' bdag yab sras dang*//
 lo chen bai ro gnyags chen dzñā na la//
 sman mchod 'bul lo tshe dbang dngos grub stsol//
@@ -23,5 +23,5 @@ tshe bdag rigs lnga pho nya mgyogs ma bzhi//
 gter bdag zhing skyong snang srid ka dag la//
 sman mchod 'bul lo tshe dbang dngos grub stsol//
 </tei:p>
-<tei:p n="2" unit="page">dngos grub blang ba ni/ gnas gsum du thig le byas la/ kā ya wā ka tsit+ta sid+dhi pha la oṃ āḥhūm̐/ lcer myang la/ badz+ra a mṛta swa daṃ ku ru ṣā me/ zhes pa'ang nyer mkho'i dbang gis brag dmar g.ya' ma lung 'chi med tshe'i ke'u tshang du gu ṇas so// //</tei:p>
+<tei:p n="2" unit="page">dngos grub blang ba ni/ gnas gsum du thig le byas la/ kā ya wā ka tsitta siddhi pha la oṃ āḥhūm̐/ lcer myang la/ badzra a mṛta swa daṃ ku ru ṣā me/ zhes pa'ang nyer mkho'i dbang gis brag dmar g.ya' ma lung 'chi med tshe'i ke'u tshang du gu ṇas so// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

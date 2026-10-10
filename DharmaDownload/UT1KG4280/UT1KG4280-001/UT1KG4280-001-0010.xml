@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /zab lam nā ro chos drug gi/'khrul 'khor zin bris mthong tsam gyis/  /khong chud don dang ldan pa yi/  /gsung rgyun go bde rab gsal bzhugs/  /</tei:title><tei:author/><tei:title>༄༅/  /zab lam nā ro chos drug gi/'khrul 'khor zin bris mthong tsam gyis/  /khong chud don dang ldan pa yi/  /gsung rgyun go bde rab gsal bzhugs/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG4280-001-0010</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG4280</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Situpa-09-sung-bum/rtfs/AHA/010_9th-Situ-Kabum_AHA_qkhrul-qkhor-zin-bris-mthong-bas-khong-chud.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -7,7 +7,7 @@ zab lam nā ro chos drug gi /'khrul 'khor zin bris mthong tsam gyis//
 khong chud don dang ldan pa yi//
 gsung rgyun go bde rab gsal bzhugs//
 </tei:p>
-<tei:p n="2" unit="page">swasti pra dza bh+yaḥ mchog tu mi 'gyur chos dbyings ye shes khams//
+<tei:p n="2" unit="page">swasti pra dza bhyaḥ mchog tu mi 'gyur chos dbyings ye shes khams//
 bde ba chen po'i rang bzhin 'dus ma byas//
 sgyu 'phrul rdo rje'i rnam par rol pa ni//
 cir yang ston pa don brgyud bla mar 'dud//
@@ -306,6 +306,6 @@ lam bzang ma nor 'dir 'bad nas//
 lam gyi mthar thug phyag rgya che 'i//
 lam mchog mngon du rtogs gyur cig</tei:p>
 <tei:p n="10" unit="page">/</tei:p>
-<tei:p n="11" unit="page">ces pa'ang gong ma rnams kyi gsung rgyun bzhin/ si tu pad+ma nyin byed dbang pos zin thor spel ba dge/ sarba maṅga laṃ///
+<tei:p n="11" unit="page">ces pa'ang gong ma rnams kyi gsung rgyun bzhin/ si tu padma nyin byed dbang pos zin thor spel ba dge/ sarba maṅga laṃ///
 / </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

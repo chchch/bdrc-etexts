@@ -1,11 +1,11 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /grang sbyor ril nag gi phan yon mos ldan dga' ba'i dbyar rnga bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /grang sbyor ril nag gi phan yon mos ldan dga' ba'i dbyar rnga bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-015-0004</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHYEN/rtfs/volume-015/13BA.PA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅/ /grang sbyor ril nag gi phan yon mos ldan dga' ba'i dbyar rnga bzhugs so//</tei:p>
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-015-0004</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHyEN/rtfs/volume-015/13BA.PA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅/ /grang sbyor ril nag gi phan yon mos ldan dga' ba'i dbyar rnga bzhugs so//</tei:p>
 <tei:p n="2" unit="page">tshogs gnyis rin chen mchog gi khang bzang nas/ bslab gsum yongs rdzogs seng chen 'gying khri'i steng*//
 mkhyen ldan lha dbang mnyam nyid rdo rje can//
-bai ḍūr+ya mtshungs khyod zhabs spyi bos mchod//
+bai ḍūrya mtshungs khyod zhabs spyi bos mchod//
 gang zhig mkhas dang grub pa'i dpal mnga' zhing*//
 blo gros chen pos log bshad tshar bcad nas/ */ston pa gnyis pa 'jigs med zla bral ba//
 rta dbyangs shākya'i mchog kyang phyag bya'i 'os//
@@ -36,7 +36,7 @@ don snod gar bab gnyen po bzang po drug</tei:p>
 gang chung sug smel la sogs gnyen po'i mchog /'bru drug yungs kar pad khang nyung son te//
 sha dug gnyen por gzi mdangs med pa dang*//
 byi'u la phug nyid ni mchog yin no//
-shing dug reg dug tsan+dan a gar sogs//
+shing dug reg dug tsandan a gar sogs//
 rwa dug gnyen por spyi bor chig skyes yin//
 mkha' lding dug la rma bya'i sgro gzhob dang*//
 gzugs mo byi thur dag ni mchog yin no//
@@ -65,7 +65,7 @@ blo chung byis pa'i sman sbyor ma yin zhing*//
 zab gsang mkha' 'gro'i byin rlabs bka' rgya can//
 'di lta'i ril nag chen mo'i phan yon 'di//
 shākya'i dge slong dharma kīrti yis//
-mdo khams sa yi thig le spu thog gi|&#160;|mtsho 'gram ut+pal ser tshal ljongs su sbyar//
+mdo khams sa yi thig le spu thog gi|&#160;|mtsho 'gram utpal ser tshal ljongs su sbyar//
 dge 'dis 'gro kun thams cad mkhyen thob shog</tei:p>
 <tei:p n="4" unit="page">/zur mkhar ba mnyam nyid rdo rje'i gdams pa las byung ba'o// //maṅga laṃ//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

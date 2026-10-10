@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">brgyud pa'i gsol 'debs kyi rim pa bzhugs so/  /oṃ āḥhūm̐/nub phyogs bde ba chen po'i zhing khams kyi/  /pad+ma stong ldan 'od kyi gzhal yas su/ </tei:title><tei:author/><tei:title>brgyud pa'i gsol 'debs kyi rim pa bzhugs so/  /oṃ āḥhūm̐/nub phyogs bde ba chen po'i zhing khams kyi/  /pad+ma stong ldan 'od kyi gzhal yas su/ </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">brgyud pa'i gsol 'debs kyi rim pa bzhugs so/  /oṃ āḥhūm̐/nub phyogs bde ba chen po'i zhing khams kyi/  /padma stong ldan 'od kyi gzhal yas su/ </tei:title><tei:author/><tei:title>brgyud pa'i gsol 'debs kyi rim pa bzhugs so/  /oṃ āḥhūm̐/nub phyogs bde ba chen po'i zhing khams kyi/  /padma stong ldan 'od kyi gzhal yas su/ </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-019-0021</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/19-DZA/Terdzo-dza-P20.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250brgyud pa'i gsol 'debs kyi rim pa bzhugs so//
 1$0000300oṃ āḥhūm̐/ nub phyogs bde ba chen po'i zhing khams kyi//
-pad+ma stong ldan 'od kyi gzhal yas su//
+padma stong ldan 'od kyi gzhal yas su//
 mgon po tshe dpag med la gsol ba 'debs//
 'chi med tshe dbang thob par byin gyis rlobs//
 chos dbyings rnam par dag pa'i zhing khams su//
@@ -16,14 +16,14 @@ rang byung 'gyur ba med pa'i gzhal yas su//
 mgon po spyan ras gzigs la gsol ba 'debs//
 skye 'chi 'gyur med thob par byin gyis rlobs//
 rnga yab zangs mdog dpal ri'i gnas mchog tu//
-pho brang pad+ma 'od kyi gzhal yas su//
-rig 'dzin pad+ma thod phreng la= tshe yi rig 'dzin thob par byin gyis rlobs//
-bsam yas lhun gyis grub pa'i gtsug lag gi /sgrub gnas ār+ya pa lo'i gnas mchog tu//
+pho brang padma 'od kyi gzhal yas su//
+rig 'dzin padma thod phreng la= tshe yi rig 'dzin thob par byin gyis rlobs//
+bsam yas lhun gyis grub pa'i gtsug lag gi /sgrub gnas ārya pa lo'i gnas mchog tu//
 grub chen rje 'bangs grogs lnga la= tshe sgrub mtha' ru phyin par byin gyis rlobs//
 rgyal khams phyogs med gnas kyi dam pa ru//
 snang ba rang sar grol ba'i pho brang du//
-chos rgyal rat+na gling pa la= thugs rgyud byin rlabs 'pho bar byin gyis rlobs//
-spyi gtsug nyi zla pad+ma'i gdan steng du//
+chos rgyal ratna gling pa la= thugs rgyud byin rlabs 'pho bar byin gyis rlobs//
+spyi gtsug nyi zla padma'i gdan steng du//
 drin chen rtsa ba'i bla ma la= 'gro don phyogs med 'byung bar byin gyis rlobs//
 rang lus rtsa khams dag pa'i dkyil 'khor du//
 yi dam zhi khro'i lha tshogs la gsol ba 'debs//
@@ -45,5 +45,5 @@ mchog tu sku tshe ring bar byin gyis rlobs//
 phrin las dar zhing rgyas par byin gyis rlobs//
 bla ma dang 'du 'bral med par byin gyis rlobs//
 </tei:p>
-<tei:p n="2" unit="page">tshe khrid rdo rje'i phreng ba'i gsol 'debs 'di/ rje 'bangs grogs lnga yan ni shog ser las yin zhing*/ 'og ma rnams cung zad bskyed pa 'di/ me pho stag gi lo la dwangs spro bsam gtan gling du rat+na gling pas yi ger bkod pa'o// //</tei:p>
+<tei:p n="2" unit="page">tshe khrid rdo rje'i phreng ba'i gsol 'debs 'di/ rje 'bangs grogs lnga yan ni shog ser las yin zhing*/ 'og ma rnams cung zad bskyed pa 'di/ me pho stag gi lo la dwangs spro bsam gtan gling du ratna gling pas yi ger bkod pa'o// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(327)༄༅/  /dpal mchog dang po'i sangs rgyas kyi man ngag zab lam rdo rje'i rnal 'byor byin rlabs bka' brgyud bla mar gsol ba 'debs pa brgyud 'dzin ma</tei:title><tei:author/><tei:title>(327)༄༅/  /dpal mchog dang po'i sangs rgyas kyi man ngag zab lam rdo rje'i rnal 'byor byin rlabs bka' brgyud bla mar gsol ba 'debs pa brgyud 'dzin ma</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23605-015-0011</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23605</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/gdams-ngag-mdzod/rtfs/15_gdams-ngag-mdzod_ba/15_10_gsol-qdebs-brgyud-qdzin-mchog-rgyas.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ (327)༄༅//
@@ -48,7 +48,7 @@ gsol ba= /brgyud pa= /sbas pa'i sangs rgyas chos rje kun bzang dbang*//
 rgyal sras rig 'dzin tshe dbang nor bu'i sde//
 gsol ba= /brgyud pa= / kha skong ni/ byams mgon kun mkhyen dharmā ka ra'i zhabs//
 bshad sgrub phrin las thugs kyi rdo rje can//
-gsol ba= /brgyud pa= / sh+tso ka 'di pad+ma nyin byed dbang pos mdzad/ de'i zhal skong ni/ mi 'gyur mchog bde grub pa pad+ma'i mtshan//
+gsol ba= /brgyud pa= / shtso ka 'di padma nyin byed dbang pos mdzad/ de'i zhal skong ni/ mi 'gyur mchog bde grub pa padma'i mtshan//
 'jam pa'i dbyangs dngos blo gros mtha' yas zhabs//
 gsol ba= /brgyud pa= / yang na ngag dbang phrin las kyi rjes su/ snying po'i don gzigs ngag dbang rnam par rgyal//
 rjes dran mngon gyur kun dga' chos 'phel la//
@@ -71,7 +71,7 @@ ci bzhin blor chud rdo rje'i rnal 'byor lam//
 bsgom pas tshe gcig nyid la dbang bzhi'i don//
 ma nor rdor sems 'bras bu thob byin rlobs//
 </tei:p>
-<tei:p n="4" unit="page">ces rgyud rgyal dus kyi 'khor lo'i man ngag zab lam rdo rje'i rnal 'byor sbyor ba yan lag drug gi byin rlabs brgyud pa'i bla ma la gsol ba 'debs pa 'di'ang rgyal khams pa tshe dbang nor bus lho phyogs kyi sham+bha la jo nang dpal gyi ri khrod du shing stag nag zla'i chos nyer gsum la chos 'chad pa'i thun skabs gcig tu brjod pa'o//
+<tei:p n="4" unit="page">ces rgyud rgyal dus kyi 'khor lo'i man ngag zab lam rdo rje'i rnal 'byor sbyor ba yan lag drug gi byin rlabs brgyud pa'i bla ma la gsol ba 'debs pa 'di'ang rgyal khams pa tshe dbang nor bus lho phyogs kyi shambha la jo nang dpal gyi ri khrod du shing stag nag zla'i chos nyer gsum la chos 'chad pa'i thun skabs gcig tu brjod pa'o//
 dge'o//
 </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

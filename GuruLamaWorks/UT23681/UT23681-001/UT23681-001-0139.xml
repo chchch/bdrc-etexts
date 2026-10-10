@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(cha)༄༅/  /dpal phyag na rdo rje 'byung po 'dul byed kyi bstod pa bzhugs so/  /dpal      'phags pa rin po ches mdzad chen nam mkha'i mdog gi mdangs lda</tei:title><tei:author/><tei:title>(cha)༄༅/  /dpal phyag na rdo rje 'byung po 'dul byed kyi bstod pa bzhugs so/  /dpal      'phags pa rin po ches mdzad chen nam mkha'i mdog gi mdangs lda</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23681-001-0139</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23681</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/Drub-thab-kuntu/rtfs/volume-001-014/DBTU139.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(cha)༄༅//
@@ -12,7 +12,7 @@ phyag na rdo rje bsnams la phyag 'tshal bstod//
 srid gsum       yig rnying las so/ mkha' dbyings dag pa'i thugs//
 char sprin sku lus dang 'grogs nas//
 hūm̐ phaṭa 'brug gi nga ro yis//
-log 'dren 'dul mdzad dpa' bor 'dud/ ༈ /oṃ swa sti/ dus gsum rgyal ba'i gsang ba kun gyi bdag /mthu stobs thogs med badz+ra hi ra kas//
+log 'dren 'dul mdzad dpa' bor 'dud/ ༈ /oṃ swa sti/ dus gsum rgyal ba'i gsang ba kun gyi bdag /mthu stobs thogs med badzra hi ra kas//
 sa gsum log 'dren 'byung po ji snyed kun//
 phye mar 'dul mdzad lag na rdo rjer bstod//
 khyod sku srod kyi mkha' dbyings me chen gyis//
@@ -43,5 +43,5 @@ mdor na sgo gsum bgyi pa gang lags pa//
 chos min spyod pas rab tu dben gyur cing*//
 thams cad mkhyen cing gzigs pa'i go 'phang mchog</tei:p>
 <tei:p n="3" unit="page">/bde blag nyid du thob par mdzad du gsol//
-zhes pa'ang mchog sprul thams cad mkhyen pa'i bka' phebs bzhin gzims 'og sprul ming pa byams pa ngag dbang bstan 'dzin snyan grags kyis bris pa maṅga laṃ bha ba tu// //gur nas gsungs pa'i yi ge brgya pa ni/ oṃ badz+ra satwa sa ma ya/ ma nu pā la ya/ badz+ra satwa twe no pa tiṣ+ṭha dṛ dho me bha wa/ su to sh+yo me bha wa/ su po sh+yo me bha wa/ a nu rak+to me bha wa/ sha shwa to me bha wa/ hṛ da yam+me a dhi tiṣ+ṭha/ sarba sid+dhi m+me pra yats+tsha/ sarba karma su tsa me/ tsit+taṃ shri yaḥku ru hūm̐/ ha ha ha ha hoḥ bha ga wān sarba ta thā ga ta badz+ra mā me muñtsa/ badz+rī bha wa mahā sa ma ya sa twa āḥ// // ༈ bal yul mchod rten rin po che bya rung kha shor gyi nye 'gram rgyal yongs sa chen zhes pa glog klad dpar khang las/ bder gshegs 7skyabs rje bco brgyad khri chen rdo rje 'chang mchog gi thugs dgongs rdzogs ched/ skyabs 'og pa tshar grwa gu rus glog klad phyag deb ched 'grem spel zhus pa'i dge 'bras sangs rgyas zhing du bsngo'o// //</tei:p>
+zhes pa'ang mchog sprul thams cad mkhyen pa'i bka' phebs bzhin gzims 'og sprul ming pa byams pa ngag dbang bstan 'dzin snyan grags kyis bris pa maṅga laṃ bha ba tu// //gur nas gsungs pa'i yi ge brgya pa ni/ oṃ badzra satwa sa ma ya/ ma nu pā la ya/ badzra satwa twe no pa tiṣṭha dṛ dho me bha wa/ su to shyo me bha wa/ su po shyo me bha wa/ a nu rakto me bha wa/ sha shwa to me bha wa/ hṛ da yamme a dhi tiṣṭha/ sarba siddhi mme pra yatstsha/ sarba karma su tsa me/ tsittaṃ shri yaḥku ru hūm̐/ ha ha ha ha hoḥ bha ga wān sarba ta thā ga ta badzra mā me muñtsa/ badzrī bha wa mahā sa ma ya sa twa āḥ// // ༈ bal yul mchod rten rin po che bya rung kha shor gyi nye 'gram rgyal yongs sa chen zhes pa glog klad dpar khang las/ bder gshegs 7skyabs rje bco brgyad khri chen rdo rje 'chang mchog gi thugs dgongs rdzogs ched/ skyabs 'og pa tshar grwa gu rus glog klad phyag deb ched 'grem spel zhus pa'i dge 'bras sangs rgyas zhing du bsngo'o// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

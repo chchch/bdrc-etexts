@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rje btsun til+li pas nā ro pa la gdams pa'i phyag chen gaṅga ma zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /rje btsun til+li pas nā ro pa la gdams pa'i phyag chen gaṅga ma zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rje btsun tilli pas nā ro pa la gdams pa'i phyag chen gaṅga ma zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /rje btsun tilli pas nā ro pa la gdams pa'i phyag chen gaṅga ma zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT10736-021-0001</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W10736</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Padma-Karpo/rtfs/21_zha/21_01_zha_rje-btsun-tilli-pas-nqa-ro-pa-la-gdams-paqi-phyag-chen-ganga-ma.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
-rje btsun til+li pas nā ro pa la gdams pa'i phyag chen gaṅga ma zhes bya ba bzhugs so//
+rje btsun tilli pas nā ro pa la gdams pa'i phyag chen gaṅga ma zhes bya ba bzhugs so//
 </tei:p>
 <tei:p n="2" unit="page">"$ ༄༅//
 rgya gar skad du/ ma hā mu drā u pa de shaṃ/ bod skad du/ phyag rgya chen po'i man ngag /dpal ldan lhan cig skyes pa la phyag 'tshal lo//
@@ -111,6 +111,6 @@ bkrag mdangs gsal zhing stobs kyang seṅge 'dra//
 thun mong dngos grub myur thob mchog la gzhol//
 phyag rgya chen po gnad kyi gdams pa 'di//
 'gro ba skal ldan snying la gnas par shog</tei:p>
-<tei:p n="4" unit="page">/dpal til+li pas nā ro pa la chu bo gaṅga'i 'gram du gsungs pa rdzogs so///
+<tei:p n="4" unit="page">/dpal tilli pas nā ro pa la chu bo gaṅga'i 'gram du gsungs pa rdzogs so///
 /dge'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

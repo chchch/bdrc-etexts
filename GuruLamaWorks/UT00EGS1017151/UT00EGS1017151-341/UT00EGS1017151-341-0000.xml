@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /legs bshad 'phrul gyi drwa ba bzhugs/  /༄༅/  /bcom ldan 'das thams cad mkhyen pa la phyag 'tshal lo/  /thams cad mkhyen pas bdag rgyud byin gyis</tei:title><tei:author/><tei:title>(na)༄༅/  /legs bshad 'phrul gyi drwa ba bzhugs/  /༄༅/  /bcom ldan 'das thams cad mkhyen pa la phyag 'tshal lo/  /thams cad mkhyen pas bdag rgyud byin gyis</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-341-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA335.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-341-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA335.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
 legs bshad 'phrul gyi drwa ba bzhugs// ༄༅//
 bcom ldan 'das thams cad mkhyen pa la phyag 'tshal lo//
 thams cad mkhyen pas bdag rgyud byin gyis brlab pa yi//
@@ -42,5 +42,5 @@ blo gros rno bas phyi nang skyon yon rig /rnam 'byed gze bas bstan bcos 'di brts
 phan bde'i lus rgyal legs bshad drwa bas rab brgyan nas//
 thos mang ral gri'i shes rab blo gros snang bzung ste//
 gti mug blun rmongs g.yul las rab rgyal gyur//
-kun la phan pa'i bstan bcos legs bshad 'phrul gyi drwa ba zhes bya ba/ dpal ldan sa skya pa ṇ+ḍi tas sbyar ba'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+kun la phan pa'i bstan bcos legs bshad 'phrul gyi drwa ba zhes bya ba/ dpal ldan sa skya pa ṇḍi tas sbyar ba'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

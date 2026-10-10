@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /seng gdong ma'i sgrub thabs bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /seng gdong ma'i sgrub thabs bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-033-0006</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/33-GI/TERDZO-GI-P05.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄༅//
@@ -10,7 +10,7 @@ seng gdong ma'i sgrub thabs bzhugs so//
 steng 'og phyogs mtshams thams cad kun//
 gnam lcags 'khor lo rtsibs stong dang*//
 rgya gram mkha' 'gro gri gug dang*//
-phur pa dgra s+t+wa kha ṭ+wāṃ dang*//
+phur pa dgra st+wa kha ṭwāṃ dang*//
 ral gri me dpung 'bar ba'i gur//
 bar mtshams las byed mkha' 'gros gang*//
 bar chad dgra bgegs thal bar brlag /de dbus gnam lcags sgo med mkhar//
@@ -21,7 +21,7 @@ nyi zla'i nang du 'od lnga'i gur//
 de dbus chos 'byung pad nyi ro yi steng*//
 rang nyid ye shes mkha' 'gro sku mdog mthing*//
 seng zhal dkar khro spyan gsum g.yu ral sngo//
-gri thod kha ṭ+wāṃ bsnams shing gar stabs 'gying*//
+gri thod kha ṭwāṃ bsnams shing gar stabs 'gying*//
 rdor khrab dur khrod chas brgyad dar nag gsol//
 phung khams skye mched ba spu mkha' 'gros gtams//
 gnas gsum 'bru gsum hūm̐ las 'od 'phros pas//
@@ -30,7 +30,7 @@ dzaḥhūm̐ baṃ hoḥganyis su med par gyur//
 dbang lhas dbang bskur mi bskyod rgyas gdab pa'i//
 thugs kar nyi steng 'khor lo'i lte bar hūm̐//
 bcu bzhi'i rtsibs steng sngags phreng g.yon du 'khor//
-aḥkaḥsaḥmaḥraḥtsaḥshaḥdaḥraḥsaḥmaḥraḥyaḥphaṭaḥ ar+ghaṃ  sogs/ dpal ldan rdo rje lha mo ni//
+aḥkaḥsaḥmaḥraḥtsaḥshaḥdaḥraḥsaḥmaḥraḥyaḥphaṭaḥ arghaṃ  sogs/ dpal ldan rdo rje lha mo ni//
  sogs bstod pa gang rung bya/ rtsibs nang dkar mo stong gis nang gzigs srung*//
 gnas gsum 'od kyis 'khor 'das mthu byin bsdus//
 bsrung bya la thim gzi brjid nus mthu rgyas//
@@ -53,6 +53,6 @@ de las me byung spyi bo'i dkar mor phog /de las bdud rtsi'i rgyun babs dga' bzhi
 snod bcud hūm̐ thim de yang mi dmigs pa//
 stong gsal ye dwangs nyid de nam mkha' 'dra//
 dge bas 'gro kun rdo rje 'chang 'grub shog / ces pa 'di'i gzhung lugs man ngag yun ring du goms par byas pa karma a rā gas sbyar zhing rang gis kyang nyams su myong bar byas so///
- / hrīḥhūm̐ bh+yo zlog phaṭaḥyaḥraḥmaḥsaḥraḥdaḥshaḥtsaḥraḥmaḥsaḥkaḥ.aḥ ya ma ru ṭa sha da ra sa ma ra ya phaṭaḥsod sodaḥ e ka du na rak+ṣa/ ma hā du na rak+ṣa/ tsa dur snying na rak+ṣa/ tsa ra du na rak+ṣa/ su tri du na rak+ṣa/ ma ra du na rak+ṣa/ e ka du na zlog /ma hā du na zlog /tsa dur snying na zlog /ra tsa du na zlog /su tri du na zlog /ma ra du na zlog//
+ / hrīḥhūm̐ bhyo zlog phaṭaḥyaḥraḥmaḥsaḥraḥdaḥshaḥtsaḥraḥmaḥsaḥkaḥ.aḥ ya ma ru ṭa sha da ra sa ma ra ya phaṭaḥsod sodaḥ e ka du na rakṣa/ ma hā du na rakṣa/ tsa dur snying na rakṣa/ tsa ra du na rakṣa/ su tri du na rakṣa/ ma ra du na rakṣa/ e ka du na zlog /ma hā du na zlog /tsa dur snying na zlog /ra tsa du na zlog /su tri du na zlog /ma ra du na zlog//
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

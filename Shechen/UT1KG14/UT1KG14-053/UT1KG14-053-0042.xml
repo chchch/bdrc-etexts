@@ -1,12 +1,12 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">yang zlog rdo rje pha lam gyi rgyun khyer phas rgol phyir zlog ni/na mo/bla ma mchog gsum 'jam dpal lhar/  /gus pas skyabs mchi mkha' mnyam 'gro/  /bla </tei:title><tei:author/><tei:title>yang zlog rdo rje pha lam gyi rgyun khyer phas rgol phyir zlog ni/na mo/bla ma mchog gsum 'jam dpal lhar/  /gus pas skyabs mchi mkha' mnyam 'gro/  /bla </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-053-0042</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/53-qI/TERDZO-qI-P41.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250yang zlog rdo rje pha lam gyi rgyun khyer phas rgol phyir zlog ni/ 1$0000300na mo/ bla ma mchog gsum 'jam dpal lhar//
 gus pas skyabs mchi mkha' mnyam 'gro//
 bla med byang chub lam 'god phyir//
 'jam dpal khrag 'thung bsgrub par bgyi//
-oṃ swa bhā wa shud+dhaḥsarba dharmāḥswa bhā wa shud+dho3 haṃ/ stong pa'i ngang las dregs pa dang*//
+oṃ swa bhā wa shuddhaḥsarba dharmāḥswa bhā wa shuddho3 haṃ/ stong pa'i ngang las dregs pa dang*//
 ru dra chu glang pad nyi'i steng*//
 rang rig hūm̐ las gshin rje'i gshed//
 mthing nag sku che yan lag rags//
@@ -35,12 +35,12 @@ skyob pa'i lha bral nyam thag rnams//
 g.yas pa'i 'khor lo shugs drag tu//
 bskor bas mgo lus rdul phran bzhin//
 dum bur bcad cing gtor bar gyur//
-oṃ hūm̐ trig khroṃ bh+yo: ma ni mā ra ṇi bh+yo: mā ra du na bh+yo: rak+mo rak+shan: ting ya rak+sha bh+yo: mā ra ya: ya ma rā dza: ki la ya bh+yo:</tei:p>
+oṃ hūm̐ trig khroṃ bhyo: ma ni mā ra ṇi bhyo: mā ra du na bhyo: rakmo rakshan: ting ya raksha bhyo: mā ra ya: ya ma rā dza: ki la ya bhyo:</tei:p>
 <tei:p n="2" unit="page"> brgya rtsa sogs bzlas la/ slar yang lag g.yas nam mkha' dang*//
 g.yon pa sa gnyis brdabs pa'i bar//
 dgra bo byad ma lha srung bcas//
 rdul phran bzhin du brlag par gyur//
-na mo: bla ma'i bka' bden pa dang: sangs rgyas kyi bka' bden pa dang: chos kyi bka' bden pa dang: dge 'dun gyi bka'= yi dam lha tshogs rnams kyi bka'= mkha' 'gro chos skyong rnams kyi bka'= dpal tshe bdag nag po'i bka'= sngags 'chang bdag gi ngag bden pa'i mthus: rnal 'byor pa bdag cag 'khor dang bcas pa'i chag che ba: nyam nga ba: rmi lam ngan pa: mtshan ma ngan pa: ltas ngan pa: pha rol gyi dmag tshogs: rbad 'dre rbod stong: byad kha: zor kha: phur kha: gtad kha: khyad par du zlog pa byed pa'i mthu dang nus pa thams cad byad ma kho rang gi gshed du phob cig: rang gshed rang la phob cig: rang srog rang gis chod cig: rang sha rang gis zo zhig: rang khrag rang gis thungs shig: kho rang gi lha srung thams cad kho rang gi gshed du phob cig: bdag gi chos skyong thams cad kyang kho yi gshed du phob cig: mā ra ya zlog zlog bh+yo bh+yo: zhes thal mo rdeb par bya'o//
+na mo: bla ma'i bka' bden pa dang: sangs rgyas kyi bka' bden pa dang: chos kyi bka' bden pa dang: dge 'dun gyi bka'= yi dam lha tshogs rnams kyi bka'= mkha' 'gro chos skyong rnams kyi bka'= dpal tshe bdag nag po'i bka'= sngags 'chang bdag gi ngag bden pa'i mthus: rnal 'byor pa bdag cag 'khor dang bcas pa'i chag che ba: nyam nga ba: rmi lam ngan pa: mtshan ma ngan pa: ltas ngan pa: pha rol gyi dmag tshogs: rbad 'dre rbod stong: byad kha: zor kha: phur kha: gtad kha: khyad par du zlog pa byed pa'i mthu dang nus pa thams cad byad ma kho rang gi gshed du phob cig: rang gshed rang la phob cig: rang srog rang gis chod cig: rang sha rang gis zo zhig: rang khrag rang gis thungs shig: kho rang gi lha srung thams cad kho rang gi gshed du phob cig: bdag gi chos skyong thams cad kyang kho yi gshed du phob cig: mā ra ya zlog zlog bhyo bhyo: zhes thal mo rdeb par bya'o//
  gshin rje gshed po'i lha tshogs kyis//
 gnod byed dgra bgegs ma lus pa//
 lus ngag thal ba'i rdul bzhin rlogs//
@@ -48,6 +48,6 @@ rnam shes chos kyi dbyings su spor//
 dge ba 'di yis myur du bdag /gshin rje gshed po 'grub gyur nas//
 'gro ba gcig kyang ma lus pa//
 de yi sa la 'god par shog / gu ru chos kyi dbang phyug dang*//
-rat+na'i gter byon yang zlog gi /snying po'i bcud bsdus man ngag gi /ngag 'don bsdus te nyung ngur spel/   smin gling gter chen 'gyur med rdo rjes///
+ratna'i gter byon yang zlog gi /snying po'i bcud bsdus man ngag gi /ngag 'don bsdus te nyung ngur spel/   smin gling gter chen 'gyur med rdo rjes///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

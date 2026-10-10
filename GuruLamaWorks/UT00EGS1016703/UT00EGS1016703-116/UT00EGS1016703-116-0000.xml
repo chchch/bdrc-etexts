@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ja)༄༅/  /'jigs byed drug cu pa'i gtor bzlog skabs kyi drag bskul dus dgra'i dbang po bzhad pa'i nga ro zhes bya ba bzhugs so/  /na mo gu ru badz+ra </tei:title><tei:author/><tei:title>(ja)༄༅/  /'jigs byed drug cu pa'i gtor bzlog skabs kyi drag bskul dus dgra'i dbang po bzhad pa'i nga ro zhes bya ba bzhugs so/  /na mo gu ru badz+ra </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ja)༄༅/  /'jigs byed drug cu pa'i gtor bzlog skabs kyi drag bskul dus dgra'i dbang po bzhad pa'i nga ro zhes bya ba bzhugs so/  /na mo gu ru badzra </tei:title><tei:author/><tei:title>(ja)༄༅/  /'jigs byed drug cu pa'i gtor bzlog skabs kyi drag bskul dus dgra'i dbang po bzhad pa'i nga ro zhes bya ba bzhugs so/  /na mo gu ru badzra </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1016703-116-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1016703</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/ZUCHEN/ZUCN113.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ja)༄༅//
-'jigs byed drug cu pa'i gtor bzlog skabs kyi drag bskul dus dgra'i dbang po bzhad pa'i nga ro zhes bya ba bzhugs so// na mo gu ru badz+ra bhe ra we bh+yaḥ lha mchog 'jam dpal gzhon nu bdud sde bzhi//
+'jigs byed drug cu pa'i gtor bzlog skabs kyi drag bskul dus dgra'i dbang po bzhad pa'i nga ro zhes bya ba bzhugs so// na mo gu ru badzra bhe ra we bhyaḥ lha mchog 'jam dpal gzhon nu bdud sde bzhi//
 sde dang ris su rgyas pa gdul ba'i phyir//
 ye shes khro bo chen po'i skur bzhengs pa//
 bla ma dus dgra'i dbang pos gnang ba stsol//
@@ -87,7 +87,7 @@ sras bcas rgyal ba'i bstan la bdag dad kyang*//
 yus pa'i bu chung ma la ngud mos bzhin//
 byang chub lam gyi ci 'dod 'phrin gsal ba//
 'grub par mthu chen thob pa'i bden pas skyongs//
-zhes sgo rum ye shes mgon pos mtshon pa'i bstan srung rnams la phrin las bskul ba 'dod dgu 'dren pa'i shing rta 'di ni/ ban+de tshul khrims rin chen du bod pas rab byung bcu gsum pa'i lcags yos kyi bgrang gzhir lhun grub steng gi rgyal khab tu bris pa sarbār+tha sid+dhaṃ bha wa tu// //rdo rje 'chang sogs bla ma'i bka'//
+zhes sgo rum ye shes mgon pos mtshon pa'i bstan srung rnams la phrin las bskul ba 'dod dgu 'dren pa'i shing rta 'di ni/ bande tshul khrims rin chen du bod pas rab byung bcu gsum pa'i lcags yos kyi bgrang gzhir lhun grub steng gi rgyal khab tu bris pa sarbārtha siddhaṃ bha wa tu// //rdo rje 'chang sogs bla ma'i bka'//
 dam tshig rdo rje'i gur khyim nas//
 bstan pa de 'dzin bstan skyong gi /phrin las rgyas mdzad nag po che//
 gur mgon lcam dral gdong bzhi ldan//
@@ -107,5 +107,5 @@ lung rtogs yon tan phrin las rnams//
 cher rgyas bstan dang sems can la//
 phan 'dogs chos kyi sbyin bdag mdzod//
 ces pa bse mgon ye shes mgon por/</tei:p>
-<tei:p n="8" unit="page">snyan shal 'bul ba'i 'dod gsol nyung ngu 'di'ang lhun grub phun tshogs kyi ngor/ ban+de tshul khrims rin chen gyis 'phral du bris pa dge legs 'phel bar gyur cig/ // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
+<tei:p n="8" unit="page">snyan shal 'bul ba'i 'dod gsol nyung ngu 'di'ang lhun grub phun tshogs kyi ngor/ bande tshul khrims rin chen gyis 'phral du bris pa dge legs 'phel bar gyur cig/ // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

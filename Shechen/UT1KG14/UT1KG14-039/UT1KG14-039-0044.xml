@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">'khrugs skong rgyun khyer bzhugs so/  /bh+yoḥlnga brgya dus kyi tha ma la/  /gsang sngags bon du gyer pa'i tshe/  /phas zer bu yis mi nyan dus/  /dus nga</tei:title><tei:author/><tei:title>'khrugs skong rgyun khyer bzhugs so/  /bh+yoḥlnga brgya dus kyi tha ma la/  /gsang sngags bon du gyer pa'i tshe/  /phas zer bu yis mi nyan dus/  /dus nga</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">'khrugs skong rgyun khyer bzhugs so/  /bhyoḥlnga brgya dus kyi tha ma la/  /gsang sngags bon du gyer pa'i tshe/  /phas zer bu yis mi nyan dus/  /dus nga</tei:title><tei:author/><tei:title>'khrugs skong rgyun khyer bzhugs so/  /bhyoḥlnga brgya dus kyi tha ma la/  /gsang sngags bon du gyer pa'i tshe/  /phas zer bu yis mi nyan dus/  /dus nga</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-039-0044</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/39-TI/TERZOD-TI-P41.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250'khrugs skong rgyun khyer bzhugs so//
-1$0000300bh+yoḥ lnga brgya dus kyi tha ma la//
+1$0000300bhyoḥ lnga brgya dus kyi tha ma la//
 gsang sngags bon du gyer pa'i tshe//
 phas zer bu yis mi nyan dus//
 dus ngan nye ba 'thabs pa dang*//
@@ -43,7 +43,7 @@ mi shes bsgribs pa le lo'i dbang gis ni//
 thams cad mkhyen pa'i lam las 'gal ba rnams//
 sprul pa mkha' 'gro'i tshogs kyis bzod par mdzod//
 </tei:p>
-<tei:p n="2" unit="page">ces man ngag gi yi ge brgya pa dang*/ lag g.yas mdzub mo dang srin lag gnyis mthil du bkug /mthe bong gung mo mthe'u chung gsum bsgrengs la phyar ba tri shula'i phyag rgyas/ hūm̐ phaṭa ma hā de wi kā lī/ duṣ+ṭān ta ka hā na da ha ru lu bhan+dha pa tsa pa ra na hūm̐ phaṭa/ ces pas mtshan ngan bzlog go /lag gnyis sor mo bcu bsdus nas khog pa zlum po bdud rtsi bum pa'i phyag rgyas/ oṃ badz+ra dhā ki nī/ de wī ma hā kā lī re ma ti/ kā ya wā ka tsit+ta sid+dhi sa ma ya pha la ā we sha ya āḥ zhes pa 'di bsdus pa la dga' ba'i ngor/ a rā gas bsgrigs pa'o//
+<tei:p n="2" unit="page">ces man ngag gi yi ge brgya pa dang*/ lag g.yas mdzub mo dang srin lag gnyis mthil du bkug /mthe bong gung mo mthe'u chung gsum bsgrengs la phyar ba tri shula'i phyag rgyas/ hūm̐ phaṭa ma hā de wi kā lī/ duṣṭān ta ka hā na da ha ru lu bhandha pa tsa pa ra na hūm̐ phaṭa/ ces pas mtshan ngan bzlog go /lag gnyis sor mo bcu bsdus nas khog pa zlum po bdud rtsi bum pa'i phyag rgyas/ oṃ badzra dhā ki nī/ de wī ma hā kā lī re ma ti/ kā ya wā ka tsitta siddhi sa ma ya pha la ā we sha ya āḥ zhes pa 'di bsdus pa la dga' ba'i ngor/ a rā gas bsgrigs pa'o//
 sarba dā maṅga laṃ/ dge'o///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

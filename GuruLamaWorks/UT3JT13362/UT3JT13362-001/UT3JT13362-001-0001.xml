@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /tshad ma kun las btus pa zhes bya ba'i mdo/rgya gar skad du/pra mā ṇa sa mu ts+tsha ya nā ma pra ka ra ṇa/bod skad du/tshad ma kun las btus pa zhes bya ba'i ra</tei:title><tei:author/><tei:title>༄༅/  /tshad ma kun las btus pa zhes bya ba'i mdo/rgya gar skad du/pra mā ṇa sa mu ts+tsha ya nā ma pra ka ra ṇa/bod skad du/tshad ma kun las btus pa zhes bya ba'i ra</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /tshad ma kun las btus pa zhes bya ba'i mdo/rgya gar skad du/pra mā ṇa sa mu tstsha ya nā ma pra ka ra ṇa/bod skad du/tshad ma kun las btus pa zhes bya ba'i ra</tei:title><tei:author/><tei:title>༄༅/  /tshad ma kun las btus pa zhes bya ba'i mdo/rgya gar skad du/pra mā ṇa sa mu tstsha ya nā ma pra ka ra ṇa/bod skad du/tshad ma kun las btus pa zhes bya ba'i ra</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13362-001-0001</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13362</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/TSEMA/rtfs/volume-001/118TSEMA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000270 </tei:p>
 <tei:p n="2" unit="page">(1) ༄༅//
-tshad ma kun las btus pa zhes bya ba'i mdo/ rgya gar skad du/ pra mā ṇa sa mu ts+tsha ya nā ma pra ka ra ṇa/ bod skad du/ tshad ma kun las btus pa zhes bya ba'i rab tu byed pa/ sangs rgyas la phyag 'tshal lo//
+tshad ma kun las btus pa zhes bya ba'i mdo/ rgya gar skad du/ pra mā ṇa sa mu tstsha ya nā ma pra ka ra ṇa/ bod skad du/ tshad ma kun las btus pa zhes bya ba'i rab tu byed pa/ sangs rgyas la phyag 'tshal lo//
 tshad mar gyur pa 'gro la phan bzhed pa//
 ston pa bde gshegs skyob la phyag 'tshal nas//
 tshad ma bsgrub phyir rang gi gzhung kun las//
@@ -243,7 +243,7 @@ chos gzhan dang bral thob par byed//
 yon tan dri dang dri bsung sogs//
 de yi bye brag gi rim pas//
 rdzas min la sogs rnam bcad nas//
-ut+pal la sogs re re rtogs//
+utpal la sogs re re rtogs//
 gal te mthong ba bzhin gtan tshigs//
 sgrub pa'i sgo nas 'jug na ni//
 thams cad rtogs par mi 'gyur ba'am//
@@ -740,7 +740,7 @@ nye bar btags phyir mi srid phyir//
 <tei:p n="18" unit="page">(19) rgyal po btags pa bzhin//
 blo'i tshul la tha dad phyir ro//
 rim gyis rjod par byed pa ni//
-kun+da dung sogs dkar po bzhin//
+kunda dung sogs dkar po bzhin//
 yon tan gyis phan btags dngos la//
 blo med par yang 'jug par 'gyur//
 'dres pa'i tshul nas thams cad du//
@@ -780,7 +780,7 @@ rang don tha dad rtogs la rmongs//
 gcig la tha dad 'bras med phyir//
 khyad par byed dang khyad pa bya//
 de ni sngon po rkyang pa yin//
-ut+pal rkyang pa'ang ma yin te//
+utpal rkyang pa'ang ma yin te//
 bsdus pa brjod bya yin phyir ro//
 kha dog bzhin du don med 'gyur//
 kha dog gi don cung zad kyang*//
@@ -1038,7 +1038,7 @@ rab gsal byas las 'di ru dge ba ci bsags des//
 skye ba skye bar yon tan yod min shes pa yi//
 grub mtha' zhi zhing 'gro la rnam thar ster bar shog</tei:p>
 <tei:p n="24" unit="page">/tshad ma kun las btus pa las ltag chod brtag pa'i le'u ste drug pa'o//
-tshad ma kun las btus pa zhes bya ba'i rab tu byed pa slob dpon phyogs kyi glang pos mdzad pa rdzogs so// //rgya gar mkhan po su dha na rak+ṣi ta dang*/ bod kyi lo tsā ba dge bsnyen  (26) seng rgyal gyis bsgyur cing zhus pa'o//
+tshad ma kun las btus pa zhes bya ba'i rab tu byed pa slob dpon phyogs kyi glang pos mdzad pa rdzogs so// //rgya gar mkhan po su dha na rakṣi ta dang*/ bod kyi lo tsā ba dge bsnyen  (26) seng rgyal gyis bsgyur cing zhus pa'o//
 'jam pa'i mgon po'i bkas bskul phyogs kyi glang po'i bstan bcos rgya mtsho ltar zab 'di//
 rigs ldan rgyal po'i bkas bskul nor bzangs srung mdzad ces bya sde bdun bshad mkhan dang*//
 gzus chung ston pa'i bkas bskul dge bsnyen seng rgyal zhes bya zha ma lo tsās bsgyur//

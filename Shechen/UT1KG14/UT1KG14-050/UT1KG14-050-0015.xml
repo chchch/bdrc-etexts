@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">bla ma nor lha'i skong ba tshe g.yang dngos grub 'khyil ba zhes bya ba bzhugs so/  /hūm̐ hrīḥbasod nams yongs rdzogs sbyin pa'i phar phyin las/  /bsod nam</tei:title><tei:author/><tei:title>bla ma nor lha'i skong ba tshe g.yang dngos grub 'khyil ba zhes bya ba bzhugs so/  /hūm̐ hrīḥbasod nams yongs rdzogs sbyin pa'i phar phyin las/  /bsod nam</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-050-0015</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/50-WI/TERDZO-WI-P14.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250bla ma nor lha'i skong ba tshe g.yang dngos grub 'khyil ba zhes bya ba bzhugs so//
@@ -8,13 +8,13 @@ bsod nams 'dod dgu'i dngos grub char 'beb pa'i//
 bsod nams stobs kyi 'dod 'jo'i bum pa bzang*//
 mi zad 'dod par 'jo ba'i dga' ston gyis//
 rtsa gsum nor lha rab 'byams thugs dam bskang*//
-rigs 'dus pad+ma sam+bha'i thugs dam bskang*//
+rigs 'dus padma sambha'i thugs dam bskang*//
 gu ru skyes mchog tshul bzang thugs dam bskang*//
 'gyur med sku yi nor bdag thugs dam= yon tan 'dod dgu'i nor bdag thugs dam= 'gag med gsung gi nor bdag thugs dam= lhun grub phrin las nor bdag thugs dam= steng phyogs lha yi nor bdag thugs dam= bar phyogs mi yi nor bdag thugs dam= 'og phyogs klu yi nor bdag thugs dam= byang phyogs gnod sbyin nor bdag thugs dam= gser dngul nor dbyig nor bdag thugs dam= cang shes rta yi nor bdag thugs dam= zas gos bcud kyi nor bdag thugs dam= rkang bzhi phyugs kyi nor bdag thugs dam= sgo srung rgyal chen sde bzhi'i thugs dam= kun 'khyil lha mo mched gsum thugs dam= zhing skyong sman btsun lha lnga'i thugs dam= gter srung kha rag khyung btsun thugs dam= bka' sdod dregs pa sde lnga'i thugs dam= myur mdzad spu gri ging lnga'i thugs dam bskang*//
 thugs dam dbyings su bskang ngo byin gyis rlobs//
 thugs dam gnyan po skong ba'i dam rdzas ni//
 bkra shis rdzas rtags rgyal srid rin chen bdun//
-rtsa brgyad stong sbyar chags med rak+ta'i mtsho//
+rtsa brgyad stong sbyar chags med rakta'i mtsho//
 snang srid snod bcud rnam dag bha ling ta//
 thabs dang shes rab dbyer med byang chub sems//
 rang byung lhun grub mchod pas thugs dam bskang*//
@@ -25,6 +25,6 @@ bde stong thugs kyi dngos grub sems la stsol//
 rig rtsal yon tan rgyas pa'i dngos grub stsol//
 phrin las dngos grub bkra shis dpal 'bar shog</tei:p>
 <tei:p n="2" unit="page">/</tei:p>
-<tei:p n="3" unit="page">ces pa lho brang ri phug gi gnas 'dzin pa rnams kyis bskul ngor zhwa dmar gyi chos sgar du 'dul 'dzin rat+nas spel ba bkra shis par gyur cig /sarba dā maṅga laṃ///
+<tei:p n="3" unit="page">ces pa lho brang ri phug gi gnas 'dzin pa rnams kyis bskul ngor zhwa dmar gyi chos sgar du 'dul 'dzin ratnas spel ba bkra shis par gyur cig /sarba dā maṅga laṃ///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

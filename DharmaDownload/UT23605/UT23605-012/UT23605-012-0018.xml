@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(331)༄༅/  /ni gu'i brgyud 'debs bzhugs so/  /na mo gu ru bh+yaḥ/gnas spyi gtsug nyi zla'i gdan steng du/  /drin chen rtsa ba'i bla ma la gsol ba 'a</tei:title><tei:author/><tei:title>(331)༄༅/  /ni gu'i brgyud 'debs bzhugs so/  /na mo gu ru bh+yaḥ/gnas spyi gtsug nyi zla'i gdan steng du/  /drin chen rtsa ba'i bla ma la gsol ba 'a</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(331)༄༅/  /ni gu'i brgyud 'debs bzhugs so/  /na mo gu ru bhyaḥ/gnas spyi gtsug nyi zla'i gdan steng du/  /drin chen rtsa ba'i bla ma la gsol ba 'a</tei:title><tei:author/><tei:title>(331)༄༅/  /ni gu'i brgyud 'debs bzhugs so/  /na mo gu ru bhyaḥ/gnas spyi gtsug nyi zla'i gdan steng du/  /drin chen rtsa ba'i bla ma la gsol ba 'a</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23605-012-0018</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23605</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/gdams-ngag-mdzod/rtfs/12_gdams-ngag-mdzod_na/12_17_ni-guqi-brgyud-qdebs.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ (331)༄༅//
 </tei:p>
-<tei:p n="2" unit="page">ni gu'i brgyud 'debs bzhugs so/ /na mo gu ru bh+yaḥ /gnas spyi gtsug nyi zla'i gdan steng du//
+<tei:p n="2" unit="page">ni gu'i brgyud 'debs bzhugs so/ /na mo gu ru bhyaḥ /gnas spyi gtsug nyi zla'i gdan steng du//
 drin chen rtsa ba'i bla ma la gsol ba 'debs//
 gsol ba 'debs so bla ma rin po che//
 gsol ba 'debs so bdag rgyud byin gyis rlobs//
@@ -36,7 +36,7 @@ kun dga' legs pa'i 'byung gnas la=== /mdog zhe dgon rdo rje'i gnas mchog tu//
 'phags mchog chos nyid ye shes la=== /mus grub pa mchog gi sman ljongs su//
 mtshungs med ye shes rgyal mchog la=== /dpal sa skya'i chos gra chen po ru//
 yongs 'dzin ma ti'i mtshan can la=== /gnas bya 'gyur rdo rje'i brag rdzong du//
-'jam mgon badz+ra rat+na la=== /gnas ris med mkhas grub tshogs dbus su//
+'jam mgon badzra ratna la=== /gnas ris med mkhas grub tshogs dbus su//
 'jam dbyangs mkhyen brtse'i dbang po la=== /gnas snying ga chos kyi pho brang du//
 drin chen rtsa ba'i bla ma la=== /gnas rang lus rgyal ba'i dkyil 'khor du//
 yi dam rgyud sde'i lha tshogs la=== /yul nyi shu rtsa bzhi'i gnas mchog tu//

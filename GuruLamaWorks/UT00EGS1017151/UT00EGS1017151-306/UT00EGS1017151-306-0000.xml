@@ -1,12 +1,12 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /phyag mtshan ri mo'i bstod tshig bzhugs/  /༄༅/  /sdom brtson dam pa dpal ldan zhi ba 'tsho/  /brtul zhugs grub pa pad+ma 'byung gnas dpal/  /blo</tei:title><tei:author/><tei:title>(na)༄༅/  /phyag mtshan ri mo'i bstod tshig bzhugs/  /༄༅/  /sdom brtson dam pa dpal ldan zhi ba 'tsho/  /brtul zhugs grub pa pad+ma 'byung gnas dpal/  /blo</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /phyag mtshan ri mo'i bstod tshig bzhugs/  /༄༅/  /sdom brtson dam pa dpal ldan zhi ba 'tsho/  /brtul zhugs grub pa padma 'byung gnas dpal/  /blo</tei:title><tei:author/><tei:title>(na)༄༅/  /phyag mtshan ri mo'i bstod tshig bzhugs/  /༄༅/  /sdom brtson dam pa dpal ldan zhi ba 'tsho/  /brtul zhugs grub pa padma 'byung gnas dpal/  /blo</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-306-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA300.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-306-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA300.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
 phyag mtshan ri mo'i bstod tshig bzhugs// ༄༅//
 sdom brtson dam pa dpal ldan zhi ba 'tsho//
-brtul zhugs grub pa pad+ma 'byung gnas dpal//
-blo gsal dbang po pad+ma'i ngang tshul sogs//
+brtul zhugs grub pa padma 'byung gnas dpal//
+blo gsal dbang po padma'i ngang tshul sogs//
 snyigs ma'i dus kyi rgyal ba gnyis pa yin//
 bde bar gshegs pa'i ring lugs bla na med//
 zhu chen sgyur byed mchan bu'i gnas 'dug pa'i//
@@ -24,6 +24,6 @@ rtsod dus 'di ni mkhas par khas 'che zhing*//
 lan brgyar 'chad dang nyan la mngon brtson pa//
 de dag gis kyang shes bya'i gnas rnams la//
 rnam par dpyad na phyogs re'i mig can yin//
-'phags pa 'jam dpal gyi phyag mtshan gyi ri mo 'di/ gtsug lag khang la phan pa'i rten 'brel zhig yod pas/ dpal sa skya paṇ+ḍi tas bris pa yin/ cung zad ri mo ma mdzes kyang*/ mtshan mor bris pa dang*/ pir la sogs pa ma 'dzom pas lan pa lags/ 'on kyang bkra shis pa'i rten 'brel zhig yod/ ces pa'i yi ge 'di dang*/ phyag mtshan 'di bsam yas kyi 'khor sa bar pa'i g.yas phyogs na bzhugs pa lags//
+'phags pa 'jam dpal gyi phyag mtshan gyi ri mo 'di/ gtsug lag khang la phan pa'i rten 'brel zhig yod pas/ dpal sa skya paṇḍi tas bris pa yin/ cung zad ri mo ma mdzes kyang*/ mtshan mor bris pa dang*/ pir la sogs pa ma 'dzom pas lan pa lags/ 'on kyang bkra shis pa'i rten 'brel zhig yod/ ces pa'i yi ge 'di dang*/ phyag mtshan 'di bsam yas kyi 'khor sa bar pa'i g.yas phyogs na bzhugs pa lags//
 bkra shis par gyur cig/ // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

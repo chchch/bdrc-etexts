@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rnal 'byor dbang phyug bi rū pa'i srung ba thun mong ma yin pa'i byin rlabs kyi brgyud pa'i gsol 'debs bzhugs/  /༈/rdo rje 'chang dang grub </tei:title><tei:author/><tei:title>༄༅/  /rnal 'byor dbang phyug bi rū pa'i srung ba thun mong ma yin pa'i byin rlabs kyi brgyud pa'i gsol 'debs bzhugs/  /༈/rdo rje 'chang dang grub </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13302-042-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13302</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/KHADON/KHAD042.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -8,7 +8,7 @@ kun dga' snying po rtse mo grags rgyal mtshan//
 sa skya paṇa chen tshogs sgom gnyan chen par//
 gsol ba 'debs so 'gal rkyen bar chad sol//
 brag phug pa dang bsod nams rgyal mtshan zhabs//
-dpal ldan tshul khrims grub chen bud+dha shrī//
+dpal ldan tshul khrims grub chen buddha shrī//
 ngor chen kun dga' bzang po sems dpa' cher//
 gsol ba= /blo gros rgyal mtshan rje btsun rdo ring pa//
 blo gsal rgya mtsho 'jam dbyangs mkhyen brtse'i dbang*//
@@ -21,11 +21,11 @@ bstan 'dzin snyan grags rin chen mkhyen brtse'i dbang*//
 </tei:p>
 <tei:p n="2" unit="page">bka' drin mnyam med       kun dga' bstan 'dzin rtsa ba'i bla ma la//
 gsol ba= /bla ma yi dam rgyal ba sras dang bcas//
-kun 'dus bdag nyid dpal ldan bir+wa pas//
+kun 'dus bdag nyid dpal ldan birwa pas//
 skye ba 'di dang tshe rabs rjes bzung nas//
 tshul khrims gsum ldan dge ba'i bshes byin rlobs//
 phyi nang rig pa'i gzhung lugs rab 'byams kyi//
 thos bsam bsgom pa gegs med mthar phyin nas//
 rgyal ba'i yon tan kun la dbang 'byor zhing*//
-bstan dang sems can phan pa bsgrub par shog / ces rnal 'byor dbang phyug bi rū pa'i srung ba thun mong ma yin pa'i byin rlabs kyis brgyud pa'i gsol 'debs 'di ni dge slong kun dga' stobs ldan gyis bskul ngor ban+de tshul khrims rin chen gyis bris pa sarba maṅga laṃ// zhal bskong blo gros rgyal mtshan nam gzim 'og a nan+tas bris// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
+bstan dang sems can phan pa bsgrub par shog / ces rnal 'byor dbang phyug bi rū pa'i srung ba thun mong ma yin pa'i byin rlabs kyis brgyud pa'i gsol 'debs 'di ni dge slong kun dga' stobs ldan gyis bskul ngor bande tshul khrims rin chen gyis bris pa sarba maṅga laṃ// zhal bskong blo gros rgyal mtshan nam gzim 'og a nantas bris// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">oṃ swasti/rigs gsum gcig bsdus o rgyan thod phreng rtsal/  /dbyer med seng chen nor bu dgra 'dul gyi/  /dgongs brgyud byin thob 'gro 'dul </tei:title><tei:author/><tei:title>oṃ swasti/rigs gsum gcig bsdus o rgyan thod phreng rtsal/  /dbyer med seng chen nor bu dgra 'dul gyi/  /dgongs brgyud byin thob 'gro 'dul </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13341-078-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13341</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/Taksham-Chochod_tdoc/063c_shabtan.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">)oṃ swasti/ rigs gsum gcig bsdus o rgyan thod phreng rtsal//
@@ -8,6 +8,6 @@ dgongs brgyud byin thob 'gro 'dul bka' babs mchog /nam mkha' dri med khyod zhabs
 cher snyigs dus kyi mun rum mthar bskrad de//
 gsang chen bstan pa'i dga' tshal bskyed bsrings pa'i//
 rdo rje'i lung don bslu ba med 'grub shog /</tei:p>
-<tei:p n="2" unit="page">ces rigs gsum thugs kyi dgongs mdzod kyi chos sde 'di nyid dus bab kyi zab chos su nges pa rnyed de gter 'byin rig 'dzin gang gi brtan bzhugs su 'jigs bral ye shes rdo rjes rgyal zla'i yar tshes bcu la 'dun smon du bris pa sid+dhi rastu///
+<tei:p n="2" unit="page">ces rigs gsum thugs kyi dgongs mdzod kyi chos sde 'di nyid dus bab kyi zab chos su nges pa rnyed de gter 'byin rig 'dzin gang gi brtan bzhugs su 'jigs bral ye shes rdo rjes rgyal zla'i yar tshes bcu la 'dun smon du bris pa siddhi rastu///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

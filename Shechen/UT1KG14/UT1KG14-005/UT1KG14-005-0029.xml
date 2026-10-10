@@ -1,8 +1,8 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rtsa gsum tshe'i zab pa las/brgyud pa'i gsol 'debs pad+ma'i rgyud mang bzhugs so/  /rang byung mi shigs dwangs ma tshe dpag med/  /'od gsal snang ba lhun gra</tei:title><tei:author/><tei:title>rtsa gsum tshe'i zab pa las/brgyud pa'i gsol 'debs pad+ma'i rgyud mang bzhugs so/  /rang byung mi shigs dwangs ma tshe dpag med/  /'od gsal snang ba lhun gra</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rtsa gsum tshe'i zab pa las/brgyud pa'i gsol 'debs padma'i rgyud mang bzhugs so/  /rang byung mi shigs dwangs ma tshe dpag med/  /'od gsal snang ba lhun gra</tei:title><tei:author/><tei:title>rtsa gsum tshe'i zab pa las/brgyud pa'i gsol 'debs padma'i rgyud mang bzhugs so/  /rang byung mi shigs dwangs ma tshe dpag med/  /'od gsal snang ba lhun gra</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-005-0029</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/05-CA/TER_CA-P28.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250rtsa gsum tshe'i zab pa las/ brgyud pa'i gsol 'debs pad+ma'i rgyud mang bzhugs so//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-005-0029</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/05-CA/TER_CA-P28.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250rtsa gsum tshe'i zab pa las/ brgyud pa'i gsol 'debs padma'i rgyud mang bzhugs so//
 1$0000300rang byung mi shigs dwangs ma tshe dpag med//
 'od gsal snang ba lhun grub snying rje'i gter//
 rigs brgya'i khyab bdag mtsho skyes rdo rje la//
@@ -11,7 +11,7 @@ gsang chen chos kyi 'byung gnas mtsho rgyal yum//
 bstan pa'i shing rta 'jam mgon khri lde'i zhabs//
 rgyal sras dam 'dzin chos kyi blo gros la//
 gsol ba 'debs so mchog thun dngos grub stsol//
-pad+ma'i rgyal tshab mchog gyur bde chen gling*//
+padma'i rgyal tshab mchog gyur bde chen gling*//
 zab chos bka' bab lung zin chos kyi bdag /yang dag lam ston rtsa ba'i bla ma la//
 gsol ba 'debs so mchog thun dngos grub stsol//
 rnam bcas bde chen thig le rta mchog dpal//
@@ -25,12 +25,12 @@ gsol ba 'debs so mchog thun dngos grub stsol//
 rdo rje'i ye shes sgrib pa med par zhugs//
 tshe dbang mchog thun thogs pa med par thob//
 las bzhi'i 'phrul 'khor thogs pa med par 'grub//
-rtsa gsum ngang du brdal khyab lhun grub shog stong nyid dri bral shes rab pad+ma'i klong*//
+rtsa gsum ngang du brdal khyab lhun grub shog stong nyid dri bral shes rab padma'i klong*//
 snang ba bde chen 'gyur med rdo rje gnyis//
 zung 'jug 'od mi 'gyur ba'i tshe grub nas//
 ye shes rol pa'i 'khor lo rab bskor shog /rdo rje btsun mo'i mkha' klong dkyil 'khor du//
 dbang bzhis smin pa'i rang rig byang chub sems//
 rtsal chen rdzogs pa'i phrin las kun 'byung ba//
 mi zad rgyan gyi gsang ba'i mdzod 'dzin shog /</tei:p>
-<tei:p n="2" unit="page">ces rtsa gsum tshe'i zab pa'i brgyud 'debs 'di'ang*/ zab chos 'di nyid kyi bdag po dbon sprul rin po che'i bka' gnang ltar pad+ma gar dbang blo gros mtha' yas kyis dpal spungs snying po yid dga' chos 'dzin du sbyar ba dge legs 'phel// // </tei:p>
+<tei:p n="2" unit="page">ces rtsa gsum tshe'i zab pa'i brgyud 'debs 'di'ang*/ zab chos 'di nyid kyi bdag po dbon sprul rin po che'i bka' gnang ltar padma gar dbang blo gros mtha' yas kyis dpal spungs snying po yid dga' chos 'dzin du sbyar ba dge legs 'phel// // </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

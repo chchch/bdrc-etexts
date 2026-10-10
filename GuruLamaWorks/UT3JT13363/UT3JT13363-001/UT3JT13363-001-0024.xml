@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rgya gar skad du/ma dh+yā mi ka a laṃ kā ra kā ri kā/bod skad du/dbu ma rgyan gyi tshig le'ur byas pa/'jam dpal gzhon nur gyur pa la phyag 'tshal la</tei:title><tei:author/><tei:title>༄༅/  /rgya gar skad du/ma dh+yā mi ka a laṃ kā ra kā ri kā/bod skad du/dbu ma rgyan gyi tshig le'ur byas pa/'jam dpal gzhon nur gyur pa la phyag 'tshal la</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rgya gar skad du/ma dhyā mi ka a laṃ kā ra kā ri kā/bod skad du/dbu ma rgyan gyi tshig le'ur byas pa/'jam dpal gzhon nur gyur pa la phyag 'tshal la</tei:title><tei:author/><tei:title>༄༅/  /rgya gar skad du/ma dhyā mi ka a laṃ kā ra kā ri kā/bod skad du/dbu ma rgyan gyi tshig le'ur byas pa/'jam dpal gzhon nur gyur pa la phyag 'tshal la</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13363-001-0024</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13363</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/UMA/rtfs/volume-001/024UMA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(1)</tei:p>
 <tei:p n="2" unit="page">༄༅//
-rgya gar skad du/ ma dh+yā mi ka a laṃ kā ra kā ri kā/ bod skad du/ dbu ma rgyan gyi tshig le'ur byas pa/ 'jam dpal gzhon nur gyur pa la phyag 'tshal lo//
+rgya gar skad du/ ma dhyā mi ka a laṃ kā ra kā ri kā/ bod skad du/ dbu ma rgyan gyi tshig le'ur byas pa/ 'jam dpal gzhon nur gyur pa la phyag 'tshal lo//
 bdag dang gzhan smra'i dngos 'di dag /yang dag tu na gcig pa dang*//
 du ma'i rang bzhin bral ba'i phyir//
 rang bzhin med de gzugs brnyan bzhin//
@@ -389,7 +389,7 @@ blo nor ldan pas lugs gzhan la//
 ji ltar snying po med mthong ba//
 de ltar de dag skyob pa la//
 gus pa shin tu skye bar 'gyur//
-dbu ma'i rgyan gyi tshig le'ur byas pa/ slob dpon zhi ba 'tsho bdag dang gzhan gyi grub pa'i mtha' rgya mtsho'i pha rol tu son pa 'phags pa ngag gi dbang phyug gi zhabs kyi pad+ma rnyog pa med pa'i ze'u 'bru spyi bos len pas mdzad pa rdzogs so//
-rgya gar gyi mkhan po su ren dra bo dhi dang*/ zhu chen gyi lo tsā ba ban+de ye shes sdes bsgyur cing zhus te gtan la phab pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
+dbu ma'i rgyan gyi tshig le'ur byas pa/ slob dpon zhi ba 'tsho bdag dang gzhan gyi grub pa'i mtha' rgya mtsho'i pha rol tu son pa 'phags pa ngag gi dbang phyug gi zhabs kyi padma rnyog pa med pa'i ze'u 'bru spyi bos len pas mdzad pa rdzogs so//
+rgya gar gyi mkhan po su ren dra bo dhi dang*/ zhu chen gyi lo tsā ba bande ye shes sdes bsgyur cing zhus te gtan la phab pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
 /1$0000300</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

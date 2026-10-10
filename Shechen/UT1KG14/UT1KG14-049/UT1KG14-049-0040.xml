@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">bla 'bod pa ni/phyi rol du rigs mthun pa'i mis 'bod pa dang lhan cig tu/nang du sngags pas 'di skad ces gyer zhing 'bod par bya'o/  /kye/rgyu sbyor</tei:title><tei:author/><tei:title>bla 'bod pa ni/phyi rol du rigs mthun pa'i mis 'bod pa dang lhan cig tu/nang du sngags pas 'di skad ces gyer zhing 'bod par bya'o/  /kye/rgyu sbyor</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-049-0040</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/49-DZI/TERDZO-DZI-P38.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250bla 'bod pa ni/ 1$0000300</tei:p>
@@ -32,7 +32,7 @@ a bo lo lo 'di na shog</tei:p>
 <tei:p n="3" unit="page">༈ /kye/ mi ngo shes can gyis bos pa bzhin//
 lo klung rta'i ma bu mthun pa dang*//
 mi rigs mthun 'di dang 'grogs la shog /skad snyan po'i gdangs la nyon la shog /sngags 'chang bdag gi ngag la nyon//
-dar tshon g.yab mo'i steng du shog /mda' mo ltong bzang steng du shog /g.yang dkar brla sha'i steng du shog /mgo la zhwa mo gyon lashog /gser 'phang g.yu 'phang steng du shog /the'u rang lag nas myur du shog /rgyal 'gong lag nas myur dushog /'chi bdag lag nas myur du shog /skad cig nyid la 'dir shog cig /badz+ra aṃ ku sha dzaḥ tad+ya thā/ oṃ a pa ri mi ta ā yur dzñā na hrīḥbh+rūm̐ swā hā/ bswo bswo lha rgyal lo//
+dar tshon g.yab mo'i steng du shog /mda' mo ltong bzang steng du shog /g.yang dkar brla sha'i steng du shog /mgo la zhwa mo gyon lashog /gser 'phang g.yu 'phang steng du shog /the'u rang lag nas myur du shog /rgyal 'gong lag nas myur dushog /'chi bdag lag nas myur du shog /skad cig nyid la 'dir shog cig /badzra aṃ ku sha dzaḥ tadya thā/ oṃ a pa ri mi ta ā yur dzñā na hrīḥbhrūm̐ swā hā/ bswo bswo lha rgyal lo//
  zhes pa 'di dang po'i dpe rnying mar mi 'dug /phyis su dkyus na bris snang bas sngags 'chang rnams kyi zhal rgyun ltar tshigs bcad du bsdebs pa zhig yin 'dug go /maṅga laṃ//
 bla tshe 'phel///
 /</tei:p>

@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(293)༄༅/  /phyag rgya chen po'i bogs 'don gsol 'debs rdo rje 'chang chung ma'i dmigs rim bzhugs so/  /</tei:title><tei:author/><tei:title>(293)༄༅/  /phyag rgya chen po'i bogs 'don gsol 'debs rdo rje 'chang chung ma'i dmigs rim bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23605-009-0015</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23605</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/gdams-ngag-mdzod/rtfs/09_gdams-ngag-mdzod_ta/09_14_phyag-rgya-chen-poqi-bogs-qdon-gsol-qdebs-rdo-rje-qchang-chung-maqi-dmigs-rim.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(293)༄༅//
@@ -28,7 +28,7 @@ byin rlabs 'jug thabs mos gus las gzhan med//
 mos gus gsol ba 'debs pa kho na ste//
 mos gus gsol ba 'debs pa'i lam (295)zhes bya//
 gsol ba 'debs yul gang rung mi chog ste//
-brkos phor ri mo sāts+tsha dod pa ltar//
+brkos phor ri mo sātstsha dod pa ltar//
 phyag rgya chen por bka' babs bla ma dgos//
 deng sang gang zag tshig brgyud bla ma las//
 phyag chen khrid dang lung rnams thob phyin nas//
@@ -40,7 +40,7 @@ gsol ba thob dang byin gyis rlob pa dang*//
 nyams rtogs skye zhes zhal gyis bzhes pa yin//
 de phyir mos gus bsgom gyi mgo bo yin//
 grub mtha' so so'i 'dod gtam mi gcig kyang*//
-pad+ma dkar dang ting 'dzin rgyal po sogs//
+padma dkar dang ting 'dzin rgyal po sogs//
 mdo sna gsum nas mnyam med dwags po 'di//
 stong nyid ting 'dzin ston pa'i skyes chen du//
 thub pas lung bstan gsal phyir 'khrul pa med//
@@ -185,9 +185,9 @@ bka' brgyud spyi yi gsol 'debs 'thus kyang che//
 dmigs pa gsal zhing gsol 'debs 'di byas na//
 nyams rtogs bogs skyed 'ong bar the tshom med//
 de yang mos gus drag (300)po bskyed gal che//
-rā ga a s+yas grwa pa spyi rnams la//
+rā ga a syas grwa pa spyi rnams la//
 phan pa'i bsam pas thun skabs shig la smras//
-sgom chen pad+ma mthar phyin zhes pas bris//
+sgom chen padma mthar phyin zhes pas bris//
 'dis ni gzhan phan rgya cher 'byung bar shog//
 /sarba maṅga laṃ///
 /</tei:p>

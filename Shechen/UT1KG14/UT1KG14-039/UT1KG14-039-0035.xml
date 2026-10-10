@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">gter gsar tshe ring ma'i gtor ma 'bul ba'i 'dod gsol bzhugs/hrīḥ'od gsal dbyings las bde chen ye shes mdangs/  /zhing skyong lha sman rgyal mo mched </tei:title><tei:author/><tei:title>gter gsar tshe ring ma'i gtor ma 'bul ba'i 'dod gsol bzhugs/hrīḥ'od gsal dbyings las bde chen ye shes mdangs/  /zhing skyong lha sman rgyal mo mched </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-039-0035</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/39-TI/TERDZO-TI-P32.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250gter gsar tshe ring ma'i gtor ma 'bul ba'i 'dod gsol bzhugs/1$0000300 hrīḥ 'od gsal dbyings las bde chen ye shes mdangs//
@@ -21,6 +21,6 @@ mdor na 'jig rten 'jig rten 'das pa yi//
 las dang dngos grub ji ltar bsam pa'i don//
 thogs med myur du 'grub pa'i phrin las mdzod//
 </tei:p>
-<tei:p n="2" unit="page">ces pa'ang kun mkhyen 'jam dbyangs bla ma'i bka' bzhin pad+ma gar gyi dbang phyug rtsal gyis bris pa dge legs 'phel///
+<tei:p n="2" unit="page">ces pa'ang kun mkhyen 'jam dbyangs bla ma'i bka' bzhin padma gar gyi dbang phyug rtsal gyis bris pa dge legs 'phel///
 / </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

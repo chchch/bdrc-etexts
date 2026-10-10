@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /gsang ba'i bdag pos gnang ba'i dgra bla dpangs stod bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /gsang ba'i bdag pos gnang ba'i dgra bla dpangs stod bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-043-0028</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/43-PI/Terzod-pi-P27.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄༅//
@@ -19,7 +19,7 @@ gser gyi ri bdun rol mtshos bskor//
 de la gling bzhi gling phran dang*//
 lcags ris yongs su bskor ba ste//
 ri rab de yi rgyu bzhi ni//
-shar shel lho phyogs bai ḍūr+ya//
+shar shel lho phyogs bai ḍūrya//
 nub phyogs zangs la byang phyogs gser//
 ri rab de yi khong gseng nas//
 yongs 'du sa brtol bya ba'i shing*//
@@ -40,7 +40,7 @@ lha yis skyob pa'i go cha brdung*//
 lha ma yin gyis mtshon cha brdung*//
 lha yi mgar ba ma hā yis//
 rin chen gzhu ba'i thab brtsigs nas//
-tsan+dan sol ba rdza ltar bsnyil//
+tsandan sol ba rdza ltar bsnyil//
 ye shes me yi snying po bcug /rlung chen g.yo ba'i rbud pa yis//
 zhun btab rin chen lhad rnams phyung*//
 rin chen mas gzhi'i steng du ni//
@@ -48,7 +48,7 @@ rin chen zhun ma bzhag nas kyang*//
 'chor med skam pas dam du bzung*//
 gser gyi tho bas brdungs byas te//
 pha lam rdo rjes mig phug nas//
-bai ḍūr+ya yi rgyun gyi brgyus//
+bai ḍūrya yi rgyun gyi brgyus//
 rmog mo ma lag tshang ba zhig</tei:p>
 <tei:p n="3" unit="page">/ri rab de yi rtse ru brdungs/ kha ra ha ti bya bar grags//
 de ltar ri rab sked pa ru/ khrab rmog go mtshon tshang bar brdungs//
@@ -58,7 +58,7 @@ stod rtse bya ma bya bar grags//
 de rnams rang rang gnas su bskungs//
 lha min rnams kyi mgar ba yis//
 ral gri srin po'i ma mgal dang*//
-gcod pa'i dgra s+t+wa kha chen dang*//
+gcod pa'i dgra st+wa kha chen dang*//
 srin mdung 'tsham ring gsum du brdungs//
 lha dang lha min 'thab pa las//
 snga dro lha min rgyal ba byung*//
@@ -91,7 +91,7 @@ mgar gyis ma bcos rang byung yin//
 de yi bar gyi srid pa la//
 srid kyi mtshon cha sna dgu srid//
 'khor lo dgra las rnam rgyal dang*//
-dgra s+t+wa dgra bo gshog byed dang*//
+dgra st+wa dgra bo gshog byed dang*//
 chu gri dam nyams gtub byed dang*//
 ral gri ngar ma gdeng gcod dang*//
 gzhu mo dgra klad 'gem byed dang*//
@@ -145,7 +145,7 @@ kyai/ dgra bla chen po khyed rnams la//
 yang gcig rten du 'dzugs pa ni//
 rtsibs stong ldan pa'i 'khor lo 'di//
 de ring dgra bla'i rten du 'dzugs//
-me 'od 'phro ba'i dgra s+t+wa 'di//
+me 'od 'phro ba'i dgra st+wa 'di//
 de ring dgra bla'i rten du 'dzugs//
 nam mkha'i mdangs can chu gri 'di//
 de ring dgra bla'i rten du 'dzugs//
@@ -351,7 +351,7 @@ dgra bla rnams kyis rten chos shig /brla gri shel dkar 'od 'phro la//
 dgra bla rnams kyis rten chos shig /pus khebs nyes pa skyob byed la//
 dgra bla rnams kyis rten chos shig /phub mo sba dmar gling drug la//
 dgra bla rnams kyis rten chos shig /rtsibs stong ldan pa'i 'khor lo la//
-dgra bla rnams kyis rten chos shig /me 'od 'phro ba'i dgra s+t+wa la//
+dgra bla rnams kyis rten chos shig /me 'od 'phro ba'i dgra st+wa la//
 dgra bla rnams kyis rten chos shig /nam mkha'i mdangs can chu gri la//
 dgra bla rnams kyis rten chos shig /rin chen 'od 'phro'i gzhu mo la//
 dgra bla rnams kyis rten chos shig /shugs drag mda' mo rgod sgro la//

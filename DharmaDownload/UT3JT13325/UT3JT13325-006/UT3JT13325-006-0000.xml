@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /chos rje dwags po lha rje'i gsung*/snying po'i ngo sprod don dam gter mdzod bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /chos rje dwags po lha rje'i gsung*/snying po'i ngo sprod don dam gter mdzod bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13325-006-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13325</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Mahamudra/rtfs/03_dakpo/306.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ ༄༅//
@@ -360,6 +360,6 @@ zag med bde ba chos sku yin//
 zhes gsungs so//
 'chi ka'i nyams len yin gsung ngo*//
 </tei:p>
-<tei:p n="20" unit="page">zhes pa 'di ni/ rje nyid kyi dbon po spyan snga chos kyi rje/ bsod nams lhun grub zla 'od rgyal mtshan dpal bzang pos/ ri bo shān+tir bka' brgyud kyi bstan pa spel ba'i slad du par du bgyis pa'o///
+<tei:p n="20" unit="page">zhes pa 'di ni/ rje nyid kyi dbon po spyan snga chos kyi rje/ bsod nams lhun grub zla 'od rgyal mtshan dpal bzang pos/ ri bo shāntir bka' brgyud kyi bstan pa spel ba'i slad du par du bgyis pa'o///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

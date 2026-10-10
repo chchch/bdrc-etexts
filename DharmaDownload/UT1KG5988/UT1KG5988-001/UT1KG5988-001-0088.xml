@@ -1,12 +1,12 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /'phags pa phyogs bcu'i mun sel zhes bya ba bzhugs so/  //  /</tei:title><tei:author/><tei:title>༄༅/  /'phags pa phyogs bcu'i mun sel zhes bya ba bzhugs so/  //  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG5988-001-0088</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG5988</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Kagyur-Zungdue/rtfs/volume-001/089_phyogs-bcu-mun-sel.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ ༄༅//
 'phags pa phyogs bcu'i mun sel zhes bya ba bzhugs so///
 /</tei:p>
 <tei:p n="2" unit="page">༄༅//
-rgya gar skad du/ ār+ya da sha di ka an dha kā ra bi dha na sa na nā ma ma hā yā na sū tra/ bod skad du/ 'phags pa phyogs bcu'i mun pa rnam par sel ba zhes bya ba theg pa chen po'i mdo/ sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo//
+rgya gar skad du/ ārya da sha di ka an dha kā ra bi dha na sa na nā ma ma hā yā na sū tra/ bod skad du/ 'phags pa phyogs bcu'i mun pa rnam par sel ba zhes bya ba theg pa chen po'i mdo/ sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo//
 'di skad bdag gis thos pa dus gcig na/ bcom ldan 'das shākya rnams kyi nang na/ ser skya'i gnas shing n+ya gro dha'i kun dga' ra ba na dge slong stong nyis brgya lnga bcu'i dge slong gi dge 'dun chen po dang*/ 'jam dpal la sogs pa byang chub sems dpa'i 'khor chen po dang thabs gcig tu bzhugs so//
 de nas bcom ldan 'das snga dro'i dus kyi tshe/ sham thabs gsol nas lhung bzed dang chos gos bsnams te/ dge slong gi dge 'dun gyis yongs su bskor cing*/ dge slong gi dge 'dun gyis mdun du bdar nas/ ser skya'i gnas kyi grong khyer chen por bsod snyoms la gshegs so//
 de'i tshe na shākya gzhon nu bzhin rab gsal zhes bya ba zhig bya ba 'ga' zhig gi phyir shing rta la zhon nas ser skya'i gnas kyi grong khyer chen po nas phyir byung ba dang*/ shākya gzhon nu bzhin rab gsal gyis/ bcom ldan 'das thag ring po kho na nas gshegs pa mthong ngo*//
@@ -124,6 +124,6 @@ bcom ldan 'das chos kyi rnam grangs 'di'i ming ci lags/ 'di ji ltar gzung bar bg
 kun dga' bo de'i phyir khyod kyis chos kyi rnam grangs 'di phyogs bcu'i mun pa rnam par sel ba zhes bya ba zungs shig</tei:p>
 <tei:p n="14" unit="page">/de bzhin gshegs pa'i mtshan yang dag par brjod pa zhes bya ba dang*/ dngos po med par rtogs pa zhes bya ba dang*/ mtshan nyid med par rtogs pa zhes bya bar yang zungs shig /bcom ldan 'das kyis de skad ces bka' bstsal pa dang*/ tshe dang ldan pa kun dga' bo dang*/ tshe dang ldan pa shā ri'i bu dang*/ shākya gzhon nu bzhin rab gsal dang*/ srog chags stong tshang ba de dag dang*/ lha'i dbang po brgya byin dang*/ dge slong de dag dang*/ byang chub sems dpa' de dag dang*/ lha dang*/ mi dang*/ lha ma yin dang*/ dri zar bcas pa'i 'jig rten yi rangs te/ bcom ldan 'das kyis gsungs pa la mngon par bstod do//
 'phags pa phyogs bcu'i mun pa rnam par sel ba zhes bya ba theg pa chen po'i mdo rdzogs so///
-/rgya gar gyi mkhan po bi shud+dha sid+dhādang*/ lo ts+tsha ba ban+de rtsangs dang ban de ra kyi tas bsgyur/ zhu chen gyi lo ts+tsha ba ban+de klu'i rgyal mtshan gyis skad gsar bcad kyis bcos te gtan la phab pa'o///
+/rgya gar gyi mkhan po bi shuddha siddhādang*/ lo tstsha ba bande rtsangs dang ban de ra kyi tas bsgyur/ zhu chen gyi lo tstsha ba bande klu'i rgyal mtshan gyis skad gsar bcad kyis bcos te gtan la phab pa'o///
 /maṅga laṃ/ </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(57)kyai/phyogs phyogs dag kyang pha ki na/  /nyi ma byang shar pha ki na/  /rin chen brag ri'i gtams pa yi/  /sman spos skyed tshal rgyas pa nas/  /phyi ltar </tei:title><tei:author/><tei:title>(57)kyai/phyogs phyogs dag kyang pha ki na/  /nyi ma byang shar pha ki na/  /rin chen brag ri'i gtams pa yi/  /sman spos skyed tshal rgyas pa nas/  /phyi ltar </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT21825-002-0020</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W21825</tei:idno><tei:idno type="SRC_PATH">PalriParkhang/W21825-bkaq-qbum-pad-nor-02-thub-bstan-chos-kyi-glang-po/rtfs/02-penor-kabum-kha/57-58.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(57) kyai/ phyogs phyogs dag kyang pha ki na//
@@ -9,7 +9,7 @@ sman spos skyed tshal rgyas pa nas//
 phyi ltar yul skyong dgra lha che//
 btsan rgod rdo rjed gra 'joms rtsal// nang ltar gnod sbyi yang le ber//
 btsan rgod ya ba rkya bdun tshogs//
-gsang ba pad+ma he ru ka /dbang chen rta mchog rol pa che//
+gsang ba padma he ru ka /dbang chen rta mchog rol pa che//
 bkra shis char chen 'bebs pa'i phyir//
 spyan 'dren gnas 'dir gshegs su gsol// kyai//
 gnam sngon zhun du bzhus pa ni//
@@ -25,6 +25,6 @@ nam mkha' mdzod kyi 'khor los mchod//
 glog ltar g.yo ba'i rdzu 'phrul mthus// chu (58)'dzin nor bu'i lhun po nas// glog dmar g.yo ba'i ska rags can//
 yid 'ong 'brug gi sgra dang bcas//
 bdud rtsi'i char chen mdzad med rgyun// skad cig myur ba nyid du phob//
-slob dpon pad+ma thod phreng sogs//
+slob dpon padma thod phreng sogs//
 rig 'dzin brgyud pa'i tha tshig la/ dgongs te skad cig da lta 'dir/ ma g.yel thogs med char chen phob// dge'o// </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

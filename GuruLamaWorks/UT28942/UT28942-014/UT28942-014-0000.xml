@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /byang chub kyi sems sgom pa'i man ngagagrub chen sa ra has 'phags pa klu sgrub la gsungs pa'i don byang chub kyi sems sgom pa'i man ngag/༈/bla ma dang </tei:title><tei:author/><tei:title>༄༅/  /byang chub kyi sems sgom pa'i man ngagagrub chen sa ra has 'phags pa klu sgrub la gsungs pa'i don byang chub kyi sems sgom pa'i man ngag/༈/bla ma dang </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT28942-014-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W28942</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/RONGTON/RONT014.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -9,10 +9,10 @@ skyon bral yon tan thar thug rab brnyes shing*//
 'gro ba ma lus yongs su skyob pa'i dbang*//
 thub pa mchog la gus pas phyag 'tshal lo//
 thub pa'i lung bstan rab brnyes klu sgrub dang*//
-ār+ya de ba la sogs bla ma rnams//
+ārya de ba la sogs bla ma rnams//
 zhal nas legs 'ongs man ngag snying po'i don//
 byang chub sems kyi man ngag bshad par bya//
-man ngag 'di zhu ba'i sngon 'gro la maṇ+ḍal bzhi bya bar gsungs te/ dkon mchog spyi la maṇ+ḍal gcig lhag pa'i lha la maṇ+ḍal gcig bla ma spyi la maṇ+ḍal gcig rtsa ba'i bla ma la maṇ+ḍal gcig 'bul bar bshad do//
+man ngag 'di zhu ba'i sngon 'gro la maṇḍal bzhi bya bar gsungs te/ dkon mchog spyi la maṇḍal gcig lhag pa'i lha la maṇḍal gcig bla ma spyi la maṇḍal gcig rtsa ba'i bla ma la maṇḍal gcig 'bul bar bshad do//
 man ngag gi dngos gzhi la don bzhi ste/ dang por sems ngos gzung*/ bar du sems skye med du ngo sprad/ tha mar de'i don la mnyam par 'jog pa dang*/ de gzhan la yang sbyar tshul lo//
 dang po ni rnam par rtog pa bzhir bsdus te/ mi dge ba'i rnam par rtog pa dang*/ nyon mongs pa'i rnam par rtog pa dang*/ lung ma bstan gyi rnam par rtog pa dang*/ dge ba'i rnam par rtog pa'o//
 rnam par rtog pa dang pos ni ngan song du 'phen par byed la/ gnyis pas ni 'khor ba'i rgyu byed la/ gsum pas ni yang dag pa'i don mthong ba la sgrib par byed/ bzhi pas ni mtho ris kyi gnas su 'khor bar byed do//
@@ -40,5 +40,5 @@ bla ma snga ma rnams kyis lam 'bras kyang zab mod kyi/ lam bskor phyi ma rnams s
 byang chub sems kyi man ngag sgom pa'i don//
 tshul bzhin ma nor rab tu gsal bar bshad//
 bshad pa'i dge ba rab dkar dri med des//
-'gro ba ma lus byang chub myur thob shog /grub mchog sa ra has/ slob dpon klu sgrub la gsungs pa/ byang chub sems sgom pa'i man ngag shin tu zab pa'i don bshad pa 'di ni dpal nā len+d+ra'i chos grwar rong ston chen pos sbyar ba'o// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
+'gro ba ma lus byang chub myur thob shog /grub mchog sa ra has/ slob dpon klu sgrub la gsungs pa/ byang chub sems sgom pa'i man ngag shin tu zab pa'i don bshad pa 'di ni dpal nā lend+ra'i chos grwar rong ston chen pos sbyar ba'o// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,20 +1,20 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">sku gsum rig 'dus zab tig las/brgyud pa'i gsol 'debs byin rlabs thig le zhes bya ba bzhugs so/  /rigs kun khyab bdag pad+ma kun tu 'chang*/  /lhun</tei:title><tei:author/><tei:title>sku gsum rig 'dus zab tig las/brgyud pa'i gsol 'debs byin rlabs thig le zhes bya ba bzhugs so/  /rigs kun khyab bdag pad+ma kun tu 'chang*/  /lhun</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">sku gsum rig 'dus zab tig las/brgyud pa'i gsol 'debs byin rlabs thig le zhes bya ba bzhugs so/  /rigs kun khyab bdag padma kun tu 'chang*/  /lhun</tei:title><tei:author/><tei:title>sku gsum rig 'dus zab tig las/brgyud pa'i gsol 'debs byin rlabs thig le zhes bya ba bzhugs so/  /rigs kun khyab bdag padma kun tu 'chang*/  /lhun</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-011-0061</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/11-DA/terdzo-DA-P60.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250sku gsum rig 'dus zab tig las/ brgyud pa'i gsol 'debs byin rlabs thig le zhes bya ba bzhugs so//
-1$0000300rigs kun khyab bdag pad+ma kun tu 'chang*//
-lhun rdzogs mgon po pad+ma'i spyan mchog la//
-gsol ba 'debs so dzñā na badz+ra hoḥ byin gyis rlobs shig sarba sid+dhi hūm̐//
-sgyu 'phrul rang gzugs pad+ma tshe dpag med//
-kun 'dus sems dpa' pad+ma'i myu gu la//
-gsol ba 'debs so dzñā na badz+ra hoḥ byin gyis rlobs shig sarba sid+dhi hūm̐//
-rigs gsum gcig bsdus pad+ma mdo sngags gling*//
-bka' babs brgyud 'dzin pad+ma'i sras rnams la//
-gsol ba 'debs so dzñā na badz+ra hoḥ byin gyis rlobs shig sarba sid+dhi hūm̐//
+1$0000300rigs kun khyab bdag padma kun tu 'chang*//
+lhun rdzogs mgon po padma'i spyan mchog la//
+gsol ba 'debs so dzñā na badzra hoḥ byin gyis rlobs shig sarba siddhi hūm̐//
+sgyu 'phrul rang gzugs padma tshe dpag med//
+kun 'dus sems dpa' padma'i myu gu la//
+gsol ba 'debs so dzñā na badzra hoḥ byin gyis rlobs shig sarba siddhi hūm̐//
+rigs gsum gcig bsdus padma mdo sngags gling*//
+bka' babs brgyud 'dzin padma'i sras rnams la//
+gsol ba 'debs so dzñā na badzra hoḥ byin gyis rlobs shig sarba siddhi hūm̐//
 theg dgu yi dam rgyal ba'i dkyil 'khor dang*//
 gnas gsum mkha' 'gro dam can gter srung la//
-gsol ba 'debs so dzñā na badz+ra hoḥ byin gyis rlobs shig sarba sid+dhi hūm̐//
+gsol ba 'debs so dzñā na badzra hoḥ byin gyis rlobs shig sarba siddhi hūm̐//
 srid las nges 'byung dad gsum khong nas brdol//
 las 'bras yid ches thar mchog don du gnyer//
 gsag sbyang mthar phyin snying rje mos gus 'byongs//
@@ -31,5 +31,5 @@ mthar phyin sgrib gnyis kun sangs mkhyen gnyis rgyas//
 mi slob zung 'jug sku gsum mngon du gyur//
 don gnyis mtha' ru phyin par byin gyis rlobs//
 </tei:p>
-<tei:p n="2" unit="page">'di'ang khyab bdag kun mkhyen bla mas bka'i gnang bstsal pa dang*/ gnas mdo gcod bla sprul sku dang dpal khyim a mye o rgyan bstan 'dzin sogs kyis bskul ngor pad+ma gar dbang blo gros mtha' yas kyis bris pa dge legs 'phel// // </tei:p>
+<tei:p n="2" unit="page">'di'ang khyab bdag kun mkhyen bla mas bka'i gnang bstsal pa dang*/ gnas mdo gcod bla sprul sku dang dpal khyim a mye o rgyan bstan 'dzin sogs kyis bskul ngor padma gar dbang blo gros mtha' yas kyis bris pa dge legs 'phel// // </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

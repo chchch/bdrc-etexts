@@ -1,15 +1,15 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">gdod ma'i mgon po kun bzang 'od mi 'gyur/  /nges pa lnga ldan rigs lnga longs spyod rdzogs/  /dkyil 'khor kun gyi dbang phyug rdo rje sems/  /gas</tei:title><tei:author/><tei:title>gdod ma'i mgon po kun bzang 'od mi 'gyur/  /nges pa lnga ldan rigs lnga longs spyod rdzogs/  /dkyil 'khor kun gyi dbang phyug rdo rje sems/  /gas</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-020-0053</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/20-WA/Terzod-wa-P52.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">gdod ma'i mgon po kun bzang 'od mi 'gyur//
 nges pa lnga ldan rigs lnga longs spyod rdzogs//
 dkyil 'khor kun gyi dbang phyug rdo rje sems//
 gsol ba 'debs so 'chi med tshe dbang stsol//
-tshe dang ye shes mtha' yas rigs kyi bdag /bde sbyor dbang gi lha mo tsan+ḍa lī//
+tshe dang ye shes mtha' yas rigs kyi bdag /bde sbyor dbang gi lha mo tsanḍa lī//
 gdod nas grub brnyes nā gārdzu na la//
 gsol ba 'debs so 'chi med tshe dbang stsol//
-rdo rje'i sku can pad+ma saṃ bha ba/ 'chi med grub pa'i rgyal mo man+dā ra//
+rdo rje'i sku can padma saṃ bha ba/ 'chi med grub pa'i rgyal mo mandā ra//
 skye 'chi gnyis spangs bde chen rgyal mo la//
 gsol ba 'debs so 'chi med tshe dbang stsol//
 mnga' bdag tshangs chen tshe mchog grub pa'i 'khor//
@@ -34,5 +34,5 @@ tshe dbang mchog grub gzhan don mkha' khyab shog /bde chen ye shes dwangs ma'i b
 mi 'gyur mi shigs rdo rje sems dpa'i tshe//
 thig le chen po rgyun gyis rtag pa'i lus//
 zung 'jug mchog gi rig 'dzin mngon gyur shog /</tei:p>
-<tei:p n="2" unit="page">ces pa 'di ni sgrub gnas kyi rgyal po brag dmar g.ya' ma lung gi ke'u tshang du 'chi med tshe'i bsnyen sgrub zhag bdun ma bgyis pa'i thog mar rten 'byung ched du/ pad+ma gar dbang blo gros mtha' yas kyis shar mar spel ba dge legs 'phel// // </tei:p>
+<tei:p n="2" unit="page">ces pa 'di ni sgrub gnas kyi rgyal po brag dmar g.ya' ma lung gi ke'u tshang du 'chi med tshe'i bsnyen sgrub zhag bdun ma bgyis pa'i thog mar rten 'byung ched du/ padma gar dbang blo gros mtha' yas kyis shar mar spel ba dge legs 'phel// // </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,17 +1,17 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pa)༄༅/  /ba ri ba'i chos skor gyi brgyud 'debs bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/bla ma dam pa'i zhabs la phyag 'tshal lo/  /gang gis byang chub mchog</tei:title><tei:author/><tei:title>(pa)༄༅/  /ba ri ba'i chos skor gyi brgyud 'debs bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/bla ma dam pa'i zhabs la phyag 'tshal lo/  /gang gis byang chub mchog</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pa)༄༅/  /ba ri ba'i chos skor gyi brgyud 'debs bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/bla ma dam pa'i zhabs la phyag 'tshal lo/  /gang gis byang chub mchog</tei:title><tei:author/><tei:title>(pa)༄༅/  /ba ri ba'i chos skor gyi brgyud 'debs bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/bla ma dam pa'i zhabs la phyag 'tshal lo/  /gang gis byang chub mchog</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-349-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA343.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pa)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-349-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA343.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pa)༄༅//
 ba ri ba'i chos skor gyi brgyud 'debs bzhugs// ༄༅//
-oṃ swa sti sid+dhaṃ/ bla ma dam pa'i zhabs la phyag 'tshal lo//
+oṃ swa sti siddhaṃ/ bla ma dam pa'i zhabs la phyag 'tshal lo//
 gang gis byang chub mchog tu thugs bskyed nas//
 grangs med gsum du brtson pas rab bsgrubs pas//
 tshogs gnyis mthar phyin rang gzhan don brnyes pa//
 ston pa bder gshegs rnams la phyag 'tshal lo//
 sangs rgyas kun gyi ye shes bla na med//
 gcig tu bsdus pa rgyal sras gzhon nu'i tshul//
-shes rab ral gri ut+pal 'dzin brtson pa//
+shes rab ral gri utpal 'dzin brtson pa//
 mgon po 'jam pa'i dbyangs la phyag 'tshal lo//
 khyod ni shes bya kun la rab sbyangs nas//
 ting 'dzin brtson pas go 'phang mchog brnyes te//
@@ -30,7 +30,7 @@ yon tan ljon shing rtogs pa'i 'bras bu can//
 gzhan don bsdu ba'i bsil grib dang ldan pa//
 rin chen grags pa'i zhabs la phyag 'tshal lo//
 'jam dbyangs ye shes nyi ma'i gsung zer gyis//
-mkhyen pa pad+mo'i tshal rab rgyas byas nas//
+mkhyen pa padmo'i tshal rab rgyas byas nas//
 legs bshad sbrang rtsi'i dga' ston dgyes mdzad pa//
 rje btsun sa skya pa la phyag 'tshal lo//
 'gro ba 'di kun bu gcig ltar gzigs pas//
@@ -94,5 +94,5 @@ rgyal ba kun gyi ye shes rgya mtsho dang*//
 rnam pa kun tu ro gcig gyur par shog /skye ba 'di nyid du yang tshe ring zhing*//
 nad med pa dang longs spyod phun sum tshogs//
 bar du gcod pa thams cad zhi ba dang*//
-yid la 'dod pa thams cad 'grub gyur cig /tshul 'di ni dpal ldan bla ma chos kyi rje sa skya paṇ+ḍi ta chen po'i zhabs rdul spyi bos len pa'i btsun pa blo gros rgyal mtshan dpal bzang pos shing pho stag gi lo bya sbo'i tshes bco lnga la mdo khams sgang du sbyar ba'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+yid la 'dod pa thams cad 'grub gyur cig /tshul 'di ni dpal ldan bla ma chos kyi rje sa skya paṇḍi ta chen po'i zhabs rdul spyi bos len pa'i btsun pa blo gros rgyal mtshan dpal bzang pos shing pho stag gi lo bya sbo'i tshes bco lnga la mdo khams sgang du sbyar ba'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

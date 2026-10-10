@@ -1,13 +1,13 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">zab chos rta phag yid bzhin nor bu'i brgyud pa'i gsol 'debs zung 'jug rol mo zhes bya ba bzhugs so/  /oṃ āḥhūm̐ hrīḥsnang ba mtha' yas 'jig rte</tei:title><tei:author/><tei:title>zab chos rta phag yid bzhin nor bu'i brgyud pa'i gsol 'debs zung 'jug rol mo zhes bya ba bzhugs so/  /oṃ āḥhūm̐ hrīḥsnang ba mtha' yas 'jig rte</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-026-0019</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/26-LA/TERDZO-LA-P18.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250zab chos rta phag yid bzhin nor bu'i brgyud pa'i gsol 'debs zung 'jug rol mo zhes bya ba bzhugs so//
 1$0000300oṃ āḥhūm̐ hrīḥ snang ba mtha' yas 'jig rten dbang phyug dang*//
-pad+ma saṃ bha ye shes mtsho rgyal ma//
+padma saṃ bha ye shes mtsho rgyal ma//
 ting 'dzin bzang po o rgyan las 'phro gling*//
 karma rig 'dzin karma chags med zhabs//
-pad+ma kun dga' phrin las dbang 'byung rje//
+padma kun dga' phrin las dbang 'byung rje//
 shes rab grags pa bstan 'dzin don kun grub/ theg mchog bstan 'phel rtsa brgyud bla ma la//
 gsol ba 'debs so thugs rjes byin gyis rlobs//
 'gyur med bde ba dbang chen rta mchog dpal//
@@ -24,5 +24,5 @@ dbang chen yab yum phyag rgya myur 'grub shog /ka dag khregs chod dgongs pa'i gz
 lhun grub thod rgal snang bzhi'i rtsal rdzogs te//
 'khor 'das chos kun gdod ma'i zad sar phyin//
 rigs bdag bla ma'i go 'phang thob par shog /</tei:p>
-<tei:p n="2" unit="page">ces pa'ang zab chos 'di la mos pa karme shwa ras bskul ngor pad+ma gar gyi dbang phyug rtsal gyis yang dben kun bzang bde chen gling du spel ba dge legs 'phel// // </tei:p>
+<tei:p n="2" unit="page">ces pa'ang zab chos 'di la mos pa karme shwa ras bskul ngor padma gar gyi dbang phyug rtsal gyis yang dben kun bzang bde chen gling du spel ba dge legs 'phel// // </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

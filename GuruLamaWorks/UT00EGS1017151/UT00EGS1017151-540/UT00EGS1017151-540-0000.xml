@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ba)༄༅/  /thub pa'i bstod pa bzhugs/  /༄༅/  /sangs rgyas bcom ldan 'das shākya thub pa'i bstod pa/sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal</tei:title><tei:author/><tei:title>(ba)༄༅/  /thub pa'i bstod pa bzhugs/  /༄༅/  /sangs rgyas bcom ldan 'das shākya thub pa'i bstod pa/sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-540-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA534.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ba)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-540-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA534.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ba)༄༅//
 thub pa'i bstod pa bzhugs// ༄༅//
 sangs rgyas bcom ldan 'das shākya thub pa'i bstod pa/ sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo//
 dri med dad pa'i chu gter las 'khrungs pa//
@@ -81,7 +81,7 @@ slar yang 'gro ba'i bsod nams spel bya'i phyir//
 sku gdung ring bsrel phung por legs gyur nas//
 'jig rten kun gyi mchod pa'i rten gyur pa//
 mdzad pa rgyun mi 'chad la phyag 'tshal lo//
-sum cu rtsa gsum gan+dha ra yi grong*//
+sum cu rtsa gsum gandha ra yi grong*//
 ka liṅga dang klu yi gnas rnams su//
 bsod nams rten du nyid kyis rjes gnang ba'i//
 thub chen mche ba bzhi la phyag 'tshal lo//
@@ -94,7 +94,7 @@ ji ltar nyi mas lus 'phags snang byas nas//
 snang bar mdzad nas 'dir ni snang mdzad pa//
 skye dgu'i sgron ma de la phyag 'tshal lo//
 'dzam bu chu bo'i gser ltar rab tu dwangs//
-kun+da ltar dkar gur gum mdangs ldan pas//
+kunda ltar dkar gur gum mdangs ldan pas//
 mdzes pa gzhan kun rab tu zil gnon pa//
 mchod par 'os pa de la phyag 'tshal lo//
 bde gshegs yon tan rgya mtshor skye ba brnyes//
@@ -150,5 +150,5 @@ mtshungs med chos kyi dga' ston 'gyed par shog /mkhyen pa'i dkyil 'khor legs bsh
 shes bya'i mkha' la kun tu thogs med cing*//
 gdul bya'i blo gros pad tshal rgyas mdzad pa//
 chos rje chos kyi nyi ma la phyag 'tshal//
-shākya'i rgyal po'i yon tan gyi cha la bstod cing gsol ba'i tshig 'di ni/ chos rje sa skya paṇ+ḍi ta chen po'i gsung gi 'od zer gyis yid kyi mun pa bsal bar byas pas/ thub pa'i gsung rab kyi cha la blo'i snang ba cung zad thob par gyur pa chos smra ba'i btsun pa 'phags pa zhes bya bas de bzhin gshegs pa'i tshems mche ba mthong bar gyur pa la dad cing mngon par dga' bas/ shing pho stag gi lo smin drug gi zla ba'i tshes nyi shu gsum la sbyar ba'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+shākya'i rgyal po'i yon tan gyi cha la bstod cing gsol ba'i tshig 'di ni/ chos rje sa skya paṇḍi ta chen po'i gsung gi 'od zer gyis yid kyi mun pa bsal bar byas pas/ thub pa'i gsung rab kyi cha la blo'i snang ba cung zad thob par gyur pa chos smra ba'i btsun pa 'phags pa zhes bya bas de bzhin gshegs pa'i tshems mche ba mthong bar gyur pa la dad cing mngon par dga' bas/ shing pho stag gi lo smin drug gi zla ba'i tshes nyi shu gsum la sbyar ba'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,10 +1,10 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">mgon po tshogs bdag gi mjug chog bzhugs so/  /mgon po tshogs bdag gi sgrub pa'i las rim thams cad tshar nas/mthar thug dge ba'i rtsa ba bsngo zhing smon lam</tei:title><tei:author/><tei:title>mgon po tshogs bdag gi mjug chog bzhugs so/  /mgon po tshogs bdag gi sgrub pa'i las rim thams cad tshar nas/mthar thug dge ba'i rtsa ba bsngo zhing smon lam</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-038-0011</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/38-NYI/TERDZO-NYI-P09.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250mgon po tshogs bdag gi mjug chog bzhugs so//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-038-0011</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/38-NyI/TERDZO-NyI-P09.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250mgon po tshogs bdag gi mjug chog bzhugs so//
 1$0000300</tei:p>
-<tei:p n="2" unit="page">mgon po tshogs bdag gi sgrub pa'i las rim thams cad tshar nas/ mthar thug dge ba'i rtsa ba bsngo zhing smon lam gdab pa ni/ oṃ shrī ma hā kā la sa pa ri bā ra ar+ghaṃ  sogs/ hūm̐/ bde gshegs mgon po bstan pa'i dpal//
+<tei:p n="2" unit="page">mgon po tshogs bdag gi sgrub pa'i las rim thams cad tshar nas/ mthar thug dge ba'i rtsa ba bsngo zhing smon lam gdab pa ni/ oṃ shrī ma hā kā la sa pa ri bā ra arghaṃ  sogs/ hūm̐/ bde gshegs mgon po bstan pa'i dpal//
 tshogs bdag dgyes pa'i byin rlabs las//
 sdug bsngal nad sel thugs rje che//
 thams cad sprul pa'i cho 'phrul dpal//
@@ -45,6 +45,6 @@ bla med rdzogs pa'i byang chub thob par shog /gzhan yang stong gsum stong gi 'ji
 mu ge nad yams god kha med par shog /lha dang mi yi longs spyod dpal 'byor rnams//
 nyi zla lta bur kun tu rgyas par shog /rnam par sbyangs pa'i shes rab thob par shog /bde ba'i don rtogs 'gro ba'i skyabs gyur shog /dngos grub mchog thob 'phags pa'i zhal mthong nas//
 las kyi don rtogs 'gro ba'i mgon gyur shog / maṅga laṃ//
-bha ban+tu/ //
+bha bantu/ //
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

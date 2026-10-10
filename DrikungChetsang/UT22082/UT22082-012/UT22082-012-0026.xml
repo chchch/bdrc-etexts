@@ -1,13 +1,13 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /lcags sdig gi bstod bskul mdor bsdus bzhugs so/  /hūm̐chos dbyings drag po e yi zhing khams su/  /dur khrod rab 'jigs rol pa'i gzhal yas</tei:title><tei:author/><tei:title>༄༅/  /lcags sdig gi bstod bskul mdor bsdus bzhugs so/  /hūm̐chos dbyings drag po e yi zhing khams su/  /dur khrod rab 'jigs rol pa'i gzhal yas</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-012-0026</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHYEN/rtfs/volume-012/5NA.CA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅/ /lcags sdig gi bstod bskul mdor bsdus bzhugs so// hūm̐ chos dbyings drag po e yi zhing khams su//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-012-0026</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHyEN/rtfs/volume-012/5NA.CA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅/ /lcags sdig gi bstod bskul mdor bsdus bzhugs so// hūm̐ chos dbyings drag po e yi zhing khams su//
 dur khrod rab 'jigs rol pa'i gzhal yas khang*//
 mthing nag gru gsum 'bar ba'i klong dkyil na//
 klu 'bum gnyan khri sa bdag stong bsnol zhing*//
 phyogs skyong gshin rje ma he chu glang dang*//
-'khor lo pad+ma nyi zla'i khri steng du//
+'khor lo padma nyi zla'i khri steng du//
 dus gsum sangs rgyas kun dang dbyer med pa'i//
 phyag rgya zil gnon 'jam dpal khro bo'i rgyal//
 ya ma rā dza phyag na rdo rje dang*//
@@ -33,6 +33,6 @@ dgra bgegs zlog bsad gzir mnan drag po'i las//
 mngon spyod drag po myur du 'grub pa dang*//
 dam nyams byad ma rang gshed rang la phob//
 bcol ba'i phrin las myur du 'grub par mdzod//
-ces pa ni lcags sdig gi las drug mchod rten brub khung tsit+ta la brten nas 'khor lo rkyang pa sogs gang sgrub kyang thun drug sogs la gtor 'bul dang bstod bskul 'di bya ba yin no//</tei:p>
+ces pa ni lcags sdig gi las drug mchod rten brub khung tsitta la brten nas 'khor lo rkyang pa sogs gang sgrub kyang thun drug sogs la gtor 'bul dang bstod bskul 'di bya ba yin no//</tei:p>
 <tei:p n="2" unit="page">//sarba maṅga laṃ//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

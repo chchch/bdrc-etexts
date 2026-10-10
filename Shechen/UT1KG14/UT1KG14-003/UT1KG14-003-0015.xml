@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rdor sems thugs kyi sgrub pa'i rmi lam gyi khrid yig zin bris su spel ba nying 'khrul rang grol zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /rdor sems thugs kyi sgrub pa'i rmi lam gyi khrid yig zin bris su spel ba nying 'khrul rang grol zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-003-0015</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/03-GA/TERZOD-GA-P13.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄༅//
@@ -44,5 +44,5 @@ skal ldan gdul bya'i dpa~Xl du byin//
 'dis thob dge bas 'gro ba kun//
 sgrib gnyis bag chags yongs dag nas//
 'od gsal ye shes sgyu ma'i sku/ dka' ba med par myur 'grub shog</tei:p>
-<tei:p n="13" unit="page">/ces pa 'di yang snga 'gyur bstan pa'i gsal byed mchog sprul kun bzang pad+ma legs grub kyi gsung ngor dge slong rmongs pa dharma shrīs rje bla ma dam pa las bka'i gnang ba 'khrol bar byas te zin ris su spel ba shu bha mastu// //</tei:p>
+<tei:p n="13" unit="page">/ces pa 'di yang snga 'gyur bstan pa'i gsal byed mchog sprul kun bzang padma legs grub kyi gsung ngor dge slong rmongs pa dharma shrīs rje bla ma dam pa las bka'i gnang ba 'khrol bar byas te zin ris su spel ba shu bha mastu// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

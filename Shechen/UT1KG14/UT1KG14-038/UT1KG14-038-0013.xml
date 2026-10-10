@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">dpal ldan mgon po'i skong ba bsdus pa dgra bgegs tshar gcod bzhugs so/  /chos skyong rgyal po dpal ldan mgon po yi/  /skong bsdus tshig nyung don che</tei:title><tei:author/><tei:title>dpal ldan mgon po'i skong ba bsdus pa dgra bgegs tshar gcod bzhugs so/  /chos skyong rgyal po dpal ldan mgon po yi/  /skong bsdus tshig nyung don che</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-038-0013</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/38-NYI/TERDZO-NYI-P11.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250dpal ldan mgon po'i skong ba bsdus pa dgra bgegs tshar gcod bzhugs so//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-038-0013</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/38-NyI/TERDZO-NyI-P11.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250dpal ldan mgon po'i skong ba bsdus pa dgra bgegs tshar gcod bzhugs so//
 1$0000300</tei:p>
 <tei:p n="2" unit="page">chos skyong rgyal po dpal ldan mgon po yi//
 skong bsdus tshig nyung don che kun 'dus la//
@@ -11,11 +11,11 @@ dud pa byas la 'di skad gyer bar bya//
  hūm̐/ ri rab chen po'i pho brang du//
 chos bzang lha yi 'dun sa'i steng*//
 a mo li ka'i rdo leb dbus//
-pad+ma nyi ma brtsegs pa'i thog /bi nā ya ka pho mo'i steng*//
+padma nyi ma brtsegs pa'i thog /bi nā ya ka pho mo'i steng*//
 mgon po ma hā kā la ni//
 sku mdog mthing nag char sprin mdog /tshogs rje tshogs bdag thugs dam bskang*//
 de yi g.yon du bzhugs pa yi//
-yum chen yak+sha bai ta li//
+yum chen yaksha bai ta li//
 nag mo gri gug thod khrag 'dzin//
 sku la mkha' 'gro'i chas kyis brgyan//
 chibs su drel rta gwa pa 'chib//
@@ -41,7 +41,7 @@ smug nag nyi zer zhags pa bsnams//
 ngang pa rngog nag chibs su 'chib//
 'khor dang bcas pa'i thugs dam bskang*//
 lho phyogs mgon po legs ldan ni//
-mthing nag tsan+dan bing chen phyar//
+mthing nag tsandan bing chen phyar//
 rta mchog rngog nag chibs su 'chib//
 'khor dang bcas pa'i thugs= nub phyogs brag lha mgon po ni//
 dmar nag tsan dan gru tshal bsnams//
@@ -53,7 +53,7 @@ seng ge dkar mo chibs su 'chib//
 'khor dang bcas pa'i thugs= shar lho mgon po dzam bha la//
 sngon po mdung dar ne'u le 'dzin//
 chu ris sngon po chibs su 'chib//
-'khor dang bcas pa'i thugs= lho nub mgon po re man+ta//
+'khor dang bcas pa'i thugs= lho nub mgon po re manta//
 mthing nag phyag na ru mtshon bsnams//
 g.yu rngog sngon po chibs su 'chib//
 'khor dang bcas pa'i thugs= nub byang mgon po sha ba ri//
@@ -66,7 +66,7 @@ gro bo g.yu rngog chibs su 'chib//
 sku mdog nag po ral gri 'debs//
 ngang pa rngog dmar chibs su 'chib//
 'khor dang bcas pa'i thugs= 'og phyogs mgon po bai ta li//
-sku mdog nag po s+t+wa re bsnams//
+sku mdog nag po st+wa re bsnams//
 phag chen gtams pa'i khri la bzhugs//
 'khor dang bcas pa'i thugs= hūm̐/ yang cig mgon po'i bka' nyan rnams//
 shar gyi phyogs kyi mgon po ni//
@@ -83,7 +83,7 @@ btsan rje srog zan dmar po ste//
 btsan dmag dpung gi thugs= lho nub mtshams kyi mgon po ni//
 rgyal po pe har dgra bla ste//
 'gong po 'bum bcas thugs= nub byang mtshams kyi mgon po ni//
-gnod sbyin kā la yak+sha ste//
+gnod sbyin kā la yaksha ste//
 gnod sbyin 'bum bcas thugs= byang shar mtshams kyi mgon po ni//
 klu bdud 'chi bdag mgo dgu ste//
 klu bdud 'bum bcas thugs=</tei:p>
@@ -167,7 +167,7 @@ shangs nas gdug pa'i rlung nag 'tshubs//
 de bzhin bdag gis mnga' gsol lo//
 dpal ldan mgon po nag po la//
 dpa' bo rnams kyis mnga' gsol phyir//
-tsan+dan bing chen g.yas na phyar//
+tsandan bing chen g.yas na phyar//
 de bzhin bdag gis mnga' gsol lo//
 dpal ldan mgon po nag po la//
 ma mo rnams kyis mnga' gsol phyir//

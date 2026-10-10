@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">419)༄༅/kyai/bskal bzang rnam 'dren bzhi pa shākya'i tog/ston mchog mi yi seng ge'i rgyal ba'i bstan/  /bsil ldan rwa ba dkar po'i ljongs 'di ru/  /</tei:title><tei:author/><tei:title>419)༄༅/kyai/bskal bzang rnam 'dren bzhi pa shākya'i tog/ston mchog mi yi seng ge'i rgyal ba'i bstan/  /bsil ldan rwa ba dkar po'i ljongs 'di ru/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT21825-005-0077</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W21825</tei:idno><tei:idno type="SRC_PATH">PalriParkhang/W21825-bkaq-qbum-pad-nor-02-thub-bstan-chos-kyi-glang-po/rtfs/05-penor-kabum-ca/c-419-422.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">419) ༄༅/ kyai/ bskal bzang rnam 'dren bzhi pa shākya'i tog /ston mchog mi yi seng ge'i rgyal ba'i bstan//
@@ -80,5 +80,5 @@ bkra shis snod kyi dge mtshan g.yang du 'khyil//
 bkra shis bcud kyi dpal 'byor gong du 'phel//
 bkra shis rdzogs ldan gsar pa'i snang ba rgyas//
 bkra shis bde skyid dbyar mtsho ltar rgyas mdzod/ </tei:p>
-<tei:p n="4" unit="page">lcags rta zla bzhi tshes brgyad la pad+ma ma ṇis so// dge'o//</tei:p>
+<tei:p n="4" unit="page">lcags rta zla bzhi tshes brgyad la padma ma ṇis so// dge'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

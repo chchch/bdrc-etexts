@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">phag mo zab rgya'i gsol 'debs bzhugs so/  /oṃ āḥhūm̐/ye shes rab gsal khyab brdal chen po nas/  /dang po'i sangs rgyas bde chen rang gsal la/  /gsol </tei:title><tei:author/><tei:title>phag mo zab rgya'i gsol 'debs bzhugs so/  /oṃ āḥhūm̐/ye shes rab gsal khyab brdal chen po nas/  /dang po'i sangs rgyas bde chen rang gsal la/  /gsol </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-035-0010</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/35-CI/Terdzo-CI-P09.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250phag mo zab rgya'i gsol 'debs bzhugs so//
@@ -12,7 +12,7 @@ gdod ma'i mkha' 'gro rdo rje phag mo la//
 gsol ba 'debs so thugs rje'i spyan gyis gzigs//
 snang srid sgyu mar rtogs par byin gyis rlobs//
 rang gsal dag pa dbyings kyi pho brang du//
-o rgyan gu ru pad+ma 'byung gnas la//
+o rgyan gu ru padma 'byung gnas la//
 gsol ba 'debs so thugs rje'i spyan gyis gzigs//
 bde gsal dbyer med rtog par byin= dwangs ma ye shes lnga ldan pho brang du//
 bde chen ye shes mkha' 'gro mtsho rgyal la//
@@ -36,7 +36,7 @@ bde stong rgyun chad med par byin=</tei:p>
 <tei:p n="2" unit="page">gzung 'dzin dhū tir dag pa'i mkha' dbyings su//
 rig 'dzin chen po chos dbyings rgya mtsho la//
 gsol ba 'debs so thugs rje'i spyan gyis gzigs//
-sems nyid chos skur rtogs par byin= spyi gtsug nyi zla pad+ma'i gdan steng du//
+sems nyid chos skur rtogs par byin= spyi gtsug nyi zla padma'i gdan steng du//
 rtogs pa'i mnga' bdag 'khrul zhig chen po la//
 gsol ba 'debs so thugs rje'i spyan gyis gzigs//
 'bras bu sku gsum thob par byin= gar bzhugs dag pa chos kyi pho brang du//

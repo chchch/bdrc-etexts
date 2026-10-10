@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pha)༄༅/  /dril bu pa'i dbang gi bya ba bsdus pa bzhugs so/  /༄༅/  /oṃ swa sti sid+dhaṃ/sku gsum ye shes lnga yi dngos/  /mkha' 'gro'i dbang phyug ba</tei:title><tei:author/><tei:title>(pha)༄༅/  /dril bu pa'i dbang gi bya ba bsdus pa bzhugs so/  /༄༅/  /oṃ swa sti sid+dhaṃ/sku gsum ye shes lnga yi dngos/  /mkha' 'gro'i dbang phyug ba</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pha)༄༅/  /dril bu pa'i dbang gi bya ba bsdus pa bzhugs so/  /༄༅/  /oṃ swa sti siddhaṃ/sku gsum ye shes lnga yi dngos/  /mkha' 'gro'i dbang phyug ba</tei:title><tei:author/><tei:title>(pha)༄༅/  /dril bu pa'i dbang gi bya ba bsdus pa bzhugs so/  /༄༅/  /oṃ swa sti siddhaṃ/sku gsum ye shes lnga yi dngos/  /mkha' 'gro'i dbang phyug ba</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-424-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA418.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pha)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-424-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA418.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pha)༄༅//
 dril bu pa'i dbang gi bya ba bsdus pa bzhugs so// ༄༅//
-oṃ swa sti sid+dhaṃ/ sku gsum ye shes lnga yi dngos//
+oṃ swa sti siddhaṃ/ sku gsum ye shes lnga yi dngos//
 mkha' 'gro'i dbang phyug bcom ldan 'das//
 'khor lo sdom pa la btud de//
 dbang gi bya ba mdor bsdus bshad//
@@ -43,7 +43,7 @@ sngags sogs kyis mchod gtor ma sbyin//
 bum pa'i cho ga legs byas la//
 dpa' bo rnal 'byor ma rnams mchod//
 spyi yi rnam gzhag sngon 'gro bas//
-maṇ+ḍal phul la bden pa brjod//
+maṇḍal phul la bden pa brjod//
 gdong g.yogs bcings la me tog gtad//
 bsrung zhing byin rlabs 'dod pa dri//
 byang sems bskyed de gsang bar gdams//

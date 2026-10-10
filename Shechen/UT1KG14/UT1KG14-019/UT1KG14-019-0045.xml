@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rta mgrin nag po lcags kyi ral pa can gyi gsol 'debs gter ston gyis mdzad pa bzhugs so/  /oṃ āḥhūm̐/pad+ma gsung gi rigs bdag bcom ldan 'das/  </tei:title><tei:author/><tei:title>rta mgrin nag po lcags kyi ral pa can gyi gsol 'debs gter ston gyis mdzad pa bzhugs so/  /oṃ āḥhūm̐/pad+ma gsung gi rigs bdag bcom ldan 'das/  </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rta mgrin nag po lcags kyi ral pa can gyi gsol 'debs gter ston gyis mdzad pa bzhugs so/  /oṃ āḥhūm̐/padma gsung gi rigs bdag bcom ldan 'das/  </tei:title><tei:author/><tei:title>rta mgrin nag po lcags kyi ral pa can gyi gsol 'debs gter ston gyis mdzad pa bzhugs so/  /oṃ āḥhūm̐/padma gsung gi rigs bdag bcom ldan 'das/  </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-019-0045</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/26-LA/TERDZO-LA-P47.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250rta mgrin nag po lcags kyi ral pa can gyi gsol 'debs gter ston gyis mdzad pa bzhugs so//
-1$0000300oṃ āḥhūm̐/ pad+ma gsung gi rigs bdag bcom ldan 'das//
+1$0000300oṃ āḥhūm̐/ padma gsung gi rigs bdag bcom ldan 'das//
 rgyal ba'i dbang po 'dren pa 'od dpag med//
 gsol ba 'debs so mi mthun bar chad sol//
 mchog dang thun mong dngos grub bstsal du gsol//
@@ -12,10 +12,10 @@ rgyal ba'i dbang po 'phags pa spyan ras gzigs//
 gsol ba 'debs so mi mthun bar chad sol//
 mchog dang thun mong dngos grub bstsal du gsol//
 log 'dren dgra bgegs ma lus tshar gcod pa'i//
-dbang gi rgyal po pad+ma he ru ka /gsol ba 'debs so mi mthun bar chad sol//
+dbang gi rgyal po padma he ru ka /gsol ba 'debs so mi mthun bar chad sol//
 mchog dang thun mong dngos grub bstsal du gsol//
 rgya bod mkhas grub kun gyi gtsug gi rgyan//
-gdug pa'i lha srin tshar gcod pad+ma 'byung*//
+gdug pa'i lha srin tshar gcod padma 'byung*//
 gsol ba 'debs so mi mthun bar chad sol//
 mchog dang thun mong dngos grub bstsal du gsol//
 bod yul mun pa sel mdzad chos kyi rgyal//
@@ -31,5 +31,5 @@ bskyed rim gding thob gsang sngags bzlas mthar brtson//
 rdzogs rim rang rig chos sku mngon gyur nas//
 sku bzhi'i sems dpa' dus 'dir 'grub par shog</tei:p>
 <tei:p n="2" unit="page">/</tei:p>
-<tei:milestone unit="small"/><tei:p n="3" unit="page">ces pa 'di shar kaḥthog gsang sngags kyi pho brang dam pa nas bka' gter theg pa rim dgu'i don gyi dgongs pa brnyes te/ spo bo rma kung lung du sgrub pa'i rgyal mtshan 'dzin pa chos rje smon lam rgya mtsho'i zhal slob 'bo ro bla ma dbang phyug rgya mtsho/ dkon mchog shes rab/ dge 'dun bzang*/ byang chub seng ge /smon lam byang chub/ pad+ma bzang po/ pad+ma rgyal po/ dge 'dun bkra shis/ shes rab dbang phyug rnams kyis rta mgrin bla ma brgyud rim gyi gsol 'debs shig dgos zhes bskul ba las rdzogs chen pa gar gyi dbang phyug rtsal gyis snang rtser sbyar pa'o// // </tei:p>
+<tei:milestone unit="small"/><tei:p n="3" unit="page">ces pa 'di shar kaḥthog gsang sngags kyi pho brang dam pa nas bka' gter theg pa rim dgu'i don gyi dgongs pa brnyes te/ spo bo rma kung lung du sgrub pa'i rgyal mtshan 'dzin pa chos rje smon lam rgya mtsho'i zhal slob 'bo ro bla ma dbang phyug rgya mtsho/ dkon mchog shes rab/ dge 'dun bzang*/ byang chub seng ge /smon lam byang chub/ padma bzang po/ padma rgyal po/ dge 'dun bkra shis/ shes rab dbang phyug rnams kyis rta mgrin bla ma brgyud rim gyi gsol 'debs shig dgos zhes bskul ba las rdzogs chen pa gar gyi dbang phyug rtsal gyis snang rtser sbyar pa'o// // </tei:p>
 <tei:milestone unit="normal"/></tei:div></tei:body></tei:text></tei:TEI>

@@ -1,11 +1,11 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /dbus dang mtha' rnam par 'byed pa'i tshig le'ur byas pa bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /dbus dang mtha' rnam par 'byed pa'i tshig le'ur byas pa bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13304-001-0021</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13304</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/PARCHIN/rtfs/volume-001/086PARCHIN.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000270 </tei:p>
 <tei:p n="2" unit="page">(1) ༄༅//
 dbus dang mtha' rnam par 'byed pa'i tshig le'ur byas pa bzhugs so// (2) ༄༅//
-rgya gar skad du/ ma dh+yān+ta bi bhaṃ ga kā ri kā/ bod skad du/ dbus dang mtha' rnam par 'byed pa'i tshig le'ur byas pa/ 'jam dpal gzhon nur gyur pa la phyag 'tshal lo//
+rgya gar skad du/ ma dhyānta bi bhaṃ ga kā ri kā/ bod skad du/ dbus dang mtha' rnam par 'byed pa'i tshig le'ur byas pa/ 'jam dpal gzhon nur gyur pa la phyag 'tshal lo//
 mtshan nyid sgrib pa de kho na//
 gnyen po dag ni bsgom pa dang*//
 de yi gnas dang 'bras bu thob//
@@ -472,6 +472,6 @@ rtogs par dka' dang snying po'i don//
 don chen de bzhin kun gyi don//
 don med thams cad sel ba 'o//
 bstan bcos dbus dang mtha' rnam par 'byed pa las/</tei:p>
-<tei:p n="12" unit="page">theg pa bla na med pa'i le'ur bcad pa zhes bya ba ste lnga pa'o// //bstan bcos dbus dang mtha' rnam par 'byed pa zhes bya ba'i tshig le'ur byas pa 'phags pa byams pas mdzad pa rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang*/ shī len+d+ra bo dhi dang*/ zhu chen gyi lo tsā ba ban+de ye shes sdes bsgyur cing zhus te gtan la phab pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
+<tei:p n="12" unit="page">theg pa bla na med pa'i le'ur bcad pa zhes bya ba ste lnga pa'o// //bstan bcos dbus dang mtha' rnam par 'byed pa zhes bya ba'i tshig le'ur byas pa 'phags pa byams pas mdzad pa rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang*/ shī lend+ra bo dhi dang*/ zhu chen gyi lo tsā ba bande ye shes sdes bsgyur cing zhus te gtan la phab pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
 /1$0000270</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

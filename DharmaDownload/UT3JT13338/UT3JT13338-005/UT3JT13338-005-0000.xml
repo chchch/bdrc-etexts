@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">byang sems bkra shis 'od zer gyis re ltos bla ma las med par kho thag chod pa'i rang mtshangs sun 'byin gyi tshul du gdung glu bzhengs pa ni/bdag blo'i snya</tei:title><tei:author/><tei:title>byang sems bkra shis 'od zer gyis re ltos bla ma las med par kho thag chod pa'i rang mtshangs sun 'byin gyi tshul du gdung glu bzhengs pa ni/bdag blo'i snya</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13338-005-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13338</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/P0028_KagyuGurtso_tdoc/005_byang-sems-bkra-shis-od-zer.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> #! byang sems bkra shis 'od zer gyis re ltos bla ma las med par kho thag chod pa'i rang mtshangs sun 'byin gyi tshul du gdung glu bzhengs pa ni/ bdag blo'i snying gi pad+ma 'dab brgyad ze'u 'bru yi gdan gyi//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13338-005-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13338</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/P0028_KagyuGurtso_tdoc/005_byang-sems-bkra-shis-od-zer.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> #! byang sems bkra shis 'od zer gyis re ltos bla ma las med par kho thag chod pa'i rang mtshangs sun 'byin gyi tshul du gdung glu bzhengs pa ni/ bdag blo'i snying gi padma 'dab brgyad ze'u 'bru yi gdan gyi//
 dwangs ma lnga 'dus thig le thabs shes nyi zla yi dkyil na//
 skyabs gsum kun 'dus ngo bo bka' drin mtshungs med kyi 'dren mchog /rtsa ba'i bla ma gang de 'bral med rtag pa ru bzhugs shig /pha gcig sangs rgyas kun 'dus thugs mchog dmigs med kyi snying rjes//
 bden gnyis dam chos kun 'dus zab mo gsung gsang gi bdud rtsi//
@@ -61,7 +61,7 @@ lus stobs rab tu brtas te bdag nyid bran g.yog la bkol 'dug /'dul skyong nyid ky
 dpa' bo 'thab pa'i lag cha shes rab ral gri zhig gnang na//
 pho ngan stong bshad min pa'i kha bshad lag len du thebs nges//
 'di byas sne gcig yod pa'i dam bca' da lta nas 'bul lo//
-zhes pa 'di ni rang gi bsam sbyor la yid ma ches pa'i smyo glu ngu tshab tu ban+de maṅga lar smis bris pa dge/ ༈ mkhan chen bla ma rin po ches snyigs dus kyi spyod pa la yid skyo zhing gong ma'i rnam thar ngo mtshar ba'i mgur glu bzhengs pa ni/ na mo gu ru/ gnas rang snang rnam dag gi zhing khams su//
+zhes pa 'di ni rang gi bsam sbyor la yid ma ches pa'i smyo glu ngu tshab tu bande maṅga lar smis bris pa dge/ ༈ mkhan chen bla ma rin po ches snyigs dus kyi spyod pa la yid skyo zhing gong ma'i rnam thar ngo mtshar ba'i mgur glu bzhengs pa ni/ na mo gu ru/ gnas rang snang rnam dag gi zhing khams su//
 pha rang rig don gyi bla ma la//
 bdag 'khor 'das ro snyoms su gsol ba 'debs//
 don 'khor ba dong sprugs su byin gyis rlobs//
@@ -216,5 +216,5 @@ lam phyag chen 'di ma bsgoms yid re skyo//
 da tshe 'di'i lhag ma cung zad 'di//
 gnas nyams dga' dben pa'i ri klung du//
 pha bka' brgyud gong ma'i rnam thar bzhin//
-bdag snying po'i don la 'dril bar shog /ces pa 'di ni khyung po ba mkhyen rab phun tshogs kyi ngor phyogs med kyi rgyal khams nyul ba'i dus su ban+de maṅga las nyams mtshar gyi tshul du smras pa dge/ //</tei:p>
+bdag snying po'i don la 'dril bar shog /ces pa 'di ni khyung po ba mkhyen rab phun tshogs kyi ngor phyogs med kyi rgyal khams nyul ba'i dus su bande maṅga las nyams mtshar gyi tshul du smras pa dge/ //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

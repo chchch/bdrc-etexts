@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">snga 'gyur bstan pa rgyas pa'i smon lam chos rgyal dgyes pa'i zhal lung zhes bya ba bzhugs so/de yang dus kyi tha mar rtsa gsum lha yi thugs rgyud bskul na</tei:title><tei:author/><tei:title>snga 'gyur bstan pa rgyas pa'i smon lam chos rgyal dgyes pa'i zhal lung zhes bya ba bzhugs so/de yang dus kyi tha mar rtsa gsum lha yi thugs rgyud bskul na</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13341-068-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13341</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/Taksham-Chochod_tdoc/055_snga-qgyur-bstan-rgyas-smon-lam.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">)snga 'gyur bstan pa rgyas pa'i smon lam chos rgyal dgyes pa'i zhal lung zhes bya ba bzhugs so/ de yang dus kyi tha mar rtsa gsum lha yi thugs rgyud bskul nas bstan pa'i snying po rin po che rgyas par gyur cig snyam du lan gcig tsam mos pa yang bsod nams tshad med pa dang ldan zhing*/ rgyal ba'i sras kyi smon lam yongs su rdzogs nas skye ba kun tu rgyal ba'i chos dang chos kyi snying po zab mo'i theg pa dang 'phrad nas 'dzin skyong spel bas myur du rnam pa thams cad mkhyen pa'i ye shes la reg par 'gyur ba'i dgos pa yod pas/ skal bzang rnams kyis dus dus dang*/ khyad par tshogs mang gi skabs su 'di ltar smon lam gdab par bya ste/ na mo/ phyogs bcu'i bde bar gshegs pa sras dang bcas//
@@ -38,7 +38,7 @@ mtsho skyes= zab mo'i nang rgyud sde gsum dgongs pa'i bcud//
 thun min man ngag gsang ba'i lam mchog nas//
 'ja' lus chos skur gshegs pa'i ngo mtshar 'bar//
 mtsho skyes= rab 'byams zhi khro'i khyab bdag sgrub sde brgyad/ bka' bab rig 'dzin so so'i dgongs bcud dang*//
-kun 'dus pad+ma'i bka' srol gcig tu 'khyil//
+kun 'dus padma'i bka' srol gcig tu 'khyil//
 mtsho skyes= rgyu dang 'bras bu gsang sngags theg pa che//
 tshang la ma nor rig 'dzin brgyud pa'i lung*//
 ḍā ki'i zhal gyi drod rlangs tho le ba//
@@ -77,7 +77,7 @@ bstan 'dzin dam pas sa steng yongs gang nas//
 mtsho skyes= dpal ldan bla ma'i sku tshe rab brtan cing*//
 bstan pa'i sbyin bdag mnga' thang dar ba yis//
 chos srid mi nub nor bu'i rgyal mtshan bsgrengs//
-mtsho skyes rgyal ba'i bstan pa rgyas gyur cig /ces rgyal ba thams cad kyi ngo bo dpal ldan sangs rgyas pad+ma skyes 'chi med mtshor 'khrungs rgyal ba'i bstan pa snga 'gyur rnying ma zhes grags pa 'di ni rgyal bstan yongs su rdzogs pa'i phyi mo yin cing zab gnad che ba du ma'i khyad chos dang*/ lta sgom rnam par dag pa rgyal ba dgyes pa'i lam bzang ma nor ba yin pa 'di ngo shes nas nor bu rin po che byi dor byas te rgyal mtshan gyi rtse la mchod pa bzhin du gang zag skal pa dang ldan pa rnams kyis 'chad rtsod rtsom gsum gyi phrin las rlabs po ches phyogs thams cad du dar zhing rgyas par mdzad pa'i thugs khur bzhes pa dang*/</tei:p>
+mtsho skyes rgyal ba'i bstan pa rgyas gyur cig /ces rgyal ba thams cad kyi ngo bo dpal ldan sangs rgyas padma skyes 'chi med mtshor 'khrungs rgyal ba'i bstan pa snga 'gyur rnying ma zhes grags pa 'di ni rgyal bstan yongs su rdzogs pa'i phyi mo yin cing zab gnad che ba du ma'i khyad chos dang*/ lta sgom rnam par dag pa rgyal ba dgyes pa'i lam bzang ma nor ba yin pa 'di ngo shes nas nor bu rin po che byi dor byas te rgyal mtshan gyi rtse la mchod pa bzhin du gang zag skal pa dang ldan pa rnams kyis 'chad rtsod rtsom gsum gyi phrin las rlabs po ches phyogs thams cad du dar zhing rgyas par mdzad pa'i thugs khur bzhes pa dang*/</tei:p>
 <tei:p n="4" unit="page">de lta bu'i bzhed pa yid bzhin du 'grub pa'i rten 'brel smon tshig tu rnying bstan la lhag bsam rnam par dkar ba mi pham 'jam dbyangs rnam rgyal rgya mtshos gnas dus rten 'brel dge bar gung thun la shar mar bris pa dge legs 'phel///
 / </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

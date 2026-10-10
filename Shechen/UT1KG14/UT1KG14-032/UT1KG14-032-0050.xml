@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">snyan brgyud ma mo'i bskang ba mngon rdzogs dgyes glu bzhugs so/  /hūm̐ bh+yo/gsang mchog dgyes pa rdo rje btsun mo'i dbyings/  /mchog tu mi 'gyu</tei:title><tei:author/><tei:title>snyan brgyud ma mo'i bskang ba mngon rdzogs dgyes glu bzhugs so/  /hūm̐ bh+yo/gsang mchog dgyes pa rdo rje btsun mo'i dbyings/  /mchog tu mi 'gyu</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">snyan brgyud ma mo'i bskang ba mngon rdzogs dgyes glu bzhugs so/  /hūm̐ bhyo/gsang mchog dgyes pa rdo rje btsun mo'i dbyings/  /mchog tu mi 'gyu</tei:title><tei:author/><tei:title>snyan brgyud ma mo'i bskang ba mngon rdzogs dgyes glu bzhugs so/  /hūm̐ bhyo/gsang mchog dgyes pa rdo rje btsun mo'i dbyings/  /mchog tu mi 'gyu</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-032-0050</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/32-KHI/TERDZO-KHI-P47A.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250snyan brgyud ma mo'i bskang ba mngon rdzogs dgyes glu bzhugs so//
-1$0000300hūm̐ bh+yo/ gsang mchog dgyes pa rdo rje btsun mo'i dbyings//
+1$0000300hūm̐ bhyo/ gsang mchog dgyes pa rdo rje btsun mo'i dbyings//
 mchog tu mi 'gyur bde chen srog gi dpyid//
 snang srid mkha' klong sdud pa'i mu kha le//
 mngon rdzogs he ru ka dpal dbyings nas bzhengs//
@@ -25,7 +25,7 @@ dgra snying dron mo dbang lnga 'dar zhing 'phrig /tshil gsur dud sprin zhun me'i
 sha rus gcal bkram bshugs glu rkang gling sogs//
 phyed snang rlung lnga dbyings 'khyil drag po'i rdzas//
 gshin rje'i 'dun sa lta bus thugs dam bskang*/ khams drug dwangs ma'i dpyid khu a mṛ ta//
-nyi zla dbyings su zos pa'i rak+ta'i bcud//
+nyi zla dbyings su zos pa'i rakta'i bcud//
 tshogs drug ye shes dag pa'i gtor ma che//
 rnam med yid dag gsang ba'i dam tshig rdzas//
 'pho med bde gsal rnam par mi rtog pa'i//
@@ -104,7 +104,7 @@ bar chad 'phrang gsum 'jigs pa'i bdud bzhi choms//
 gsang ba'i dgra gsum yongs sgrol mthu stobs kyis//
 phyogs las rnam par rgyal ba'i mthu thob mdzod//
 </tei:p>
-<tei:p n="4" unit="page">ces pa'ang tshul 'di'i mdos skong gi las rim bgyis skabs nyer mkho'i dbang gis pad+ma dbang chen dgyes pa rtsal (dil mkhyen rin po che )gyis bris pa'o//
+<tei:p n="4" unit="page">ces pa'ang tshul 'di'i mdos skong gi las rim bgyis skabs nyer mkho'i dbang gis padma dbang chen dgyes pa rtsal (dil mkhyen rin po che )gyis bris pa'o//
 maṅga laṃ//
 dge'o///
 / </tei:p>

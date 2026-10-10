@@ -1,11 +1,11 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">123)gu ru'i gsol 'debasa'od mtshan stong 'bar rgyal ba'i thugs ka nas/  /rab dmar glog gi zhags pa 'dra ba'i 'od/  /sin+dhu rgya mtsho rol pa'i mtsho gling</tei:title><tei:author/><tei:title>123)gu ru'i gsol 'debasa'od mtshan stong 'bar rgyal ba'i thugs ka nas/  /rab dmar glog gi zhags pa 'dra ba'i 'od/  /sin+dhu rgya mtsho rol pa'i mtsho gling</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">123)gu ru'i gsol 'debasa'od mtshan stong 'bar rgyal ba'i thugs ka nas/  /rab dmar glog gi zhags pa 'dra ba'i 'od/  /sindhu rgya mtsho rol pa'i mtsho gling</tei:title><tei:author/><tei:title>123)gu ru'i gsol 'debasa'od mtshan stong 'bar rgyal ba'i thugs ka nas/  /rab dmar glog gi zhags pa 'dra ba'i 'od/  /sindhu rgya mtsho rol pa'i mtsho gling</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT21825-005-0019</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W21825</tei:idno><tei:idno type="SRC_PATH">PalriParkhang/W21825-bkaq-qbum-pad-nor-02-thub-bstan-chos-kyi-glang-po/rtfs/05-penor-kabum-ca/c-123-124.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">123) </tei:p>
 <tei:p n="2" unit="page">gu ru'i gsol 'debs 'od mtshan stong 'bar rgyal ba'i thugs ka nas//
 rab dmar glog gi zhags pa 'dra ba'i 'od//
-sin+dhu rgya mtsho rol pa'i mtsho gling du//
+sindhu rgya mtsho rol pa'i mtsho gling du//
 'dab stong ge sar rgyas pa'i ze 'brur bab//
 rgyu dang rkyen gyi tshogs la ltos med par//
 rang byung rig pa thol gyis skyes pa'i sku//
@@ -37,7 +37,7 @@ mos pa'i yid mkhar dad pas spyan drangs nas/ gus pas phyag 'tshal mdzes pa'i mch
 dga' bas yi rang zab pa'i chos 'khor bskor//
 rtag par bzhugs gsol rnam dkar dge tshogs kun//
 mtsho skyes rgyal ba'i go 'phang thob phyir bsngo//
-tshe rabs kun tu rang byung pad+ma yis//
+tshe rabs kun tu rang byung padma yis//
 rtag par rjes bzung theg mchog dam pa'i chos//
 zab mo'i lam dang nam yang mi 'bral zhing*//
 rlabs chen rgyal sras spyod pa mthar phyin shog</tei:p>

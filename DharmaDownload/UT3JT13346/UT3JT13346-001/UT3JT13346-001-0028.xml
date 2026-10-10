@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /bstan bcos bzhi brgya pa zhes bya ba'i tshig le'ur byas pa bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /bstan bcos bzhi brgya pa zhes bya ba'i tshig le'ur byas pa bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13346-001-0028</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13346</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/text/rtfs/volume-001/T0083_bzhi-brgya-pa.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ ༄༅//
@@ -1607,6 +1607,6 @@ rnal 'byor spyod pa bzhi brgya pa las slob dpon dang slob ma rnam par gtan la db
 /slob dpon 'phags pa lha'i zhal snga nas mdzad pa/</tei:p>
 <tei:p n="20" unit="page">byang chub sems dpa'i rnal 'byor spyod pa bzhi brgya pa'i tshig le'ur byas pa rdzogs so//
 kha che'i grong khyer dpe med kyi dpung rin chen sbas pa'i kun dga' ra bar/ rgya gar gyi mkhan po su smra dzñā na dang*//
-bod kyi lo ts+tsha ba pa tshab nyi ma grags kyis bsgyur cing zhus te gtan la phab pa/ sarba maṅga laṃ///
+bod kyi lo tstsha ba pa tshab nyi ma grags kyis bsgyur cing zhus te gtan la phab pa/ sarba maṅga laṃ///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

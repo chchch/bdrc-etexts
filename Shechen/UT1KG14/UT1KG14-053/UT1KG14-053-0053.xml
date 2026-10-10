@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">bla ma'i thugs sgrub bar chad kun sel las 'jam dpal pha rol rgol 'joms kyi skong ba nyes pa'i g.yul rgyal zhes bya ba bzhugs so/  /na mo gu ru ya mān+ta </tei:title><tei:author/><tei:title>bla ma'i thugs sgrub bar chad kun sel las 'jam dpal pha rol rgol 'joms kyi skong ba nyes pa'i g.yul rgyal zhes bya ba bzhugs so/  /na mo gu ru ya mān+ta </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">bla ma'i thugs sgrub bar chad kun sel las 'jam dpal pha rol rgol 'joms kyi skong ba nyes pa'i g.yul rgyal zhes bya ba bzhugs so/  /na mo gu ru ya mānta </tei:title><tei:author/><tei:title>bla ma'i thugs sgrub bar chad kun sel las 'jam dpal pha rol rgol 'joms kyi skong ba nyes pa'i g.yul rgyal zhes bya ba bzhugs so/  /na mo gu ru ya mānta </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-053-0053</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/53-qI/TERDZO-qI-P52.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250bla ma'i thugs sgrub bar chad kun sel las 'jam dpal pha rol rgol 'joms kyi skong ba nyes pa'i g.yul rgyal zhes bya ba bzhugs so//
-1$0000300na mo gu ru ya mān+ta ka ya/</tei:p>
+1$0000300na mo gu ru ya mānta ka ya/</tei:p>
 <tei:p n="2" unit="page"> tshogs kyi skabs su skong ba bgyid pa'i tshe byin rlabs zur du mi dgos shing*/ gzhan du byin rlabs spyi mthun sngon du btang nas dbyangs rol bcas 'di skad do//
  hūm̐/ chos dbyings mthing nag 'bar ba e yi klong*//
 'jig rten 'jig rten 'das pa'i dur khrod nas//
@@ -25,7 +25,7 @@ mngon spyod stobs kyis dgra bgegs log 'dren rnams//
 hur thums tshar gcod drag pos thugs dam bskang*//
 zhing gi bla bre rgyu rlon lda ldi 'phyang*//
 zhing chen rgyal mtshan zhing chung ba dan phyar//
-tsit+ta'i tog dang mgo bo'i drwa phyed bres//
+tsitta'i tog dang mgo bo'i drwa phyed bres//
 ro skra'i rnga yab g.yob pas thugs dam bskang*/ khrag chen dug mtsho dbang lnga tshil gyi gsur//
 rnam shes mkhris pa'i chab dang sha rus zas//
 'jigs pa'i gzugs sgra dri ro reg bya lnga//
@@ -55,6 +55,6 @@ mdor na mi mthun rkyen dang bar chad rnams//
 drag shul stobs kyis zlog cing sgyur ba sogs//
 ji ltar gsol ba'i don kun myur 'grub nas//
 phyogs las rnam par rgyal ba'i phrin las mdzod//
- ces pa 'di nyid la mos pa'i blo gros brtan pa karma nyi ma nas ched du bskul ngor/ dus mtha'i rnal 'byor pad+ma gar gyi dbang phyug rtsal gyis dpal spungs yang khrod de bī ko ṭi'i snying por bgyis pa dge legs 'phel///
+ ces pa 'di nyid la mos pa'i blo gros brtan pa karma nyi ma nas ched du bskul ngor/ dus mtha'i rnal 'byor padma gar gyi dbang phyug rtsal gyis dpal spungs yang khrod de bī ko ṭi'i snying por bgyis pa dge legs 'phel///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

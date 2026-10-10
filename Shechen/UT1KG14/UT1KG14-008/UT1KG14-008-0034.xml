@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /'phags pa 'jam dpal gyi rgyud kyi yang snying bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /'phags pa 'jam dpal gyi rgyud kyi yang snying bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-008-0034</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/16-MA/Terzod-MA--P38.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄༅//
@@ -8,7 +8,7 @@
 <tei:milestone unit="small"/><tei:p n="2" unit="page">'jam dpal rdzogs pa chen po'i rgyud kyi yang snying 'di la gsum ste/ dang po klad kyi don ni/   </tei:p>
 <tei:milestone unit="normal"/><tei:p n="3" unit="page">rgya gar skad du:</tei:p>
 <tei:milestone unit="small"/><tei:p n="4" unit="page">   zhes chos kyi grol phug yin pas khungs btsun par bstan te/   </tei:p>
-<tei:milestone unit="normal"/><tei:p n="5" unit="page">ār+ya mañdzu shrī tan+t+ra gar+bha:</tei:p>
+<tei:milestone unit="normal"/><tei:p n="5" unit="page">ārya mañdzu shrī tant+ra garbha:</tei:p>
 <tei:milestone unit="small"/><tei:p n="6" unit="page">   zhes pa'o//
 de nyid/   </tei:p>
 <tei:milestone unit="normal"/><tei:p n="7" unit="page">bod skad du:</tei:p>
@@ -59,7 +59,7 @@ rgyud kyi mtshan/ </tei:p>
 <tei:milestone unit="normal"/><tei:p n="31" unit="page">bcom ldan 'das shākya thub pa'i zhal nas gsungs pa rdzogs so:</tei:p>
 <tei:milestone unit="small"/><tei:p n="32" unit="page">   zhes pa ni/ rgyud 'di bka' dang*/ bstan bcos gnyis gang yin na/ 'di bka' yin/ bka' la zhal nas gsungs pa/ rjes su gnang ba/ byin gyis brlabs pa gsum las 'di zhal nas gsungs pa'i bka' yin/ gsung ba po gang zhe na/ bstan 'di'i ston pa shākya thub pas dngos su gsungs/ sangs rgyas thams cad dgongs pa gcig pas brgyud nas gsungs so zhes pa'o//
 rdzogs so ni/ tshig don gnyis ka mthar phyin pa ste lhag ma ma lus so zhes pa'i tha tshig go /</tei:p>
-<tei:milestone unit="normal"/><tei:p n="33" unit="page">gu ru pad+mas jo mo shel sgron la gnang ba'o: </tei:p>
+<tei:milestone unit="normal"/><tei:p n="33" unit="page">gu ru padmas jo mo shel sgron la gnang ba'o: </tei:p>
 <tei:milestone unit="small"/><tei:p n="34" unit="page">   de nas gter du sbas pa gu ru rin po che chos kyi dbang phyug gis lho brag kho mthing lha khang nas yar 'brog gi gnyan ston dzaṃ bha la la bka' bsgos nas gter rgya bkrol te 'gro don rgya cher mdzad pa lags so//
 dge'o//
 dge'o//

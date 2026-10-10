@@ -1,13 +1,13 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /dgongs gter bsam pa lhun grub ma'i brgyud pa'i gsol 'debs dngos grub char 'beb ces bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /dgongs gter bsam pa lhun grub ma'i brgyud pa'i gsol 'debs dngos grub char 'beb ces bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-009-0042</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/09-TA/TERDZO-TA-P41.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄༅//
 dgongs gter bsam pa lhun grub ma'i brgyud pa'i gsol 'debs dngos grub char 'beb ces bya ba bzhugs so//
 </tei:p>
-<tei:p n="2" unit="page">na mo gu ru sarba sid+dhi hūm̐/ kun bzang gdod ma'i mgon po snang mtha' yas//
+<tei:p n="2" unit="page">na mo gu ru sarba siddhi hūm̐/ kun bzang gdod ma'i mgon po snang mtha' yas//
 nges pa lnga ldan rnam snang spyan ras gzigs//
-rang byung rgyal kun spyi dpal pad+ma 'byung*//
+rang byung rgyal kun spyi dpal padma 'byung*//
 rigs 'dus sku gsum bla mar gsol ba 'debs//
 chos skyong rgyal po tshangs pa lha'i me tog /mkhar chen mtsho rgyal dge slong nam mkha'i snying*//
 rdo rje bdud 'joms lha sras mu khri btsan//
@@ -16,11 +16,11 @@ zab gter sgo 'byed mang lam bzang po grags//
 bod 'bangs skyabs gcig rgod kyi ldem 'phru can//
 'gro 'dul bka' babs brtson 'grus rgyal mtshan sogs//
 rtsa ba'i gter brgyud rnams la gsol ba 'debs//
-pad+ma dbang rgyal ye shes rol pa rtsal//
+padma dbang rgyal ye shes rol pa rtsal//
 chos kyi rgyal tshab rin chen phun tshogs zhabs//
 chos bdag rig 'dzin ngag gi dbang po sogs//
 bka' 'dus phyi ma'i brgyud par gsol ba 'debs//
-thugs kyi rigs 'chang la li ta badz+ra//
+thugs kyi rigs 'chang la li ta badzra//
 'od gsal bde gshegs snying po gter bzhad rtsal//
 thugs kyi sras lnga nye ba'i bu brgyad sogs//
 byin rlabs dgongs gter brgyud par gsol ba 'debs//
@@ -32,10 +32,10 @@ drwa ba sdom pa gnod gnas dbang po brgyad//
 rdo rje gzhon nu yi dam sgrub sde brgyad//
 zil gnon drag rtsal gzhi gnas skyong ba brgyad//
 gsang bdag seng sgrog dpa' bo ging chen bzhi//
-pad+ma badz+ra khrag 'thung rdo rje brgyad//
+padma badzra khrag 'thung rdo rje brgyad//
 gu ru rta mgrin gsang ye phyag rgya bzhi//
 rdo rje gro lota bdud 'dul khro bo bcu//
-pad+ma rgyal po nye sras sems dpa' brgyad//
+padma rgyal po nye sras sems dpa' brgyad//
 'od dpag med mgon mi 'khrugs dpa' bo bdun//
 kun bzang rdor sems rigs bzhi bdud 'dul bzhi//
 rtsa ba'i bla ma rig 'dzin slob dpon bzhi//
@@ -76,5 +76,5 @@ gnas skabs su yang mi mthun 'gal rkyen zhi//
 tshe bsod dpal 'byor nyams rtogs yon tan rgyas//
 rang gzhan don gnyis 'bad med mtha' ru phyin//
 bsam pa lhun gyis 'grub par byin gyis rlobs//
- zhes pa 'di'ang mkhyen pa'i gter chen rje dbon 'chi med mchog sprul rin po ches bskul gnang mdzad ngor pad+ma nīrte shwa ras yang khrod kun bzang bde chen 'od gsal gling du tshes bzang por bris te gsol ba btab pa dge legs 'phel//</tei:p>
+ zhes pa 'di'ang mkhyen pa'i gter chen rje dbon 'chi med mchog sprul rin po ches bskul gnang mdzad ngor padma nīrte shwa ras yang khrod kun bzang bde chen 'od gsal gling du tshes bzang por bris te gsol ba btab pa dge legs 'phel//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

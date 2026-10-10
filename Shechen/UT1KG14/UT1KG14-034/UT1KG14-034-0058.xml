@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">mkha' 'gro'i smre bshags bzhugs so/  /oṃ/ye shes mkha' 'gro dbang phyug khro rgyal gtso/  /bde chen gnyis med yum gyi dbyings su sbyor/  /bdag tu</tei:title><tei:author/><tei:title>mkha' 'gro'i smre bshags bzhugs so/  /oṃ/ye shes mkha' 'gro dbang phyug khro rgyal gtso/  /bde chen gnyis med yum gyi dbyings su sbyor/  /bdag tu</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-034-0058</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/34-NGI/TERDZO-NGI-P57.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250mkha' 'gro'i smre bshags bzhugs so//
@@ -27,7 +27,7 @@ oṃ/ sgom sgrub dus las g.yel bar gyur pa yis//
 sgrub pa'i rdzas mchog bdud rtsi a mṛta//
 dus drug mchod pa'i tshul du ma sbyar ba//
 bzod par gsol lo tshangs par bstsal du gsol//
-byang chub sems dang māṃ sa rak+ta dang*//
+byang chub sems dang māṃ sa rakta dang*//
 dri chen dri chu go ku da ha na//
 gnyis med sbyar ba'i sman mchog a mṛta//
 sha khrag dmar gyi mchod pa chen po 'dis//
@@ -46,7 +46,7 @@ sha za mkha' 'gro'i thugs dang ci 'gal ba//
 bzod par gsol lo tshangs par bstsal du gsol//
 dur khrod rdzas mchog thal chen ba su ta//
 sha khrag dmar gyi mchod pa rab sbyar te//
-bhan+dha'i snod du dmar chen bskyil pa 'dis//
+bhandha'i snod du dmar chen bskyil pa 'dis//
 sha za mkha' 'gro'i thugs dam bskang gyur cig</tei:p>
 <tei:p n="2" unit="page">/oṃ/ sngon tshe dpal chen khro rgyal spyan snga ru//
 sus kyang ma bcol nyid kyis zhal 'ches te//

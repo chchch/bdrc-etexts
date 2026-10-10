@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /ro snyoms skor drug gi nyams len sgang du dril ba zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /ro snyoms skor drug gi nyams len sgang du dril ba zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT10736-024-0005</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W10736</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Padma-Karpo/rtfs/24_ya/24_04_ya_ro-snyoms-skor-drug-gi-nyams-len-sgang-du-dril-ba.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -58,5 +58,5 @@ ye shes rgyun du 'char te brod//
 ces gsungs/ rags pa'i 'chi ba ni/ 'chi ba'i srid pa thim rim gyi mthar phyi dbugs chad nang dbugs gnas pa'i skad cig bzhi par 'od gsal 'char la/ de la des thim rim ngos bzung nas dag pas gzhi'i 'od gsal ngos zin/ des bag chags thams cad sbyangs pas sangs rgyas te 'gro ba yin no//
 gsum pa ni/ 'chi kha'i 'od gsal ngos zin pas na 'chi ba dmigs su med pas/ 'chi med gnyug ma'i don la 'byor pa la byed pa yin no//
 de ltar skor drug tu phye ba khrid kyi dus yin/ nyams su len pa'i dus su bla ma rang sems bsres nas mnyam bzhag skyongs/ de'i dus rnam rtog nas 'chi ba'i bar go rim bzhin 'byung ba ma yin/ gang dang 'phrad pa'i dus de la rtsal sbyang ba yin pas/ nyams len thun gcig ma zhes bya'o//
-de ltar sgang dril gyi zhal gdams rgyal rtse klu dbang tshal du sde pa mi 'gyur rab tu brtan pas dgos zhes bskul ba ltar/ dge slong pad+ma dkar pos sbyar ba'o//</tei:p>
+de ltar sgang dril gyi zhal gdams rgyal rtse klu dbang tshal du sde pa mi 'gyur rab tu brtan pas dgos zhes bskul ba ltar/ dge slong padma dkar pos sbyar ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

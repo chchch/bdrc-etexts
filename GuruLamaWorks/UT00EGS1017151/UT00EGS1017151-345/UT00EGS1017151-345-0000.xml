@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /bshes pa'i spring yig gi bsdus don bzhugs so/  /oṃ swa sti sid+dhaṃ/bla ma dang 'jam pa'i dbyangs la phyag 'tshal lo/  /bshes pa'i phrin yig la</tei:title><tei:author/><tei:title>(na)༄༅/  /bshes pa'i spring yig gi bsdus don bzhugs so/  /oṃ swa sti sid+dhaṃ/bla ma dang 'jam pa'i dbyangs la phyag 'tshal lo/  /bshes pa'i phrin yig la</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /bshes pa'i spring yig gi bsdus don bzhugs so/  /oṃ swa sti siddhaṃ/bla ma dang 'jam pa'i dbyangs la phyag 'tshal lo/  /bshes pa'i phrin yig la</tei:title><tei:author/><tei:title>(na)༄༅/  /bshes pa'i spring yig gi bsdus don bzhugs so/  /oṃ swa sti siddhaṃ/bla ma dang 'jam pa'i dbyangs la phyag 'tshal lo/  /bshes pa'i phrin yig la</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-345-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA339.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
-bshes pa'i spring yig gi bsdus don bzhugs so// oṃ swa sti sid+dhaṃ/ bla ma dang 'jam pa'i dbyangs la phyag 'tshal lo//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-345-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA339.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
+bshes pa'i spring yig gi bsdus don bzhugs so// oṃ swa sti siddhaṃ/ bla ma dang 'jam pa'i dbyangs la phyag 'tshal lo//
 bshes pa'i phrin yig la don gsum ste/ rtsom pa la 'jug pa klad kyi don dang*/ gzhung bslab pa gsum gyi rang bzhin dang*/ 'jug bslab par rjes su gdams pa'o//
 dang po la gnyis te/ phrin yig spring ba'i rgyu dang*/ springs pa'i don gzung bar gdams pa'o//
 de la gnyis te/ gzung bar 'os pa dang*/ bzung ba'i phan yon no//
@@ -62,5 +62,5 @@ shes rab bsgom par gdams pa la gnyis te/ sgyid lug par mi bya ba dang*/ sems la 
 gsum pa 'jug rjes su gdams pa la gnyis te/ ji ltar spyod pa'i tshul gyi gdams pa dang*/ de ltar spyad pa'i 'bras bu gdams pa'o//
 dang po la gnyis te/ dge bas tshe don yod par gdams pa dang*/ bsngo bas dge ba don yod par gdams pa'o//
 gnyis pa la gnyis te/ gzugs kyi sku thob par gdams pa dang*/ chos kyi sku thob par gdams pa'o//
-bshes pa'i phrin yig gi don bsdus pa/ dpal ldan sa skya paṇ+ḍi tas sbyar ba'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+bshes pa'i phrin yig gi don bsdus pa/ dpal ldan sa skya paṇḍi tas sbyar ba'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

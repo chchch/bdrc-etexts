@@ -1,15 +1,15 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /lam 'bras brgyud pa'i gsol 'debs mdor bsdus bzhugs so/  /༈/na mo gu ru bh+yaḥrdo rje 'chang dbang bdag med bir+wa pa/  /nag po ḍā ru a wa dha</tei:title><tei:author/><tei:title>༄༅/  /lam 'bras brgyud pa'i gsol 'debs mdor bsdus bzhugs so/  /༈/na mo gu ru bh+yaḥrdo rje 'chang dbang bdag med bir+wa pa/  /nag po ḍā ru a wa dha</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /lam 'bras brgyud pa'i gsol 'debs mdor bsdus bzhugs so/  /༈/na mo gu ru bhyaḥrdo rje 'chang dbang bdag med birwa pa/  /nag po ḍā ru a wa dha</tei:title><tei:author/><tei:title>༄༅/  /lam 'bras brgyud pa'i gsol 'debs mdor bsdus bzhugs so/  /༈/na mo gu ru bhyaḥrdo rje 'chang dbang bdag med birwa pa/  /nag po ḍā ru a wa dha</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13302-029-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13302</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/KHADON/KHAD029.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
-lam 'bras brgyud pa'i gsol 'debs mdor bsdus bzhugs so// ༈ /na mo gu ru bh+yaḥ rdo rje 'chang dbang bdag med bir+wa pa//
+lam 'bras brgyud pa'i gsol 'debs mdor bsdus bzhugs so// ༈ /na mo gu ru bhyaḥ rdo rje 'chang dbang bdag med birwa pa//
 nag po ḍā ru a wa dhu ti'i zhabs//
 gha ya dha ra 'brog mi se ston rje//
 zhang ston sa chen rnams la gsol ba 'debs//
 rje btsun sku mched chos rje khu dbon gnyis//
 zhang dkon brag phug pa dang bsod rgyal rje//
-dpal tshul bud+dha shrī ngor chen dang*//
+dpal tshul buddha shrī ngor chen dang*//
 dkon rgyal bdag chen rnams la gsol ba 'debs//
 rdo ring pa dang kun legs tshar pa rje//
 mkhyen brtse dbang phyug bslab rgyal dbang rab mtshan//
@@ -23,5 +23,5 @@ dpal ldan rtsa brgyud bla mar gsol btab cing*//
 'khor 'das gnyis med skyabs sems zung ldan gyis//
 sgrib gnyis chu 'dzin bcom pa'i bskyed rdzogs kyi//
 nyams rtogs rta ljang dbyings su 'char bar shog /</tei:p>
-<tei:p n="2" unit="page">ces lam 'bras bla brgyud mdor bsdus sh+lau ka dbang po'i grangs khongs su 'thus pa 'di lta bu zhig dgos zhes rgyal smad bla ming legs 'byor mchog nas bkas bskul ma stsal ba ltar bco brgyad pa mkhyen brtse'i ming can gyis bris so// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o// </tei:p>
+<tei:p n="2" unit="page">ces lam 'bras bla brgyud mdor bsdus shlau ka dbang po'i grangs khongs su 'thus pa 'di lta bu zhig dgos zhes rgyal smad bla ming legs 'byor mchog nas bkas bskul ma stsal ba ltar bco brgyad pa mkhyen brtse'i ming can gyis bris so// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o// </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

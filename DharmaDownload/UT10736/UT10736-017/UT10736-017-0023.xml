@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /nā ro gsang spyod kyi dmigs rim bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /nā ro gsang spyod kyi dmigs rim bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT10736-017-0023</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W10736</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Padma-Karpo/rtfs/17_tsa/17_19_tsa_nqa-ro-gsang-spyod-kyi-dmigs-rim.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -11,7 +11,7 @@ nā ro gsang spyod kyi dmigs rim bzhugs so//
 shing gcig chu 'gram thang chen dang*//
 de bzhin dben pa bas mtha' dang*//
 ri bo'i sul dang rtse mo dang*//
-pad+ma'i tshal ni yid 'ong dang*//
+padma'i tshal ni yid 'ong dang*//
 rdzing bu chu ngogs yul rnams dang*//
 tshang tshing phug dang rgya mtsho'i 'gram//
 gdod nas dag pa'i dur khrod che//
@@ -93,5 +93,5 @@ de dag thams cad bla na med pa rdzogs pa'i byang chub thob par bya zhing*/</tei:
 <tei:p n="14" unit="page">de'i ched du bdag gis gsang ba'i spyod pa mthar phyin pa spyad par bya'o snyam pa'i blo bcos ma ma yin pa sgom par byed pa ni byang chub kyi sems sgom pa'o//
 des spros med de song nas/ gsum pa shin tu spros med de ston par byed de/ de ni lha 'dre dang rang nyid gnyis ka mi dmigs shing*/ mdor na chos thams cad mi dmigs pa nyid de chos kyi sku'i ngang la mnyam par 'jog pa'o//
 de las langs nas/ rjes thob tu sems can thams cad kyi don du bsngo ba smon lam rnam par dag pa 'debs par byed pa yin no//
-nā ro gsang spyod kyi dmigs rim 'di nyid/ shākya'i dge slong mi pham pad+ma dkar pos sbyar ba'o// </tei:p>
+nā ro gsang spyod kyi dmigs rim 'di nyid/ shākya'i dge slong mi pham padma dkar pos sbyar ba'o// </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

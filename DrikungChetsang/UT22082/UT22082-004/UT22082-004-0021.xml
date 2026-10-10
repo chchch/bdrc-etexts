@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">bde gshegs chos sku'i mchod rten brgyad kyi thig rtsa byin rlabs kyi 'od phreng zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>bde gshegs chos sku'i mchod rten brgyad kyi thig rtsa byin rlabs kyi 'od phreng zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-004-0021</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHYEN/rtfs/volume-004/29NGA.HA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">bde gshegs chos sku'i mchod rten brgyad kyi thig rtsa byin rlabs kyi 'od phreng zhes bya ba bzhugs so//</tei:p>
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-004-0021</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHyEN/rtfs/volume-004/29NGA.HA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">bde gshegs chos sku'i mchod rten brgyad kyi thig rtsa byin rlabs kyi 'od phreng zhes bya ba bzhugs so//</tei:p>
 <tei:p n="2" unit="page">bde gshegs chos sku'i mchod rten brgyad kyi thig rtsa byin rlabs kyi 'od phreng zhes bya ba/ bla ma dang mgon po dpal ye shes yon tan bzang po la phyag 'tshal lo//
 gang gis bzhi bcom drug ldan zhing*//
 mtshan gzhi'i mtha' las 'das na yang*//
@@ -98,16 +98,16 @@ bdud 'dul mchod rten zhes bya ste//
 thub dbang bdud bzhi'i g.yul rgyal tshe//
 rdo rje gdan du thog mar brtsigs//
 'di la rnam rgyal zhes pa'am//
-ston par tsun+das gsol btab tshe//
+ston par tsundas gsol btab tshe//
 sku tshe byin rlabs mchod rten zhes//
 yangs pa can du brtsigs pa ni//
 rmang dge zlum por bskor ba la|&#160;|bang rim bzhi par zlum po gsum//
 bya 'o gzhan kun gong dang 'dra//
 bkra shis 'byung ba'am bde gshegs ni//
 'byung ba zhes sam sku bltams pa'i//
-mchod rten zhes sam pad+ma ni|&#160;|spungs pa zhes grags ser skyar brtsigs//
+mchod rten zhes sam padma ni|&#160;|spungs pa zhes grags ser skyar brtsigs//
 bang rim bzhi po lnga'am bdun//
-zlum por pad+ma'i 'dab spungs pa'i//
+zlum por padma'i 'dab spungs pa'i//
 dbyibs su bya'o gzhan gong bzhin//
 ston pas chos 'khor </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

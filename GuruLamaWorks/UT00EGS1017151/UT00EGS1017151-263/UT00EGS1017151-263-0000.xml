@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /lung rigs rnam dag dang mthun par 'chad dgos tshul bzhugs/  /༄༅/  /bla ma dang 'jam pa'i dbyangs la spyi bos phyag 'tshal lo/  /mkhas pa rnams las sde</tei:title><tei:author/><tei:title>(na)༄༅/  /lung rigs rnam dag dang mthun par 'chad dgos tshul bzhugs/  /༄༅/  /bla ma dang 'jam pa'i dbyangs la spyi bos phyag 'tshal lo/  /mkhas pa rnams las sde</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-263-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA257.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-263-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA257.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
 lung rigs rnam dag dang mthun par 'chad dgos tshul bzhugs// ༄༅//
 bla ma dang 'jam pa'i dbyangs la spyi bos phyag 'tshal lo//
 mkhas pa rnams las sde snod mang thos shing*//
@@ -71,5 +71,5 @@ chos lugs dam pa gzung bar bya//
 de ltar byas na dam pa'i chos//
 dgongs pa dam pa 'grub par 'gyur//</tei:p>
 <tei:p n="2" unit="page">//des na bdag gis sangs rgyas bcom ldan 'das kyi mdo rgyud dri ma med pa lung dang rigs pas grub pa/ mkhas pa rnams kyis bshad pa/ grub thob rnams kyis bsgom pa/ 'phags pa rnams kyis bgrod par bya ba 'di bla ma dam pa rnams kyi gsung dang mthun zhing lung dang rigs pas 'di ltar 'thad ces bshad kyi phyogs su lhung ba'i yid kyis bshad pa ma yin no//
-des na thams cad kyis bdag gis bshad pa 'di/ lung dang rigs pa dang mthun mi mthun gzu bo'i blos dpyad par zhu/ dpal ldan sa skya paṇ+ḍi tas sbyar ba 'di re zhig rdzogs so// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+des na thams cad kyis bdag gis bshad pa 'di/ lung dang rigs pa dang mthun mi mthun gzu bo'i blos dpyad par zhu/ dpal ldan sa skya paṇḍi tas sbyar ba 'di re zhig rdzogs so// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

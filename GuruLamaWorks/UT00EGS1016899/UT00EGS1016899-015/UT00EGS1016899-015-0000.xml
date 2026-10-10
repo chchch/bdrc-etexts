@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(nga )༄༅/  /stong thun chung ba dbang po'i rdo rje zhes bya ba blo gsal mgu byed bzhugs so/  /brgya phrag lung gi rjes 'gro ba'i/  /stong phrag rigs pa</tei:title><tei:author/><tei:title>(nga )༄༅/  /stong thun chung ba dbang po'i rdo rje zhes bya ba blo gsal mgu byed bzhugs so/  /brgya phrag lung gi rjes 'gro ba'i/  /stong phrag rigs pa</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1016899-015-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1016899</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SHAKCHOG/SHAK012.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(nga )༄༅//
@@ -1469,5 +1469,5 @@ rang rgyud bden smra'i gnas su rab bskyal zhing*//
 sngon chad thal 'gyur smra rnams chad par 'phangs//
 rang gi thal 'gyur rtags pa'i gnas su bsgrubs//
 zhes bya ba 'di ni dpal shākya mchog ldan dri med legs pa'i blos rang lo so gnyis pa la gsang ne'u thog tu smras pa'o//</tei:p>
-<tei:p n="164" unit="page">//maṅga laṃ bha wan+tu// //maṅga laṃ// // ༈ bal yul mchod rten rin po che bya rung kha shor gyi nye 'gram rgyal yongs sa chen zhes pa glog klad dpar khang las/ bder gshegs 7skyabs rje bco brgyad khri chen rdo rje 'chang mchog gi thugs dgongs rdzogs ched/ skyabs 'og pa tshar grwa gu rus glog klad phyag deb ched 'grem spel zhus pa'i dge 'bras sangs rgyas zhing du bsngo'o// //</tei:p>
+<tei:p n="164" unit="page">//maṅga laṃ bha wantu// //maṅga laṃ// // ༈ bal yul mchod rten rin po che bya rung kha shor gyi nye 'gram rgyal yongs sa chen zhes pa glog klad dpar khang las/ bder gshegs 7skyabs rje bco brgyad khri chen rdo rje 'chang mchog gi thugs dgongs rdzogs ched/ skyabs 'og pa tshar grwa gu rus glog klad phyag deb ched 'grem spel zhus pa'i dge 'bras sangs rgyas zhing du bsngo'o// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

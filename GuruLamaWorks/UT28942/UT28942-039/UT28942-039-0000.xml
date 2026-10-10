@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /swasti/rnam par thar pa'i sgo gsum la 'jug pa'i man ngag snying po rab gsal zhes bya ba/bla ma dang lhag pa'i lha la phyag 'tshal lo/  /mkhyen pa nyin byed </tei:title><tei:author/><tei:title>༄༅/  /swasti/rnam par thar pa'i sgo gsum la 'jug pa'i man ngag snying po rab gsal zhes bya ba/bla ma dang lhag pa'i lha la phyag 'tshal lo/  /mkhyen pa nyin byed </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT28942-039-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W28942</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/RONGTON/RONT039.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -39,5 +39,5 @@ ting nge 'dzin la sgro 'dogs gcod pa'i phyir du mtshan ma med pa'i ting nge 'dzi
 brgyad khri bzhi stong chos kyi phung po'i sprin//
 legs par bsdus nas ting 'dzin rnam gsum gyis//
 bsgom pa'i rim pa ma nor gsal bar bshad//
-dge bas 'gro kun byang chub myur thob shog /ces rnam thar sgo gsum la 'jug pa'i man ngag snying po rab gsal zhes bya ba 'di ni/ thams cad mkhyen pa rong ston chen pos dpal nā len+d+ra'i dgon par rnam byung gi lo sa ga zla ba'i dkar tshes la sbyar ba'o// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
+dge bas 'gro kun byang chub myur thob shog /ces rnam thar sgo gsum la 'jug pa'i man ngag snying po rab gsal zhes bya ba 'di ni/ thams cad mkhyen pa rong ston chen pos dpal nā lend+ra'i dgon par rnam byung gi lo sa ga zla ba'i dkar tshes la sbyar ba'o// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

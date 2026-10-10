@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">bskang ba ni/hrī:dbang chen lha tshogs 'od dpag med pa dang*/  /gsang ba ye shes rje btsun gu ru rje/  /bla ma yi dam mkha' 'gro chos skyong bcas/  /thugs</tei:title><tei:author/><tei:title>bskang ba ni/hrī:dbang chen lha tshogs 'od dpag med pa dang*/  /gsang ba ye shes rje btsun gu ru rje/  /bla ma yi dam mkha' 'gro chos skyong bcas/  /thugs</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13341-027-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13341</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/Taksham-Chochod_tdoc/022e_hya-gri-wa-bskang-ba.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">)bskang ba ni/ hrī: dbang chen lha tshogs 'od dpag med pa dang*//
@@ -10,7 +10,7 @@ mchog chen mchog phran mtshan dang ldan pas bskangs//
 sa le 'bri dang shel sgong lug gis bskang*//
 tsa ra mkha' lding mdangs kyis bskang*//
 bdud rtsi sman gyi mchod pas bskang*//
-rak+ta dmar gyi ar+ghas bskang*//
+rakta dmar gyi arghas bskang*//
 rmad du byung ba'i gtor mas bskang*//
 rnal 'byor tshogs kyi mchod pas bskang*//
 sha chen lang ling sna tshogs dang*//
@@ -24,6 +24,6 @@ mchod du med de gnyis med rol pas mchod//
 bskang du med de skye med ngang du bskang*//
 sbyor du med de zung 'jug chen por sbyor/ /bsgral du med de mnyam nyid dbyings su bsgral//
 ye sbyor ye sgrol chen pos thugs dam bskang*//
-yig brgya bzlas/ sku'i rgyud rta dbu lnga pa las gsungs pa'i bskang ba 'di h+ya ghṛ wa la sbyar ba nges par 'thad snyam nas cung zad tshig kha bsgyur ba phrin las rdo rjes bkod pa'o///
+yig brgya bzlas/ sku'i rgyud rta dbu lnga pa las gsungs pa'i bskang ba 'di hya ghṛ wa la sbyar ba nges par 'thad snyam nas cung zad tshig kha bsgyur ba phrin las rdo rjes bkod pa'o///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(329)༄༅/  /su kha ma sid+dhi phyag rgya chen po'i ngo sprod bzhugs so/  /na mo/mkha' 'gro rig pa'i ngo sprod ni/  /nam mkha' ris med stong pa la/  /ra</tei:title><tei:author/><tei:title>(329)༄༅/  /su kha ma sid+dhi phyag rgya chen po'i ngo sprod bzhugs so/  /na mo/mkha' 'gro rig pa'i ngo sprod ni/  /nam mkha' ris med stong pa la/  /ra</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(329)༄༅/  /su kha ma siddhi phyag rgya chen po'i ngo sprod bzhugs so/  /na mo/mkha' 'gro rig pa'i ngo sprod ni/  /nam mkha' ris med stong pa la/  /ra</tei:title><tei:author/><tei:title>(329)༄༅/  /su kha ma siddhi phyag rgya chen po'i ngo sprod bzhugs so/  /na mo/mkha' 'gro rig pa'i ngo sprod ni/  /nam mkha' ris med stong pa la/  /ra</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23605-012-0017</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23605</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/gdams-ngag-mdzod/rtfs/12_gdams-ngag-mdzod_na/12_16_su-kha-ma-siddhi-phyag-rgya-chen-poqi-ngo-sprod.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ (329)༄༅//
 </tei:p>
-<tei:p n="2" unit="page">su kha ma sid+dhi phyag rgya chen po'i ngo sprod bzhugs so/ /na mo/ mkha' 'gro rig pa'i ngo sprod ni//
+<tei:p n="2" unit="page">su kha ma siddhi phyag rgya chen po'i ngo sprod bzhugs so/ /na mo/ mkha' 'gro rig pa'i ngo sprod ni//
 nam mkha' ris med stong pa la//
 rig bcas sems kyi rtsa ba gcun//
 rtsa ba gcun nas rang sor zhog /bskyed rim bzlas pa rdzogs pa dang*//
@@ -47,12 +47,12 @@ rtsa ba gcun la lhug par zhog</tei:p>
 <tei:p n="3" unit="page">/rten med du zhog /'dzin med du zhog /'jog mkhan med par zhog /gnyis pa nyams su blangs thabs bcus lam du khyer ba ni/ mi phod pa brdzi/ 'khri ba bcad/ zhen pa zlog /snang ba bsgyur/ spyod pa dkrug /mtshang yul nas 'don/ rkyen dngos grub tu shes par bya//
 sdug bsngal chos nyid du shes par bya//
 rig pa khrog phyung*/ snyan brgyud mi la ma spel/ gsum pa thag chod lngas rdo rje lta bu'i ting nge 'dzin bskyel pa ni/ sems stong bar thag bcad/ stong pa chos skur thag bcad/ chos sku la rgyun chad med par thag bcad/ re dogs med par thag bcad/ 'khor 'das med par thag bcad//
-su kha sid+dhi snyan brgyud gcig brgyud las med do//
+su kha siddhi snyan brgyud gcig brgyud las med do//
 rdzogs so//
 sangs rgyas gnyan ston gyi zhal nas/ snyan brgyud kyi gdams pa kha ru mi 'don/ ngo dgar mi btang*//
 nor du mi tshong*//
 ched du mi bzhag /snod dang ldan pa la mi sba bar byin gsungs so//
-su kha ma sid+dhi phyag rgya chen po'i ngo sprod//
+su kha ma siddhi phyag rgya chen po'i ngo sprod//
 zab mo gser gyi chos gus pas zhu bar bya'o//
 rdzogs so///
 /</tei:p>

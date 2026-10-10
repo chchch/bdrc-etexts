@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pha)༄༅/  /mdor byas kyi sa bcad bzhugs/  /༄༅/  /'di la gnyis te srung ba'i 'khor lo bsgom pa dang*/lha bsgom pa'o/  /de la gnyis/stong pa nyid du bas</tei:title><tei:author/><tei:title>(pha)༄༅/  /mdor byas kyi sa bcad bzhugs/  /༄༅/  /'di la gnyis te srung ba'i 'khor lo bsgom pa dang*/lha bsgom pa'o/  /de la gnyis/stong pa nyid du bas</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-453-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA447.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pha)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-453-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA447.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pha)༄༅//
 mdor byas kyi sa bcad bzhugs// ༄༅//
 'di la gnyis te srung ba'i 'khor lo bsgom pa dang*/ lha bsgom pa'o//
 de la gnyis/ stong pa nyid du bsgom pa dang*/ dngos gzhi'i rnal 'byor ro//
@@ -15,9 +15,9 @@ dang po la gnyis/ don dam pa'i dkyil 'khor la 'jug pa dang*/ lha'i rgyu mthun bs
 rjes su rnal 'byor ni rdo rje sems dpa'i bsgom pa nyid do//
 shin tu rnal 'byor la gnyis/ rdo rje mgon po sgyur ba dang*/ lus kyi dkyil 'khor bsgom pa'o//
 rnal 'byor chen po la gnyis/ sku gsung thugs byin gyis brlab pa dang*/ sems dpa' sum brtsegs bsgom pa'o//
-gsum pa rjes su chags pa sngon du 'gro ba'i ting nge 'dzin la lnga/ rig ma 'du bya ba/ rdo rje dang pad+ma byin gyis brlab pa dang*/ las la gnas pa/ mchod pa bya ba/ bha gar lha bskyed pa'o//
+gsum pa rjes su chags pa sngon du 'gro ba'i ting nge 'dzin la lnga/ rig ma 'du bya ba/ rdo rje dang padma byin gyis brlab pa dang*/ las la gnas pa/ mchod pa bya ba/ bha gar lha bskyed pa'o//
 gnyis pa dkyil 'khor rgyal mchog ni/ lha re re zhing dbyung ba/ spro ba/ bsdu ba/ gsal gdab pa ste bzhi bzhi'o//
 gsum pa las rgyal mchog gi ting nge 'dzin la bdun/ phra mo'i rnal 'byor dang*/ rdo rje'i bzlas pa dang*/ ngag gis bzlas pa dang*/ don dam par 'jug pa dang*/ lha mo'i glus bslang ba dang*/ bstod cing mchod pa dang*/ nye bar bsdu ba'o// ༄༅//
-pha rol tu phyin pa drug gi snying po'i gzungs// na mo dhar+m+ma kā ya sam+bho ga kā ya nir+m+māṇa kā ya/</tei:p>
-<tei:p n="2" unit="page">tad+ya thā/ dā na pā ra mi tā/ shī la pā ra mi tā/ k+ṣān+ti pā ra mi tā/ bīr+ya pā ra mi tā/ dh+yā na pā ra mi tā/ pra dzñā pā ra mi tā/ sarba dharma shū n+ya tā swā hā// //ye dharmā he tu pra bha wā he tun+te ṣān+ta thā ga to h+ya wa da ta/ te ṣāñtsa yo ni ro dha e wa bā dī ma hā shra ma ṇaḥ ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+pha rol tu phyin pa drug gi snying po'i gzungs// na mo dharm+ma kā ya sambho ga kā ya nirm+māṇa kā ya/</tei:p>
+<tei:p n="2" unit="page">tadya thā/ dā na pā ra mi tā/ shī la pā ra mi tā/ kṣānti pā ra mi tā/ bīrya pā ra mi tā/ dhyā na pā ra mi tā/ pra dzñā pā ra mi tā/ sarba dharma shū n+ya tā swā hā// //ye dharmā he tu pra bha wā he tunte ṣānta thā ga to hya wa da ta/ te ṣāñtsa yo ni ro dha e wa bā dī ma hā shra ma ṇaḥ ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

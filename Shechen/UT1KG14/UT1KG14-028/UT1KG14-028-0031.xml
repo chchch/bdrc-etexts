@@ -1,8 +1,8 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rdo rje gtum po'i sgrub thabs bsdus pa man ngag gi snye ma/na mo badz+ra dha rā ya/rgyal kun mthu stobs gcig bsdus rdo rje 'dzin/khyod mtshan thos pa'i </tei:title><tei:author/><tei:title>rdo rje gtum po'i sgrub thabs bsdus pa man ngag gi snye ma/na mo badz+ra dha rā ya/rgyal kun mthu stobs gcig bsdus rdo rje 'dzin/khyod mtshan thos pa'i </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rdo rje gtum po'i sgrub thabs bsdus pa man ngag gi snye ma/na mo badzra dha rā ya/rgyal kun mthu stobs gcig bsdus rdo rje 'dzin/khyod mtshan thos pa'i </tei:title><tei:author/><tei:title>rdo rje gtum po'i sgrub thabs bsdus pa man ngag gi snye ma/na mo badzra dha rā ya/rgyal kun mthu stobs gcig bsdus rdo rje 'dzin/khyod mtshan thos pa'i </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-028-0031</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/28-SA/TERDZO-SA-P29.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250rdo rje gtum po'i sgrub thabs bsdus pa man ngag gi snye ma/ 1$0000300na mo badz+ra dha rā ya/</tei:p>
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-028-0031</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/28-SA/TERDZO-SA-P29.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250rdo rje gtum po'i sgrub thabs bsdus pa man ngag gi snye ma/ 1$0000300na mo badzra dha rā ya/</tei:p>
 <tei:p n="2" unit="page"> rgyal kun mthu stobs gcig bsdus rdo rje 'dzin/ khyod mtshan thos pa'i mod la mi bsrun snying*//
 lkog mar 'phrog na tshul 'di nyams len par//
 mi bsrun dregs pa'i sbyor bas ci ste rdzi//
@@ -38,7 +38,7 @@ g.yas su 'khor las 'od 'phros 'phags pa mchod//
 sems can don byas dregs pa ma lus bsgral//
 snang grags lha sngags dag pa rab 'byams dang*//
 rang rig gdod ma'i gsang bdag ngo bor gyur//
-oṃ badz+ra tsaṇ+ḍa ma hā ro ṣa ṇa hūm̐ phaṭa/</tei:p>
+oṃ badzra tsaṇḍa ma hā ro ṣa ṇa hūm̐ phaṭa/</tei:p>
 <tei:p n="3" unit="page">thun mthar  snod bcud 'od zhu rang la thim//
 bdag nyid thugs ka'i hūm̐ las gyen rdzogs su//
 mi dmigs spros kun zhi ba'i ngang du thim//

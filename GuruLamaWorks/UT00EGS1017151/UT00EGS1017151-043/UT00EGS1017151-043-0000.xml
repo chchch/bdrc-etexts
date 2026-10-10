@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(kha)༄༅/  /gdan gyi rnam dag bzhugs/  /༄༅/  /bla ma dam pa'i zhabs la spyi bos phyag 'tshal lo/  /gtso bo'i gdan gyi tshangs pa gzugs khams gyi tshangs pa ste/da</tei:title><tei:author/><tei:title>(kha)༄༅/  /gdan gyi rnam dag bzhugs/  /༄༅/  /bla ma dam pa'i zhabs la spyi bos phyag 'tshal lo/  /gtso bo'i gdan gyi tshangs pa gzugs khams gyi tshangs pa ste/da</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-043-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA042.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(kha)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-043-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA042.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(kha)༄༅//
 gdan gyi rnam dag bzhugs// ༄༅//
 bla ma dam pa'i zhabs la spyi bos phyag 'tshal lo//
 gtso bo'i gdan gyi tshangs pa gzugs khams gyi tshangs pa ste/ de gti mug gi rang bzhin yin la/ gtso bo'i zhabs phyed krung du bzhugs pa ni zung 'jug ste/ de'i zhabs g.yas pas snying ga mnan pa ni/ gti mug zung 'jug gis mnan pa ni ngo bo nyid la ngo bo nyid kyi rgya yin no//
@@ -17,10 +17,10 @@ be tā lī dri rnam par dag pa ni 'bras bu la rgyu'i phyag rgya yin no//
 'di rgya bzhi sbrag yin no//
 ghasma rī'i gdan drag po ni dbang phyug chen po dbang ldan na gnas pa/ sum cu rtsa gsum man chad na dbang che ba 'dod chags kyi rang bzhin yin la/ de ghasma rī phrag dog rnam par dag pas mnan pas ni/ rgyu la 'bras bu'i phyag rgya yin la/ spyi bor 'od dpag tu med pa'i phyag rgya byas pa ni 'bras bu la rgyu'i phyag rgya yin la/ ro rnam par dag pa ni sbyang gzhi rgyu la 'bras bu'i rgya yin no//
 'di la yang rgya bzhi sbrag yod do//
-puk+ka sī'i gdan gshin rje ni zhe sdang yin la/ puk+ka sī byams pa tshad med pas mnan pa ni/ zhe sdang byams par bsgrubs pas zung 'jug ste/ rigs bdag mi bskyod pa ni lus la sems kyi phyag rgya yin no//
+pukka sī'i gdan gshin rje ni zhe sdang yin la/ pukka sī byams pa tshad med pas mnan pa ni/ zhe sdang byams par bsgrubs pas zung 'jug ste/ rigs bdag mi bskyod pa ni lus la sems kyi phyag rgya yin no//
 sha ba rī'i gdan gnod sbyin ni rnam thos sras ser sna dang nga rgyal gyi rang bzhin yin la/ sha ba rī snying rje tshad med pas mnan pa ni nyon mongs pa de gnyis kyi gnyen po snying rje yin pa'i phyir ro//
 dbu rgyan rnam par snang mdzad ni chu mi bskyod pa sems la lus kyi rgya yin no//
-tsaṇ+ḍā lī'i gdan srin po ni/ zhe sdang mngon du khro ba'i rang bzhin yin la/ de'i gnyen po dga' ba tshad med pa'i ngo bo tsaṇ+ḍā līs mnan pas zung 'jug yin no//
+tsaṇḍā lī'i gdan srin po ni/ zhe sdang mngon du khro ba'i rang bzhin yin la/ de'i gnyen po dga' ba tshad med pa'i ngo bo tsaṇḍā līs mnan pas zung 'jug yin no//
 dbu rgyan rin chen 'byung ldan ni gos dkar mo me 'dod chags la ser sna rin chen 'byung ldan ni rgyu la 'bras bu'i rgya yin no//
 g.yung mo'i gdan lha ma yin gyi dbang po thag zangs ris ni phrag dog gi rang bzhin yin la/</tei:p>
 <tei:p n="3" unit="page">g.yung mo btang snyoms tshad med kyis mnan pa ni/ phrag dog gi gnyen po btang snyoms yin pa'i phyir ro//

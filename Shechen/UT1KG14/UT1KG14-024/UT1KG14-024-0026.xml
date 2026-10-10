@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">gar tshe'i brgyud 'debs bzhugs/kun khyab chos sku'i mgon po 'od dpag med/  /longs spyod rdzogs sku pad+ma gar gyi dbang*/  /sprul sku rig 'dzin pa</tei:title><tei:author/><tei:title>gar tshe'i brgyud 'debs bzhugs/kun khyab chos sku'i mgon po 'od dpag med/  /longs spyod rdzogs sku pad+ma gar gyi dbang*/  /sprul sku rig 'dzin pa</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">gar tshe'i brgyud 'debs bzhugs/kun khyab chos sku'i mgon po 'od dpag med/  /longs spyod rdzogs sku padma gar gyi dbang*/  /sprul sku rig 'dzin pa</tei:title><tei:author/><tei:title>gar tshe'i brgyud 'debs bzhugs/kun khyab chos sku'i mgon po 'od dpag med/  /longs spyod rdzogs sku padma gar gyi dbang*/  /sprul sku rig 'dzin pa</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-024-0026</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/24-YA/Terdzo-ya-P25.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250gar tshe'i brgyud 'debs bzhugs/1$0000300 kun khyab chos sku'i mgon po 'od dpag med//
-longs spyod rdzogs sku pad+ma gar gyi dbang*//
-sprul sku rig 'dzin pad+ma 'byung gnas la//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-024-0026</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/24-yA/Terdzo-ya-P25.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250gar tshe'i brgyud 'debs bzhugs/1$0000300 kun khyab chos sku'i mgon po 'od dpag med//
+longs spyod rdzogs sku padma gar gyi dbang*//
+sprul sku rig 'dzin padma 'byung gnas la//
 gsol ba 'debs so 'chi med dngos grub stsol//
 mkhas grub kun gyi gtsug rgyan bai ro rje//
 'pho med bde chen mchog brnyes mkhar chen bza'//
@@ -30,6 +30,6 @@ go 'phang dka' ba med par myur 'grub shog /rgyal bstan spyi dang khyad par snga 
 bstan 'dzin skyes bu'i sku tshe rab brtan cing*//
 mkha' khyab 'gro la bde skyid snang ba yis//
 phyogs dus kun tu bkra shis dpal 'bar shog /</tei:p>
-<tei:p n="2" unit="page">ces pa 'di ni sprul sku rin po che 'gyur med pad+ma mchog grub kyis bskul ba'i ngor mi 'gyur dpal sgron gyis gang shar du bgyis pa'o///
+<tei:p n="2" unit="page">ces pa 'di ni sprul sku rin po che 'gyur med padma mchog grub kyis bskul ba'i ngor mi 'gyur dpal sgron gyis gang shar du bgyis pa'o///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(437)srid pa'i 'dre lnga'i glud bsdus ngag gi'o/hrīḥbla ma bde mchog 'khor lo ni/  /che mchog pad+ma badz+ra rtsal/  /dmar gsal drang srong khros pa'i nyams</tei:title><tei:author/><tei:title>(437)srid pa'i 'dre lnga'i glud bsdus ngag gi'o/hrīḥbla ma bde mchog 'khor lo ni/  /che mchog pad+ma badz+ra rtsal/  /dmar gsal drang srong khros pa'i nyams</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(437)srid pa'i 'dre lnga'i glud bsdus ngag gi'o/hrīḥbla ma bde mchog 'khor lo ni/  /che mchog padma badzra rtsal/  /dmar gsal drang srong khros pa'i nyams</tei:title><tei:author/><tei:title>(437)srid pa'i 'dre lnga'i glud bsdus ngag gi'o/hrīḥbla ma bde mchog 'khor lo ni/  /che mchog padma badzra rtsal/  /dmar gsal drang srong khros pa'i nyams</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22946-004-0014</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22946</tei:idno><tei:idno type="SRC_PATH">PalriParkhang/W22946-mkhan-po-ngag-dbang-dpal-bzang-_ngaga/rtfs/NGAGA-vol-4-NGA/nga_0437-0456_pecha.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(437)srid pa'i 'dre lnga'i glud bsdus ngag gi'o/ hrīḥ bla ma bde mchog 'khor lo ni//
-che mchog pad+ma badz+ra rtsal//
+che mchog padma badzra rtsal//
 dmar gsal drang srong khros pa'i nyams//
 dbu gsum phyag drug zhabs bzhi pa//
 lha lcam yum dang gnyis med 'khril//
@@ -26,7 +26,7 @@ rig 'dzin ma lus thugs las shar//
 ye nas rang dang gnyis su med//
 dam tshig ye shes gnyis med gsal/ oṃ swa bha </tei:p>
 <tei:p n="2" unit="page">sogs/ stong pa'i ngang las rten 'byung 'gags pa med pa'i rol mo cir yang 'char ba las rin po che'i pho brang mdzes shing yid du 'ong bar pho tang mo tang rgyang bu nam mkha' mda' 'phang chang bu la sogs pa'i dngos su 'byor pa dang yid (440)kyis sprul pa las byung ba 'dod pa'i yon tan thams cad snang zhing srid pa'i lha 'dre thams cad kyi dbang po drug gi yul du gang la mkho ba'i 'dod pa'i longs spyod phun sum tshogs pa zad mi shes pa'i gter chen por gyur: sngags drug phyag drug gis brlab te/ hrīḥ ngang nyid dbyings las rang snang ba'i//
-nga ni pad+ma badz+ra rtsal//
+nga ni padma badzra rtsal//
 thugs ka'i hrīḥlas 'od 'phros pas//
 snang zhing srid pa'i lha 'dre dang*/ khyad par srid pa'i 'dre lnga la//
 phog pas sngon gyi tha tshig (441)bzhin//
@@ -61,7 +61,7 @@ bza' ba'i zas dang btung ba'i skom//
 gnas (444)grogs mgon dang bra na 'bangs bcas//
 yid la 'dod dgu 'dzom pa yi//
 mdos kyi gzhal yas khang la bzhugs//
-rdo rje 'chang gi bka' la nyon/ sam+bha ra dang mtshan bzhin bsngos la/ kyai/ srid pa'i 'dre lnga 'khor dang bcas/ khyod la 'dod pa'i longs spyod rnams//
+rdo rje 'chang gi bka' la nyon/ sambha ra dang mtshan bzhin bsngos la/ kyai/ srid pa'i 'dre lnga 'khor dang bcas/ khyod la 'dod pa'i longs spyod rnams//
 rang rang yid la gang 'dod pa'i//
 zag med gter du brlab ste sbyin//
 pho brang ba gam g.yu las byas//
@@ -166,7 +166,7 @@ zas la phongs pa'i bsam pa med//
 de ru 'dre lnga da gshegs shig /srid pa 'phrul gi mdos chen 'di//
 bkrag gsal snang stong sgyu ma yin//
 gang du chags kyang phrag ma dog /gang du grub kyang ru ma nga*/ gsal stong nam mkha'i ngang nyid du//
-chos rnams thams cad de ltar blta/ chos sbyin byas nas lo bdud steng du bsgyur ro/ (455)bca' thabs pho brang shing ris nam rgyang chang bu ting lo sha dum zan dum gos sen 'bru sna sogs gang 'byor/ sbyin bdag 'dra glud dang ngar phran ci mang*/ dbus su rgyal po ban+de btsun gzugs/ g.yas su bud med nag mo bya rog mgo mdun du byis pa/ g.yon du pho mtshan dmar po gyen 'greng*/ rgyab tu khyi dmar po rnams bsags go ༈ raṃ yaṃ khaṃ: oṃ āḥhūm̐: bdud kyi rgyal po bdud kyi rje//
+chos rnams thams cad de ltar blta/ chos sbyin byas nas lo bdud steng du bsgyur ro/ (455)bca' thabs pho brang shing ris nam rgyang chang bu ting lo sha dum zan dum gos sen 'bru sna sogs gang 'byor/ sbyin bdag 'dra glud dang ngar phran ci mang*/ dbus su rgyal po bande btsun gzugs/ g.yas su bud med nag mo bya rog mgo mdun du byis pa/ g.yon du pho mtshan dmar po gyen 'greng*/ rgyab tu khyi dmar po rnams bsags go ༈ raṃ yaṃ khaṃ: oṃ āḥhūm̐: bdud kyi rgyal po bdud kyi rje//
 rkos rje drang dkar 'dir gshegs shig /btsan rgod ri bkra 'dir gshegs shig /phyi nang mchod pa'i dam tshig rdzas//
 mthun pa'i g.yag nag zhol po dang*//
 bya nag lug nag spyi dkar dang*//

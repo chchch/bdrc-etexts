@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /dngul gyi gter kha brtag pa sogs lung bstan gyi skor bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /dngul gyi gter kha brtag pa sogs lung bstan gyi skor bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-001-0009</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHYEN/rtfs/volume-001/KA.MA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-001-0009</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHyEN/rtfs/volume-001/KA.MA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
 dngul gyi gter kha brtag pa sogs lung bstan gyi skor bzhugs so//</tei:p>
 <tei:p n="2" unit="page">rdo kha kha gnyis kyi dngul rdo so sor bskyal byung yang brtag pa phyogs gcig tu byas chog pa 'dug pa ni/ de yi don nyab nyob mang bar 'dug kyang mdor bsdus nas tshigs su bcad pa ni/ dngul lung rdo kha'i rin chen gter//
 dus deng sang bzang bzang 'dra mod kyang*//
@@ -11,7 +11,7 @@ sa 'dir nas gzhal ba'i nub kyi phyogs//
 dgon khra mo gcig nas 'ongs zer ba'i//
 'dre rgyal 'gong zhig kyang slebs zin pa//
 da zhag grangs bcu tsam ma song bar//
-khong ban+de'i rjes la 'ong ba 'dra//
+khong bande'i rjes la 'ong ba 'dra//
 de yin min kun gyi thugs la gsal//
 khong 'gro 'dod mi gda' sdod 'dod gda'//
 yang dam nyams tshogs pa'i ded dpon zhig /mi sha tsa sngo la lus sbom zhing*//
@@ -318,7 +318,7 @@ chos mi rtag 'dus byas sgom mi dgos//
 de mngon sum mthong ba'i ltad mo 'byung*//
 gangs ti se'i lha chen dpal 'bar la//
 nub stag shar mang po'i mda' kha las//
-shar ban+de'i phur 'cham tshe la gzan//
+shar bande'i phur 'cham tshe la gzan//
 de bzlog thabs gda' ste shes par dka'//
 tshes bco lnga'i zla ba nya gang la//
 shar chu 'dzin stug po'i sgrib g.yogs dang*//
@@ -396,7 +396,7 @@ lug spyang ki mi mthun tshang gcig tu//
 sems ma 'dres bzhin du nyal ba'i rtsar//
 nags rgya stag khra bo gsod sar sleb|&#160;|de mthong yang ma mthong rdzu bag de//
 don shes na rang mgo rang skor yin//
-lus pad+ma 'dra ba'i ge sar na//
+lus padma 'dra ba'i ge sar na//
 chu bskol phyir me la sbud pa phu//
 me 'bar bas chu khol lud pa na|&#160;|slad me rang gsod pa ltad mo che//
 spang khra mo'i ldebs la sha mong mang*//

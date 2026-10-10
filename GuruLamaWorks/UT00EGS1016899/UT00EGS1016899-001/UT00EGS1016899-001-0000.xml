@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ka)༄༅/  /paṇa chen chos kyi rgyal po'i gsung 'bum dkar chag bzhugs so/  /na mo gu ru bh+yaḥdapal ldan shākya seng ge'i chos kyi rgyal srid mchog la dbang</tei:title><tei:author/><tei:title>(ka)༄༅/  /paṇa chen chos kyi rgyal po'i gsung 'bum dkar chag bzhugs so/  /na mo gu ru bh+yaḥdapal ldan shākya seng ge'i chos kyi rgyal srid mchog la dbang</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ka)༄༅/  /paṇa chen chos kyi rgyal po'i gsung 'bum dkar chag bzhugs so/  /na mo gu ru bhyaḥdapal ldan shākya seng ge'i chos kyi rgyal srid mchog la dbang</tei:title><tei:author/><tei:title>(ka)༄༅/  /paṇa chen chos kyi rgyal po'i gsung 'bum dkar chag bzhugs so/  /na mo gu ru bhyaḥdapal ldan shākya seng ge'i chos kyi rgyal srid mchog la dbang</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1016899-001-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1016899</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SHAKCHOG/SHAK001.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ka)༄༅//
-paṇa chen chos kyi rgyal po'i gsung 'bum dkar chag bzhugs so// na mo gu ru bh+yaḥ dpal ldan shākya seng ge'i chos kyi rgyal srid mchog la dbang bskur bas//
+paṇa chen chos kyi rgyal po'i gsung 'bum dkar chag bzhugs so// na mo gu ru bhyaḥ dpal ldan shākya seng ge'i chos kyi rgyal srid mchog la dbang bskur bas//
 phyogs bcu'i rgyal sras rkyen rtogs slob mar bcas pas phyag byas shing*//
 rnam pa kun ldan chos sgra sgrog la dri med legs pa'i blo gros can//
 'jam dpal dgyes pa'i bshes gnyen gang khyod srid gsum 'gro ba'i gtsug na rgyal//
@@ -15,7 +15,7 @@ rngog lo rma bya byang chub brtson 'grus sogs//
 mkhas dang grub par bgrangs pa'i skyes rabs 'phreng*//
 mang zhig zhal gyis bzhes shing lung du bstan//
 de las rgyal mtshan tog ltar mngon mtho ba//
-yongs rdzogs gnas lnga mkhyen pa'i paṇ+ḍi ta//
+yongs rdzogs gnas lnga mkhyen pa'i paṇḍi ta//
 shākya mchog ldan dri med blo gros zhes//
 rgyal ba'i bstan la ston pa gnyis par gyur//
 mi 'jigs bzhi'i khri la gnas bcas te//
@@ -47,7 +47,7 @@ rgyud sde spyi rnams lha mchog bsgrub dang khrid yig mkha' dpyad sgo du ma//
 mtshan brjod bshad dang gzung sngags mang po bod skad 'gyur sogs sngags kyi sde//
 dbu ma'i byung tshul yid bzhin lhun po 'jug sgo gsum pa'i lam nas bltas//
 bzhed tshul rgya mtsho'i rlabs kyi 'phreng ba lus dang yan lag rgyas par bshad//
-sbyor ba'i ṭīk+ka gnad kyi sgron mes byams chos nges don rab tu gsal//
+sbyor ba'i ṭīkka gnad kyi sgron mes byams chos nges don rab tu gsal//
 lung dang rigs pa'i rol mtsho che las zur 'debs bzhi'i chu bo 'bab//
 log rtog brag ri phye mar 'thag la thal ngag dbang po'i rdo rje 'bar//
 lugs gnyis rnam par phye ba'i nges don lung chos rgya mtsho'i snying por dril//
@@ -150,5 +150,5 @@ bkra shis gang zhig dpal ldan bla ma'i sku tshe brtan//
 'phrin las rgyas shing dge 'dun rgya mtsho thugs mthun la//
 chos dang srid kyi 'byor pa rgyas pa'i bkra shis gang*//
 bkra shis des kyang gnas 'dir bkra shis phun tshogs stsol//</tei:p>
-<tei:p n="3" unit="page">//sad+dharmāsras bhū ti bha wa ti// // ༈ bal yul mchod rten rin po che bya rung kha shor gyi nye 'gram rgyal yongs sa chen zhes pa glog klad dpar khang las/ bder gshegs 7skyabs rje bco brgyad khri chen rdo rje 'chang mchog gi thugs dgongs rdzogs ched/ skyabs 'og pa tshar grwa gu rus glog klad phyag deb ched 'grem spel zhus pa'i dge 'bras sangs rgyas zhing du bsngo'o// //</tei:p>
+<tei:p n="3" unit="page">//saddharmāsras bhū ti bha wa ti// // ༈ bal yul mchod rten rin po che bya rung kha shor gyi nye 'gram rgyal yongs sa chen zhes pa glog klad dpar khang las/ bder gshegs 7skyabs rje bco brgyad khri chen rdo rje 'chang mchog gi thugs dgongs rdzogs ched/ skyabs 'og pa tshar grwa gu rus glog klad phyag deb ched 'grem spel zhus pa'i dge 'bras sangs rgyas zhing du bsngo'o// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

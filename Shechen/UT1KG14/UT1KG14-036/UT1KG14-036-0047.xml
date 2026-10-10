@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">brgyud pa'i bla ma rnams la gsol ba 'debs pa byin rlabs sprin phung bzhugs so/  /gdod ma'i mgon po kun bzang yum chen mo/  /nges pa lnga ldan dbyings</tei:title><tei:author/><tei:title>brgyud pa'i bla ma rnams la gsol ba 'debs pa byin rlabs sprin phung bzhugs so/  /gdod ma'i mgon po kun bzang yum chen mo/  /nges pa lnga ldan dbyings</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-036-0047</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/36-CHI/TERDZO-CHI-P46.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250brgyud pa'i bla ma rnams la gsol ba 'debs pa byin rlabs sprin phung bzhugs so//
@@ -8,7 +8,7 @@ nges pa lnga ldan dbyings phyug rgyal mo lnga//
 sprul pa'i skur snang rdo rje phag mo la//
 gsol ba 'debs so bde chen ye shes stsol//
 gsang ba'i bdag po mkha' 'gro las dbang mo//
-pad+ma 'byung gnas ye shes mtsho rgyal ma//
+padma 'byung gnas ye shes mtsho rgyal ma//
 ye shes rol pa zur bza' me tog la//
 gsol ba 'debs so bde chen ye shes stsol//
 rtsa ba'i bla ma rig 'dzin yab dang yum//
@@ -19,11 +19,11 @@ phyi sgrub sgrol mas bskyed rim mtha' ru phyin//
 nang sgrub phag mos rtsa rlung las su rung*//
 gsang sgrub gsang ba ye shes pho nya'i lam//
 lhan skyes bde chen rtogs par byin gyis rlobs//
-yang gsang man+dā ra ba'i man ngag gis//
+yang gsang mandā ra ba'i man ngag gis//
 brtul zhugs lam slong 'chi med tshe dbang 'grub//
 de kho na nyid ye shes mtsho rgyal gyis//
 snang bzhi'i ye shes 'grub par byin gyis rlobs//
 </tei:p>
-<tei:p n="2" unit="page">zhes pa 'di'i bka' babs bde chen chos sgron dang*/ dad ldan thon pa'i rje btsun blo bzang chos sgron sogs don gnyer mang pos bskul ngor/ mchog gyur bde chen gling pas mkha' 'gro 'du ba'i gling dpal gyi lha sar sbyar ba'i yi ge pa ni pad+ma rang grol lo///
+<tei:p n="2" unit="page">zhes pa 'di'i bka' babs bde chen chos sgron dang*/ dad ldan thon pa'i rje btsun blo bzang chos sgron sogs don gnyer mang pos bskul ngor/ mchog gyur bde chen gling pas mkha' 'gro 'du ba'i gling dpal gyi lha sar sbyar ba'i yi ge pa ni padma rang grol lo///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,15 +1,15 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">'jam dpal gshin rje'i gshed dregs pa 'joms byed kyi las gshin 'chi bdag nag po'i bskang ba ni/hūm̐/myur mgyogs mthu rtsal thogs med phrin las kyis/</tei:title><tei:author/><tei:title>'jam dpal gshin rje'i gshed dregs pa 'joms byed kyi las gshin 'chi bdag nag po'i bskang ba ni/hūm̐/myur mgyogs mthu rtsal thogs med phrin las kyis/</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-038-0043</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/38-NYI/TERDZO-NYI-P40b.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250'jam dpal gshin rje'i gshed dregs pa 'joms byed kyi las gshin 'chi bdag nag po'i bskang ba ni/1$0000300 hūm̐/ myur mgyogs mthu rtsal thogs med phrin las kyis//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-038-0043</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/38-NyI/TERDZO-NyI-P40b.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250'jam dpal gshin rje'i gshed dregs pa 'joms byed kyi las gshin 'chi bdag nag po'i bskang ba ni/1$0000300 hūm̐/ myur mgyogs mthu rtsal thogs med phrin las kyis//
 gdug can dgra dang bdud bgegs pham mdzad pa//
 gshin rje gshed po'i bka' nyan dam tshig can//
 bai wa sa twa 'khor bcas dgyes par dgongs//
 rab 'byams nam mkha'i khyon rnams yongs gang ba'i//
 rnam rol ma 'gags phyi nang mchod pa'i sprin//
 dngos su 'byor dang yid kyis rnam sprul pa//
-gang bzhed dgyes dgur 'chang bas thugs dam bskang*/ khrag zhag ar+ghaṃ dbang po'i me tog bzhad//
+gang bzhed dgyes dgur 'chang bas thugs dam bskang*/ khrag zhag arghaṃ dbang po'i me tog bzhad//
 gsur chen bdug spos zhun chen sgron me sbar//
 mkhris pa'i dri chab sha sna'i zhal zas spung*//
 rkang gling thod rnga bshugs glus thugs dam bskang*//
@@ -33,6 +33,6 @@ bstan dgra gdug can tshogs kyi bla srog yid//
 dbang du sdus la drag po'i phrin las kyis//
 ma thog myur du sgrol ba'i phrin las mdzod//
 </tei:p>
-<tei:p n="2" unit="page">ces pa 'di'ang mdo khams zhe chen dgon gyi mchog sprul pad+ma gsang sngags bstan 'dzin chos rgyal gyi dgongs bzhed skong phyir o ḍī ya nas gang shar thol byung du smras so///
+<tei:p n="2" unit="page">ces pa 'di'ang mdo khams zhe chen dgon gyi mchog sprul padma gsang sngags bstan 'dzin chos rgyal gyi dgongs bzhed skong phyir o ḍī ya nas gang shar thol byung du smras so///
 / dpe tshan 'di sngon chad gter mdzod dkyus su med cing*/ bal yul zhe dgon gyi par gsar 'dir gsar bzhag byas pas lung rgyun la zhib rtog dgos pa yin no//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,12 +1,12 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /mnal lam gyi tshigs bcad bzhugs/  /༄༅/  /skye ba skye ba med pa'i tshul rtogs kyang*/  /da dung skye ba'i gzeb las bdag ma grol/  /skye ba </tei:title><tei:author/><tei:title>(na)༄༅/  /mnal lam gyi tshigs bcad bzhugs/  /༄༅/  /skye ba skye ba med pa'i tshul rtogs kyang*/  /da dung skye ba'i gzeb las bdag ma grol/  /skye ba </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-334-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA328.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-334-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA328.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
 mnal lam gyi tshigs bcad bzhugs// ༄༅//
 skye ba skye ba med pa'i tshul rtogs kyang*//
 da dung skye ba'i gzeb las bdag ma grol//
 skye ba kun tu skye bor skye 'gyur ba'i//
-skye ngan bdag gi skye ba'i skyabs mdzod cig /sa skya paṇ+ḍi ta'i mnal lam du bsam yas kyi gtsug lag khang du byung ba'o// //sa māp+ta mi thi///
+skye ngan bdag gi skye ba'i skyabs mdzod cig /sa skya paṇḍi ta'i mnal lam du bsam yas kyi gtsug lag khang du byung ba'o// //sa māpta mi thi///
 / ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

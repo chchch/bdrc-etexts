@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(tha)༄༅/  /'phags pa spyan ras gzigs dbang phyug la phyag 'tshal ba'i tshigs su bcad pa rgyal sras thogs med bzang pos mdzad pa bzhugs so/  /thugs rje chen po la</tei:title><tei:author/><tei:title>(tha)༄༅/  /'phags pa spyan ras gzigs dbang phyug la phyag 'tshal ba'i tshigs su bcad pa rgyal sras thogs med bzang pos mdzad pa bzhugs so/  /thugs rje chen po la</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23681-001-0289</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23681</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/Drub-thab-kuntu/rtfs/volume-001-014/DBTU289.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(tha)༄༅//
@@ -106,5 +106,5 @@ spros bral gdod nas rnam dag chos kyi sku//
 blo bur dri ma'i sbubs nas 'byin mdzad pa'i//
 thugs rje chen po khyod la phyag 'tshal lo//
 'phags pa spyan ras gzigs dbang phyug la bstod pa/</tei:p>
-<tei:p n="2" unit="page">sh+lo ka nyi shu rtsa lnga pa 'di/ chos smra ba'i btsun pa thogs med kyis dngul chu'i chos rdzong du sbyar ba'o// // ༈ bal yul mchod rten rin po che bya rung kha shor gyi nye 'gram rgyal yongs sa chen zhes pa glog klad dpar khang las/ bder gshegs 7skyabs rje bco brgyad khri chen rdo rje 'chang mchog gi thugs dgongs rdzogs ched/ skyabs 'og pa tshar grwa gu rus glog klad phyag deb ched 'grem spel zhus pa'i dge 'bras sangs rgyas zhing du bsngo'o// //</tei:p>
+<tei:p n="2" unit="page">shlo ka nyi shu rtsa lnga pa 'di/ chos smra ba'i btsun pa thogs med kyis dngul chu'i chos rdzong du sbyar ba'o// // ༈ bal yul mchod rten rin po che bya rung kha shor gyi nye 'gram rgyal yongs sa chen zhes pa glog klad dpar khang las/ bder gshegs 7skyabs rje bco brgyad khri chen rdo rje 'chang mchog gi thugs dgongs rdzogs ched/ skyabs 'og pa tshar grwa gu rus glog klad phyag deb ched 'grem spel zhus pa'i dge 'bras sangs rgyas zhing du bsngo'o// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

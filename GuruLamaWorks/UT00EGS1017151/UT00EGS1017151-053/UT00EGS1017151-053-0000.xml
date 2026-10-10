@@ -1,17 +1,17 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ga)༄༅/  /brgyud pa dang bcas pa la gsol ba 'debs pa bzhugs/  /༄༅/  /gang thugs kun nas dga' ba'i dpal mnga' ba/  /gang gsung snying po mchog gi lam ston ca</tei:title><tei:author/><tei:title>(ga)༄༅/  /brgyud pa dang bcas pa la gsol ba 'debs pa bzhugs/  /༄༅/  /gang thugs kun nas dga' ba'i dpal mnga' ba/  /gang gsung snying po mchog gi lam ston ca</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-053-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA052.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ga)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-053-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA052.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ga)༄༅//
 brgyud pa dang bcas pa la gsol ba 'debs pa bzhugs// ༄༅//
 gang thugs kun nas dga' ba'i dpal mnga' ba//
 gang gsung snying po mchog gi lam ston cing*//
 gang sku lta bas mi ngoms mdzes pa'i mchog /skyes chen bla ma'i zhabs la gus phyag 'tshal//
 stong nyid snying rje'i snying po rdo rje 'dzin//
 zag med bde la rnam rol bdag med ma//
-mthu stobs dbang phyug rje btsun bir+wa pa//
+mthu stobs dbang phyug rje btsun birwa pa//
 bdag la thugs rje chen pos gzung du gsol//
-gnyis med rlung gi rnal 'byor kar+ṇa pa//
+gnyis med rlung gi rnal 'byor karṇa pa//
 yang dag rtogs pa'i dbang phyug ḍā ma ru//
 srog stsol sbas pa'i lam brnyes dhū tī pa//
 rab dang gus pa'i yid kyis bdag phyag 'tshal//
@@ -26,7 +26,7 @@ rigs rus cho 'brang ldan zhing rig 'dzin gyi//
 brgyud 'khrungs dkon mchog gsum dang dbyer med pa//
 chos kyi rgyal po bla ma mchog khyod la//
 sgo gsum gus pa'i yid gyis bdag phyag 'tshal//
-rnal 'byor mchog brnyes ḍom+bi nas bzung ba'i//
+rnal 'byor mchog brnyes ḍombi nas bzung ba'i//
 'phags pa'i yul nas byang phyogs legs brgyud pa//
 rmad byung rgyud dang gdams pas rnam grol ba//
 brtse ldan brgyud pa'i tshogs la'ang bdag phyag 'tshal//
@@ -87,6 +87,6 @@ a pos byas pa'i gsol 'debs kha gdangs su//
 lan cig byas pas dad pa'i stobs 'phel te//
 zhag lnga'i bar du phyag rgya che la 'byam//
 de 'dra snying la 'dod nas 'di brtsams so//
-sa māp+ta//</tei:p>
+sa māpta//</tei:p>
 <tei:p n="3" unit="page">// ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

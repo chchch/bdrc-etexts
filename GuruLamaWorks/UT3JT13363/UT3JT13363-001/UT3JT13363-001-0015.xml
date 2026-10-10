@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rgya gar skad du/dharma dhā tu sta baṃ/bod skad du/chos kyi dbyings su bstod pa/'phags pa 'jam dpal gzhon nur gyur pa la phyag 'tshal lo/  /gang zhig</tei:title><tei:author/><tei:title>༄༅/  /rgya gar skad du/dharma dhā tu sta baṃ/bod skad du/chos kyi dbyings su bstod pa/'phags pa 'jam dpal gzhon nur gyur pa la phyag 'tshal lo/  /gang zhig</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13363-001-0015</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13363</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/UMA/rtfs/volume-001/015UMA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(1)</tei:p>
@@ -37,7 +37,7 @@ chos kyi dbyings ni skye ma yin//
 nam yang 'gag par 'gyur ba med//
 dus rnams kun du nyon mongs med//
 thog ma bar mthar dri ma bral//
-ji ltar rin chen baiḍūr+ya//
+ji ltar rin chen baiḍūrya//
 dus rnams kun du 'od gsal yang*//
 rdo yi nang na gnas gyur na//
 de yi 'od ni gsal ma yin//
@@ -370,11 +370,11 @@ chos kyi sprin gyi ye shes kyis//
 chos nyid stong pa mthong gyur nas//
 gang tshe sems ni rab bkrus pas//
 'khor ba'i gzeb las 'das gyur nas//
-pad+ma chen po'i rang bzhin gyi//
+padma chen po'i rang bzhin gyi//
 stan la de ni rab gnas 'gyur//
 'dab ma rin chen du ma'i 'od//
 'dod par bya ba'i ze 'bru can//
-pad+ma bye ba du ma yis//
+padma bye ba du ma yis//
 rnam pa kun du yongs su bskor//
 stobs bcu po yis yongs su gang*//
 mi 'jigs pa yis gang dag ngoms//
@@ -409,6 +409,6 @@ dri ma med pa'i chos sku la//
 ye shes rgya mtsho gnas gyur nas//
 sna tshogs nor bu ji bzhin du//
 de las sems can don rab mdzad//
-chos kyi dbyings su bstod pa slob dpon chen po klu sgrub kyis mdzad pa rdzogs so// //rgya gar gyi mkhan po kṛṣ+ṇa paṇ+ḍi ta dang*/ lo tsā ba tshul khrims rgyal bas bsgyur ba'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
+chos kyi dbyings su bstod pa slob dpon chen po klu sgrub kyis mdzad pa rdzogs so// //rgya gar gyi mkhan po kṛṣṇa paṇḍi ta dang*/ lo tsā ba tshul khrims rgyal bas bsgyur ba'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
 /1$0000270</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

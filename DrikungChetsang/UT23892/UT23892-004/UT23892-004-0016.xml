@@ -1,8 +1,8 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">/phyag rgya chen po lnga ldan gyi khrid spyan snga ā nan+da rat+nas 'chug med du bsgrigs pa bzhugs so/</tei:title><tei:author/><tei:title>/phyag rgya chen po lnga ldan gyi khrid spyan snga ā nan+da rat+nas 'chug med du bsgrigs pa bzhugs so/</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">/phyag rgya chen po lnga ldan gyi khrid spyan snga ā nanda ratnas 'chug med du bsgrigs pa bzhugs so/</tei:title><tei:author/><tei:title>/phyag rgya chen po lnga ldan gyi khrid spyan snga ā nanda ratnas 'chug med du bsgrigs pa bzhugs so/</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23892-004-0016</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23892</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/6_KUNRIN/rtfs/volume-004/NGA-TA1.009.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">/phyag rgya chen po lnga ldan gyi khrid spyan snga ā nan+da rat+nas 'chug med du bsgrigs pa bzhugs so/ </tei:p>
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23892-004-0016</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23892</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/6_KUNRIN/rtfs/volume-004/NGA-TA1.009.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">/phyag rgya chen po lnga ldan gyi khrid spyan snga ā nanda ratnas 'chug med du bsgrigs pa bzhugs so/ </tei:p>
 <tei:p n="2" unit="page">/ma nam mkha' dang mnyam pa'i sems can thams cad kyi don du rdzogs pa'i sangs rgyas kyi go 'phang rin po che thob par bya/ de'i phyir du zab mo lnga ldan gyi rim pa 'di ltar du nyams su blang bar bya ste/ chos rje'i zhal nas/ byams dang snying rje'i rta pho la//
 gzhan phan gyi dkyus thog ma bcad na//
 khrom lha mi'i 'or che mi 'byung bas//
@@ -12,7 +12,7 @@ de nas yi dam bsgom par bya ste/ chos rje'i zhal nas/ rang lus lha sku'i rgyal p
 gzhi 'gyur med kyi brtan sa ma zin na//
 ma mkha' 'gro'i 'khor 'bangs mi 'du bas//
 lus yi dam gyi lha la nan tan mdzod//
-ces pas/ rang 'khor lo bde mchog sngon po zhal gcig phyag gnyis pa/ yum rdo rje rnal 'byor ma dang mnyam par sbyor ba gsal bar bsgom/ oṃ hrīḥha ha huṃ hūm̐ phaṭ/ oṃ badz+ra bai ro tsa nī ye hūm̐ phaṭ/ ces bzlas pa bya/ de nas bla ma bsgom dgos te/ chos rje'i zhal nas/ bla ma sku bzhi'i gangs ri la//
+ces pas/ rang 'khor lo bde mchog sngon po zhal gcig phyag gnyis pa/ yum rdo rje rnal 'byor ma dang mnyam par sbyor ba gsal bar bsgom/ oṃ hrīḥha ha huṃ hūm̐ phaṭ/ oṃ badzra bai ro tsa nī ye hūm̐ phaṭ/ ces bzlas pa bya/ de nas bla ma bsgom dgos te/ chos rje'i zhal nas/ bla ma sku bzhi'i gangs ri la//
 mos gus kyi nyi ma ma shar na//
 byin rlabs kyi chu rgyun mi 'byung bas//
 sems mos gus 'di la nan tan mdzod//

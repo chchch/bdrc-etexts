@@ -10,10 +10,39 @@ For a POS-tagged version of this corpus, see:
 
 Meelen, M., and É. Roux. 2020. “The Annotated Corpus of Classical Tibetan (ACTib) - Version 2.0 (Segmented & POS-tagged)”. _Zenodo._ May 4. [doi:10.5281/zenodo.3951503](https://doi.org/10.5281/zenodo.3951503).
 
-All Tibetan characters have been converted to Extended Wylie transliteration, although some attempt has been made to render some Sanskrit characters in IAST, in order to make it easier to read and search. For example: _oṃ mañdzu gho ṣa hūm̐_. Here is the full table:
+All Tibetan characters have been converted to Wylie transliteration, although some attempt has been made to render some Sanskrit characters in IAST, in order to make it easier to read and search. For example:
+
+_oṃ mañdzu gho ṣa hūm̐_ 
+
+Some conjuncts are rendered in Extended Wylie:
 
 |Tibetan  |Transliteration  |
 |--|--|
+|ནྱ  |n+y  |
+|ནྒ |n+g  |
+|ཏྶ  |t+s |
+|ཏྴ |t+sh |
+|དྯ |d+z |
+|ཟྷ |z+h  |
+
+This is the Sanskrit transliteration table:
+
+|Tibetan  |Transliteration  |
+|--|--|
+|ཨ |a |
+|ཨཱ |ā |
+|ཨི |i |
+|ཨཱི |ī |
+|ཨུ |u |
+|ཨཱུ |ū |
+|ཨེ |e |
+|ཨཻ |ai |
+|ཨོ |o |
+|ཨཽ |au |
+|རྀ |ṛ |
+|རཱྀ |ṝ |
+|**ལྀ** |**l̥** |
+|**ལཱྀ** |**l̥̄** |
 |ཀ  |ka  |
 |ཁ |kha  |
 |ག  |ga  |

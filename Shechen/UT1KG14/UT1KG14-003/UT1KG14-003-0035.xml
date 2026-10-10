@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">dam pa rigs brgya'i lha dbang gi bkol byang bzhugs so/  /hūm̐/chos rnams rnam dag ye nas lhun gyis grub/  /bya ba byed dang yid chos rnam par dag/nam ma</tei:title><tei:author/><tei:title>dam pa rigs brgya'i lha dbang gi bkol byang bzhugs so/  /hūm̐/chos rnams rnam dag ye nas lhun gyis grub/  /bya ba byed dang yid chos rnam par dag/nam ma</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-003-0035</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/03-GA/TERZOD-GA-P32.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000260dam pa rigs brgya'i lha dbang gi bkol byang bzhugs so//
@@ -46,15 +46,15 @@ phra men chen mo brgyad kyis dbang bskur ro//
 he a bhi ṣiñtsa mi/ hūm̐/ rdo rje gdong mo pho nya mgyogs ma bzhi//
 shar lho nub byang sgo bzhi thub par srung*//
 sgo skyong khro mo bzhi yis dbang bskur ro//
-dzaḥhūm̐ baṃ hoḥ.a bhi ṣiñtsa mi/ hūm̐/ dpal gyi 'khor tshogs badz+ra ā ral+li//
+dzaḥhūm̐ baṃ hoḥ.a bhi ṣiñtsa mi/ hūm̐/ dpal gyi 'khor tshogs badzra ā ralli//
 mkha' la shugs 'gro ma tshogs dbang phyug ma//
 rnal 'byor nyi shu brgyad kyis dbang bskur ro//
-bh+yo bh+yo bh+yo bh+yo a bhi ṣiñtsa mi/ </tei:p>
+bhyo bhyo bhyo bhyo a bhi ṣiñtsa mi/ </tei:p>
 <tei:p n="3" unit="page">shin tu bsdu na/ mi rtog rdo rje thabs kyi ye shes ni//
 dmigs med shes rab yum gyi ngang du rtogs//
 thugs rje'i bye brag sna tshogs cir yang ston//
 zhi khro rab 'byams rgyal bas dbang bskur ro//
- zhes dang*/ rtsa sngags sam/ yi ge brgya pa'i mthar/ badz+rī bha wa a bhi ṣiñtsa mi/ zhes dbang bskur bas/ 'di ltar chos thams cad dam pa rigs brgya'i ngo bor dag cing*/ de yang rang sems lhag pa bden gnyis dbyer med gsang chen rigs gcig tu rnam par dag pa yin no//
+ zhes dang*/ rtsa sngags sam/ yi ge brgya pa'i mthar/ badzrī bha wa a bhi ṣiñtsa mi/ zhes dbang bskur bas/ 'di ltar chos thams cad dam pa rigs brgya'i ngo bor dag cing*/ de yang rang sems lhag pa bden gnyis dbyer med gsang chen rigs gcig tu rnam par dag pa yin no//
  zhes rtogs pa bskyed do///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

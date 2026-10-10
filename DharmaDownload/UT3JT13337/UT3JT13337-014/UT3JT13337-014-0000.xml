@@ -1,11 +1,11 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">gnas brtan phyag mchod ni/lag mthil ltar mnyam rin chen rgyan gyis spras/  /ljon shing chu mtshos brgyan pa'i sa gzhi'i dbus/  /rin chen las grub gzhal me</tei:title><tei:author/><tei:title>gnas brtan phyag mchod ni/lag mthil ltar mnyam rin chen rgyan gyis spras/  /ljon shing chu mtshos brgyan pa'i sa gzhi'i dbus/  /rin chen las grub gzhal me</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13337-014-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13337</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/P0025_Tobum_tdoc/021-gnas-brtan-phag-mchod.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">gnas brtan phyag mchod ni/ lag mthil ltar mnyam rin chen rgyan gyis spras//
 ljon shing chu mtshos brgyan pa'i sa gzhi'i dbus//
 rin chen las grub gzhal med gru bzhi pa//
-pad+ma nyi zlas brgyan pa'i gdan steng du//
+padma nyi zlas brgyan pa'i gdan steng du//
 thugs rjes rtsod pa'i dus kyi gdul bya rnams//
 rnam grol lam la 'god mdzad 'gro ba'i mgon//
 thub pa mchog dang gnas brtan chen po rnams//
@@ -24,8 +24,8 @@ dam chos spel ba'i slad du spyan 'dren na//
 thub pas bka' bsgos bstan pa'i rgyal mtshan 'dzin//
 yan lag 'byung dang ma pham nags na gnas//
 dus ldan rdo rje mo'i bu bzang po dang*//
-gser be'u bha ra dh+wa dza gser can mchog /'phags pa ba ku la dang sgra gcan 'dzin//
-lam phran bha ra dh+wa dza bsod snyoms len//
+gser be'u bha ra dhwa dza gser can mchog /'phags pa ba ku la dang sgra gcan 'dzin//
+lam phran bha ra dhwa dza bsod snyoms len//
 lam bstan klu'i sde sbed byed mi phyed pa//
 'gro ba'i don phyir mchod kyis gshegs su gsol//
 spangs dang ye shes phun tshogs sangs rgyas kyang*//
@@ -78,7 +78,7 @@ bla ma'i sku tshe= bstan pa rgyas= gnas mchog dam pa kha che na//
 dgra bcom chen po lnga brgyas bskor//
 rin chen zhags pa 'dzin phyag 'tshal//
 bla ma'i sku tshe= bstan pa rgyas= nub kyi ba glang spyod na ni//
-bha ra dh+wa dza gser can mchog /dgra bcom chen po bdun brgyas bskor//
+bha ra dhwa dza gser can mchog /dgra bcom chen po bdun brgyas bskor//
 phyag gnyis mnyam bzhag mdzad phyag 'tshal//
 bla ma'i sku tshe= bstan pa rgyas= byang gi sgra mi snyan na ni//
 'phags pa gnas brtan ba ku la//
@@ -93,7 +93,7 @@ bla ma'i sku tshe= bstan pa rgyas= bya rgod phung po'i ri bo la//
 dgra bcom stong dang drug brgyas bskor//
 phyag gnyis mnyam bzhag mdzad phyag 'tshal//
 bla ma'i sku tshe= bstan pa rgyas= shar gyi lus 'phags gling na ni//
-bha ra dh+wa dza bsod snyoms len//
+bha ra dhwa dza bsod snyoms len//
 dgra bcom stong phrag gcig gis bskor//
 glegs bam lhung bzed 'dzin phyag 'tshal//
 bla ma'i sku tshe=</tei:p>

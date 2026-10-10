@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rgyal dbang thams cad mkhyen pa'i zhabs brtan gsol 'debs ni/gangs ri rwa bas bskor ba'i zhing khams su/  /phan dang bde ba ma lus 'byung ba'i gnas/  /spyan ras</tei:title><tei:author/><tei:title>rgyal dbang thams cad mkhyen pa'i zhabs brtan gsol 'debs ni/gangs ri rwa bas bskor ba'i zhing khams su/  /phan dang bde ba ma lus 'byung ba'i gnas/  /spyan ras</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13327-006-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13327</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/Chenzezig_Tdoc/006_Long-Life.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">rgyal dbang thams cad mkhyen pa'i zhabs brtan gsol 'debs ni/ gangs ri rwa bas bskor ba'i zhing khams su//
@@ -8,7 +8,7 @@ spyan ras gzigs dbang bstan 'dzin rgya mtsho yi//
 zhabs pad srid mtha'i bar du brtan gyur cig ༈ /dpal rgyal dbang karma pa sku phreng bcu bdun pa'i zhabs brtan ni/ mi phyed rtag pa rang byung chos kyi sku//
 sgyu 'phrul gzugs kyi skur bzhengs karma pa'i//
 gsang gsum rdo rje'i khams su rab brtan cing*//
-mtha' yas phrin las lhun grub dpal 'bar shog /ces pa'ang skyabs gcig rgyal tshab sku phreng bcu gnyis pa mi 'gyur go cha'i smon pa'o/ ༈ /si tu pad+ma don yod nyin byed dbang po'i zhabs brtan ni/ pad+ma 'byung gnas thugs rje stobs chen po/ /mchog gi sprul sku pad+ma don yod 'grub//
+mtha' yas phrin las lhun grub dpal 'bar shog /ces pa'ang skyabs gcig rgyal tshab sku phreng bcu gnyis pa mi 'gyur go cha'i smon pa'o/ ༈ /si tu padma don yod nyin byed dbang po'i zhabs brtan ni/ padma 'byung gnas thugs rje stobs chen po/ /mchog gi sprul sku padma don yod 'grub//
 rdo rje gsum gyi ngo bor 'tsho gzhes gsol//
 mdzad phrin mtha' dag lhun gyis 'grub par shog /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

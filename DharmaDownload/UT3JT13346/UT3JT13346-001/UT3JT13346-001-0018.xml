@@ -1,8 +1,8 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rgya gar skad du/ma dh+ya ma ka a ba tā ra nā ma/bod skad du/dbu ma la 'jug pa zhes bya ba/'jam dpal gzhon nur gyur pa la phyag 'tshal lo/  /nyan thos sangs rgyas</tei:title><tei:author/><tei:title>rgya gar skad du/ma dh+ya ma ka a ba tā ra nā ma/bod skad du/dbu ma la 'jug pa zhes bya ba/'jam dpal gzhon nur gyur pa la phyag 'tshal lo/  /nyan thos sangs rgyas</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rgya gar skad du/ma dhya ma ka a ba tā ra nā ma/bod skad du/dbu ma la 'jug pa zhes bya ba/'jam dpal gzhon nur gyur pa la phyag 'tshal lo/  /nyan thos sangs rgyas</tei:title><tei:author/><tei:title>rgya gar skad du/ma dhya ma ka a ba tā ra nā ma/bod skad du/dbu ma la 'jug pa zhes bya ba/'jam dpal gzhon nur gyur pa la phyag 'tshal lo/  /nyan thos sangs rgyas</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13346-001-0018</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13346</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/text/rtfs/volume-001/T0065_UmaJugpa_TibetDoc.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ rgya gar skad du/ ma dh+ya ma ka a ba tā ra nā ma/ bod skad du/ dbu ma la 'jug pa zhes bya ba/ 'jam dpal gzhon nur gyur pa la phyag 'tshal lo//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13346-001-0018</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13346</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/text/rtfs/volume-001/T0065_UmaJugpa_TibetDoc.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ rgya gar skad du/ ma dhya ma ka a ba tā ra nā ma/ bod skad du/ dbu ma la 'jug pa zhes bya ba/ 'jam dpal gzhon nur gyur pa la phyag 'tshal lo//
 nyan thos sangs rgyas 'bring rnams thub dbang skyes//
 sangs rgyas byang chub sems dpa' las 'khrungs shing*//
 snying rje'i sems dang gnyis su med blo dang*//
@@ -533,7 +533,7 @@ gal te rgyu med kho nar skye bar lta zhig 'gyur na ni//
 de tshe mtha' dag rtag tu thams cad las kyang skye 'gyur zhing*//
 'bras 'byung ched du 'jig rten 'di yis sa bon la sogs ni|&#160;/brgya phrag dag gi sgo nas sdud par byed par yang mi 'gyur//
 gal te 'gro ba rgyu yis stong par gyur na nam mkha' yi//
-ut+pal la yi dri mdog ji bzhin gzung du med nyid na//
+utpal la yi dri mdog ji bzhin gzung du med nyid na//
 shin tu ches bkra'i 'jig rten 'dzin pa'ang yin pa de yi phyir//
 rang gi blo bzhin 'jig rten rgyu las yin par shes par gyis//
 'byung ba de dag bdag nyid gang zhig gis ni khyod kyi blo'i//

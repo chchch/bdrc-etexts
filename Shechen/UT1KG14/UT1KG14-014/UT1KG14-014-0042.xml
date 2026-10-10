@@ -1,11 +1,11 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rgyal ba rgya mtsho lha lnga'i rgyun khyer 'khor lo gsum dril pad+ma'i snying po zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /rgyal ba rgya mtsho lha lnga'i rgyun khyer 'khor lo gsum dril pad+ma'i snying po zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rgyal ba rgya mtsho lha lnga'i rgyun khyer 'khor lo gsum dril padma'i snying po zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /rgyal ba rgya mtsho lha lnga'i rgyun khyer 'khor lo gsum dril padma'i snying po zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-014-0042</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/21-ZHA/Terzod-zha-P46.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄༅//
-rgyal ba rgya mtsho lha lnga'i rgyun khyer 'khor lo gsum dril pad+ma'i snying po zhes bya ba bzhugs so//
+rgyal ba rgya mtsho lha lnga'i rgyun khyer 'khor lo gsum dril padma'i snying po zhes bya ba bzhugs so//
 </tei:p>
-<tei:p n="2" unit="page">pad+ma rnam par rgyas pa'i lha//
+<tei:p n="2" unit="page">padma rnam par rgyas pa'i lha//
 rgya mtsho lnga la gus btud de//
 yang zab rgyun gyi rnal 'byor ni//
 'khor lo gsum dril gdams pa 'chad//
@@ -28,9 +28,9 @@ rim gnyis zab mo bsgom par bya//
 thugs rje chen po'i sku ru gyur//
 dmar gsal zhal gcig zhi zhing 'dzum//
 phyag bzhi'i dang po thal mo sbyar//
-mtha' gnyis pad phreng pad+ma dmar//
+mtha' gnyis pad phreng padma dmar//
 dar dang rin chen rgyan gyis spras//
-skyil krung pad+ma'i gdan la bzhugs//
+skyil krung padma'i gdan la bzhugs//
 dbu gtsug snang ba mtha' yas dmar//
 mnyam gzhag sprul pa sku yi chas//
 thugs kar rta mchog ye shes sems//
@@ -39,8 +39,8 @@ brkyang bskum zhi ma khro yi tshul//
 pad nyi me dpung klong du gsal//
 thugs srog hrī yig dmar pos mtshan//
 lte bar gsang ba ye shes dmar/ khro 'dzum chags nyams rus rgyan can//
-phyag bzhis gri thod ral gri dang*/ kha ṭ+wāṃ ga 'dzin brkyang bskum zhabs//
-pad+ma'i gdan la rigs bzhi yi//
+phyag bzhis gri thod ral gri dang*/ kha ṭwāṃ ga 'dzin brkyang bskum zhabs//
+padma'i gdan la rigs bzhi yi//
 mkha' 'gros btegs shing gtso bo la//
 bde ba'i longs spyod 'bul bar mdzad//
 dam ye dbyer med gdod ma nas//
@@ -58,7 +58,7 @@ rdo rje lta bu'i ting 'dzin bskyed//
 nyan rang theg pa chen por bslangs/ khams gsum 'gro ba'i sgrib gnyis bcom//
 tshur 'dus sgo gsum sgrib dag nas//
 ye shes rang gsal ngang gnas gyur//
-oṃ āḥhūm̐ hrīḥ.oṃ ma ṇi pad+me hūm̐/ </tei:p>
+oṃ āḥhūm̐ hrīḥ.oṃ ma ṇi padme hūm̐/ </tei:p>
 <tei:milestone unit="small"/><tei:p n="11" unit="page">zhes yig bcu kho na gtso bor bzla/ thun mthar spro na de'i sham du/ </tei:p>
 <tei:milestone unit="normal"/><tei:p n="12" unit="page">oṃ dhu ma gha ye na maḥswā hā/ ha ri ni sa ra tsa hri ya hūm̐ dzaḥ </tei:p>
 <tei:milestone unit="small"/><tei:p n="13" unit="page">zhes btags pa'ang ci rigs bzla'o//

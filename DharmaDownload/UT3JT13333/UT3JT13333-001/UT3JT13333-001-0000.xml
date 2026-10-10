@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">na mo lo ke shwa rā ya/spyi gtsug pad zla'i gdan steng du/  /dus gsum sangs rgyas 'dus pa'i sku/  /dpal ldan bla ma 'od dpag med/  /bka' brgyud bla </tei:title><tei:author/><tei:title>na mo lo ke shwa rā ya/spyi gtsug pad zla'i gdan steng du/  /dus gsum sangs rgyas 'dus pa'i sku/  /dpal ldan bla ma 'od dpag med/  /bka' brgyud bla </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13333-001-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13333</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/P0009_Gyaljam_tdoc/01_gyalwa-gyamtso_gyudeb.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> na mo lo ke shwa rā ya/ spyi gtsug pad zla'i gdan steng du//
@@ -37,9 +37,9 @@ gsol ba 'debs so= phyi nang bar chad= bsam pa 'grub par= yon tan rgyas pa'i gzha
 rgyas pa'i las rnams sgrub mdzad ma//
 rin chen rigs kyi ḍā ki ma//
 ser mo 'bum gyi tshogs bcas la//
-gsol ba 'debs so= phyi nang bar chad= bsam pa 'grub par= pad+ma gsung gi gzhal yas na//
+gsol ba 'debs so= phyi nang bar chad= bsam pa 'grub par= padma gsung gi gzhal yas na//
 dbang gi las rnams sgrub mdzad ma//
-pad+ma rigs kyi ḍā ki ma//
+padma rigs kyi ḍā ki ma//
 dmar mo 'bum gyi tshogs bcas la//
 gsol ba 'debs so=</tei:p>
 <tei:p n="2" unit="page">phyi nang bar chad= bsam pa 'grub par= phrin las grub pa'i gzhal yas na//

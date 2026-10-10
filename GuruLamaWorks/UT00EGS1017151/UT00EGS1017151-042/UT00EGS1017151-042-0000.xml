@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(kha)༄༅/  /mngon rtogs tshig gi bum pa bzhugs/  /༄༅/  /bla ma rje btsun sgyi chu ba'i/  /zhabs gnyis chu skyes la btud de/  /dpal ldan kye yi rdo ra</tei:title><tei:author/><tei:title>(kha)༄༅/  /mngon rtogs tshig gi bum pa bzhugs/  /༄༅/  /bla ma rje btsun sgyi chu ba'i/  /zhabs gnyis chu skyes la btud de/  /dpal ldan kye yi rdo ra</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-042-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA041.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(kha)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-042-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA041.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(kha)༄༅//
 mngon rtogs tshig gi bum pa bzhugs// ༄༅//
 bla ma rje btsun sgyi chu ba'i//
 zhabs gnyis chu skyes la btud de//
@@ -300,7 +300,7 @@ gzhal yas khang bsgom dgos pa ni//
 tha mal pa yi snod ma dag /'dzin pa'i dri ma sbyang ba dang*//
 'bras bus sangs rgyas zhing khams ni//
 yongs su dag pa 'byung ba'o//
-de dbus pad+ma bsam pa ni//
+de dbus padma bsam pa ni//
 'dab ma brgyad pa rnam par bsgom//
 de steng ram̐ las nyi ma ste//
 nyi mar bdud bzhi brtsegs pa'i gdan//
@@ -416,9 +416,9 @@ de yang 'du shes gsum ldan par//
 byas la lha mo'i 'khor lo dbyung*//
 gong du rgyu yi rdo rje 'chang*//
 yab yum bskyed pa lhar 'du shes//
-yum gyi tha mal pad+ma ni//
+yum gyi tha mal padma ni//
 mi dmigs pa ru bsgom byas la//
-a las pad+ma 'dab ma ni//
+a las padma 'dab ma ni//
 brgyad par bskyed la byin brlab pa'i//
 sngags kyi tshig ni brjod par bya//
 yab kyi tha mal rdo rje ni//
@@ -440,7 +440,7 @@ yab yum snyoms par zhugs pa yi//
 sgra yi phyogs bcu'i ta thā rnams//
 bkug nas sna bug g.yon nas bcug /khong par zhugs te rjes chags mes//
 bzhus te sku yi dbyibs brgyud nas//
-rdo rje'i lam phyung pad+mar phar//
+rdo rje'i lam phyung padmar phar//
 byang sems tsam du gnas pa la//
 sngar ni rgyu yi rdo rje 'chang*//
 bskyed pa'i dus su bsgoms pa yi//
@@ -452,7 +452,7 @@ dbang po 'bring pos bsgom bya ba//
 snyoms par zhugs pa'i sgra yis ni//
 ta thā dgug sogs rab dang mtshungs//
 'og ma gnyis kyang 'dra bar sbyar//
-'dir ni yum gyi pad+ma ru//
+'dir ni yum gyi padma ru//
 byang chub sems las yig 'bru brgyad//
 de dag gdan brgyad steng spros las//
 yig 'bru brgyad las lha mo brgyad//
@@ -569,7 +569,7 @@ lha mo brgyad spros lha dgu mchod//
 de nas gang zag dbang po ni//
 tha ma'i dbang byas phyag rgya dang*//
 sngags dang ting 'dzin gsum gyis dgug /phyag rgya lcags kyu'i phyag rgya dang*//
-gau rī ā kar+ṣa ya dzaḥ /ting nge 'dzin gyis gau rī ni//
+gau rī ā karṣa ya dzaḥ /ting nge 'dzin gyis gau rī ni//
 nag mo lcags kyu thogs pa ni//
 spros te ye shes dkyil 'khor ni//
 shar gyi sgo ru bkug par bsam//
@@ -580,7 +580,7 @@ zhags pa thogs pa hūm̐ las spros//
 lha dgu la ni lha dgu po//
 so so so sor bcug par bsam//
 lcags sgrogs phyag rgya bcings nas ni//
-be tā lī ni ban+dha bam̐//
+be tā lī ni bandha bam̐//
 ngag tu brjod de ting 'dzin ni//
 be tā lī ser hūm̐ las spros//
 lcags sgrog thogs nas ye shes kyi//
@@ -623,13 +623,13 @@ khro bos bgegs skrod bsgom par bya//
 spyi bor rigs bdag mtshan pa yang*//
 gtso bo yab yum mi bskyod pas//
 rgyas gdab ngo bo nyid kyi rgya//
-gau rī dang ni puk+ka sī//
+gau rī dang ni pukka sī//
 mi bskyod pa yis dbur brgyan te//
 lus la sems kyi phyag rgya yin//
 tsau rī dang ni sha ba rī//
 rnam par snang mdzad phyag rgyas gdab//
 sems la lus kyi phyag rgya yin//
-bai tā lī dang tsaṇ+ḍā lī//
+bai tā lī dang tsaṇḍā lī//
 rin chen 'byung ldan phyag rgya gdab//
 rgyu la 'bras bu'i rgyas gdab yin//
 ghasma rī dang ḍoṃ bi nī//
@@ -703,7 +703,7 @@ bskyed rim gtso bor bsgoms na ni//
 yig 'bru bton la phyag rgya bzhi//
 dran pa tsam las mi bya bar//
 gal te rdzogs pa gtsor bsgoms na//
-zhar la gcer bu tsaṇ+ḍā lī//
+zhar la gcer bu tsaṇḍā lī//
 bsgom yang gsungs te gzhan na gsal//
 de nas go cha dgod bya ste//
 rang gi lus kyi phyag rgya drug /rgyal ba drug tu mos pa bya//
@@ -818,12 +818,12 @@ he ru ka ni gsum ka la//
 'dod kyang mi sbyar dris pas gsungs//
 bdud rtsi lta bu'i mngon rtogs 'di//
 bdag 'dra blo dman yul min yang*//
-rje btsun pad+ma'i zhabs kyi lung*//
+rje btsun padma'i zhabs kyi lung*//
 bdud rtsi 'dra la brten nas bris//
 'on kyang bdag 'dra gzhan dag dang*//
 bdag pas cung zad dman pa la'ang*//
 'dis ni rtogs pa'i rkyen byed cing*//
 des ni bla ma la gus shog</tei:p>
 <tei:p n="10" unit="page">/dpal kye'i rdo rje'i sgrub thabs kyi mngon rtogs zhes bya ba bla ma dam pa sa skya pas mdzad pa rdzogs so//
-sa māp+ta mi thi// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+sa māpta mi thi// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

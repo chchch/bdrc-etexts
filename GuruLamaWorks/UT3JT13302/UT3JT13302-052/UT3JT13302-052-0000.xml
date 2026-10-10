@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /dpal phyag na rdo rje 'byung po 'dul byed kyi sgrub thabs bsdus pa bzhugs so/  /༈/bdag bskyed ni/mchog gsum 'dus pa'i bdag nyid bla ma la/ </tei:title><tei:author/><tei:title>༄༅/  /dpal phyag na rdo rje 'byung po 'dul byed kyi sgrub thabs bsdus pa bzhugs so/  /༈/bdag bskyed ni/mchog gsum 'dus pa'i bdag nyid bla ma la/ </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13302-052-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13302</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/KHADON/KHAD052.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -12,7 +12,7 @@ bdag nyid hūm̐ las dpal chen gsang ba'i bdag /mthing nag zhal gcig phyag bzhi'
 thugs kar 'byung po kun 'dul phyag rgya mdzad//
 g.yas g.yon lhag mas rdo rje zhags pa 'dzin//
 pad nyi bgegs kyi steng na brkyang bskums bzhugs//
-hūm̐ badz+ra phaṭa ci 'grub bzla/ dge ba 'di yis sogs bsngo smon bya'o//
+hūm̐ badzra phaṭa ci 'grub bzla/ dge ba 'di yis sogs bsngo smon bya'o//
 gzim 'og rdo rje 'chang gis mdzad pa'o///
 / ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

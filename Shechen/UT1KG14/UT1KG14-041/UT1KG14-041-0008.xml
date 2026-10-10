@@ -1,11 +1,11 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rtsa gsum rig 'dzin srog sgrub las/byin 'beb me tog char sil ngo mtshar lha'i snang ba zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /rtsa gsum rig 'dzin srog sgrub las/byin 'beb me tog char sil ngo mtshar lha'i snang ba zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-041-0008</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/41-DI/Terzod-DI-P07.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄༅//
 rtsa gsum rig 'dzin srog sgrub las/ byin 'beb me tog char sil ngo mtshar lha'i snang ba zhes bya ba bzhugs so//
 </tei:p>
-<tei:p n="2" unit="page">oṃ āḥhūm̐/ badz+ra gu ru de wa ḍā ki nī hrīḥm ha ri ni sa ra tsa hri ya tsit+ta hring hring dzaḥsarba lo ka dzñā na sid+dhi hūm̐/ ā yu sid+dhi pha la hring hring dzaḥdzaḥsarba pañtsa a mṛta kuṇ+ḍa lī hūm̐ hrīḥthā/ kā ya wā ka tsit+ta sarba sid+dhi pha la hūm̐/ hrīḥ zag med 'od lnga 'khrug pa rdo rje'i dbyings//
+<tei:p n="2" unit="page">oṃ āḥhūm̐/ badzra gu ru de wa ḍā ki nī hrīḥm ha ri ni sa ra tsa hri ya tsitta hring hring dzaḥsarba lo ka dzñā na siddhi hūm̐/ ā yu siddhi pha la hring hring dzaḥdzaḥsarba pañtsa a mṛta kuṇḍa lī hūm̐ hrīḥthā/ kā ya wā ka tsitta sarba siddhi pha la hūm̐/ hrīḥ zag med 'od lnga 'khrug pa rdo rje'i dbyings//
 skye med sgyu 'phrul chos dbyings klong rab 'byams//
 'byams klas rgyal ba zhi khro'i sprin phung 'khrigs//
 deng 'dir sgrub mchog gdung bas 'bod lags so//
@@ -14,10 +14,10 @@ deng 'dir sgrub mchog gdung bas 'bod lags so//
 hūm̐ kār bī ma pra chen hasti la//
 gdung bas 'bod lags brtse bas dgongs te gshegs//
 rig 'dzin chen po dha na saṃskṛ dang*//
-de wa tsan+d+ra shān+tiṃ gar+bha dang*//
-kun 'dus rig 'dzin pad+ma thod phreng gis//
+de wa tsand+ra shāntiṃ garbha dang*//
+kun 'dus rig 'dzin padma thod phreng gis//
 rig 'dzin yongs 'dus byin rlabs dngos grub stsol//
-'jam dpal sku dang pad+ma gsung gi lha//
+'jam dpal sku dang padma gsung gi lha//
 yang dag thugs dang che mchog yon tan tshogs//
 phrin las phur pa ma mo rbod gtong gis//
 mthu stobs mchog thun dngos grub 'dir stsol cig /'jig rten mchod bstod dmod pa drag sngags dang//
@@ -29,21 +29,21 @@ chos rgyal rje 'bangs lo paṇa tshom bu rnams//
 zangs mdog dpal ri'i rtse nas 'dir gshegs shig /sprul pa'i gter ston gling brgyad dri med lnga//
 mchog sprul gsum dang mkhan slob brgyud pa bcas//
 zab mo gsang sngags bshad sgrub chu bo'i mgo /brgyud bcas bla ma thams cad 'dir gshegs shig /mtsho skyes rdo rje rgyal ba'i dgongs gsang nas//
-tsit+ta 'bar ba lhun grub 'dab brgya'i rtser//
+tsitta 'bar ba lhun grub 'dab brgya'i rtser//
 theg pa dgu rdzogs thabs shes nyi zla'i steng*//
 nyis brgya nyer lnga dgongs 'dus lha tshogs gshegs//
-pad+ma badz+ra bud+dha thod phreng rtsal//
-mi bskyod rdo rje pad+ma dbang chen dang*//
+padma badzra buddha thod phreng rtsal//
+mi bskyod rdo rje padma dbang chen dang*//
 rig 'dzin thod rtsal drag po me yi phreng*//
 ma 'gags thugs rje rol pa'i klong nas gshegs//
 sangs rgyas dpa' bo dpal chen rta mgrin dbang*//
 lag na rdo rje dpa' bo dpa' mor bcas//
 sgo mtshams skyong mdzad gtsang rigs dpal mgon sogs//
 bka' btsan dregs pa'i bka' srung 'dir gshegs shig</tei:p>
-<tei:p n="3" unit="page">/pul+li ra ma dzā lan dha ra dang*//
+<tei:p n="3" unit="page">/pulli ra ma dzā lan dha ra dang*//
 au ḍīn arbu ta sogs gnas bzhi dang*//
 go da wa ri rā me shwa ra dang*//
-de wī ko ṭi mal+la wa nas gshegs//
+de wī ko ṭi malla wa nas gshegs//
 gnas dang nye gnas brgyad kyi dpa' bo dang*//
 ḍā ki dam can rgya mtsho'i tshogs ma lus//
 byin rlabs thugs rje'i na bun thibs se thib//
@@ -51,12 +51,12 @@ bshams pa'i dam rdzas ye shes sems dpar bzhugs//
 kā ma rū pa o tri ya sogs dang*//
 tri sha ku ne ko sa la gnas pa'i//
 ḍā ki shugs 'gro dam can rgya mtsho'i tshogs//
-zhing dang nye zhing skyong mdzad 'dir gshegs shig /ka liṅka dang lam+ba ka la sogs//
+zhing dang nye zhing skyong mdzad 'dir gshegs shig /ka liṅka dang lamba ka la sogs//
 kañtsi ka dang hi ma lar gnas pa'i//
 tshan dho dang ni nye ba'i tshan dho'i bdag /'bod pa'i gdung dbyangs gsan nam 'dir gshegs shig /pre ta pu ri gṛ ha de wa dang*//
-sau rāṣ+ṭa s+r+ṇu dwī pa sogs//
+sau rāṣṭa sr+ṇu dwī pa sogs//
 'du ba dang ni nye ba'i 'du ba dang*//
-snang srid dwangs ma'i bcud bsdus 'dir gshegs shig /na ga ra dang sin+dhu ma ru ta//
+snang srid dwangs ma'i bcud bsdus 'dir gshegs shig /na ga ra dang sindhu ma ru ta//
 ku lu ta la gnas mdzad dam can tshogs//
 dur khrod dang ni nye ba'i dur khrod nas//
 dam rdzas ri ltar spungs pa'i gnas 'dir gshegs//
@@ -72,7 +72,7 @@ sil snyan pheg rdob lha mi'i rnga sgrar bcas//
 yan lag rgya mtsho snyan pa'i dbyangs kyi sgra//
 mkha' spyod rgyal ba sras dang bcas la 'bul//
 chos dbyings gting mtha' bdud rtsi'i mtsho bskyil zhing*//
-snang srid thams cad rak+ta'i rba spungs 'khyom//
+snang srid thams cad rakta'i rba spungs 'khyom//
 rang rig zhun mar tshul khrims dri bzang dang*//
 snang srid phyi nang gsang ba'i mchod pa 'bul//
 bar snang dag pa'i ngos yangs sku dang gsung*//

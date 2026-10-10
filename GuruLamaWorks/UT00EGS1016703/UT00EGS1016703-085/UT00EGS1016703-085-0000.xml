@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(cha)༄༅/  /bstan srung beg tse lcam dral 'khor dang bcas pa'i bsang mchod kyi yi ge bsam don ltad mor rtsen pa'i nyi ma zhes bya ba bzhugs/  /sngags rig gra</tei:title><tei:author/><tei:title>(cha)༄༅/  /bstan srung beg tse lcam dral 'khor dang bcas pa'i bsang mchod kyi yi ge bsam don ltad mor rtsen pa'i nyi ma zhes bya ba bzhugs/  /sngags rig gra</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1016703-085-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1016703</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/ZUCHEN/ZUCN082.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(cha)༄༅//
@@ -20,10 +20,10 @@ gdong bzhi dpal mgon 'khor bcas bzhugs pa'i 'og /bka' sdod skyes bu dmar po lcam
 'khor bcas 'dir gshegs brtan par bzhugs su gsol//
 gsal gdab pa ni/ mdun du mi rta'i khrag gi rgya mtsho che//
 dba' rlabs g.yo bar gdug pa'i srog chags rtse//
-zangs ri dmar po sra brtan pad+ma nyi//
+zangs ri dmar po sra brtan padma nyi//
 mi rta dgra bgegs dbugs bral bsnol ba'i steng*//
 srog bdag skyes bu dmar po beg tse can//
-pad+ma rā ga'i lhun por bskal pa'i mes//
+padma rā ga'i lhun por bskal pa'i mes//
 lan brgyar 'khyud lta'i gzi brjid lham me bas//
 bdud dgra'i snying la mi bzad mun pa gtibs//
 phyag g.yas zangs gri rnon po mkhar 'phyar zhing*//
@@ -36,7 +36,7 @@ spyan gsum dmar zlum dgra la khrag mig blta//
 sku la dar dmar ral gu zangs khrab bgos//
 nyi 'od la 'khu zangs rmog dbur brgyan cing*//
 ra skyes kham pa'i pags pa lding thabs gyon//
-mi mgo'i phreng brgyan sag ti'i l+h+wam ldan zhabs//
+mi mgo'i phreng brgyan sag ti'i lh+wam ldan zhabs//
 brkyang bskum dor stabs me dpung klong na bzhengs//
 g.yon du rig pa'i lha mo sku mdog mthing*//
 bse gdong dmar por khrag gi mig gsum g.yo//
@@ -113,5 +113,5 @@ bla ma lha srung thugs rje nus mthu yi//
 ma zlums mos pa'i mkha' dbyings rtag 'char bas//
 bsam don sna tshogs nyin mo'i ltad mo la//
 dgar rtsen skyid pa'i ga zha 'byin par shog /ces bstan srung beg tse lcam dral 'khor dang bcas pa'i bsang mchod kyi yi ge bsam don ltad mor rtsen pa'i nyi ma zhes bya ba 'di ni/</tei:p>
-<tei:p n="4" unit="page">bstan srung 'di la mos pa'i dge slong shākya bzang pos bskul ba'i ngor/ ban+de tshul khrims rin chen zhes bgyi bas/ dpal lhun grub steng gi rgyal khab kyi dbang phyogs ba gam gsum par sbyar ba swasti bi dza yan+tu// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
+<tei:p n="4" unit="page">bstan srung 'di la mos pa'i dge slong shākya bzang pos bskul ba'i ngor/ bande tshul khrims rin chen zhes bgyi bas/ dpal lhun grub steng gi rgyal khab kyi dbang phyogs ba gam gsum par sbyar ba swasti bi dza yantu// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

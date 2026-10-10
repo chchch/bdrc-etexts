@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /lta ba bka' btags phyag rgya bzhi'i don 'grel snying po mchog ces bya ba/bla ma dang lhag lha pa'i la phyag 'tshal lo/  /sangs rgyas nyi ma gdul bya pad+mo'</tei:title><tei:author/><tei:title>༄༅/  /lta ba bka' btags phyag rgya bzhi'i don 'grel snying po mchog ces bya ba/bla ma dang lhag lha pa'i la phyag 'tshal lo/  /sangs rgyas nyi ma gdul bya pad+mo'</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /lta ba bka' btags phyag rgya bzhi'i don 'grel snying po mchog ces bya ba/bla ma dang lhag lha pa'i la phyag 'tshal lo/  /sangs rgyas nyi ma gdul bya padmo'</tei:title><tei:author/><tei:title>༄༅/  /lta ba bka' btags phyag rgya bzhi'i don 'grel snying po mchog ces bya ba/bla ma dang lhag lha pa'i la phyag 'tshal lo/  /sangs rgyas nyi ma gdul bya padmo'</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT28942-044-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W28942</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/RONGTON/RONT044.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
 lta ba bka' btags phyag rgya bzhi'i don 'grel snying po mchog ces bya ba/ bla ma dang lhag lha pa'i la phyag 'tshal lo//
-sangs rgyas nyi ma gdul bya pad+mo'i gnyen//
+sangs rgyas nyi ma gdul bya padmo'i gnyen//
 'khor ba'i mun pa sel ba'i sgron me mchog /mtha' yas byams pa'i thugs kyi nyer 'tsho ba//
 'gro ba'i bla ma mchog la phyag 'tshal lo//
 sangs rgyas kun gyis gsungs pa'i gsung rab kyi//
@@ -74,6 +74,6 @@ lta ba bka' btags rigs pas bstan pa la rigs pa ni/ rdo rje gzegs ma dang*/ yod m
 dpe las bden med kyi don rtogs pa'i dgos pa grub bo//
 gsung rab kun gyi snying po'i don bsdus pa/ lta ba bka' btags phyag rgya bzhi yi don//
 legs par bshad pa'i dge tshogs dri med des//
-'gro kun rdzogs pa'i sangs rgyas myur thob shog /ces pa 'di ni rong ston chen po shes bya kun rig gis dpal nā lan+d+ra'i chos grwar rab byung gi lo dbang po'i zla ba la sbyar ba'o// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/</tei:p>
+'gro kun rdzogs pa'i sangs rgyas myur thob shog /ces pa 'di ni rong ston chen po shes bya kun rig gis dpal nā land+ra'i chos grwar rab byung gi lo dbang po'i zla ba la sbyar ba'o// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/</tei:p>
 <tei:p n="6" unit="page">slob bu tha shal pa gu rus spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

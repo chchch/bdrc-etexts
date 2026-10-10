@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">'jam dpal nag po'i rgyun khyer ni/skyabs sems tshad med bzhi sngon du 'gro bas/swā bhā was sbyang*/stong pa'i ngang las pad+ma nyi zla'i steng*/  /dhīḥyi</tei:title><tei:author/><tei:title>'jam dpal nag po'i rgyun khyer ni/skyabs sems tshad med bzhi sngon du 'gro bas/swā bhā was sbyang*/stong pa'i ngang las pad+ma nyi zla'i steng*/  /dhīḥyi</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">'jam dpal nag po'i rgyun khyer ni/skyabs sems tshad med bzhi sngon du 'gro bas/swā bhā was sbyang*/stong pa'i ngang las padma nyi zla'i steng*/  /dhīḥyi</tei:title><tei:author/><tei:title>'jam dpal nag po'i rgyun khyer ni/skyabs sems tshad med bzhi sngon du 'gro bas/swā bhā was sbyang*/stong pa'i ngang las padma nyi zla'i steng*/  /dhīḥyi</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-018-0024</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/18-TSHA/Terzod-tsha-P23.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250'jam dpal nag po'i rgyun khyer ni/1$0000300 </tei:p>
-<tei:p n="2" unit="page">skyabs sems tshad med bzhi sngon du 'gro bas/ swā bhā wa sa sbyang*/ stong pa'i ngang las pad+ma nyi zla'i steng*//
+<tei:p n="2" unit="page">skyabs sems tshad med bzhi sngon du 'gro bas/ swā bhā wa sa sbyang*/ stong pa'i ngang las padma nyi zla'i steng*//
 dhīḥyig las byung 'phags pa 'jam dpal dbyangs//
 mig sman mdog can zhal gcig phyag gnyis pa//
 mtshan dpes rab brgyan yid tsam khro ba'i tshul//
@@ -13,7 +13,7 @@ gnas gsum 'bru gsum gnas las 'od zer 'phros//
 ye shes spyan drangs gnyis su med par gyur//
 snying gar nyi steng dhīḥyig sngags phreng gis//
 bskor ba'i 'od kyis don gnyis phrin las mdzad//
-oṃ mañdzu shrī kā la tsit+ta hūm̐/ thun mthar lha sku mi dmigs stong par sbyang*//
+oṃ mañdzu shrī kā la tsitta hūm̐/ thun mthar lha sku mi dmigs stong par sbyang*//
 dge ba bsngo zhing thun mtshams spyod lam bskyang*//
 zhes pa'ang 'gyur med rdo rjes so// //zhig gling 'jam nag rgyun khyer yin par 'jam mgon brgyud yig las gsal/ </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

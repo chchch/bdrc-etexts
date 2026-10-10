@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /lam 'bras brgyud pa'i gsol 'debs brag phug pas mdzad pa kha skong dang bcas pa bzhugs so/  /༈/na mo gu ru bh+yaḥganas spyi gtsug nyi zla'i gdan steng</tei:title><tei:author/><tei:title>༄༅/  /lam 'bras brgyud pa'i gsol 'debs brag phug pas mdzad pa kha skong dang bcas pa bzhugs so/  /༈/na mo gu ru bh+yaḥganas spyi gtsug nyi zla'i gdan steng</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /lam 'bras brgyud pa'i gsol 'debs brag phug pas mdzad pa kha skong dang bcas pa bzhugs so/  /༈/na mo gu ru bhyaḥganas spyi gtsug nyi zla'i gdan steng</tei:title><tei:author/><tei:title>༄༅/  /lam 'bras brgyud pa'i gsol 'debs brag phug pas mdzad pa kha skong dang bcas pa bzhugs so/  /༈/na mo gu ru bhyaḥganas spyi gtsug nyi zla'i gdan steng</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13302-023-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13302</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/KHADON/KHAD023.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
-lam 'bras brgyud pa'i gsol 'debs brag phug pas mdzad pa kha skong dang bcas pa bzhugs so// ༈ /na mo gu ru bh+yaḥ gnas spyi gtsug nyi zla'i gdan steng du//
+lam 'bras brgyud pa'i gsol 'debs brag phug pas mdzad pa kha skong dang bcas pa bzhugs so// ༈ /na mo gu ru bhyaḥ gnas spyi gtsug nyi zla'i gdan steng du//
 drin can rtsa ba'i bla ma la gsol ba 'debs//
 gsol ba 'debs so bdag rgyud la byin gyis rlobs//
 gnas 'og min chos dbyings pho brang du//
@@ -13,7 +13,7 @@ bdag med lha mo bco lnga la gsol= /gsol ba= /gnas so wa na tha'i gnas mchog tu//
 grub chen rnal 'byor dbang phyug la gsol= /gsol ba= /gnas ri bo u tsa ya na'i dur khrod du//
 brtul zhugs nag po spyod pa la gsol= /gsol ba= /gnas rgya gar ka ma ru pa'i grong khyer du//
 rgyal rigs ḍā ma ru pa la gsol= /gsol ba= /gnas shar phyogs mkha' 'gro mnyes pa'i ljongs lung du//
-gnyis spangs ā wā d+dhu ti la= /gsol ba= /gnas kha reg thod phu'i yang dben du//
+gnyis spangs ā wā ddhu ti la= /gsol ba= /gnas kha reg thod phu'i yang dben du//
 paṇa grub gha ya dha ra la= /gsol ba= /gnas mang mkhar mu khu lung gi gnas mchog tu//
 sgra bsgyur 'brog mi lo tsā la= /gsol ba= /gnas mkhar chung chu kha'i gnas mchog tu//
 bla ma se ston kun rig la= /gsol ba= /gnas sag thang deng gi dgon pa ru//
@@ -30,7 +30,7 @@ nyan chen bsod nams bstan pa la= /gsol ba= /gnas na bza' brag phug gi dben gnas 
 grub chen brag phug pa chen po la= /gsol ba= /gnas bsam yas bla brang gi gzim khang du//
 chos rje bla ma dam pa la= /gsol ba= /gnas byang chub rdzong gi gnas mchog tu//
 chos rje dpal ldan tshul khrims la= /gsol ba= /gnas zhi dgon rgyal ba'i ri khrod du//
-grub chen bud+dha shrī la= /gsol ba= /gnas e wam̐ chos ldan gyi dgon pa ru//
+grub chen buddha shrī la= /gsol ba= /gnas e wam̐ chos ldan gyi dgon pa ru//
 ngor chen kun dga' bzang po la= /gsol ba= /mus bsam gtan gling gi dben gnas su//
 mus chen dkon mchog rgyal mtshan la= /gsol ba= /gnas dpal ldan sa skya'i gtsug lag tu//
 bdag chen rdo rje 'chang chen la= /gsol ba= /gnas kha'u brag rdzong gi ri khrod du//

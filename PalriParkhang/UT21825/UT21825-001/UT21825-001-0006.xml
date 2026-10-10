@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(121)dang po'i las can mkhas pa'i tshul la 'jug pa'i sgo zhes bya ba/(122)bla ma 'jam pa'i dbyangs la phyag 'tshal lo/  /phung po skye mched khams rten 'brel/ </tei:title><tei:author/><tei:title>(121)dang po'i las can mkhas pa'i tshul la 'jug pa'i sgo zhes bya ba/(122)bla ma 'jam pa'i dbyangs la phyag 'tshal lo/  /phung po skye mched khams rten 'brel/ </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT21825-001-0006</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W21825</tei:idno><tei:idno type="SRC_PATH">PalriParkhang/W21825-bkaq-qbum-pad-nor-02-thub-bstan-chos-kyi-glang-po/rtfs/01-penor-kabum-ka/ka_0121-0136_pecha.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(121)dang po'i las can mkhas pa'i tshul la 'jug pa'i sgo zhes bya ba/ (122)0(10000010000bla ma 'jam pa'i dbyangs la phyag 'tshal lo//
@@ -207,7 +207,7 @@ de brgya nyi shur de'i skad cig</tei:p>
 de la ring thung ma nges pa//
 byed las dbang por brten nas yul//
 mthong bar byed la ngo bo ni//
-yul (129)re+ig pa yi mtshan nyid can//
+yul (129)reig pa yi mtshan nyid can//
 dbang po nyi shu rtsa gnyis las//
 gzugs phung gis bsdus dbang po ni//
 gzugs can lnga ste pho mo'i dbang*//
@@ -423,7 +423,7 @@ kun mkhyen ngag gi dbang po yis//
 rjes su bzung ba'i skal ba can//
 'jam dpal grub pa'i blo gros sam//
 brda sprod kun bshad btags ming du//
-sgra dbyangs pad+ma'i myu gus bris//
+sgra dbyangs padma'i myu gus bris//
 dge bas mar gyur yid can kun//
 spobs pa'i gter brgyad thob gyur cig /sarba maṅga lam///
 /</tei:p>

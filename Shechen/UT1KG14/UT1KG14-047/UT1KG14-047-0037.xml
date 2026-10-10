@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rnal 'byor rang gi grib srung ba dang sel ba'i gdams ngag grib sel gser gyi pha wang zhes bya ba bzhugs so/  /na mo gu ru u tsuṣ+ma kro dhā ya/'chol ba'i</tei:title><tei:author/><tei:title>rnal 'byor rang gi grib srung ba dang sel ba'i gdams ngag grib sel gser gyi pha wang zhes bya ba bzhugs so/  /na mo gu ru u tsuṣ+ma kro dhā ya/'chol ba'i</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rnal 'byor rang gi grib srung ba dang sel ba'i gdams ngag grib sel gser gyi pha wang zhes bya ba bzhugs so/  /na mo gu ru u tsuṣma kro dhā ya/'chol ba'i</tei:title><tei:author/><tei:title>rnal 'byor rang gi grib srung ba dang sel ba'i gdams ngag grib sel gser gyi pha wang zhes bya ba bzhugs so/  /na mo gu ru u tsuṣma kro dhā ya/'chol ba'i</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-047-0037</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/47-TSI/TERDZO-TSI-P35.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250rnal 'byor rang gi grib srung ba dang sel ba'i gdams ngag grib sel gser gyi pha wang zhes bya ba bzhugs so//
-1$0000300na mo gu ru u tsuṣ+ma kro dhā ya/ 'chol ba'i khro rgyal de la phyag 'tshal lo//
+1$0000300na mo gu ru u tsuṣma kro dhā ya/ 'chol ba'i khro rgyal de la phyag 'tshal lo//
 </tei:p>
 <tei:p n="2" unit="page">sdom gsum ldan pa'i rnal 'byor sgrub pa pos//
 zas grib gos grib ro dang btsog gi grib//
@@ -53,13 +53,13 @@ dam tshig chag nyams grib dang mi gtsang ba//
 thams cad dud khu sol khu'i rnam pa ru//
 rkang mthil 'og sgo ba spu'i bu gar thon//
 phyi rol khro bo rnams kyis lhag med gsol//
-oṃ bhur khung ma hā pra ma ṇa ye bhur tsi bhur ki bhi ma le u tsuṣ+ma ma hā kro dha hūm̐ phaṭa/ ces pa brgya'am nyi shu rtsa gcig gi mthar/ oṃ e ho shud+dhe shud+dhe/ yaṃ ho shud+dhe shud+dhe/ raṃ ho shud+dhe shud+dhe/ baṃ ho shud+dhe shud+dhe/ laṃ ho shud+dhe shud+dhe/ e yaṃ raṃ baṃ laṃ shud+dhe shud+dhe tsit+ta raṃ shud+dhe a a swā hā/ de nas mi dmigs stong pa'i ngang la bzhag /rgyun du byas na grib kyis mi tshugs shing*//
+oṃ bhur khung ma hā pra ma ṇa ye bhur tsi bhur ki bhi ma le u tsuṣma ma hā kro dha hūm̐ phaṭa/ ces pa brgya'am nyi shu rtsa gcig gi mthar/ oṃ e ho shuddhe shuddhe/ yaṃ ho shuddhe shuddhe/ raṃ ho shuddhe shuddhe/ baṃ ho shuddhe shuddhe/ laṃ ho shuddhe shuddhe/ e yaṃ raṃ baṃ laṃ shuddhe shuddhe tsitta raṃ shuddhe a a swā hā/ de nas mi dmigs stong pa'i ngang la bzhag /rgyun du byas na grib kyis mi tshugs shing*//
 grib kha byung dus bsgom bzlas byas pas sel//
 'di ni gsar rnying rgyud sde du ma'i bcud/ khyad par gar gyi dbang phyug rol pa rtsal//
 rig 'dzin chen po'i zhal gyi bdud rtsi lags//
 de skad rta lo tha skar zla ba yi//
-gung thun rā ga a s+yas smras pa ste//
-'brong rigs dge bshes pad+ma thabs mkhas kyis//
+gung thun rā ga a syas smras pa ste//
+'brong rigs dge bshes padma thabs mkhas kyis//
 phyi rabs 'gro la phan phyir 'phral du bris//
 nyes 'gal mchis na ye shes lha la bshags//
 dge bas 'gro kun skyon dang bral gyur cig /dge'o///

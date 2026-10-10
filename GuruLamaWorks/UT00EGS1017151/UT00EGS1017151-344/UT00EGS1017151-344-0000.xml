@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /phyag rgya chen po yan lag bdun ldan gyi rtsa ba bzhugs/  /༄༅/  /bla ma dam pa'i zhabs la phyag 'tshal lo/  /chos kun nye bar zhi ba can/  /de la yod</tei:title><tei:author/><tei:title>(na)༄༅/  /phyag rgya chen po yan lag bdun ldan gyi rtsa ba bzhugs/  /༄༅/  /bla ma dam pa'i zhabs la phyag 'tshal lo/  /chos kun nye bar zhi ba can/  /de la yod</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-344-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA338.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-344-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA338.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
 phyag rgya chen po yan lag bdun ldan gyi rtsa ba bzhugs// ༄༅//
 bla ma dam pa'i zhabs la phyag 'tshal lo//
 chos kun nye bar zhi ba can//
@@ -69,5 +69,5 @@ sems kyi de nyid rtogs par gsal//
 dge ba 'di dang dge ba gzhan/</tei:p>
 <tei:p n="2" unit="page">ma lus gcig tu bsdom byas nas//
 sems can kun gyi don bsgrub phyir//
-rdzogs pa'i sangs rgyas myur thob shog /dpal sa skya paṇ+ḍi tas gus pas gsol ba 'debs pa'i ngor go bde bar sbyar ba'o// //sarba ma ṅga laṃ// dge 'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+rdzogs pa'i sangs rgyas myur thob shog /dpal sa skya paṇḍi tas gus pas gsol ba 'debs pa'i ngor go bde bar sbyar ba'o// //sarba ma ṅga laṃ// dge 'o// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

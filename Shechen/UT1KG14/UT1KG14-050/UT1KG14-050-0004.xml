@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">g.yang 'gugs mdor bsdus ni/kyai/tshogs gnyis nor bu rgyas pa'i sprin chen las/  /dge legs 'dod dgu'i gru char 'jo ba yis/  /sa gsum skye rgu'i </tei:title><tei:author/><tei:title>g.yang 'gugs mdor bsdus ni/kyai/tshogs gnyis nor bu rgyas pa'i sprin chen las/  /dge legs 'dod dgu'i gru char 'jo ba yis/  /sa gsum skye rgu'i </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-050-0004</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/50-WI/TERDZO-WI-P03.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250g.yang 'gugs mdor bsdus ni/ 1$0000300kyai/ tshogs gnyis nor bu rgyas pa'i sprin chen las//
@@ -27,6 +27,6 @@ bcud la dpal gnas tshe ring mdangs stobs ldan//
 rgyal bstan dar rgyas bstan 'dzin dbu 'phang mtho//
 don gnyis bsam kun 'grub pa'i bkra shis stsol//
 </tei:p>
-<tei:p n="2" unit="page">ces 'phags nor gyi grangs kyis mdzes pa'i tshigs su bcad pa 'di'ang rgyal sras gzhan phan chos kyi blo gros kyis   zhe chen rgyal tshab pad+ma rnam rgyal rin po che/bris pa dge legs su gyur cig//
+<tei:p n="2" unit="page">ces 'phags nor gyi grangs kyis mdzes pa'i tshigs su bcad pa 'di'ang rgyal sras gzhan phan chos kyi blo gros kyis   zhe chen rgyal tshab padma rnam rgyal rin po che/bris pa dge legs su gyur cig//
 / ༈ dpe tshan 'di sngon chad gter mdzod dkyus su med cing*/ bal yul zhe dgon gyi par gsar 'dir gsar bzhag byas pas lung rgyun la zhib rtog dgos pa yin no//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

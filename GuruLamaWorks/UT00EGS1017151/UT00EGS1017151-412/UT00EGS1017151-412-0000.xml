@@ -1,11 +1,11 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pa)༄༅/  /bde mchog nag po pa'i dbang gi sdom tshig bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/bla ma dam pa'i zhabs la gus pas phyag 'tshal lo/  /sna tshogs pad+ma'</tei:title><tei:author/><tei:title>(pa)༄༅/  /bde mchog nag po pa'i dbang gi sdom tshig bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/bla ma dam pa'i zhabs la gus pas phyag 'tshal lo/  /sna tshogs pad+ma'</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pa)༄༅/  /bde mchog nag po pa'i dbang gi sdom tshig bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/bla ma dam pa'i zhabs la gus pas phyag 'tshal lo/  /sna tshogs padma'</tei:title><tei:author/><tei:title>(pa)༄༅/  /bde mchog nag po pa'i dbang gi sdom tshig bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/bla ma dam pa'i zhabs la gus pas phyag 'tshal lo/  /sna tshogs padma'</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-412-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA406.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pa)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-412-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA406.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pa)༄༅//
 bde mchog nag po pa'i dbang gi sdom tshig bzhugs// ༄༅//
-oṃ swa sti sid+dhaṃ/ bla ma dam pa'i zhabs la gus pas phyag 'tshal lo//
-sna tshogs pad+ma'i lte bar bzhugs//
+oṃ swa sti siddhaṃ/ bla ma dam pa'i zhabs la gus pas phyag 'tshal lo//
+sna tshogs padma'i lte bar bzhugs//
 'jigs byed dus mtshan mnyam par mnan//
 srid dang zhi ba'i bdag nyid gtso//
 he ru ka dpal la phyag 'tshal//
@@ -71,7 +71,7 @@ ye shes chur ni byin brlab pa//
 lnga ni bum pa'i sta gon no//
 bdag bskyed dkyil 'khor tshogs kyis mchod//
 skabs kyi bya ba shes par bya//
-maṇ+ḍal dbul dang nges 'byung bskyed//
+maṇḍal dbul dang nges 'byung bskyed//
 nang gi dbang bskur gsol ba gdab//
 spro ba bskyed dang byang sems bskyed//
 bsrung dang mchod dang so shing dor//
@@ -105,7 +105,7 @@ tshogs kyi mchod pas tshim bya ba//
 skabs kyi bya ba shes par bya//
 slob ma 'jug pa gnyis yin te//
 yol ba'i phyi dang nang du'o//
-maṇ+ḍal dbul dang bden pa brjod//
+maṇḍal dbul dang bden pa brjod//
 gdong bcing bsang zhing byin gyis brlab//
 me tog gtad la 'dod pa dri//
 byang sems bskyed nas nang du gzhug</tei:p>
@@ -138,7 +138,7 @@ bcu gnyis bum pa'i dbang gis bsdus//
 gsang ba shes rab ye shes te//
 brtul zhugs rim pa bcu bzhi'o//
 bzhi pa brjod du med pa yin//
-maṇ+ḍal dbul dang gsol ba gdab//
+maṇḍal dbul dang gsol ba gdab//
 slob dpon du ni dbang bskur zhing*//
 bla ma'i bya ba legs bsgo ba//
 bzhi ni rdo rje slob dpon dbang*//

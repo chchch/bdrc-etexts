@@ -1,18 +1,18 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pa)༄༅/  /sgrol ma'i zhal phyag la spel ba'i bkra shis kyi tshigs su bcad pa bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/bla ma dang dkon mchog gsum la phyag 'tshal</tei:title><tei:author/><tei:title>(pa)༄༅/  /sgrol ma'i zhal phyag la spel ba'i bkra shis kyi tshigs su bcad pa bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/bla ma dang dkon mchog gsum la phyag 'tshal</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pa)༄༅/  /sgrol ma'i zhal phyag la spel ba'i bkra shis kyi tshigs su bcad pa bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/bla ma dang dkon mchog gsum la phyag 'tshal</tei:title><tei:author/><tei:title>(pa)༄༅/  /sgrol ma'i zhal phyag la spel ba'i bkra shis kyi tshigs su bcad pa bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/bla ma dang dkon mchog gsum la phyag 'tshal</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-381-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA375.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pa)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-381-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA375.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pa)༄༅//
 sgrol ma'i zhal phyag la spel ba'i bkra shis kyi tshigs su bcad pa bzhugs// ༄༅//
-oṃ swa sti sid+dhaṃ/ bla ma dang dkon mchog gsum la phyag 'tshal lo//
+oṃ swa sti siddhaṃ/ bla ma dang dkon mchog gsum la phyag 'tshal lo//
 sangs rgyas kun gyi phrin las kun//
 gcig tu bsdus pa lha mo'i skur//
 ston mdzad rje btsun sgrol ma yis//
 rtag tu khyod ni skyong gyur cig /de yi phyag g.yas brkyang pa ni//
 khyed kyi spyi bor gzhol zhing bab//
 mchog sbyin dam pa'i phyag rgya yis//
-khyed la 'bras mchog stsol gyur cig /phyag g.yon ut+pal 'dzin pa yis//
+khyed la 'bras mchog stsol gyur cig /phyag g.yon utpal 'dzin pa yis//
 khyed kyang bzung nas nyer drangs te//
 nyid kyi thugs kyi dkyil 'khor du//
-nye bar bcug nas skyong gyur cig /dpon mo chen mo la'o// //ye dharmā he tu pra bha wā he tun+te ṣān+ta thā ga twa h+ya wa data/ te ṣāñtsa yo ni ro dha e waṃ bā dī ma hā shra ma ṇaḥ ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+nye bar bcug nas skyong gyur cig /dpon mo chen mo la'o// //ye dharmā he tu pra bha wā he tunte ṣānta thā ga twa hya wa data/ te ṣāñtsa yo ni ro dha e waṃ bā dī ma hā shra ma ṇaḥ ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

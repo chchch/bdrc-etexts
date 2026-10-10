@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rgya gar skad du/shū n+ya tā s+ya sap+ta ti bṛt+ti/bod skad du/stong pa nyid bdun cu pa'i 'grel pa/'phags pa 'jam dpal ye shes sems dpa' la phyag 'tsha</tei:title><tei:author/><tei:title>༄༅/  /rgya gar skad du/shū n+ya tā s+ya sap+ta ti bṛt+ti/bod skad du/stong pa nyid bdun cu pa'i 'grel pa/'phags pa 'jam dpal ye shes sems dpa' la phyag 'tsha</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rgya gar skad du/shū n+ya tā sya sapta ti bṛtti/bod skad du/stong pa nyid bdun cu pa'i 'grel pa/'phags pa 'jam dpal ye shes sems dpa' la phyag 'tsha</tei:title><tei:author/><tei:title>༄༅/  /rgya gar skad du/shū n+ya tā sya sapta ti bṛtti/bod skad du/stong pa nyid bdun cu pa'i 'grel pa/'phags pa 'jam dpal ye shes sems dpa' la phyag 'tsha</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13363-001-0007</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13363</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/UMA/rtfs/volume-001/007UMA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(1)</tei:p>
 <tei:p n="2" unit="page">༄༅//
-rgya gar skad du/ shū n+ya tā s+ya sap+ta ti bṛt+ti/ bod skad du/ stong pa nyid bdun cu pa'i 'grel pa/ 'phags pa 'jam dpal ye shes sems dpa' la phyag 'tshal lo//
+rgya gar skad du/ shū n+ya tā sya sapta ti bṛtti/ bod skad du/ stong pa nyid bdun cu pa'i 'grel pa/ 'phags pa 'jam dpal ye shes sems dpa' la phyag 'tshal lo//
 gnas pa'am skye 'jig yod med dam//
 dman pa'am mnyam pa'am khyad par can//
 sangs rgyas 'jig rten snyan dbang gis//
@@ -557,6 +557,6 @@ dad pa dang ldan pa yang dag tshol ba lhur len pa/ chos bstan pa gang la yang mi
 rkyen nyid 'di pa 'di shes nas//
 lta ngan drwa ba'i rtog pa ldog /chags rmongs khong khro spang phyir te//
 ma gos mya ngan 'das nyer 'gro//
-stong pa nyid bdun cu pa'i bshad pa/ slob dpon 'phags pa klu sgrub kyis mdzad pa rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang*/ zhu chen gyi lo tsā ba ban+de ye shes sde la sogs pas zhus te gtan la phab pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
+stong pa nyid bdun cu pa'i bshad pa/ slob dpon 'phags pa klu sgrub kyis mdzad pa rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang*/ zhu chen gyi lo tsā ba bande ye shes sde la sogs pas zhus te gtan la phab pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
 /1$0000270</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /sa bdag bshags 'bum zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /sa bdag bshags 'bum zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG5988-001-0109</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG5988</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Kagyur-Zungdue/rtfs/volume-001/110_sa-bdag-bshags-qbum.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ ༄༅//
@@ -357,7 +357,7 @@ bu tsha phyir rabs yan chad du//
 sa gnyan brkos dang rdo gnyan bslang*//
 chu gnyan dkrugs dang shing gnyan bcad//
 ma rig ma shes ci bgyis pa//
-mthol lo bshags so dag gyur cig / ces rig 'dzin nyi ma grags pa'i bsangs mchod nas khol du phyungs pa 'di ni drin chen rā ga a s+yes mdzad pa'o///
+mthol lo bshags so dag gyur cig / ces rig 'dzin nyi ma grags pa'i bsangs mchod nas khol du phyungs pa 'di ni drin chen rā ga a syes mdzad pa'o///
 /sarba maṅga laṃ///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">yang gsang bla ma'i sgrub pa thig le'i rgya can gyi brgyud 'debs byin rlabs char 'beb bzhugs so/  /kun bzang rdo rje sems dpa' dga' rab rje/  /'jam </tei:title><tei:author/><tei:title>yang gsang bla ma'i sgrub pa thig le'i rgya can gyi brgyud 'debs byin rlabs char 'beb bzhugs so/  /kun bzang rdo rje sems dpa' dga' rab rje/  /'jam </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-011-0048</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/11-DA/terdzo-DA-P47.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250yang gsang bla ma'i sgrub pa thig le'i rgya can gyi brgyud 'debs byin rlabs char 'beb bzhugs so//
@@ -34,6 +34,6 @@ nam mkha' ji srid bar du 'char ba yis//
 kun bzang rig 'dzin bla ma'i go 'phang cher//
 'gro kun phyam gcig grol bar byin gyis rlobs//
 </tei:p>
-<tei:p n="2" unit="page">zhes pa'ang grub pa'i dpyid mkhyen brtse'i dbang pos dpal ldan pad+ma 'od gling du gang shar gsol ba btab pa'o//
+<tei:p n="2" unit="page">zhes pa'ang grub pa'i dpyid mkhyen brtse'i dbang pos dpal ldan padma 'od gling du gang shar gsol ba btab pa'o//
 shu bhaṃ// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

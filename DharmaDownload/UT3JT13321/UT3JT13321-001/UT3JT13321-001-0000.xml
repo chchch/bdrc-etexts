@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rje rang byung zhabs kyis mdzad pa'i nges don phyag rgya chen po'i smon lam gyi 'grel chung </tei:title><tei:author/><tei:title>༄༅/  /rje rang byung zhabs kyis mdzad pa'i nges don phyag rgya chen po'i smon lam gyi 'grel chung </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13321-001-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13321</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Mahamudra/rtfs/10_Chakchen-Dakgyud-Gongjen/10_Chakchen-Dakgyud-Gongjen.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ ༄༅//
@@ -233,7 +233,7 @@ zhes dang*/ zhing rnams rgya mtsho rnam par dag byed cing*/ zhes sogs gsungs pa 
 sangs rgyas kyi chos rnams 'grub pa'i smon lam rdzogs pa ni/ mdo rgyud bstan bcos thams cad nas gsungs pa'i smon lam grangs med pa khrag khrig brgya stong gi 'khor dang bcas pa yongs su grub pa na sangs rgyas kyi chos rnams yongs su rdzogs par yin no//
 sangs rgyas kyi sgra don ni budha zhes pa'i sgra sangs pa'am rgyas pa la 'jug pas/ ji skad du/ ma rig gnyid las sangs phyir dang*//
 shes bya la yang blo rgyas phyir//
-sangs rgyas pad+ma ltar sangs rgyas//
+sangs rgyas padma ltar sangs rgyas//
 zhes gsungs pa ltar ro//
 de ltar byang chub sems dpa' rnams sbyang smin mthar phyin nas gdod nas smon lam thams cad rdzogs te sangs rgyas pa yin la/</tei:p>
 <tei:p n="17" unit="page">sngags su mi tshe gcig gis sangs rgyas kyi go 'phang nyid mngon du byed pa'i tshe na'ang thabs mkhas pa dang ting nge 'dzin gyi khyad par gyi stobs bsam gyis mi khyab pas rdzogs smin sbyangs gsum myur du mthar phyin par go dgos//
@@ -250,7 +250,7 @@ phyag rgya chen po smon lam gyi rnam grangs dang brgyud pa'i rim pa rnams shes p
 smras pa/ kun mkhyen zhal lung zab pa'i ma ma las//
 rang blos bsdus pa'i bum bzang chu rgyun gyi//
 blo ldan thos bsam sgom par 'jug 'dod rnams//
-byin rlabs bdud rtsi'i rgyun gyi smin grol shog /ces nges don phyag rgya chen po'i smon lam la 'grel ba kha gsal go bde zhig 'bri dgos zhes kun mkhyen bo dong pa'i ring lugs 'dzin pa'i bla sprul rtogs ldan rnams kyis ring mo nas bskul ba dang*/ nye char zur mang lha lung bde gsal mchog sprul kyis bka' nan spyi bor phebs pa'i zhal ngo ldog ma phod par mkhan ming karma rat+nas si tu'i 'grel chen las bsdus te bkod pa'i yi ge pa ni rang slob bhik+shu karma shes rab rang grol gyis bgyis pa lung rtogs rgyal ba'i bstan pa rin po che dar zhing rgyal la yun ring du gnas pa'i rgyur gyur cig//
-/sarba maṅga lam bi dza yan+tu//
+byin rlabs bdud rtsi'i rgyun gyi smin grol shog /ces nges don phyag rgya chen po'i smon lam la 'grel ba kha gsal go bde zhig 'bri dgos zhes kun mkhyen bo dong pa'i ring lugs 'dzin pa'i bla sprul rtogs ldan rnams kyis ring mo nas bskul ba dang*/ nye char zur mang lha lung bde gsal mchog sprul kyis bka' nan spyi bor phebs pa'i zhal ngo ldog ma phod par mkhan ming karma ratnas si tu'i 'grel chen las bsdus te bkod pa'i yi ge pa ni rang slob bhikshu karma shes rab rang grol gyis bgyis pa lung rtogs rgyal ba'i bstan pa rin po che dar zhing rgyal la yun ring du gnas pa'i rgyur gyur cig//
+/sarba maṅga lam bi dza yantu//
 </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

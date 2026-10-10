@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">yang gsang karma drag po'i brgyud 'debs khyer bde bzhugs/bdud sde'i dpung 'joms karma he ru ka/phrin las grub pa pra chen hasti'i zhabs/  /dus gsum ra</tei:title><tei:author/><tei:title>yang gsang karma drag po'i brgyud 'debs khyer bde bzhugs/bdud sde'i dpung 'joms karma he ru ka/phrin las grub pa pra chen hasti'i zhabs/  /dus gsum ra</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-013-0011</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/13-PA/Terdzo-PA-P10.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250yang gsang karma drag po'i brgyud 'debs khyer bde bzhugs/1$0000300 bdud sde'i dpung 'joms karma he ru ka /phrin las grub pa pra chen hasti'i zhabs//
@@ -9,11 +9,11 @@ gsol ba 'debs so bdud bzhi mthar byed shog /zab gter bka' yi sdud po mkhar chen 
 skye ba'i yang srid bkra shis stobs rgyal la//
 gsol ba 'debs so bdud bzhi mthar byed shog /lung zin rig 'dzin chen po ngag gi dbang*//
 bka' babs khyab bdag chos dbyings rang grol rje/ </tei:p>
-<tei:p n="2" unit="page">kha skong ni/ pad+mas rjes bzung rdo rje thogs med la//
-gsol ba 'debs so bdud bzhi mthar byed shog /rig 'dzin chen po pad+ma phrin las dang*//
+<tei:p n="2" unit="page">kha skong ni/ padmas rjes bzung rdo rje thogs med la//
+gsol ba 'debs so bdud bzhi mthar byed shog /rig 'dzin chen po padma phrin las dang*//
 chos kyi rgyal po 'gro 'dul gter bdag gling*//
 ngag dbang klu sgrub ngag dbang 'jigs med zhabs//
-gsol ba 'debs so bdud bzhi mthar byed shog /'gyur med mchog grub pad+ma tshe dbang rtsal//
+gsol ba 'debs so bdud bzhi mthar byed shog /'gyur med mchog grub padma tshe dbang rtsal//
 'jigs med go cha bstan 'dzin 'phel rgyas dang*//
 brgyud srol kun 'dus rtsa ba'i bla ma la//
 gsol ba 'debs so bdud bzhi mthar byed shog / zhes so//
@@ -28,5 +28,5 @@ ka dag dbyings su ye shes lngar dag pas//
 phyi rol 'khrul ngor shar ba'i dgra bgegs rnams//
 tshar gcod rten 'brel lhun gyis grub par shog /snod bcud thams cad rten dang brten par shar//
 grags pa thams cad grags stong sngags kyi sgra /snang sems brjod bral chos sku'i rang rtsal du//
-legs shar don gnyis 'grub pa'i bkra shis shog / ces pa 'di'ang sngar brgyud 'debs shig brtsams pa'ang mang skyon du gyur nas phan bde legs bshad gling gi chog grwa ba rnams kyis khyer bde ba'i slad du za hor gyi ban+des sbyar ba'i yi ge pa ni dge slong 'jam dbyangs grags pa'o// // </tei:p>
+legs shar don gnyis 'grub pa'i bkra shis shog / ces pa 'di'ang sngar brgyud 'debs shig brtsams pa'ang mang skyon du gyur nas phan bde legs bshad gling gi chog grwa ba rnams kyis khyer bde ba'i slad du za hor gyi bandes sbyar ba'i yi ge pa ni dge slong 'jam dbyangs grags pa'o// // </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">spobs pa'i gter brgyad grol ba'i smon lam phan bde'i sa bon zhes bya ba bzhugs so/  /bla ma 'jam pa'i dbyangs la phyag 'tshal lo/  /bdag gi skye dang tshe ra</tei:title><tei:author/><tei:title>spobs pa'i gter brgyad grol ba'i smon lam phan bde'i sa bon zhes bya ba bzhugs so/  /bla ma 'jam pa'i dbyangs la phyag 'tshal lo/  /bdag gi skye dang tshe ra</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22946-001-0008</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22946</tei:idno><tei:idno type="SRC_PATH">PalriParkhang/W22946-mkhan-po-ngag-dbang-dpal-bzang-_ngaga/rtfs/NGAGA-vol-1-KA/kaq_0079-0084_pecha.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">spobs pa'i gter brgyad grol ba'i smon lam phan bde'i sa bon zhes bya ba bzhugs so// bla ma 'jam pa'i dbyangs la phyag 'tshal lo//
@@ -71,7 +71,7 @@ rang byung ye shes sems dpa' khyod la 'dud//
 ye shes thugs rje 'gro la rjes chags pas//
 gang 'dul 'gro la sna tshogs sprul pa yis//
 ye shes sgyu ma rol mo ston mdzad pa//
-lhag pa'i lha mchog 'jam pa'i dbyangs la 'dud/ oṃ madzñu shrī āḥ wa gi shwa ri muṃ/ dharma dha tu/ saṅga dzñā na gar+bha/ a hrī/ a i e o aṃ āḥ</tei:p>
+lhag pa'i lha mchog 'jam pa'i dbyangs la 'dud/ oṃ madzñu shrī āḥ wa gi shwa ri muṃ/ dharma dha tu/ saṅga dzñā na garbha/ a hrī/ a i e o aṃ āḥ</tei:p>
 <tei:p n="3" unit="page">ra ri la l̥ ye/ oṃ a ra pa tsa na dhīḥ mgon po khyod la bstod pa dang*/ rig sngags bzlas pa gang lags pas//
 skye dang skye ba thams cad du//
 mgon po khyod kyis rjes bzung ste//

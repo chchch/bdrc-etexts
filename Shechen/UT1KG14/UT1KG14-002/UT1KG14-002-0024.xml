@@ -1,12 +1,12 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">klong chen snying gi thig le las bla ma rig 'dzin 'dus pa'i skong bsdus rdo rje'i rgyud mang zhes bya ba bzhugs so/  /na mo gu ru pad+mā ka ra ya/bla ma </tei:title><tei:author/><tei:title>klong chen snying gi thig le las bla ma rig 'dzin 'dus pa'i skong bsdus rdo rje'i rgyud mang zhes bya ba bzhugs so/  /na mo gu ru pad+mā ka ra ya/bla ma </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">klong chen snying gi thig le las bla ma rig 'dzin 'dus pa'i skong bsdus rdo rje'i rgyud mang zhes bya ba bzhugs so/  /na mo gu ru padmā ka ra ya/bla ma </tei:title><tei:author/><tei:title>klong chen snying gi thig le las bla ma rig 'dzin 'dus pa'i skong bsdus rdo rje'i rgyud mang zhes bya ba bzhugs so/  /na mo gu ru padmā ka ra ya/bla ma </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-002-0024</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/10-THA/Terdzo-tha.P3.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250klong chen snying gi thig le las bla ma rig 'dzin 'dus pa'i skong bsdus rdo rje'i rgyud mang zhes bya ba bzhugs so//
-1$0000300na mo gu ru pad+mā ka ra ya/ </tei:p>
+1$0000300na mo gu ru padmā ka ra ya/ </tei:p>
 <tei:milestone unit="small"/><tei:p n="2" unit="page">bla ma rig 'dzin 'dus pa'i skong bshags kyi cho ga mdor bsdus su bya bar 'dod na/ tshogs bsgral mchod yan grub pa'i mtshams skong rdzas rnams nam mkha' mdzod kyi sngags rgyas byin gyis brlabs la/ </tei:p>
 <tei:milestone unit="normal"/><tei:p n="3" unit="page">aḥ chos dbyings khyab gdal 'od gsal sgyu ma'i 'phrul//
-snang ba'i dngos kun pad+ma drwa ba'i zhing*//
+snang ba'i dngos kun padma drwa ba'i zhing*//
 srid pa'i gzung 'dzin ye shes 'od lnga'i klong*//
 byang chub sems kyi nor bu'i gzhal med khang*//
 bkod pa rab rdzogs ngo mtshar bsam yas dbus//
@@ -45,6 +45,6 @@ bstan 'dzin zhabs brtan bshad sgrub bstan pa dar//
 mchog thun dngos grub 'grub pa'i phrin las mdzod//
 </tei:p>
 <tei:milestone unit="small"/><tei:p n="5" unit="page">ces dang/ yi ge brgya pa brjod do//
-ces pa'ang don gnyer can rnams kyis snga phyir gsol ba btab pa la brten nas/ kun mkhyen bla ma dgyes pa'i 'bangs pad+ma 'od gsal mdo sngags gling pa'i sdes shar mar spel ba dge legs su gyur cig /sarba maṅga laṃ///
+ces pa'ang don gnyer can rnams kyis snga phyir gsol ba btab pa la brten nas/ kun mkhyen bla ma dgyes pa'i 'bangs padma 'od gsal mdo sngags gling pa'i sdes shar mar spel ba dge legs su gyur cig /sarba maṅga laṃ///
 / </tei:p>
 <tei:milestone unit="normal"/></tei:div></tei:body></tei:text></tei:TEI>

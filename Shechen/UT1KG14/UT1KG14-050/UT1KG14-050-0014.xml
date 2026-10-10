@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">bla ma'i thugs sgrub bar chad kun sel las/bla ma nor lha'i bsang mchod dgos 'dod sprin phung zhes bya ba bzhugs so/  /na maḥpad+ma saṃ bha ba ya/gtsang zhing dag </tei:title><tei:author/><tei:title>bla ma'i thugs sgrub bar chad kun sel las/bla ma nor lha'i bsang mchod dgos 'dod sprin phung zhes bya ba bzhugs so/  /na maḥpad+ma saṃ bha ba ya/gtsang zhing dag </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">bla ma'i thugs sgrub bar chad kun sel las/bla ma nor lha'i bsang mchod dgos 'dod sprin phung zhes bya ba bzhugs so/  /na maḥpadma saṃ bha ba ya/gtsang zhing dag </tei:title><tei:author/><tei:title>bla ma'i thugs sgrub bar chad kun sel las/bla ma nor lha'i bsang mchod dgos 'dod sprin phung zhes bya ba bzhugs so/  /na maḥpadma saṃ bha ba ya/gtsang zhing dag </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-050-0014</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/50-WI/TERDZO-WI-P13.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250bla ma'i thugs sgrub bar chad kun sel las/ bla ma nor lha'i bsang mchod dgos 'dod sprin phung zhes bya ba bzhugs so//
-1$0000300na maḥpad+ma saṃ bha ba ya/</tei:p>
-<tei:p n="2" unit="page"> gtsang zhing dag par sbyar ba'i bsang gi mchod rdzas ci 'byor pa rnams/ raṃ yaṃ khaṃ  gis sbyang*/ oṃ āḥhūm̐ bsang rdzas rdo rje bdug spos las byung ba'i mchod pa'i khyad par kun bzang rnam par rol pa'i 'od zer sprin gyi drwa ba zhing khams rgyas par bkod pa las dgos 'dod nam mkha' mdzod kyi char rgyun zad med du 'jo bar gyur/ oṃ badz+ra s+pha ra ṇa khaṃ/ zhes byin brlabs/ hrīḥ dus gsum sangs rgyas yon tan mdzod//
+1$0000300na maḥpadma saṃ bha ba ya/</tei:p>
+<tei:p n="2" unit="page"> gtsang zhing dag par sbyar ba'i bsang gi mchod rdzas ci 'byor pa rnams/ raṃ yaṃ khaṃ  gis sbyang*/ oṃ āḥhūm̐ bsang rdzas rdo rje bdug spos las byung ba'i mchod pa'i khyad par kun bzang rnam par rol pa'i 'od zer sprin gyi drwa ba zhing khams rgyas par bkod pa las dgos 'dod nam mkha' mdzod kyi char rgyun zad med du 'jo bar gyur/ oṃ badzra spha ra ṇa khaṃ/ zhes byin brlabs/ hrīḥ dus gsum sangs rgyas yon tan mdzod//
 'dod rgu'i mchog stsol yid bzhin nor//
 dbul ba'i 'jigs skyob nor gyi lha//
 skyes mchog tshul bzang dbyings nas bzhengs//
@@ -29,7 +29,7 @@ zag med ye shes rol pa las//
 dngos grub char 'beb lha tshogs rnams//
 mchod do bsang ngo mnga' gsol lo//
 hrīḥ dkon mchog rtsa gsum 'dus pa'i sku//
-rje btsun pad+ma saṃ bha ba//
+rje btsun padma saṃ bha ba//
 yid bzhin nor bu dngos grub gter//
 rang snang mkha' 'gro'i tshogs bcas la//
 bdud rtsi bsang gi mchod sprin 'bul//
@@ -43,7 +43,7 @@ bde gshegs rigs kyi tshogs bcas bsang*//
 yon tan nor bdag dzaṃ lha ser//
 rin chen rigs kyi tshogs bcas bsang*//
 gsung gi nor bdag dzaṃ lha dmar//
-pad+ma rigs kyi tshogs bcas bsang*//
+padma rigs kyi tshogs bcas bsang*//
 phrin las nor bdag dzaṃ lha ljang*//
 las kyi rigs kyi tshogs bcas bsang*//
 'khor 'das brtan g.yo'i phywa dang g.yang*//
@@ -59,7 +59,7 @@ gnod sbyin nor lha'i tshogs bcas bsang*//
 lha klu mi dang gnod sbyin gyi//
 phywa g.yang dpal 'byor 'dir stsol cig</tei:p>
 <tei:p n="3" unit="page">/dbyig gi nor bdag nor bu bzang*//
-cang shes nor bdag re man+ta//
+cang shes nor bdag re manta//
 zas gos nor bdag gnod sbyin dmar//
 rkang bzhi'i nor bdag ku be ra//
 rang rang sde dpung bcas pa bsang//
@@ -78,7 +78,7 @@ gnas 'dir sdus la gong du spel//
 bkra shis dge legs rab rgyas mdzod//
 ting 'dzin byin brlabs bsang mchod kyis//
 snod kyi nyes skyon rgud pa bsangs//
-rnam dag pad+ma drwa ba'i zhing*//
+rnam dag padma drwa ba'i zhing*//
 bkod pa phun tshogs g.yang du 'khyil//
 'pho med sdom pa'i gtsang byed kyis//
 bcud kyi sems can nyon mongs bsangs//
@@ -93,7 +93,7 @@ dngos grub nor bu'i char rgyun bcas//
 'gro 'ong rtag chad bral ba'i klong*//
 mnyam nyid chen por brtan par bzhugs//
 snod bcud dwangs ma rdzogs ldan gyi//
-dpal 'bar bkra shis kun khyab shog / ces pa 'di'ang snyigs dus kyi skyob pa pad+ma saṃ bha ba'i zhal skyin gter chen bla ma'i gsung bskul nor bu'i cod pan spyi bor bstsal ba'i mod la/ sngags rigs kyi rtags tsam 'dzin pa pad+ma gar dbang bde ba'i rdo rjes dpal spungs yang khrod tsa 'dra rin chen brag gi sgrub gnas su bris pa dge legs 'phel//
+dpal 'bar bkra shis kun khyab shog / ces pa 'di'ang snyigs dus kyi skyob pa padma saṃ bha ba'i zhal skyin gter chen bla ma'i gsung bskul nor bu'i cod pan spyi bor bstsal ba'i mod la/ sngags rigs kyi rtags tsam 'dzin pa padma gar dbang bde ba'i rdo rjes dpal spungs yang khrod tsa 'dra rin chen brag gi sgrub gnas su bris pa dge legs 'phel//
 sarba maṅga laṃ///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

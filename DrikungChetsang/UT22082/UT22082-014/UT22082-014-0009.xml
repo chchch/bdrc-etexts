@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /lam zab bla ma sgrub pa las/rgyun 'khyer shin tu bsdus pa bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /lam zab bla ma sgrub pa las/rgyun 'khyer shin tu bsdus pa bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-014-0009</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHYEN/rtfs/volume-014/18PHA.TSA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-014-0009</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHyEN/rtfs/volume-014/18PHA.TSA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
 lam zab bla ma sgrub pa las/ rgyun 'khyer shin tu bsdus pa bzhugs so//</tei:p>
 <tei:p n="2" unit="page">bla ma'i zhabs la gus btud nas//
 blo dman chos la mos pa dang*//
@@ -10,7 +10,7 @@ gzhan dbang g.yeng bas brel rnams la//
 rgyun 'khyer chag med 'di skad gdam//
 bde ba'i stan 'dug 'di skad brjod/ sangs rgyas chos tshogs yi dam srung ma la//
 byang chub bar du bdag ni skyabs su mchi|&#160;|bdag gis sbyin sogs bgyis pa'i bsod nams kyis//
-'gro la sman slad sangs rgyas 'grub par shog /gsum bya/ oṃ swa bhā wa shud+dhaḥsarba dharmāḥswa bhā wa shud+dho3haṃ/ gnyis 'dzin gdos bcas chos sbyangs stong pa'i ngang*//
+'gro la sman slad sangs rgyas 'grub par shog /gsum bya/ oṃ swa bhā wa shuddhaḥsarba dharmāḥswa bhā wa shuddho3haṃ/ gnyis 'dzin gdos bcas chos sbyangs stong pa'i ngang*//
 bdud bzhi'i gdan la rang rig hūm̐ dmar las//
 byung ba'i bla ma bde ba'i rdo rje ni//
 mdog dmar phyag gnyis rdor dril yum la 'khyud//
@@ -77,5 +77,5 @@ lam la mos kyang blo gros dman pa 'ga'//
 'don cha mang phyir zab lam spangs kyi dogs//
 chos kyi grags pas gzu bor bris pa la//
 nyes tshogs mchis na chos bdag rnams la 'chag</tei:p>
-<tei:p n="4" unit="page">/dge bas don gnyis lhun grub dpal thob shog/ //sid+dhi rastu//</tei:p>
+<tei:p n="4" unit="page">/dge bas don gnyis lhun grub dpal thob shog/ //siddhi rastu//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

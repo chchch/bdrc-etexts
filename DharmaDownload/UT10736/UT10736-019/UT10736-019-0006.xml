@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /dpal lha mo'i las mtha' rims nad bzlog pa'i cho ga bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /dpal lha mo'i las mtha' rims nad bzlog pa'i cho ga bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT10736-019-0006</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W10736</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Padma-Karpo/rtfs/19_dza/19_07_dza_dpal-lha-moqi-las-mthaq-rims-nad-bzlog-paqi-cho-ga.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -84,7 +84,7 @@ mthun rdzas tshogs pa'i gnas 'dir spyon//</tei:p>
 'dod dgu nam mkha'i mdzod du spel//
 kha 'bar ma yi sngags kyi mthar//
 bde gshegs bzhi mtshan brjod pas bsngo// che ba'i glud gtor chang bu re re/ gtso mo/ 'khor drug cu rtsa bzhi la re re nas bsngo/ pho nya ma 'khor bcas la bsngo/ glud rdzas gzhan rnams thun mong du bsngo//
-'khor rang bcas pa tshim par bsam/ /bh+yo de ring srid pa'i rgyal mo gson//
+'khor rang bcas pa tshim par bsam/ /bhyo de ring srid pa'i rgyal mo gson//
 'dod pa khams kyi ma mo'i gtso|&#160;/nad bdag chen mo'i 'khor gyis bskor//
 sde brgyad thams cad pho nyar 'gyed//
 khyod la rgyu sbyor 'khor bcas kyi//
@@ -252,5 +252,5 @@ sdang ba dgra yi steng du bsgyur//
 mi mthun rkyen rnams thams cad bsgyur// bud med nag mo bzhi yis bteg /sdang ba dgra yi yul phyogs bskyal//
 de ni pad dkar zhes bya ba'i//
 rigs sngags 'chang gis sbyar ba yin|&#160;/gces pa snying dang 'dra bar byos///
-/mad+galaṃ// //</tei:p>
+/madgalaṃ// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

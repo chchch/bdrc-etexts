@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /dbang gi bstod bskul bzhugs/  /</tei:title><tei:author/><tei:title>༄༅/  /dbang gi bstod bskul bzhugs/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT10736-018-0009</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W10736</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Padma-Karpo/rtfs/18_tsha/18_09_tsha_dbang-gi-bstod-bskul.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -11,7 +11,7 @@ brgya stong gcig tu zhu ba'i nus pa'i mtsho//
 gsang chen gnam gyi dbyings su 'khril gyur pa//
 'bum phrag nyin mor byed pa zil gnon 'od// ting 'dzin bye ba snyed du cher brdal ba/ kun gsal khong par shong dka' snang ba'i mtha'//
 dpag yas mgon po sngon med 'dir byon pa//
-pad+ma'i rigs rnams kun gyi gtsug gi gnyen// rig pa drag po'i drod kyis sa 'og sa//
+padma'i rigs rnams kun gyi gtsug gi gnyen// rig pa drag po'i drod kyis sa 'og sa//
 sa bla dbang por bcas pa'i khengs pa'i gangs//
 dbang bral chu ru bsgyur ba'i spro bsdu can//
 thams cad 'gugs byed dza yig lcags kyu che// 'ching byed hūm̐ zhes zhags par 'khyil pa'i byin//
@@ -56,6 +56,6 @@ de phyir byams pa'i dgung sngon chen po'i klong*//
 rtsa gsum rgya mtsho'i kha rlangs sbyar nas su//
 sa gsum rma bya'i sde che myos byas nas//
 dbang sdud 'phrin las sbyar 'di sgrub tu gsol//
-ces mgon po phyag bzhi pa dbang gi las la bskul ba pad+ma dkar pos sbyar ba'o///
+ces mgon po phyag bzhi pa dbang gi las la bskul ba padma dkar pos sbyar ba'o///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

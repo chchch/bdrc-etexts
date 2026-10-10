@@ -1,12 +1,12 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(cha)༄༅/  /rgyud sde'i dum bu brgya bcu gsum pa bzhugs so/  /༄༅/  /dpal rdo rje sems dpa' la phyag 'tshal lo/  /e wam̐ ma yā shru ta me ka smin+sa ma</tei:title><tei:author/><tei:title>(cha)༄༅/  /rgyud sde'i dum bu brgya bcu gsum pa bzhugs so/  /༄༅/  /dpal rdo rje sems dpa' la phyag 'tshal lo/  /e wam̐ ma yā shru ta me ka smin+sa ma</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(cha)༄༅/  /rgyud sde'i dum bu brgya bcu gsum pa bzhugs so/  /༄༅/  /dpal rdo rje sems dpa' la phyag 'tshal lo/  /e wam̐ ma yā shru ta me ka sminsa ma</tei:title><tei:author/><tei:title>(cha)༄༅/  /rgyud sde'i dum bu brgya bcu gsum pa bzhugs so/  /༄༅/  /dpal rdo rje sems dpa' la phyag 'tshal lo/  /e wam̐ ma yā shru ta me ka sminsa ma</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-100-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA095.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(cha)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-100-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA095.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(cha)༄༅//
 rgyud sde'i dum bu brgya bcu gsum pa bzhugs so// ༄༅//
 dpal rdo rje sems dpa' la phyag 'tshal lo//
-e wam̐ ma yā shru ta me ka smin+sa ma ye bha ga wān sarba ta thā ga ta kā ya wāk+tsit+ta hṛ da yaṃ badz+ra yo ṣī d+bha ge ṣu bi dza hā ra/ zhes bya ba ni rnal 'byor rgyud kyi gleng gzhi'o//
-ra ha s+ya pa ra me ra mes sarbād+ma ni sa dās+thi taḥ sarba bud+dha ma ye sa te pa raṃ su khaḥ zhes bya ba 'di rnal 'byor ma'i gleng gzhi'o//
+e wam̐ ma yā shru ta me ka sminsa ma ye bha ga wān sarba ta thā ga ta kā ya wāktsitta hṛ da yaṃ badzra yo ṣī dbha ge ṣu bi dza hā ra/ zhes bya ba ni rnal 'byor rgyud kyi gleng gzhi'o//
+ra ha sya pa ra me ra mes sarbādma ni sa dāsthi taḥ sarba buddha ma ye sa te pa raṃ su khaḥ zhes bya ba 'di rnal 'byor ma'i gleng gzhi'o//
 sangs rgyas ma yin sems can ni//
 gcig kyang yod pa ma yin te//
 dmyal ba yi dwags byol song dang*//
@@ -334,7 +334,7 @@ snying stobs sku dang rdul ngag bcas//
 mun pa sems kyi rang bzhin las//
 snying stobs khu ba rang bzhin rdul//
 mun pa skyed par byed pa nyid//
-rdo rje pad+ma mnyam sbyor bas//
+rdo rje padma mnyam sbyor bas//
 dngos dang dngos med ro gcig 'gyur//
 bdud rtsi lnga yi gong bu'i dngos//
 de phyir rdo rje can du gsungs//
@@ -725,7 +725,7 @@ rtag tu slob ma bsdu bya zhing*//
 rtag pa ru ni bshad par gyis//
 rtag tu sems can bskyang bar bya//
 rtag tu sangs rgyas cher mnyes bya//
-dzam+bha la la chu sbyin zhing*//
+dzambha la la chu sbyin zhing*//
 las rnams thams cad yang dag spyad//
 bye ma'i mchod rten las la yang*//
 mkhas pas cho ga bzhin du bya//
@@ -887,7 +887,7 @@ zhes bya ba ni rgyud sde'i dum bu'o//
 nye ba'i rgyu bstan pa'o//
 thabs kyi rgyud kyi mdor bsdus pa'i dum bu rnams so// //gnas dang nye ba'i gnas dang ni//
 zhing dang nye ba'i zhing nyid dang*//
-tshan+do nye ba'i tshan+do nyid//
+tshando nye ba'i tshando nyid//
 de bzhin 'du ba nye 'du ba//
 'thung gcod nye ba'i 'thung gcod nyid//
 dur khrod nye ba'i dur khrod nyid//
@@ -898,8 +898,8 @@ gnas ni rab tu dga' ba'i sa//
 de bzhin nye gnas dri ma med//
 zhing ni 'od byed shes par bya//
 nye ba'i zhing ni 'od 'phro can//
-tshan+do mngon du gyur par shes//
-nye ba'i tshan+do sbyang dka' ba//
+tshando mngon du gyur par shes//
+nye ba'i tshando sbyang dka' ba//
 'du ba ring du song ba nyid//
 nye ba'i 'du ba mi g.yo ba//
 dur khrod legs pa'i blo gros nyid//
@@ -975,8 +975,8 @@ rigs kyi bu 'di ltar khyad par du mar rmi lam lta bur sangs rgyas kyi rol par mc
 gang zhig grub pa sgyu ma'i tshul gyis 'gro ba thams cad kyi don mdzad do//
 zhes bya ba ni rgyud sde'i dum bu'o//
 'bras bu'i rgyud bstan pa'o//
-mngon par rtogs pa'i go rim bzhin mdor bsdus pa'i dum bu'o// //oṃ badz+ra satwa sa ma ya/</tei:p>
-<tei:p n="20" unit="page">ma nu pā la ya/ badz+ra satwa twe no pa tiṣ+ṭha/ dṛḍho me bha wa/ su toṣ+yo me bha wa/ a nu rak+to me bha wa/ su poṣ+yo me bha wa/ sarba sid+dhi m+me pra yats+tsha/ sarba karma su tsa me/ tsit+taṃ shre yaṅku ru hūm̐/ ha ha ha ha ho/ bha ga wān sarba ta thā ga ta badz+ra mā me muñtsa badz+rī bha wa ma hā sa ma ya satwa aḥ rigs su skye dang dam tshig can//
+mngon par rtogs pa'i go rim bzhin mdor bsdus pa'i dum bu'o// //oṃ badzra satwa sa ma ya/</tei:p>
+<tei:p n="20" unit="page">ma nu pā la ya/ badzra satwa twe no pa tiṣṭha/ dṛḍho me bha wa/ su toṣyo me bha wa/ a nu rakto me bha wa/ su poṣyo me bha wa/ sarba siddhi mme pra yatstsha/ sarba karma su tsa me/ tsittaṃ shre yaṅku ru hūm̐/ ha ha ha ha ho/ bha ga wān sarba ta thā ga ta badzra mā me muñtsa badzrī bha wa ma hā sa ma ya satwa aḥ rigs su skye dang dam tshig can//
 smyo med kye yi rdo rje ston//
 bla ma la gus snying rjer ldan//
 skye zhing skye bar 'gyur bar shog /lag pas rdo rje dril bu 'khrol//

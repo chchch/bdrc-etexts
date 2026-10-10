@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /sa'i mdo bzhugs/</tei:title><tei:author/><tei:title>༄༅/  /sa'i mdo bzhugs/</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG5988-001-0075</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG5988</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Kagyur-Zungdue/rtfs/volume-001/076_saqi-mdo.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ ༄༅//
@@ -105,6 +105,6 @@ bde sogs bdag pos lus btud de//
 rin chen rang bzhin sa bya bas//
 dkon mchog gsum la kun tu mchod//
 sa'i mdo rdzogs so///
-/rgya gar gyi mkhan po pad+ma ka ra warma dang*/ zhu chen gyi lots+tsha ba dge slong rin chen bzang pos bsgyur cing zhus te gtan la phab pa'o///
+/rgya gar gyi mkhan po padma ka ra warma dang*/ zhu chen gyi lotstsha ba dge slong rin chen bzang pos bsgyur cing zhus te gtan la phab pa'o///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rab 'byams rgyal ba ye shes ka dag gi/klong yangs chen po ro gcig sprul pa'i sku/  /'chi med grub dbang pad+ma 'byung gnas kyi/  /thugs rje'i bden pa </tei:title><tei:author/><tei:title>rab 'byams rgyal ba ye shes ka dag gi/klong yangs chen po ro gcig sprul pa'i sku/  /'chi med grub dbang pad+ma 'byung gnas kyi/  /thugs rje'i bden pa </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rab 'byams rgyal ba ye shes ka dag gi/klong yangs chen po ro gcig sprul pa'i sku/  /'chi med grub dbang padma 'byung gnas kyi/  /thugs rje'i bden pa </tei:title><tei:author/><tei:title>rab 'byams rgyal ba ye shes ka dag gi/klong yangs chen po ro gcig sprul pa'i sku/  /'chi med grub dbang padma 'byung gnas kyi/  /thugs rje'i bden pa </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13341-065-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13341</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/Taksham-Chochod_tdoc/052_rabs-qbyams-rgyal-ba.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">)rab 'byams rgyal ba ye shes ka dag gi /klong yangs chen po ro gcig sprul pa'i sku//
-'chi med grub dbang pad+ma 'byung gnas kyi//
+'chi med grub dbang padma 'byung gnas kyi//
 thugs rje'i bden pa chen po bskyed du gsol//
 gang gi gsang ba zab mo bdud rtsi'i chos//
 smin grol lam bzang bskyed rdzogs sgrub pa'i gnad//
@@ -12,7 +12,7 @@ bstan pa yun ring 'bar bar byin gyis rlobs//
 khyad par pad 'byung rig 'dzin yab sras kyi//
 bka' stsal gsung gi gsang ba ma lus pa//
 'dzam gling gdul bya'i rgyud la brlan pa dang*//
-byang chub myu gu smin pa'i bkra shis shog /sgrub pa'i gnas mchog pad+ma bkod pa'i gling*//
+byang chub myu gu smin pa'i bkra shis shog /sgrub pa'i gnas mchog padma bkod pa'i gling*//
 dpa' bo mkha' 'gro 'du ba'i bsti gnas der//
 gtsug lag dge 'dun sde bcas rgyas pa dang*//
 ne pal yul phyogs kun tu dar gyur cig /zab mo gter gyi byin rlabs ma nyams pa//
@@ -22,7 +22,7 @@ tshom bu 'bum bcas grub pa'i gnas kun tu/</tei:p>
 rig 'dzin byin rlabs 'gro ba'i rgyud 'jug pa'i//
 bkra shis dpal dang grags pa 'phel gyur cig /lhag bsam rnam par dkar ba yon gyi bdag /mched dang lcam dral grogs mchog ma lus pa//
 'chi med srog gi ka ba nyer brtan cing*//
-mi mthun dgra yi dpung las rgyal byed shog /rtsa gsum ḍāk+ki'i tshogs kyis byin brlab cing*/ /dkar phyogs gter srung dam can kun gyis kyang*//
+mi mthun dgra yi dpung las rgyal byed shog /rtsa gsum ḍākki'i tshogs kyis byin brlab cing*/ /dkar phyogs gter srung dam can kun gyis kyang*//
 phrin las rnam bzhi g.yel med sgrub pa yi/ /nges gsang nyin mor byed pa'i bkra shis shog / ces pa'i shis brjod tshigs su bcad pa 'di'ang chos rje gling pas spel ba'o///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">hor po phyogs kyi gzhi bdag raka bkram gyi bsang mchod dge legs rgya mtsho bzhugs/kyai/sngon gyi bskal pa'i dang po la/  /don dam dbyings las shar ba na/  </tei:title><tei:author/><tei:title>hor po phyogs kyi gzhi bdag raka bkram gyi bsang mchod dge legs rgya mtsho bzhugs/kyai/sngon gyi bskal pa'i dang po la/  /don dam dbyings las shar ba na/  </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22946-001-0029</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22946</tei:idno><tei:idno type="SRC_PATH">PalriParkhang/W22946-mkhan-po-ngag-dbang-dpal-bzang-_ngaga/rtfs/NGAGA-vol-1-KA/kaq_0315-0316_pecha.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">hor po phyogs kyi gzhi bdag raka bkram gyi bsang mchod dge legs rgya mtsho bzhugs/ kyai/ sngon gyi bskal pa'i dang po la//
@@ -21,5 +21,5 @@ dar sna mda' dar gser g.yus brgyan/ spyan gzigs ma tshang med pa 'dis//
 gnas dang gzhi yi bdag po khyed//
 dgyes mnyes phul du phyin pa dang*//
 'jig rten bde ba'i phrin las mjod//
-zhes pa'ang dgos pa 'ga' zhig gi ched du sngags btsun pad+ma las 'brel rtsal gyis spel ba'o//</tei:p>
+zhes pa'ang dgos pa 'ga' zhig gi ched du sngags btsun padma las 'brel rtsal gyis spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

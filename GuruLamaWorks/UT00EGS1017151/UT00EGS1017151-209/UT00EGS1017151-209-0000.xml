@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ta)༄༅/  /shākya rnams kyi rgyal rabs bzhugs/  /༄༅/  /na mo bud+dhā ya/lhar bcas 'gro ba'i gtsug na gang gi gsung*/  /me tog thod dang rin chen phreng ba</tei:title><tei:author/><tei:title>(ta)༄༅/  /shākya rnams kyi rgyal rabs bzhugs/  /༄༅/  /na mo bud+dhā ya/lhar bcas 'gro ba'i gtsug na gang gi gsung*/  /me tog thod dang rin chen phreng ba</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ta)༄༅/  /shākya rnams kyi rgyal rabs bzhugs/  /༄༅/  /na mo buddhā ya/lhar bcas 'gro ba'i gtsug na gang gi gsung*/  /me tog thod dang rin chen phreng ba</tei:title><tei:author/><tei:title>(ta)༄༅/  /shākya rnams kyi rgyal rabs bzhugs/  /༄༅/  /na mo buddhā ya/lhar bcas 'gro ba'i gtsug na gang gi gsung*/  /me tog thod dang rin chen phreng ba</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-209-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA204.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ta)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-209-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA204.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ta)༄༅//
 shākya rnams kyi rgyal rabs bzhugs// ༄༅//
-na mo bud+dhā ya/ lhar bcas 'gro ba'i gtsug na gang gi gsung*//
+na mo buddhā ya/ lhar bcas 'gro ba'i gtsug na gang gi gsung*//
 me tog thod dang rin chen phreng ba ltar//
 dul ba'i khur gyis yun du 'dzin byed pa//
 skye ba'i chu bo sgrol bar mdzad pa rgyal//
@@ -46,7 +46,7 @@ de'i sras byung ba de bzhin du sbyar te/ sra ba'i mu khyud nye bar rko ba/ rko b
 de'i dus su sangs rgyas 'od srungs 'jig rten du byung ngo*//
 kṛ kī'i bu legs skyes so//
 de'i bu nas bzung ste/ tha ma rgyal po rna ba can gyi bar rgyal rabs brgya grong khyer gru 'dzin du byung ngo*//
-de la sras gnyis/ gau ta ma dang*/ bha ra dh+wa dza'o//
+de la sras gnyis/ gau ta ma dang*/ bha ra dhwa dza'o//
 gau ta mas bu ram gyi shing gi lo ma la sa bon bzhag pa las sras gnyis te/ de gnyis kyi ming yang nyi ma'i rigs sam/ gau ta ma'am/ yan lag skyes sam/ bu ram shing pa zhes ming bzhir 'jig rten du grags so//
 de'i chung ba bu ram shing pa nas bzung ste/ bu ram shing nas 'phags skyes po'i bar rgyal rabs brgya yul gru 'dzin du byung ngo*//
 de la bu lnga las/ che ba bzhi ni skar mda' gdong*/ lag rna/ glang po che 'dul/ dka' thub can/ 'di bzhis ser skya'i grong khyer bzung ste/ shin tu phod pa che bas shākya zhes grags so//

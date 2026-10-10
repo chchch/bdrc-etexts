@@ -1,9 +1,9 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /e waṃ gyi rnam par bshad pa legs bshad nor bu'i tog ces bya ba yang dag pa bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /e waṃ gyi rnam par bshad pa legs bshad nor bu'i tog ces bya ba yang dag pa bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-009-0009</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHYEN/rtfs/volume-009/18TA.TSA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅/ /e waṃ gyi rnam par bshad pa legs bshad nor bu'i tog ces bya ba yang dag pa bzhugs so//</tei:p>
-<tei:p n="2" unit="page">swa sti pra dze bh+yaḥ thub bstan sprin dkar bzhad pa'i khri steng na//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-009-0009</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHyEN/rtfs/volume-009/18TA.TSA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅/ /e waṃ gyi rnam par bshad pa legs bshad nor bu'i tog ces bya ba yang dag pa bzhugs so//</tei:p>
+<tei:p n="2" unit="page">swa sti pra dze bhyaḥ thub bstan sprin dkar bzhad pa'i khri steng na//
 phan bde'i 'od stong g.yo ba'i 'dzum mdangs can//
 rtag tu dam tshig gsong por gsung mdzad pa//
 brtse chen smra ba'i nyi ma la phyag 'tshal//
@@ -47,6 +47,6 @@ byung ba'i dge ba gang mchis des//
 rdo rje 'dzin khyod gang 'khod pa//
 de ru kun kyang cis mi 'jug /e waṃ gyi rnam par bshad pa mdor bsdus pa 'di ni rgyud sde rgya mtsho'i don go zhing*/ tshig gi rim pa mang du thos pa de dag gi don rtsom pa la snyeng ba med pa'i dge slong 'dul ba dang sde snod 'dzin pa dharma kīrtis dus 'khor gyi pho nya zhes pa sa rta/</tei:p>
 <tei:p n="8" unit="page">mdo sde pa'i dgun zla//
-ye shes kyi khams sa sde 'char ba/ lha chen gtso bo'i long bu g.yon dri chu 'dor ba/   chos kyi skye mched nub kyi gling gsum pa| nus ldan gyi zla ba/    yu gur dang sog po ka'o les gnam mchod pa'i dpyid ra/    shaṃ bha la pa'i mgo zla/ 'dul ba pa'i dgun zla tha chung*/ rgya nag pa'i ging ri/    lha chen glang gi zla ba/    dus kyi ye mkhyen/    rang grwa'i gom pa drug tu longs pa mgo'i zla ba'i dga' ba dang po la/   dbral bong thang gi sgar gyi chos grwa chen por sbyar ba maṅga laṃ bha wan+tu///
+ye shes kyi khams sa sde 'char ba/ lha chen gtso bo'i long bu g.yon dri chu 'dor ba/   chos kyi skye mched nub kyi gling gsum pa| nus ldan gyi zla ba/    yu gur dang sog po ka'o les gnam mchod pa'i dpyid ra/    shaṃ bha la pa'i mgo zla/ 'dul ba pa'i dgun zla tha chung*/ rgya nag pa'i ging ri/    lha chen glang gi zla ba/    dus kyi ye mkhyen/    rang grwa'i gom pa drug tu longs pa mgo'i zla ba'i dga' ba dang po la/   dbral bong thang gi sgar gyi chos grwa chen por sbyar ba maṅga laṃ bha wantu///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

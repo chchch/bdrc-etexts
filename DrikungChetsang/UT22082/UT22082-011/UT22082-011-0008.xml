@@ -1,11 +1,11 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /ya mā ra'i bstod pa phreng ba 'dzin pa can bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /ya mā ra'i bstod pa phreng ba 'dzin pa can bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-011-0008</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHYEN/rtfs/volume-011/16DA.MA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-011-0008</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHyEN/rtfs/volume-011/16DA.MA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
 ya mā ra'i bstod pa phreng ba 'dzin pa can bzhugs so//</tei:p>
-<tei:p n="2" unit="page">ya mā ri na mo/ ya mān+ta ka s+ya stu ti mā lā dha ra nā ma/ hūm̐ hūm̐ hūm̐/ gtum chen rab 'bar gshin rje 'joms mdzad nyi ma 'bum las lhag pa'i 'od zer rab 'bar zhing*//
-phyag gi pad+mar mtshon cha rab mang bskal pa'i me ltar g.yo ba gshin rje'i gshed po khyod//
+<tei:p n="2" unit="page">ya mā ri na mo/ ya mānta ka sya stu ti mā lā dha ra nā ma/ hūm̐ hūm̐ hūm̐/ gtum chen rab 'bar gshin rje 'joms mdzad nyi ma 'bum las lhag pa'i 'od zer rab 'bar zhing*//
+phyag gi padmar mtshon cha rab mang bskal pa'i me ltar g.yo ba gshin rje'i gshed po khyod//
 rdo rje'i sku la klu dbang gis brgyan gcan gzan gdug pa'i pags rlon mi dang glang chen ko ba na bzar gsol//
 mi mgo rlon pa'i phreng bas sku la brgyan cing brkyang bskum zhabs bzhis gshin rje ma he glang rgod mnan//
 mi bzad khro rgyal zhal gsum hūm̐ phaṭa ā ra li sgras khams gsum rngams shing shigs shigs rab tu 'dar/ sha za'i mgo bcad dbu yi thod du rab bcings spyan ldog tsam gyis bdud kyi ser chen chil chil 'bebs//
@@ -32,5 +32,5 @@ de bas bdag gis 'di dang pha rol gnyis kar srog gi phyir yang lha khyod mi gtang
 byams pa'i zhal bzang dngos su bdag la myur ston thugs rje'i spyan gyis bdag la g.yel med bskyang du gsol//
 khyed ltar bdag 'gyur de phyir bstod cing phyag 'tshal yun ring gong nas bdag gis lha khyod bsgrubs lags kyi//
 khyod kyis bdag la dngos grub rnam gnyis dang ni re 'dod 'bras bu mtha' dag da lta nyid du bstsal du gsol//
-kā la rū pa bdag hrīḥṣ+ṭī ṇa hūm̐ phaṭa/ ces pa'ang zla gsang gi rgyud las 'khor rnams kyis gtum chen la bstod pa'i skabs kyi tshigs bcad thung ngu rnams/ slar phreng ba 'dzin pa'i sdeb sbyor gyis bcings shing bsdus pa 'di'ang*/ 'bri gung pa sngags 'chang chos kyi grags pas bsdebs te bris pa'i dge bas sems can thams cad 'jam mgon dge ba'i bshes kyi go 'phang dam pa myur du thob pa'i rgyur gyur cig/ //maṅga laṃ bha wan+tu// </tei:p>
+kā la rū pa bdag hrīḥṣṭī ṇa hūm̐ phaṭa/ ces pa'ang zla gsang gi rgyud las 'khor rnams kyis gtum chen la bstod pa'i skabs kyi tshigs bcad thung ngu rnams/ slar phreng ba 'dzin pa'i sdeb sbyor gyis bcings shing bsdus pa 'di'ang*/ 'bri gung pa sngags 'chang chos kyi grags pas bsdebs te bris pa'i dge bas sems can thams cad 'jam mgon dge ba'i bshes kyi go 'phang dam pa myur du thob pa'i rgyur gyur cig/ //maṅga laṃ bha wantu// </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

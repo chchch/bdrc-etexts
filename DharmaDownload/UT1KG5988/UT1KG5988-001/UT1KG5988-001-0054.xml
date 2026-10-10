@@ -1,11 +1,11 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /'phags pa nor bu bzang po'i gzungs zhes bya ba bzhugs/</tei:title><tei:author/><tei:title>༄༅/  /'phags pa nor bu bzang po'i gzungs zhes bya ba bzhugs/</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG5988-001-0054</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG5988</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Kagyur-Zungdue/rtfs/volume-001/055_qphags-pa-nor-bu-bzang-poqi-gzungs.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ ༄༅//
 'phags pa nor bu bzang po'i gzungs zhes bya ba bzhugs/ </tei:p>
 <tei:p n="2" unit="page">༄༅//
-rgya gar skad du/ ār+ya ma ṇi bha dra nā ma dha ra ṇi/ bod skad du/ 'phags pa nor bu bzang po'i gzungs zhes bya ba/ dkon mchog gsum la phyag 'tshal lo//
+rgya gar skad du/ ārya ma ṇi bha dra nā ma dha ra ṇi/ bod skad du/ 'phags pa nor bu bzang po'i gzungs zhes bya ba/ dkon mchog gsum la phyag 'tshal lo//
 'di skad bdag gis thos pa dus gcig na/ bcom ldan 'das mnyan yod na rgyal bu rgyal byed kyi tshal mgon med zas sbyin gyi kun dga' ra ba na bzhugs so//
 de nas gnod sbyin gyi sde dpon chen po nor bu bzang po'i bus/ bcom ldan 'das ga la ba der song ste phyin nas/ bcom ldan 'das kyi zhabs la mgo bos phyag 'tshal te phyogs gcig tu 'dug go /phyogs gcig tu 'dug nas/ gnod sbyin gyi sde dpon chen po nor bu bzang po'i bus/ bcom ldan 'das la 'di skad ces gsol to//
 btsun pa dge slong ngam/ dge slong ma 'am/ dge bsnyen nam/ dge bsnyen ma gang la la zhig gis snying po 'di nyin re bzhin dus gsum du 'don par byed na/ bdag de'i slad bzhin du rtag tu 'brang bar bya'o//
@@ -14,8 +14,8 @@ gos dang*/ zas dang*/ dbyig dang*/ gser dang*/ nor dang*/ 'bru dang*/ dngul dag 
 de'i don thams cad kyang 'grub par bgyi'o//
 sems can thams cad kyang de'i dbang du 'gyur bar bgyi'o//
 de'i bya ba sna tshogs thams cad kyang mod la bsgrub par bgyis te/ 'khrig pa dang ldan pa ni ma gtogs so//
-na mo rat+na tra yā ya/ na mo ma ṇi bha tra ya/ ma hā yak+ṣa se nā pa ta ye/ s+yād+ya the dan/ hi li ma ṇi bha dra/ hi li hi li maṇi bha dra/ ki li maṇi bha dra/ ki li ki li ma ṇi bha dra/ tsi li ma ṇi gha dra/ tsi li tsi li maṇi bha dra/ tsu lu ma ṇi bha dra/ tsu lu tsu lu ma ṇi bha dra/ tu ru ma ṇi bha dra/ tu ru tu ru ma ṇi bha dra/ ku ru ma ṇi bha dra/ ku ru ku ru ma ṇi bha dra/ tsu ru ma ṇi bha dra/ tsu ru tsu ru ma ṇi bha dra/ su ru ma ṇi bha dra/ su ru su ru ma ṇi bha dra/ sarba ā ar+tha ma ma sā dha ya swā hā/</tei:p>
-<tei:p n="3" unit="page">tad+ya thā/ pū ta ne su pū ta ne su ru me su mā te/ su ra the/ su sma ba te/ hi le ke hi le ke li/ pu n+ya sid+dhi bha dra/ hi li hi li swā hā/ e hi ko ni/ e he ko niṣ+ke swā hā/ lan bdun bzlas brjod byas na 'grub par 'gyur ro//
+na mo ratna tra yā ya/ na mo ma ṇi bha tra ya/ ma hā yakṣa se nā pa ta ye/ syādya the dan/ hi li ma ṇi bha dra/ hi li hi li maṇi bha dra/ ki li maṇi bha dra/ ki li ki li ma ṇi bha dra/ tsi li ma ṇi gha dra/ tsi li tsi li maṇi bha dra/ tsu lu ma ṇi bha dra/ tsu lu tsu lu ma ṇi bha dra/ tu ru ma ṇi bha dra/ tu ru tu ru ma ṇi bha dra/ ku ru ma ṇi bha dra/ ku ru ku ru ma ṇi bha dra/ tsu ru ma ṇi bha dra/ tsu ru tsu ru ma ṇi bha dra/ su ru ma ṇi bha dra/ su ru su ru ma ṇi bha dra/ sarba ā artha ma ma sā dha ya swā hā/</tei:p>
+<tei:p n="3" unit="page">tadya thā/ pū ta ne su pū ta ne su ru me su mā te/ su ra the/ su sma ba te/ hi le ke hi le ke li/ pu n+ya siddhi bha dra/ hi li hi li swā hā/ e hi ko ni/ e he ko niṣke swā hā/ lan bdun bzlas brjod byas na 'grub par 'gyur ro//
 'di'i cho ga ni 'di yin te/ zla ba yar ngo'i tshes bco lnga la gtsang sbra byas la dus gsum du a ga ru yi du bas bdug ste/ lan bdun stong bzlas brjod byas na gser rnyed par 'gyur ro//
 'phags pa nor bu bzang po'i gzungs rdzogs so///
 /zhus dag /sarba maṅga laṃ///

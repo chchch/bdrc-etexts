@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rdor sems thugs kyi thig le las/bdud rtsi sman gyi byin 'beb dngos grub chu 'dzin bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /rdor sems thugs kyi thig le las/bdud rtsi sman gyi byin 'beb dngos grub chu 'dzin bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-030-0024</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/30-A/TERDZO-A-P21.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄༅//
@@ -24,7 +24,7 @@ gang zag snyan khungs brgyud pa yis//
 sgrub mchog rnams la dbang skur cig /snang srid bdud rtsir byin gyis rlobs//
 zhing khams rab 'byams bcud sdus la//
 myang grol dus mnyam mchog stsol cig /byin chen ngo mtshar rmad du byung*//
-bde chen pad+ma drwa ba'i klong*//
+bde chen padma drwa ba'i klong*//
 sangs rgyas kun 'dus thod phreng rtsal//
 sku gsum sku lnga mtshan brgyad kyis//
 sgrub mchog rnams la dbang skur cig /snang srid bdud rtsir byin gyis rlobs//
@@ -68,12 +68,12 @@ bdud rtsi sman la byin phob cig /sangs rgyas dgongs pa kun 'dus klong*//
 dpal chen mngon rdzogs rgyal po sogs//
 'dus pa mdo yi lha tshogs kyis//
 bdud rtsi sman la byin phob cig /gsang ba thugs kyi thig le nas//
-rdor sems badz+ra he ru ka /sgyu 'phrul zhi khro'i lha tshogs kyis//
+rdor sems badzra he ru ka /sgyu 'phrul zhi khro'i lha tshogs kyis//
 bdud rtsi sman la byin phob cig /ye shes klong dgu'i dkyil 'khor nas//
 sku gsung thugs yon phrin las sogs//
 sgrub chen bka' brgyad lha tshogs kyis//
 bdud rtsi sman la byin phob cig /tshom bu dgu yi 'od klong nas//
-pad+ma badz+ra yab yum sogs//
+padma badzra yab yum sogs//
 bla ma dgongs 'dus lha tshogs kyis//
 bdud rtsi sman la byin phob cig</tei:p>
 <tei:p n="4" unit="page">/dbang chen rol pa'i dkyil 'khor nas//
@@ -93,7 +93,7 @@ ma g.yel ma g.yel rig 'dzin tshogs//
 ma g.yel ma g.yel yi dam lha//
 ma 'khu ma ldog mkha' 'gro'i tshogs//
 ma 'da' ma 'da' dam can rnams//
-ke'u ri puk+ka sī la sogs//
+ke'u ri pukka sī la sogs//
 sman srung ma mo chen mo brgyad//
 dur khrod brgyad nas da tshur byon//
 bdud rtsi sman la bcud sdus shig /rtsi sman nags na gnas pa sogs//
@@ -129,5 +129,5 @@ bdag cag khyod kyi gdung 'dzin cing*//
 gsang ba'i dkyil 'khor zhal dbye na//
 thugs dam gang mchis dngos grub tshogs//
 'gro ba'i don phyir bstsal du gsol//
- zhes gter gsar sgyu 'phrul gyi cha lag tu dmigs kyang spyi la 'gre chog pa'i dbang du byas te/ gangs ri'i khrod kyi o rgyan he ru ka'i 'du khang yar lung shel gyi brag tu bod 'bangs spyi'i bde thabs su rgyal dbang karma pa dang*/ gzhung sa rin po che rtse shod lhan rgyas kyi bka' ltar 'dus pa sum cus/ sgyu 'phrul rdor sems thugs kyi thig le'i sgo nas thog mar bdud rtsi sman gyi sgrub chen bgyis pa'i tshe shugs 'byung gi re khār mngon par 'du bgyis pa po ni pad+ma gar dbang blo gros mtha' yas te gzhan la phan par gyur cig/ //</tei:p>
+ zhes gter gsar sgyu 'phrul gyi cha lag tu dmigs kyang spyi la 'gre chog pa'i dbang du byas te/ gangs ri'i khrod kyi o rgyan he ru ka'i 'du khang yar lung shel gyi brag tu bod 'bangs spyi'i bde thabs su rgyal dbang karma pa dang*/ gzhung sa rin po che rtse shod lhan rgyas kyi bka' ltar 'dus pa sum cus/ sgyu 'phrul rdor sems thugs kyi thig le'i sgo nas thog mar bdud rtsi sman gyi sgrub chen bgyis pa'i tshe shugs 'byung gi re khār mngon par 'du bgyis pa po ni padma gar dbang blo gros mtha' yas te gzhan la phan par gyur cig/ //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

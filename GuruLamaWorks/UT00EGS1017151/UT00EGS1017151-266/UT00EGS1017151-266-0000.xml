@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /zhang lo tsā ba la gdams pa bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/na maḥshrī mañdzu gho ṣā ya/rnam dag yid kyi chu gtsang las 'khrungs pa'i/  /tshig </tei:title><tei:author/><tei:title>(na)༄༅/  /zhang lo tsā ba la gdams pa bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/na maḥshrī mañdzu gho ṣā ya/rnam dag yid kyi chu gtsang las 'khrungs pa'i/  /tshig </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /zhang lo tsā ba la gdams pa bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/na maḥshrī mañdzu gho ṣā ya/rnam dag yid kyi chu gtsang las 'khrungs pa'i/  /tshig </tei:title><tei:author/><tei:title>(na)༄༅/  /zhang lo tsā ba la gdams pa bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/na maḥshrī mañdzu gho ṣā ya/rnam dag yid kyi chu gtsang las 'khrungs pa'i/  /tshig </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-266-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA260.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-266-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA260.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
 zhang lo tsā ba la gdams pa bzhugs// ༄༅//
-oṃ swa sti sid+dhaṃ/ na maḥshrī mañdzu gho ṣā ya/ rnam dag yid kyi chu gtsang las 'khrungs pa'i//
+oṃ swa sti siddhaṃ/ na maḥshrī mañdzu gho ṣā ya/ rnam dag yid kyi chu gtsang las 'khrungs pa'i//
 tshig gi me tog snyan tshig ze'u 'bru can//
 blo gsal bung ba dga' ba'i dri'i byung ba'i//
 phreng mdzes 'di ni mkhas pa'i mgul rgyan yin//
@@ -55,6 +55,6 @@ bdag kyang brdzun gyis gzhan gyi blo bsgyur te//
 'khor dang zang zing bsgrub pa mi dran mod//
 'on kyang 'dzem med smra ba'i ngang tshul bas//
 'di la 'gal gang khyed la bzod par gsol//
-dpal ldan sa skya paṇ+ḍi tas/ zhang lo tsā ba la gdams pa tshigs su bcad pa bcu gsum pa'o///
+dpal ldan sa skya paṇḍi tas/ zhang lo tsā ba la gdams pa tshigs su bcad pa bcu gsum pa'o///
 / ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(1na)chos rje dwags po lha rje'i gsung*/snying po don gyi gdams pa phyag rgya chen po'i 'bum tig bzhugs so/  /</tei:title><tei:author/><tei:title>(1na)chos rje dwags po lha rje'i gsung*/snying po don gyi gdams pa phyag rgya chen po'i 'bum tig bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22393-001-0023</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22393</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Dhakpo-Kabum/rtfs/volume-001/23_qA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(1na)chos rje dwags po lha rje'i gsung*/ snying po don gyi gdams pa phyag rgya chen po'i 'bum tig bzhugs so//
@@ -62,7 +62,7 @@ nges don 'bras bu phyag rgya chen po'i skor//
 rang sems gnyug ma'i don 'di nges par rtogs gyur na//
 grol ba'i 'bras bu 'di las yod ma yin//
 (3na)phyag rgya chen po'i don gyi phyi mo//
-ban+de pradzñā bo dhi yis//
+bande pradzñā bo dhi yis//
 nyams dang rtogs pa'i blo yis bris//
 'gal 'khrul dam pas bzod par gsol///
 /na mo gu ru/ chos sku'i rang bzhin 'od gsal rin po che//
@@ -336,7 +336,7 @@ snang ba rig pa'i dbyings su thim//
 'di ras pa'i gsung yin no//
 </tei:p>
 <tei:p n="19" unit="page">zhes pa 'di ni/ rje nyid kyi dbon po spyan snga chos kyi rje//
-bsod nams lhun grub zla 'od rgyal mtshan dpal bzang pos/ ri bo shān+tir/ bka' brgyud kyi bstan pa spel ba'i slad du par du bgyis pa'o//
+bsod nams lhun grub zla 'od rgyal mtshan dpal bzang pos/ ri bo shāntir/ bka' brgyud kyi bstan pa spel ba'i slad du par du bgyis pa'o//
 yi ge pa ni shes rab kun dga' yin//
 </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,12 +1,12 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(369)༄༅/  /dpal 'bri gung pa'i dam chos dgongs pa gcig pa'i rtsa ba lhan thabs dang bcas pa'i gzhung chings khog dbub dang bcas pa bzhugs so/  /</tei:title><tei:author/><tei:title>(369)༄༅/  /dpal 'bri gung pa'i dam chos dgongs pa gcig pa'i rtsa ba lhan thabs dang bcas pa'i gzhung chings khog dbub dang bcas pa bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23605-009-0020</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23605</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/gdams-ngag-mdzod/rtfs/09_gdams-ngag-mdzod_ta/09_19_~1.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ (369)༄༅//
 dpal 'bri gung pa'i dam chos dgongs pa gcig pa'i rtsa ba lhan thabs dang bcas pa'i gzhung chings khog dbub dang bcas pa bzhugs so//
 </tei:p>
 <tei:p n="2" unit="page">(370)༄༅//
-na mo rat+na gu ru bh+yaḥ dri med 'od gsal thugs kyi dkyil 'khor du//
+na mo ratna gu ru bhyaḥ dri med 'od gsal thugs kyi dkyil 'khor du//
 ma 'dres shes bya'i dngos po ji lta bar//
 thams cad gzigs pa kun mkhyen chos kyi rje//
 mnyam med 'bri gung rin chen phyag 'tshal lo//
@@ -304,7 +304,7 @@ mthar phyin sangs rgyas ye shes thob par shog ༈ /rdo rje'i gsung brgya lnga bc
 rang byung rgyal ba yang dag rdzogs sangs rgyas//
 mtshungs med chos kyi 'khor lo rab bskor ba//
 thub dbang 'bri gung rin chen phyag 'tshal lo//
-dam pa mchog de'i zhal gyi pad+mo (402)las//
+dam pa mchog de'i zhal gyi padmo (402)las//
 legs 'ongs thun mongs ma yin rdo rje'i gsung*//
 lhan thabs bzhi bcu'i rtsa ba bdud rtsi'i bcud//
 'dod ldan rnam yud yid dga' dpal du sbyin//
@@ -361,9 +361,9 @@ tshigs su bcad pa yid bzhin nor bu'i phreng*//
 dpyod ldan dga' ba'i do shal 'di bstar bas//
 legs byas dge ba stong phrag 'bar ba'i gzis//
 skye 'gro'i sgrib mun gcig car drung phyungs nas//
-lung dang rtogs pa'i tshogs gnyis pad+mo'i tshal//
+lung dang rtogs pa'i tshogs gnyis padmo'i tshal//
 rgyas pa'i bcud la rol pa'i dpal thob shog</tei:p>
-<tei:p n="30" unit="page">/ces pa 'jig rten gsum gyi mgon po 'bri gung pa'i dam chos dgongs pa gcig pa'i lhan thabs/ tshigs su bcad pa 'di slob dpon rdzogs chen tshang sogs mos ldan rnams kyis gsol ba btab pa'i ngor rje bla ma dharma (404)sū r+yas stsal ba'o// ༈ //dam chos dgongs pa gcig pa'i chings rnam bzhi bzhugs/ dri med 'od gsal thugs kyi dkyil 'khor du//
+<tei:p n="30" unit="page">/ces pa 'jig rten gsum gyi mgon po 'bri gung pa'i dam chos dgongs pa gcig pa'i lhan thabs/ tshigs su bcad pa 'di slob dpon rdzogs chen tshang sogs mos ldan rnams kyis gsol ba btab pa'i ngor rje bla ma dharma (404)sū ryas stsal ba'o// ༈ //dam chos dgongs pa gcig pa'i chings rnam bzhi bzhugs/ dri med 'od gsal thugs kyi dkyil 'khor du//
 ma 'dres shes bya'i dngos po ji ltar ba//
 thams cad gzigs pa kun mkhyen chos kyi rje//
 mnyam med 'bri gung rin chen phyag 'tshal lo//

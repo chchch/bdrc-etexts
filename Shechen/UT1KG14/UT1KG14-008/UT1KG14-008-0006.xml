@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">sman mchod ni/ston pa kun bzang rgyal tshab rigs lnga mchog/dga' rab la sogs brda brgyud rig 'dzin rnams/  /grags chen gsal ba'i ston pa bcu gnyis la/  /</tei:title><tei:author/><tei:title>sman mchod ni/ston pa kun bzang rgyal tshab rigs lnga mchog/dga' rab la sogs brda brgyud rig 'dzin rnams/  /grags chen gsal ba'i ston pa bcu gnyis la/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-008-0006</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/08-NYA/TER-NYA-P05.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250sman mchod ni/ 1$0000300ston pa kun bzang rgyal tshab rigs lnga mchog /dga' rab la sogs brda brgyud rig 'dzin rnams//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-008-0006</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/08-NyA/TER-NyA-P05.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250sman mchod ni/ 1$0000300ston pa kun bzang rgyal tshab rigs lnga mchog /dga' rab la sogs brda brgyud rig 'dzin rnams//
 grags chen gsal ba'i ston pa bcu gnyis la//
 sman mchod 'bul lo mchog thun dngos grub stsol//
 sarba pañtsa a mṛta kha raṃ khā hi/ rigs gsum sems dpa' lung bstan rdo rje dang*//
@@ -10,14 +10,14 @@ u pa rā dza 'byor pa'i dbang po sogs//
 ro langs bde ba rdo rje bzhad rtsal la//
 sman mchod 'bul lo mchog thun dngos grub stsol//
 sarba pañtsa a mṛta kha raṃ khā hi/ dam pa'i rigs can lnga dang rgyal po dza//
-ku ku rā dza in+d+ra bhū ti sogs//
+ku ku rā dza ind+ra bhū ti sogs//
 sgeg rdor sangs rgyas gsang ba bi ma lar//
 sman mchod 'bul lo mchog thun dngos grub stsol//
 sarba pañtsa a mṛta kha raṃ khā hi/ rnam gsum yo ga'i bdag po o rgyan rje//
 rgyal yum mtsho rgyal lo chen bai ro'i zhabs//
 gter chen bla ma rgyal sras rnam gnyis la//
 sman mchod 'bul lo mchog thun dngos grub stsol//
-sarba pañtsa a mṛta kha raṃ khā hi/ chos dbyings rang grol za hor sngags smyon mchog /badz+ra k+ṣa ra kun bzang pad+ma dbang*//
+sarba pañtsa a mṛta kha raṃ khā hi/ chos dbyings rang grol za hor sngags smyon mchog /badzra kṣa ra kun bzang padma dbang*//
 gu ru 'od zer nam mkha'i rnal 'byor la//
 sman mchod 'bul lo mchog thun dngos grub stsol//
 sarba pañtsa a mṛta kha raṃ khā hi/ brgyud pa bdun ldan klong chen rab 'byams dang*//
@@ -33,5 +33,5 @@ sarba pañtsa a mṛ ta kha raṃ khā hi/ </tei:p>
 sangs rgyas kun gyi sku gsung thugs//
 yi ge gsum gyi rnam pa can//
 dam tshig phyag rgya gnyan pos blang*//
-kā ya sid+dhi oṃ/ wā ka sid+dhi āḥ tsit+ta sid+dhi hūm̐/ sarba sid+dhi hrīḥ </tei:p>
+kā ya siddhi oṃ/ wā ka siddhi āḥ tsitta siddhi hūm̐/ sarba siddhi hrīḥ </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

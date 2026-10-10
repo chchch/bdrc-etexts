@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rong ston chen po'i bla ma'i rnal 'byor bzhugs so/  /bla ma la phyag 'tshal lo/  /rong ston chen po'i bla ma'i rnal 'byor nyams su blang bar 'dod </tei:title><tei:author/><tei:title>༄༅/  /rong ston chen po'i bla ma'i rnal 'byor bzhugs so/  /bla ma la phyag 'tshal lo/  /rong ston chen po'i bla ma'i rnal 'byor nyams su blang bar 'dod </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13302-054-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13302</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/KHADON/KHAD054.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -46,7 +46,7 @@ zab yangs chos kyi 'khor ro bskor bar bskul//
 rtag tu mya ngan mi 'da' bzhugs su gsol//
 bdag dang gzhan gyis dge ba ci bsags pa//
 mkha' mnyam 'gro bas byang chub thob phyir bsngo//
-spro na maṇ+ḍal phul/</tei:p>
+spro na maṇḍal phul/</tei:p>
 <tei:p n="2" unit="page">de nas gsol ba 'debs pa ni/ gsang gsum yon tan gter la dbang 'byor zhing*//
 rnam gsum mkhas pa'i bya bas dus 'da' bas//
 dus gsum rgyal ba'i bstan pa gsal mdzad pa//

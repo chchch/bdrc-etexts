@@ -1,10 +1,10 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(kha)༄༅/  /sgra dbyangs lha mo dbyangs can ma dkar mo'i sgrub thabs las tshogs dang bcas pa bzhugs so/  /ring brgyud bram ze phur bu'i lugs/  /༄༅/  /swa </tei:title><tei:author/><tei:title>(kha)༄༅/  /sgra dbyangs lha mo dbyangs can ma dkar mo'i sgrub thabs las tshogs dang bcas pa bzhugs so/  /ring brgyud bram ze phur bu'i lugs/  /༄༅/  /swa </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23681-001-0041</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23681</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/Drub-thab-kuntu/rtfs/volume-001-014/DBTU041.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(kha)༄༅//
 sgra dbyangs lha mo dbyangs can ma dkar mo'i sgrub thabs las tshogs dang bcas pa bzhugs so// ring brgyud bram ze phur bu'i lugs// ༄༅//
-swa ra swa tī/ stong pa'i ngang las pad+ma dang*//
+swa ra swa tī/ stong pa'i ngang las padma dang*//
 dri med zla ba'i dkyil 'khor dbus//
 rang nyid lha mo sku mdog dkar//
 phyag gnyis dri za'i pi wang sbreng*//
@@ -12,7 +12,7 @@ zhabs gnyis tsog pur mnyam par bzhugs//
 stod smad dar dkar na bza' gsol//
 rin chen rgyan gyis sil khrol can//
 chags pa'i nyams dang ldan pa yi//
-snying ni pad+ma 'dab brgyad pa//
+snying ni padma 'dab brgyad pa//
 lte bar ljang ser ze'u 'bru dmar//
 bsil zer can gyis mnan pa ni//
 'jam zhing dkar la rgyas pa yi//
@@ -22,9 +22,9 @@ dkar zhing 'tsher ba'i 'od zer 'phro//
 de yi 'od kyis 'jig rten gang*//
 lha mo'i thugs la reg gyur te//
 'khor lo mdun gyi nam mkhar byon//
-swa ra swa tī ar+ghaṃ sogs//
+swa ra swa tī arghaṃ sogs//
 mchod pas mchod cing bstod pas bstod//
-swa ra swa tī tiṣ+ṭha hrīṃḥ//
+swa ra swa tī tiṣṭha hrīṃḥ//
 ngag tu brjod pas 'khor lo de//
 'od du gyur nas rang nyid kyi//
 sna nas zhugs nas snying la thim//
@@ -77,7 +77,7 @@ rtse mos gre phug khengs par bsam//
 rang gi lce la dbyangs can ma'i//
 'khor lo shin tu gsal bar bsgom//
 ngag tu ming rus che ge mo'i//
-wāk stam+bha ya nan//
+wāk stambha ya nan//
 zhes pa'i sngags 'di bzlas byas na//
 smra mkhas lce bde dran gsal ba//
 thams cad bdag gi dbang du 'gyur//
@@ -85,7 +85,7 @@ mkhas pa rnams dang rgyal po dang*//
 de bzhin blon po bu mo sogs//
 bdag gi dbang du byed 'dod na//
 bsgrub bya mngon sum mthong ba la//
-de yi dpral bar pad+ma dmar//
+de yi dpral bar padma dmar//
 lte bar zla bar zur gsum pa//
 dmar la tsha ba'i reg byar ldan//
 de yi dbus su yi ge hrīṃḥ//
@@ -96,7 +96,7 @@ dpral ba'i hrīṃḥdang dbyer med 'dres//
 yi ge hrīṃḥgi rnam par gyur//
 tshur 'dus rang gi hrīṃḥl 'dres//
 ngag tu ming rus che ge mo//
-ā kar+ṣa ya dza bhaṣ+mi ku ru hoḥ</tei:p>
+ā karṣa ya dza bhaṣmi ku ru hoḥ</tei:p>
 <tei:p n="3" unit="page">zhes pa'i gsang sngags bzlas gyur na//
 dge sbyong dag dang bram ze dang*//
 rgyal po la sogs lta ci smos//
@@ -104,7 +104,7 @@ dbang po dpal mor bcas pa yang*//
 bran bzhin dbang du byed 'gyur zhing*//
 bsgo ba'i ngag la nyan par 'gyur//
 dug gis zin pa'i skyes bu yi//
-spyi bor pad+ma 'dab brgyad dkar//
+spyi bor padma 'dab brgyad dkar//
 de steng zla ba cha gnyis rdzogs//
 dbus su dbyangs yig med pa yi//
 hrīṃḥdakar zla tshes nā da bral//
@@ -113,7 +113,7 @@ de las bdud rtsi'i rgyun babs te//
 spyi bo nas zhugs rtsa rnams gang*//
 dug rnams sgo nas bud par bsam//
 ngag tu ming rus che ge mo'i//
-bi ṣa shān+tiṅku ru swā hā//
+bi ṣa shāntiṅku ru swā hā//
 zhes pa'i gsang sngags bzlas gyur na//
 dug gis zin nas shi la thug /thams cad sos par the tshom med//
 gzhan yang byis pa btsas ma thag /rked pa nyi grib phyed mar bya//

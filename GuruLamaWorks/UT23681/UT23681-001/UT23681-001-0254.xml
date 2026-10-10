@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ta)༄༅/  /theg pa chen po'i smon lam bzhugs so/  /dge ba 'di yis nam mkha'i mtha' klas pa'i/  /lus can kun gyi bsod nams ye shes tshogs/  /myur du </tei:title><tei:author/><tei:title>(ta)༄༅/  /theg pa chen po'i smon lam bzhugs so/  /dge ba 'di yis nam mkha'i mtha' klas pa'i/  /lus can kun gyi bsod nams ye shes tshogs/  /myur du </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23681-001-0254</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23681</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/Drub-thab-kuntu/rtfs/volume-001-014/DBTU254.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ta)༄༅//
@@ -24,11 +24,11 @@ bla ma lha dang mi 'bral zhing*//
 bsgrub la bar chad med pa dang*//
 bstan la bya ba byed par shog /sems can thams cad bde gyur cig /sems can thams cad skyon med par//
 gang gi lam gyis grol 'gyur pa//
-de yis sangs rgyas myur thob shog /ces 'di'i sh+lo ka gong ma drug po 'di 'phags pas mdzad cing*/ 'og ma gcig 'di rgyud sam+bu ṭa las 'byung ba'i smon lam yin no//
+de yis sangs rgyas myur thob shog /ces 'di'i shlo ka gong ma drug po 'di 'phags pas mdzad cing*/ 'og ma gcig 'di rgyud sambu ṭa las 'byung ba'i smon lam yin no//
 bkra shis ni/ mtshungs med bla ma dpal ldan rdo rje 'chang*//
 mthu stobs dbang phyug bla ma brgyud par bcas//
 mtshan nas brjod dam cung zad dran yang rung*//
-bkra shis 'phel zhing skye rgu bde legs shog /pad+ma'i lte bar bdud bzhi'i steng na brjid//
+bkra shis 'phel zhing skye rgu bde legs shog /padma'i lte bar bdud bzhi'i steng na brjid//
 yon tan mtha' yas ye shes lnga yi dngos//
 he ru ka dpal bdag med rnal 'byor ma//
 bkra shis des ni skye rgu bde legs shog /sngon tshe rdo rje 'chang gi spyan snga ru//
@@ -37,7 +37,7 @@ bar chad srung zhing skyong bar zhal bzhes pa'i//
 chos skyong srung ma rnams kyi bkra shis shog</tei:p>
 <tei:p n="2" unit="page">/nor gyi dbang phyug rin chen gter mnga' zhing*//
 gnod sbyin nor 'chang dbang po kun gyi rje//
-byang phyogs skyong ba'i mgon po dzam+bha la//
+byang phyogs skyong ba'i mgon po dzambha la//
 dngos grub mchog stsol nor lha'i bkra shis shog /gnas 'dir nyin mo bde legs mtshan bde legs//
 nyi ma'i gung yang bde legs shing*//
 nyin mtshan rtag tu bde legs pa//

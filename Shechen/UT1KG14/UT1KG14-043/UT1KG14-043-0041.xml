@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">gang zhig mtshan mo rgyu ba yi/  /'byung po rnams dang sha za dang*/  /srin po sha rjen za ba dang*/  /sems can rnam pa sna tshogs pa/  /ljon shing gel pa sogs </tei:title><tei:author/><tei:title>gang zhig mtshan mo rgyu ba yi/  /'byung po rnams dang sha za dang*/  /srin po sha rjen za ba dang*/  /sems can rnam pa sna tshogs pa/  /ljon shing gel pa sogs </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-043-0041</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/43-PI/Terzod-pi-P40.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> gang zhig mtshan mo rgyu ba yi//
@@ -40,7 +40,7 @@ sdig pa ci yang mi bya zhing*//
 dge ba phun sum tshogs par spyad//
 rang gi sems ni yongs su 'dul//
 'di ni sangs rgyas bstan pa yin//
-zhes chos sbyin byas la/ sarba bigh+nān gats+tshas gshegs shing*/ gang dag gdug cing rtsub pa'i sems 'chang ba thams cad 'dir ma gnas par gzhan du dengs shig /gal te mi 'gro na khro bo'i ye shes kyi rdo rje me rab tu 'bar ba 'dis khyod rnams kyi mgo bo tshal pa brgya ru 'gas par 'gyur ta re/</tei:p>
+zhes chos sbyin byas la/ sarba bighnān gatstshas gshegs shing*/ gang dag gdug cing rtsub pa'i sems 'chang ba thams cad 'dir ma gnas par gzhan du dengs shig /gal te mi 'gro na khro bo'i ye shes kyi rdo rje me rab tu 'bar ba 'dis khyod rnams kyi mgo bo tshal pa brgya ru 'gas par 'gyur ta re/</tei:p>
 <tei:p n="2" unit="page">hūm̐ bzhi'i sngags bzlas te phyir khyer ro//
 sher snying gi srung 'khor bsgom/ sarba maṅga laṃ///
 /</tei:p>

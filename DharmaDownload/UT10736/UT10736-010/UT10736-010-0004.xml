@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /bla ma mchod pa'i tshogs mchod kyi rim pa la/tshogs rdzas rnams bdud rtsi ril bus bsang gtor byas nas/lag pa g.yon gdeng*/oṃ yig tu song bas sbyangs</tei:title><tei:author/><tei:title>༄༅/  /bla ma mchod pa'i tshogs mchod kyi rim pa la/tshogs rdzas rnams bdud rtsi ril bus bsang gtor byas nas/lag pa g.yon gdeng*/oṃ yig tu song bas sbyangs</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT10736-010-0004</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W10736</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Padma-Karpo/rtfs/10_tha/10_09_tha_bla-ma-mchod-paqi-tshogs-mchod-kyi-rim-pa.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ ༄༅//
@@ -25,7 +25,7 @@ nged bu slob tshogs kyi dpon la gshegs//
 bcud dam rdzas rnams la byin rlabs zhu//
 mchog thun mong dngos grub gnang nas kyang*//
 yab khyed dang mnyam par byin gyis rlobs//
-dkyil 'khor gyi pad+mo'i snying po kun//
+dkyil 'khor gyi padmo'i snying po kun//
 ris med pa rgyal ba'i ze'u 'brus gang*//
 dngos grub kyi zil dngar ci dang ci//
 yid bzhin du 'byung ba'i lhag pa'i lha//
@@ -41,7 +41,7 @@ nang ye shes nyi ma zla ba'i brdzu//
 bar chad kyi mun pa mthar byed cing*//
 yid skyobs kyi snang ba kun ston pa//
 yum rdo rje btsun mo rigs lnga'i sde//
-'khor dpa' bo ḍāk+ki nyi li li//
+'khor dpa' bo ḍākki nyi li li//
 sku mdzes pa'i rus rgyan khro lo lo//
 gsung theg chen chos sgra 'u ru ru//
 thugs dgyes pa'i gar stabs lings se ling*//
@@ -73,7 +73,7 @@ tshogs gnyis kyi lang tsho rab gang zhing*//
 sgrib gnyis kyi sprin las rnam grol bas//
 dpal kun tu bzang po'i 'od zer gyis//
 nam mkha' srid 'gengs pa'i nus pa zhu//
-oṃ badz+ra gu ru ḍāk+ki nī sid+dhi hūm̐/ rtsa brgyud kyi rje btsun dpal ldan bla ma rnams kyi zhal du ga ṇa tsakra pū dza khā hi/ zhi ba dang khro chags thams cad pa//
+oṃ badzra gu ru ḍākki nī siddhi hūm̐/ rtsa brgyud kyi rje btsun dpal ldan bla ma rnams kyi zhal du ga ṇa tsakra pū dza khā hi/ zhi ba dang khro chags thams cad pa//
 sgyu 'phrul gyi zlos gar la shar nas//
 dkyil 'khor gyi 'khor lo'i mgon mdzad pa//
 yi dam gyi lha tshogs rgya mtsho la//
@@ -88,7 +88,7 @@ nam mkha' srid 'gengs pa'i nus pa zhu//
 yi dam dkyil 'khor gyi lha tshogs rnams kyi zhal du ga ṇa tsakra pū dza khā hi/ 'khor 'das kyi ngo mtshar ma lus pa//
 gnyis med la gnyis su ston byed pa//
 sras rgyal ba thams cad bskyed pa'i yum//
-dpa' bo dang ḍāk+ki rgya mtsho la//
+dpa' bo dang ḍākki rgya mtsho la//
 mi bdag gi lus dge longs spyod kun//
 sngags gsang ba chen po'i dam tshig rdzas//
 ci spyad kyang mi zad nam mkha'i mdzod//
@@ -129,6 +129,6 @@ nad brgyad khri bzhi stong kun gyi bdag /pho 'tshar po kun gyi snying la 'jug /m
 gnas dben par sgom pa'i drod tshad nyul//
 khyed dgyes pa'i lhag gtor bshams nas 'bul//
 nged skal ldan dga' ba'i dngos grub zhu//
-oṃ uts+tshiṣ+ṭa ba ling+ta bhak+ṣa bh+ya swā hā/ 1$0000220zhes phyi rol du phul/ lam zab bla ma mchod pa'i tshogs mchod kyi rim pa kun mkhyen rje'i gsung gsang ste zhal rgyun ltar bkod pa'o//</tei:p>
+oṃ utstshiṣṭa ba lingta bhakṣa bhya swā hā/ 1$0000220zhes phyi rol du phul/ lam zab bla ma mchod pa'i tshogs mchod kyi rim pa kun mkhyen rje'i gsung gsang ste zhal rgyun ltar bkod pa'o//</tei:p>
 <tei:p n="4" unit="page">//1$0000280</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

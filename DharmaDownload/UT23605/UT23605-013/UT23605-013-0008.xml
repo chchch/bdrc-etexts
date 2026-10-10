@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(445)༄༅/  /thugs kyi zhal chems pad mo brtsegs pa zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>(445)༄༅/  /thugs kyi zhal chems pad mo brtsegs pa zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23605-013-0008</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23605</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/gdams-ngag-mdzod/rtfs/13_gdams-ngag-mdzod_pa/13_07_thugs-kyi-zhal-chems-pad-mo-brtsegs-pa.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ (445)༄༅//
@@ -10,7 +10,7 @@ bla ma dam pa rin po che la phyag 'tshal lo//
 ma sgom rig pa dwangs pa'i gnas mchog khyad par can//
 rten 'brel rdzas rnams tshang ba'i dpal ldan ding ri ba//
 sprul sku gnyis pa rgya gar rin po che//
-thugs kyi zhal chems pad+mo brtsegs pa ni//
+thugs kyi zhal chems padmo brtsegs pa ni//
 skal ldan pho mo 'dus phyir gnas 'dir gsungs//
 mi brjed gzungs thob dam pa kun dga' yis//
 kun la phan pa'i bsam pas yi ger bris//
@@ -235,7 +235,7 @@ rang sems kho la dris shig ding ri ba//
 la stod dpal gyi ding ri bla 'khor du//
 'khor thams cad 'dus te/</tei:p>
 <tei:p n="4" unit="page">dmag stong sde'i bdag po gar 'gro cha med a tsa ra sprang po ding ri ba/ (453)dus gcig tu mi sdod gsungs nas//
-dus der zhal chems thugs kyi pad+mo brtsegs pa zhes bya ba 'di gsungs pa 'gro ba rnams la phan thogs par gyur cig /dam par grags pa'i dpal 'byor gsung gi 'od zer don mchog bzang po 'grub par shog /maṅga lam//
-bi dza yan+tu///
+dus der zhal chems thugs kyi padmo brtsegs pa zhes bya ba 'di gsungs pa 'gro ba rnams la phan thogs par gyur cig /dam par grags pa'i dpal 'byor gsung gi 'od zer don mchog bzang po 'grub par shog /maṅga lam//
+bi dza yantu///
 / </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

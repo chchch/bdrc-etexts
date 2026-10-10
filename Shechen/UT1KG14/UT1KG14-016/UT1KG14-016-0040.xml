@@ -1,11 +1,11 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /'phags pa 'jam dpal gyi rgyud kyi yang snying bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /'phags pa 'jam dpal gyi rgyud kyi yang snying bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-016-0040</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/16-MA/Terzod-MA--P38.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄༅//
 'phags pa 'jam dpal gyi rgyud kyi yang snying bzhugs so//
 </tei:p>
-<tei:p n="2" unit="page">'jam dpal rdzogs pa chen po'i rgyud kyi yang snying 'di la gsum ste/ dang po klad kyi don ni/    rgya gar skad du:    zhes chos kyi grol phug yin pas khungs btsun par bstan te/    ār+ya mañdzu shrī tan+t+ra gar+bha:    zhes pa'o//
+<tei:p n="2" unit="page">'jam dpal rdzogs pa chen po'i rgyud kyi yang snying 'di la gsum ste/ dang po klad kyi don ni/    rgya gar skad du:    zhes chos kyi grol phug yin pas khungs btsun par bstan te/    ārya mañdzu shrī tant+ra garbha:    zhes pa'o//
 de nyid/    bod skad du:    zhes brda 'phrod sla ba'i phyir bsgyur na/    'phags pa 'jam dpal gyi rgyud kyi yang snying:    zhes pa'o//
 bar chad mi 'byung zhing bsod nams 'phel ba'i slad du rang gi lhag pa'i lha la phyag 'tshal ba/    'jam dpal la phyag 'tshal lo:    zhes pa ste/ 'jam pa ni sgrib gnyis dang bral ba ste spangs pa phun sum tshogs pa'o//
 dpal ni yon tan thams cad rdzogs pa ste rtogs pa phun sum tshogs pa'o//
@@ -30,7 +30,7 @@ da ni 'di nas 'jug gi don rjes su yi rang ba'i bstod pa/</tei:p>
 yang gzhung gi don gzhan yang*/ ye shes dang pos rdzogs pa chen po mtshan med kyi rnal 'byor dang*/ ye shes gnyis pas lha dang*/ sngags dang*/ dkyil 'khor dang*/ rtsa rlung thig le sogs thams cad kyang mtshon pa yin no//
 rgyud kyi mtshan/ bcom ldan 'das 'jam dpal ye shes sems dpa'i mtshan yang dag par brjod pa'i snying po     zhes bya ste/ snying po ni 'o ma las mar phyung ba ltar rgyud kyi don thams cad zab mo tshig gsum gyis mtshon pas so//
  bcom ldan 'das shākya thub pa'i zhal nas gsungs pa rdzogs so:    zhes pa ni/ rgyud 'di bka' dang*/ bstan bcos gnyis gang yin na/ 'di bka' yin/ bka' la zhal nas gsungs pa/ rjes su gnang ba/ byin gyis brlabs pa gsum las 'di zhal nas gsungs pa'i bka' yin/ gsung ba po gang zhe na/ bstan 'di'i ston pa shākya thub pas dngos su gsungs/ sangs rgyas thams cad dgongs pa gcig pas brgyud nas gsungs so zhes pa'o//
-rdzogs so ni/ tshig don gnyis ka mthar phyin pa ste lhag ma ma lus so zhes pa'i tha tshig go / gu ru pad+mas jo mo shel sgron la gnang ba'o:     de nas gter du sbas pa gu ru rin po che chos kyi dbang phyug gis lho brag kho mthing lha khang nas yar 'brog gi gnyan ston dzaṃ bha la la bka' bsgos nas gter rgya bkrol te 'gro don rgya cher mdzad pa lags so//
+rdzogs so ni/ tshig don gnyis ka mthar phyin pa ste lhag ma ma lus so zhes pa'i tha tshig go / gu ru padmas jo mo shel sgron la gnang ba'o:     de nas gter du sbas pa gu ru rin po che chos kyi dbang phyug gis lho brag kho mthing lha khang nas yar 'brog gi gnyan ston dzaṃ bha la la bka' bsgos nas gter rgya bkrol te 'gro don rgya cher mdzad pa lags so//
 dge'o//
 dge'o//
 dge'o// //</tei:p>

@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(tha)༄༅/  /yi ge'i sbyor ba bzhugs/  /༄༅/  /'jam pa'i dbyangs la phyag 'tshal lo/  /bslab pa kun gyi gzhi 'dzin cing*/  /rig byed smra ba rnams kyi rga</tei:title><tei:author/><tei:title>(tha)༄༅/  /yi ge'i sbyor ba bzhugs/  /༄༅/  /'jam pa'i dbyangs la phyag 'tshal lo/  /bslab pa kun gyi gzhi 'dzin cing*/  /rig byed smra ba rnams kyi rga</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-241-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA236.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(tha)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-241-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA236.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(tha)༄༅//
 yi ge'i sbyor ba bzhugs// ༄༅//
 'jam pa'i dbyangs la phyag 'tshal lo//
 bslab pa kun gyi gzhi 'dzin cing*//
@@ -149,7 +149,7 @@ ming gang gi ni ya tha na//
 pu liṅga yi sgra byung na/</tei:p>
 <tei:p n="3" unit="page">bdag po'i sar ni shes par bya'o//
 ming gang gi ni ya tha na//
-s+t+rī liṅga yi sgra byung na//
+st+rī liṅga yi sgra byung na//
 dgag pa'i gnas su shes par bya//
 ming gang gi ni ya tha na//
 gsum pa la ni e sbyar ba//
@@ -227,6 +227,6 @@ ming tshig gsal ba med na ni//
 don rnams brjod par mi 'gyur ro//
 de ltar gyur na 'jig rten gyi//
 sems can rnams ni bde bar 'gyur//
-sa skya paṇ+ḍi tas sbyar pa'o//</tei:p>
+sa skya paṇḍi tas sbyar pa'o//</tei:p>
 <tei:p n="4" unit="page">// ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

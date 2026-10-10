@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /phyag rgya chen po'i man ngag gi gnad bsdus sgron me zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /phyag rgya chen po'i man ngag gi gnad bsdus sgron me zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13326-009-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13326</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Mahamudra/rtfs/05_Drukpa/009_drukpa_tdoc.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -172,7 +172,7 @@ rdo rjer bod des dag pa'i snang ba kun//
 rab tu 'byams pa'i khang brtsegs mchog tu bkod//
 dge legs zla ba'i dkyil 'khor 'bum phrag brgya//
 gcig tu tshogs lta'i 'od dkar phung po yis//
-sgrub brgyud kun+da'i 'dab rgya yongs grol nas//
+sgrub brgyud kunda'i 'dab rgya yongs grol nas//
 snyigs dus mtshan kyang nyin bzhin dkar gyur cig</tei:p>
 <tei:p n="6" unit="page">/bkra shis gang zhig ma rig byed pa'i blo//
 ye shes dpung pas gnon pa'i mthu grub pas//

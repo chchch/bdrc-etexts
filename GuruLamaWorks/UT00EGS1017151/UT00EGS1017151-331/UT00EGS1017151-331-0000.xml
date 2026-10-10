@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /bsngo ba yon bshad dang bcas pa bzhugs/  /༄༅/  /bla ma dam pa'i zhabs la gus pas phyag 'tshal lo/  /rgyal ba dgra rgyal chos kyi rgyal po yi/  /rje</tei:title><tei:author/><tei:title>(na)༄༅/  /bsngo ba yon bshad dang bcas pa bzhugs/  /༄༅/  /bla ma dam pa'i zhabs la gus pas phyag 'tshal lo/  /rgyal ba dgra rgyal chos kyi rgyal po yi/  /rje</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-331-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA325.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-331-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA325.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
 bsngo ba yon bshad dang bcas pa bzhugs// ༄༅//
 bla ma dam pa'i zhabs la gus pas phyag 'tshal lo//
 rgyal ba dgra rgyal chos kyi rgyal po yi//
@@ -48,7 +48,7 @@ rnam par smin pas dbye na/ 'jig rten pa dang mthun pa/ thar pa dang mthun pa/ th
 de ltar yin pa las da res kyi dge ba 'di thams cad tshang du rung zhing de las kyang gtso bor sbyin pa las byung pa'i bsod nams bya ba'i dngos po gtso che la/ de la sbyin pa nyid kyi nang du pha rol tu phyin pa drug 'du ste/ bcom ldan 'das kyis rgyal ba'i yum las/ de la sbyin pa'i nang du pha rol tu phyin pa drug ji ltar 'du zhe na/</tei:p>
 <tei:p n="4" unit="page">zhes bya ba la sogs pa rgyas par gsungs so//
 sbyin pa la legs par sbyar ba'i sgra la/ dā na zhes bya la/ dā'i sgra las drangs na dā ri dra zhes bya ba dbul ba'am phongs pa la 'jug na'i sgra las drangs na nā sha na zhes bya ba sel ba'am 'dor ba la 'jug ste/ don du na 'jig rten ngad 'jig rten las 'das pa'i phongs pa 'dor bas na sbyin pa zhes bya ba yin no//
-gzhan yang slob dpon ār+ya de bas/ 'chi dang chos dang srid pa gzhan//
+gzhan yang slob dpon ārya de bas/ 'chi dang chos dang srid pa gzhan//
 sbyin pa'i sgra yis gsal byed pa//
 des na byang chub sems dpa' la//
 sbyin pa'i sgra ni shin tu bstan//
@@ -121,7 +121,7 @@ tshig gi sdeb sbyor spangs te bdag gis bkod//
 dge ba 'di yis bya ba ci bsgrubs pa//
 de kun rdzogs pa'i byang chub rgyur gyur te//
 srid pa'i gcong rong shin tu nyam nga bar//
-'gro ba'i 'gro rnams bde mchog thob par shog /bsngo ba yon bshad dang bcas pa'i yi ge rang gi slob mas gsol ba btab pa'i ngor/ sde snod 'dzin pa chen po sa skya'i paṇ+ḍi ta kun dga' rgyal mtshan dpal bzang po zhes bya ba la/ tshig gi sdeb sbyor spangs te sbyar ba'o//
+'gro ba'i 'gro rnams bde mchog thob par shog /bsngo ba yon bshad dang bcas pa'i yi ge rang gi slob mas gsol ba btab pa'i ngor/ sde snod 'dzin pa chen po sa skya'i paṇḍi ta kun dga' rgyal mtshan dpal bzang po zhes bya ba la/ tshig gi sdeb sbyor spangs te sbyar ba'o//
 rdzogs so///
 / ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

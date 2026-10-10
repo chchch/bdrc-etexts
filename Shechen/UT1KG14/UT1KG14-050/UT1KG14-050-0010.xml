@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">nor sgrub rin chen bum bzang gi brgyud 'debs don 'dus snying po bzhugs so/  /na mo ma hā gu ru pad+ma saṃ bhā wā ya/chos sku'i ston pa kun bzang </tei:title><tei:author/><tei:title>nor sgrub rin chen bum bzang gi brgyud 'debs don 'dus snying po bzhugs so/  /na mo ma hā gu ru pad+ma saṃ bhā wā ya/chos sku'i ston pa kun bzang </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">nor sgrub rin chen bum bzang gi brgyud 'debs don 'dus snying po bzhugs so/  /na mo ma hā gu ru padma saṃ bhā wā ya/chos sku'i ston pa kun bzang </tei:title><tei:author/><tei:title>nor sgrub rin chen bum bzang gi brgyud 'debs don 'dus snying po bzhugs so/  /na mo ma hā gu ru padma saṃ bhā wā ya/chos sku'i ston pa kun bzang </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-050-0010</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/50-WI/TERDZO-WI-P09.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250nor sgrub rin chen bum bzang gi brgyud 'debs don 'dus snying po bzhugs so//
-1$0000300na mo ma hā gu ru pad+ma saṃ bhā wā ya/ chos sku'i ston pa kun bzang snang mtha' yas//
+1$0000300na mo ma hā gu ru padma saṃ bhā wā ya/ chos sku'i ston pa kun bzang snang mtha' yas//
 longs sku'i ston pa rnam snang spyan ras gzigs//
 sprul sku'i ston pa pad 'byung 'gro ba'i mgon//
 sku gsum ston pa 'khor dang bcas la 'dud//
@@ -23,7 +23,7 @@ ka dag g.yang gi rgya mtsho 'khyil ba'i dbus//
 lhun grub yid bzhin nor bu 'od 'bar bas//
 gnas skabs mthar thug phan dang bde ba yi//
 bkra shis bsam don lhun grub dpal 'bar shog /</tei:p>
-<tei:p n="2" unit="page">ces pa 'di ltar dgos zhes dge slong karma sgrub brgyud tshul khrims ye shes kyi gsung ngor mkhan po rat+nas bris pa bi dza yan+tu//
+<tei:p n="2" unit="page">ces pa 'di ltar dgos zhes dge slong karma sgrub brgyud tshul khrims ye shes kyi gsung ngor mkhan po ratnas bris pa bi dza yantu//
 bkra shis///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

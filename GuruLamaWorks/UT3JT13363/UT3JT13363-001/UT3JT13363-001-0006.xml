@@ -1,10 +1,10 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /stong pa nyid bdun cu pa'i tshig le'ur byas pa zhes bya ba/  /</tei:title><tei:author/><tei:title>༄༅/  /stong pa nyid bdun cu pa'i tshig le'ur byas pa zhes bya ba/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13363-001-0006</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13363</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/UMA/rtfs/volume-001/006UMA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000270༄༅//
 stong pa nyid bdun cu pa'i tshig le'ur byas pa zhes bya ba// </tei:p>
-<tei:p n="2" unit="page">(1) rgya gar skad du/ shūn+ya tā sap+ti kā ri kā nā ma/ bod skad du/ stong pa nyid bdun cu pa'i tshig le'ur byas pa zhes bya ba/ 'jam dpal gzhon nur gyur pa la phyag 'tshal lo//
+<tei:p n="2" unit="page">(1) rgya gar skad du/ shūn+ya tā sapti kā ri kā nā ma/ bod skad du/ stong pa nyid bdun cu pa'i tshig le'ur byas pa zhes bya ba/ 'jam dpal gzhon nur gyur pa la phyag 'tshal lo//
 gnas pa'am skye 'jig yod med dam//
 dman pa'am mnyam dang khyad par can//
 sangs rgyas 'jig rten snyed dbang gis//
@@ -286,6 +286,6 @@ srid dang srid min spangs nas zhi//
 lta ngan dra ba kun ldog des//
 chags rmongs khong khro spangs pa'i phyir//
 ma gos mya ngan 'das pa thob//
-stong nyid bdun cu pa'i tshig le'ur  (7) byas pa zhes bya ba/ slob dpon 'phags pa klu sgrub kyis mdzad pa rdzogs so// //lo ts+tsha ba gzhon nu mchog dang*/ snyan dar ma grags dang khu'i 'gyur dag las don dang tshig bzang du bris pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
+stong nyid bdun cu pa'i tshig le'ur  (7) byas pa zhes bya ba/ slob dpon 'phags pa klu sgrub kyis mdzad pa rdzogs so// //lo tstsha ba gzhon nu mchog dang*/ snyan dar ma grags dang khu'i 'gyur dag las don dang tshig bzang du bris pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
 /1$0000270</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

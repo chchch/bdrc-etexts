@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">sri zlog bkra shis bcu gsum rdo rje'i sgra dbyangs zhes bya ba bzhugs so/  /rgyal ba'i thugs rjes 'dzin cing 'dzin pa'i 'khor lo yis/  /che sri las</tei:title><tei:author/><tei:title>sri zlog bkra shis bcu gsum rdo rje'i sgra dbyangs zhes bya ba bzhugs so/  /rgyal ba'i thugs rjes 'dzin cing 'dzin pa'i 'khor lo yis/  /che sri las</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-045-0058</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/45-BI/TERDZO-BI-P57.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250sri zlog bkra shis bcu gsum rdo rje'i sgra dbyangs zhes bya ba bzhugs so//
@@ -19,6 +19,6 @@ zhag sri'i dmag dpung g.yo ba med pa'i bkra shis shog /rdo rje pha lam mtshon ch
 dus sri'i rno ngar thal bar rlog pa'i bkra shis shog /rtsa brgyud bla ma'i byin rlabs snying la zhugs: yi dam mkha' 'gro lus dang grib bzhin 'grogs: chos skyong srung mas bar chad kun bsal nas:</tei:p>
 <tei:p n="2" unit="page">mchog thun dngos grub 'grub pa'i bkra shis shog:</tei:p>
 <tei:p n="3" unit="page"> ces brjod cing rol mo snyan par ldir ro//
-tsakra bcu gsum gyi sngags dang 'brel ba'i bkra shis kyang*/ ri che rje drung mai tri'i mtshan can gyi zhabs brtan skabs/ mkhan po karma rat+nas bris pa mi mthun bdud dang dam sri'i g.yul las rgyal nas shin tu bkra shis par gyur cig /sarba maṅga laṃ///
+tsakra bcu gsum gyi sngags dang 'brel ba'i bkra shis kyang*/ ri che rje drung mai tri'i mtshan can gyi zhabs brtan skabs/ mkhan po karma ratnas bris pa mi mthun bdud dang dam sri'i g.yul las rgyal nas shin tu bkra shis par gyur cig /sarba maṅga laṃ///
 / ༈ dpe tshan 'di sngon chad gter mdzod dkyus su med cing*/ bal yul zhe dgon gyi par gsar 'dir gsar bzhag byas pas lung rgyun la zhib rtog dgos pa yin no//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

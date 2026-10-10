@@ -1,23 +1,23 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">tshe bdag lha mo tsaṇ+ḍa lī ma'i brgyud 'debs bzhugs/oṃ āḥhūm̐/lho nub rnga yab zangs mdog dpal ri nas/  /gsang ba ye shes srin rgyal rak+sha'i phreng*/ </tei:title><tei:author/><tei:title>tshe bdag lha mo tsaṇ+ḍa lī ma'i brgyud 'debs bzhugs/oṃ āḥhūm̐/lho nub rnga yab zangs mdog dpal ri nas/  /gsang ba ye shes srin rgyal rak+sha'i phreng*/ </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">tshe bdag lha mo tsaṇḍa lī ma'i brgyud 'debs bzhugs/oṃ āḥhūm̐/lho nub rnga yab zangs mdog dpal ri nas/  /gsang ba ye shes srin rgyal raksha'i phreng*/ </tei:title><tei:author/><tei:title>tshe bdag lha mo tsaṇḍa lī ma'i brgyud 'debs bzhugs/oṃ āḥhūm̐/lho nub rnga yab zangs mdog dpal ri nas/  /gsang ba ye shes srin rgyal raksha'i phreng*/ </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-049-0008</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/49-DZI/TERDZO-DZI-P07.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250tshe bdag lha mo tsaṇ+ḍa lī ma'i brgyud 'debs bzhugs/ 1$0000300oṃ āḥhūm̐/ lho nub rnga yab zangs mdog dpal ri nas//
-gsang ba ye shes srin rgyal rak+sha'i phreng*//
-tshe bdag mthing 'od man+dā ra ba dang*//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-049-0008</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/49-DZI/TERDZO-DZI-P07.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250tshe bdag lha mo tsaṇḍa lī ma'i brgyud 'debs bzhugs/ 1$0000300oṃ āḥhūm̐/ lho nub rnga yab zangs mdog dpal ri nas//
+gsang ba ye shes srin rgyal raksha'i phreng*//
+tshe bdag mthing 'od mandā ra ba dang*//
 mkha' 'gro 'bum sde rdo rje phag mo la//
 gsol ba 'debs so tshe yi dngos grub stsol//
-sin+dhu rgya mtshor brdzus skyes sprul sku dang*//
+sindhu rgya mtshor brdzus skyes sprul sku dang*//
 'od 'chang mkha' 'gro mā ra ti ka ru//
-tshe yi grogs mo lha lcam man+dā ra//
+tshe yi grogs mo lha lcam mandā ra//
 gsol ba 'debs so tshe yi dngos grub stsol//
 yang le shod du shākya de ma dang*//
 bod yul dbyangs can dpal mo mtsho rgyal ma//
-bkra shis khye 'dren kā la sid+dhi sogs//
+bkra shis khye 'dren kā la siddhi sogs//
 rigs ldan mkha' 'gro bye ba dung phyur la//
 gsol ba 'debs so tshe yi dngos grub stsol//
 'od gsal nyams rtsal dkyil 'khor chen po nas//
-tshe yi lha mo tsaṇ+ḍa lī ma dang*//
+tshe yi lha mo tsaṇḍa lī ma dang*//
 dbang chen rta mchog thugs sgrub he ru kar//
 gsol ba 'debs so tshe yi dngos grub stsol//
 thun mong khyad par sngon 'gros rgyud sbyangs nas//
@@ -27,6 +27,6 @@ gzhon nu bum pa'i sku ru rtag brtan shog /gzhan yang mi 'gyur tshe yi g.yung dru
 tshe yi rtsa ba lcags kyi srog rtsa 'grub//
 'pho chen 'ja' lus rdo rje'i go 'phang thob//
 'brel tshad don ldan mngon 'tshang rgya bar shog /</tei:p>
-<tei:p n="2" unit="page">ces pa 'di mchims phu'i dben gnas su mgyogs par bris pa (pad+ma chos 'byor rgya mtsho/)yin no///
+<tei:p n="2" unit="page">ces pa 'di mchims phu'i dben gnas su mgyogs par bris pa (padma chos 'byor rgya mtsho/)yin no///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

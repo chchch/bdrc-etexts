@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pa)༄༅/  /lam 'bras brgyud pa'i phyag mchod bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/mi 'phrogs pa'i mkhyen rab dang thugs rje ldan pa/khams gsum gyi chos </tei:title><tei:author/><tei:title>(pa)༄༅/  /lam 'bras brgyud pa'i phyag mchod bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/mi 'phrogs pa'i mkhyen rab dang thugs rje ldan pa/khams gsum gyi chos </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pa)༄༅/  /lam 'bras brgyud pa'i phyag mchod bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/mi 'phrogs pa'i mkhyen rab dang thugs rje ldan pa/khams gsum gyi chos </tei:title><tei:author/><tei:title>(pa)༄༅/  /lam 'bras brgyud pa'i phyag mchod bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/mi 'phrogs pa'i mkhyen rab dang thugs rje ldan pa/khams gsum gyi chos </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-347-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA341.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pa)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-347-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA341.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pa)༄༅//
 lam 'bras brgyud pa'i phyag mchod bzhugs// ༄༅//
-oṃ swa sti sid+dhaṃ/ mi 'phrogs pa'i mkhyen rab dang thugs rje ldan pa/ khams gsum gyi chos kyi rgyal po/ de bzhin gshegs pa thams cad kyi ngo bo/ dam pa'i chos thams cad kyi 'byung gnas/ byang chub sems dpa' thams cad kyi yab/ nyan thos dang rang sangs rgyas thams cad kyi bla ma/ lha dang bcas pa'i 'jig rten pa thams cad kyi skyabs/ chos kyi rje dpal ldan sa skya paṇ+ḍi ta chen po'i zhabs la gus pas phyag 'tshal zhing skyabs su mchi'o//
+oṃ swa sti siddhaṃ/ mi 'phrogs pa'i mkhyen rab dang thugs rje ldan pa/ khams gsum gyi chos kyi rgyal po/ de bzhin gshegs pa thams cad kyi ngo bo/ dam pa'i chos thams cad kyi 'byung gnas/ byang chub sems dpa' thams cad kyi yab/ nyan thos dang rang sangs rgyas thams cad kyi bla ma/ lha dang bcas pa'i 'jig rten pa thams cad kyi skyabs/ chos kyi rje dpal ldan sa skya paṇḍi ta chen po'i zhabs la gus pas phyag 'tshal zhing skyabs su mchi'o//
 brtse ba chen pos dus thams cad du rjes su gzung du gsol/ sangs rgyas kun gyi ngo bo nyed//
 dngos grub kun gyi rin chen gter//
 nyes pa kun las rnam grol ba//
@@ -19,7 +19,7 @@ bdag med ma la phyag 'tshal lo//
 shes bya kun la rab sbyangs nas//
 brtson pas go 'phang mchog brnyes te//
 brtse bas gzhan gyi don mdzad pa//
-bir+wa pa la phyag 'tshal lo//
+birwa pa la phyag 'tshal lo//
 rjes su gdams pa zab mo yis//
 nyid kyi thugs ni rnam grol nas//
 brtul zhugs spyod pas gzhan don mdzad//

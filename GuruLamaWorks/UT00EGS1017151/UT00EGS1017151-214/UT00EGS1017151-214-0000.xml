@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ta)༄༅/  /zhe sa dgu phrugs bzhugs/  /༄༅/  /'gro mgon mnyam med ji snyed kun gzigs shing*/  /ji bzhin don ni thugs su chud gyur pa/  /thugs rje</tei:title><tei:author/><tei:title>(ta)༄༅/  /zhe sa dgu phrugs bzhugs/  /༄༅/  /'gro mgon mnyam med ji snyed kun gzigs shing*/  /ji bzhin don ni thugs su chud gyur pa/  /thugs rje</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-214-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA209.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ta)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-214-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA209.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ta)༄༅//
 zhe sa dgu phrugs bzhugs// ༄༅//
 'gro mgon mnyam med ji snyed kun gzigs shing*//
 ji bzhin don ni thugs su chud gyur pa//
@@ -139,11 +139,11 @@ zin nas gos khyer tshul gyis spyod lam ni//
 'gab rdul mi che phyogs logs mi bskor 'tshal//
 ma rabs g.yung po rnams la 'di mi dgos//
 ya rabs gra ma rnams kyi srol brgyan 'di//
-brtson 'grus g.yung drung khu yi ban+de yis//
+brtson 'grus g.yung drung khu yi bande yis//
 'gos kyi phyag yig che la brten nas mdzad//
 de la cung zad ma tshang gong 'og 'khrul//
 bag tsam nor bar gyur pa'i skyon spangs te//
-'khon gyi ban+de grags pa rgyal mtshan gyis//
+'khon gyi bande grags pa rgyal mtshan gyis//
 ya rabs cha rkyen 'di ni gsal bar byas//
 dge des 'gro kun rigs mtho thob gyur nas//
 tshogs gnyis rdzogs te sangs rgyas sar 'gro shog</tei:p>

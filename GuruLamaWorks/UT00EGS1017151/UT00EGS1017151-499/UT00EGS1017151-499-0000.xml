@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pha)༄༅/  /a rog che la gnang ba'i bkra shis bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/rnam 'dren bla ma mchog dang dkon mchog dang*/  /lha mchog rnams dang sngag</tei:title><tei:author/><tei:title>(pha)༄༅/  /a rog che la gnang ba'i bkra shis bzhugs/  /༄༅/  /oṃ swa sti sid+dhaṃ/rnam 'dren bla ma mchog dang dkon mchog dang*/  /lha mchog rnams dang sngag</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pha)༄༅/  /a rog che la gnang ba'i bkra shis bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/rnam 'dren bla ma mchog dang dkon mchog dang*/  /lha mchog rnams dang sngag</tei:title><tei:author/><tei:title>(pha)༄༅/  /a rog che la gnang ba'i bkra shis bzhugs/  /༄༅/  /oṃ swa sti siddhaṃ/rnam 'dren bla ma mchog dang dkon mchog dang*/  /lha mchog rnams dang sngag</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-499-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA493.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pha)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-499-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA493.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pha)༄༅//
 a rog che la gnang ba'i bkra shis bzhugs// ༄༅//
-oṃ swa sti sid+dhaṃ/ rnam 'dren bla ma mchog dang dkon mchog dang*//
+oṃ swa sti siddhaṃ/ rnam 'dren bla ma mchog dang dkon mchog dang*//
 lha mchog rnams dang sngags dang grub pa'i rdzongs//
 bkra shis yid 'ong 'byung gnas thams cad kyi//
 bkra shis dam pa khyed la sbyin gyur cig /shar gyi phyogs su nyon mongs kun bskyod pa'i//
@@ -45,5 +45,5 @@ rgyal sras gnas dus kun du bde legs shog /de ltar bkra shis phun tshogs thams ca
 shis pas rgyal bu khyod la shis bya'i phyir//
 dge slong 'phags pa zhes byas nyer bsdebs nas//
 rgyal bu a rog che la phul ba lags//
-me pho byi ba'i lo gsar pa bkra shis par bya ba'i phyir/ phyogs bcu mun pa rnams par sel ba'i mdo'i rjes su 'brang ba'i bkra shis kyi tshigs du bcad pa rnam par spel ba 'di/ shing mo phag gi lo rgyal gyi zla ba tshes nyi shu gcig gi nyin par dpal sa skya'i gtsug lag khang du sbyar ba'o// oṃ su pra tiṣ+ṭha badz+re swā hā// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+me pho byi ba'i lo gsar pa bkra shis par bya ba'i phyir/ phyogs bcu mun pa rnams par sel ba'i mdo'i rjes su 'brang ba'i bkra shis kyi tshigs du bcad pa rnam par spel ba 'di/ shing mo phag gi lo rgyal gyi zla ba tshes nyi shu gcig gi nyin par dpal sa skya'i gtsug lag khang du sbyar ba'o// oṃ su pra tiṣṭha badzre swā hā// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

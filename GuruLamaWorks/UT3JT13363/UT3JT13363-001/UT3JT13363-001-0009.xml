@@ -1,11 +1,11 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rigs pa drug cu pa'i tshig le'ur byas pa zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /rigs pa drug cu pa'i tshig le'ur byas pa zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13363-001-0009</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13363</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/UMA/rtfs/volume-001/009UMA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000270༄༅//
 rigs pa drug cu pa'i tshig le'ur byas pa zhes bya ba bzhugs so// </tei:p>
 <tei:p n="2" unit="page">(1) ༄༅//
-rgya gar skad du/ yugati ṣaṣ+ṭhakā kā ri kā nā ma/ bod skad du/ rigs pa drug cu pa'i tshig le'ur byas pa zhes bya ba/ 'jam dpal gzhon nur gyur pa la phyag 'tshal lo//
+rgya gar skad du/ yugati ṣaṣṭhakā kā ri kā nā ma/ bod skad du/ rigs pa drug cu pa'i tshig le'ur byas pa zhes bya ba/ 'jam dpal gzhon nur gyur pa la phyag 'tshal lo//
 gang gi skye dang 'jig pa dag /tshul 'di yis ni spangs gyur pa//
 rten cing 'byung ba gsungs pa yi//
 thub dbang de la phyag 'tshal lo//
@@ -243,6 +243,6 @@ mi zad srid pa'i rgya mtsho brgal//
 dge ba 'di yis skye bo kun//
 bsod nams ye shes tshogs bsags te//
 bsod nams ye shes las byung ba'i//
-dam pa gnyis ni thob par shog /rigs pa drug cu pa'i tshig le'ur byas pa zhes bya ba slob dpon 'phags pa klu sgrub kyi zhal snga nas mdzad pa rdzogs so// //rgya gar gyi mkhan po mu ti ta shrī'i zhal snga nas dang*/ bod kyi lo ts+tsha ba pa tshab nyi ma grags kyis bcos te gtan la phab pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
+dam pa gnyis ni thob par shog /rigs pa drug cu pa'i tshig le'ur byas pa zhes bya ba slob dpon 'phags pa klu sgrub kyi zhal snga nas mdzad pa rdzogs so// //rgya gar gyi mkhan po mu ti ta shrī'i zhal snga nas dang*/ bod kyi lo tstsha ba pa tshab nyi ma grags kyis bcos te gtan la phab pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
 /1$0000270</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

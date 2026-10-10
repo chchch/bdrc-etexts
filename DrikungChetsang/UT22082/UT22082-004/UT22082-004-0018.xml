@@ -1,15 +1,15 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /ra khyim klu btsan gyi gsol mchod bsdus pa bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /ra khyim klu btsan gyi gsol mchod bsdus pa bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-004-0018</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHYEN/rtfs/volume-004/26NGA.LA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-004-0018</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHyEN/rtfs/volume-004/26NGA.LA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
 ra khyim klu btsan gyi gsol mchod bsdus pa bzhugs so// </tei:p>
 <tei:p n="2" unit="page">/bla ma dang ni lhag pa'i lhar//
 gus btud klu btsan 'di ltar gsol//
 gang du dgos pa'i gtor mchod spyan gzigs sogs mthong rgyud ltar bya'o|&#160;|sngags drug phyag rgya drug la sogs pas byin gyis brlabs la rol mo'i sgra dang spos kyi dud pa sogs dang bcas pas 'di skad do//
-hrīḥ phyogs bcu dus bzhi'i rgyal ba kun gyi dngos|&#160;|'khor 'das yongs la dbang sgyur pad+ma rgyal//
+hrīḥ phyogs bcu dus bzhi'i rgyal ba kun gyi dngos|&#160;|'khor 'das yongs la dbang sgyur padma rgyal//
 snang srid dregs pa kun gyi srog snying bdag /rang byung thod phreng rtsal la phyag 'tshal lo|&#160;|bswa/ 'di nas nyi ma byang shar pha gi na//
-grub dbang pad+ma'i bka' sdod klu btsan rje//
+grub dbang padma'i bka' sdod klu btsan rje//
 sku mkhar 'bar ba dur khrod yo byad tshogs//
 bam chen gsar rnying khrag zhag rgya mtsho 'khyil//
 gcan gzan 'dab chags gdug pa'i tshogs kyis bskor//
@@ -36,7 +36,7 @@ sman raka gtor ma tshogs dang phye mar bsang*//
 dngos 'byor yid sprul klu btsan 'khor bcas la//
 dang bas 'bul gyi dgyes par bzhes nas kyang*//
 tshim zhing dga' mgu rang bas 'di snom la//
-sngon tshe slob dpon chen po pad+ma dang*//
+sngon tshe slob dpon chen po padma dang*//
 sprul sku bsam gtan rdo rje'i bka' bzhin du//
 sangs rgyas bstan srung dkon mchog dbu 'phang bstod//
 dge 'dun sde skyong chos ldan don kun sgrub/</tei:p>

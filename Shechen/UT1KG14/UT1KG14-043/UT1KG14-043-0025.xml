@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rtsis kyi gtsug lag las 'byung ba'i lha rnams mchod pa'i cho ga mdor bsdus dge/rtsis kyi gtsug lag las 'byung ba'i lha rnams la gtor ma dang gser skyems</tei:title><tei:author/><tei:title>rtsis kyi gtsug lag las 'byung ba'i lha rnams mchod pa'i cho ga mdor bsdus dge/rtsis kyi gtsug lag las 'byung ba'i lha rnams la gtor ma dang gser skyems</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-043-0025</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/43-PI/Terzod-pi-P24.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250rtsis kyi gtsug lag las 'byung ba'i lha rnams mchod pa'i cho ga mdor bsdus dge /1$0000300</tei:p>
@@ -8,5 +8,5 @@ so so'i rgyud tshims pa dang longs spyod kyi rkyen du 'byor par gyur cig /bdag c
 <tei:p n="3" unit="page">chung bas ma 'khang*/ ru nga dang phrag dog ma mdzad/ bdag ni sa dang yul dus la dbang mi byed do//
 sa dang yul dus kyi bdag po khyed rnams la bsten nas las dang bya ba byed pa yin pas stongs dang grogs mdzod cig /bkra shis dang bde legs phun sum tshogs par mdzad du gsol/ zhes grong du rgyu ba'i lha gshen bla mkhyen rnams la phan pa'i ched du dharma shrīs bris pa'o//
 shu bhaṃ///
-/ oṃ a ka ni ni ka ni a bhi la maṇ+ḍa la ma ye swā hā/ zhes mang du bzla'o//</tei:p>
+/ oṃ a ka ni ni ka ni a bhi la maṇḍa la ma ye swā hā/ zhes mang du bzla'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

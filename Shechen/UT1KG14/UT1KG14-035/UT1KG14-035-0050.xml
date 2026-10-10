@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༁ྃ:rtsa gsum spyi yi las byang kun gsal me long zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༁ྃ:rtsa gsum spyi yi las byang kun gsal me long zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-035-0050</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/40-THI/Terdzo-thi-P52.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༁ྃ: rtsa gsum spyi yi las byang kun gsal me long zhes bya ba bzhugs so//
@@ -7,7 +7,7 @@
 <tei:p n="2" unit="page">bla ma yi dam mkha' 'gro'i tshogs la phyag 'tshal lo//
 </tei:p>
 <tei:milestone unit="small"/><tei:p n="3" unit="page">rtsa gsum spyi yi las byang 'di//
-pad+ma 'byung gnas byin rlabs kyis//
+padma 'byung gnas byin rlabs kyis//
 sngon gyi las 'phro cung zad tsam//
 sad snyam byed pa bdag gis bri//
 dang po skyabs su 'gro ba dang sems bskyed pa ni/ </tei:p>
@@ -18,7 +18,7 @@ bdag gis gsang sngags bsgrub par bgyi/ </tei:p>
 <tei:milestone unit="small"/><tei:p n="5" unit="page">/de nas bgegs la bka' bsgo ba ni/ </tei:p>
 <tei:milestone unit="normal"/><tei:p n="6" unit="page">hūm̐/ snang srid 'khor 'das gzhal yas lha//
 de ltar ma rtogs 'khrul snang bgegs//
-gzhan du dengs shig 'da' byed na/ khro chung mtshon cha 'bar bas brlag /sum+bha ni </tei:p>
+gzhan du dengs shig 'da' byed na/ khro chung mtshon cha 'bar bas brlag /sumbha ni </tei:p>
 <tei:milestone unit="small"/><tei:p n="7" unit="page">sogs brjod/ mtshams gcad ni/ </tei:p>
 <tei:milestone unit="normal"/><tei:p n="8" unit="page">hūm̐/ 'khor 'das chos sku gdal khyab la//
 lha 'drer 'dzin pa rang sar grol//
@@ -47,7 +47,7 @@ oṃ āḥhūm̐/ ha ho hrīḥ </tei:p>
 <tei:milestone unit="small"/><tei:p n="17" unit="page">de nas ting 'dzin rnam gsum ni/ </tei:p>
 <tei:milestone unit="normal"/><tei:p n="18" unit="page">oṃ āḥhūm̐/ chos kun dmigs med stong pa che//
 de dang snying rje gnyis su med//
-zung 'jug 'phro 'du'i hrīḥhūm̐ bh+yo//
+zung 'jug 'phro 'du'i hrīḥhūm̐ bhyo//
 la sogs rgyu yi sa bon gsal//
 </tei:p>
 <tei:milestone unit="small"/><tei:p n="19" unit="page">de nas gzhal yas khang bskyed ni/ </tei:p>
@@ -62,7 +62,7 @@ pad nyi bam sogs rang rang gi /gdan rnams so sor bkra bar gsal//
 <tei:milestone unit="small"/><tei:p n="21" unit="page">de nas lha bskyed so sor shes la/ lhag pa'i lha la phyag 'tshal lo/ khro rol phur bu'i mngon rtogs ni/ </tei:p>
 <tei:milestone unit="normal"/><tei:p n="22" unit="page">hūm̐ las skad cig dran rdzogs su/ khro rol phur bu zhal gsum pa//
 g.yas dkar g.yon mthing dbus dmar nag /g.yas gsum rdo rje tho ba me//
-g.yon gsum bhan+dha phur bu sdig /gshog gdengs phur mjug dgra bgegs gzir/ khro bo'i chas rdzogs 'jigs su rung*//
+g.yon gsum bhandha phur bu sdig /gshog gdengs phur mjug dgra bgegs gzir/ khro bo'i chas rdzogs 'jigs su rung*//
 dpral mgrin thugs ka lte gsang du//
 'jam dpal rta mgrin gsang ba'i bdag /mkha' 'gro lnga dang me dbal gsal//
 spyi bor rigs bdag khros pa dang*/ khyung dmar 'phyo ba me dpung dbus/ khro bo khro mo'i 'khor tshogs gsal//
@@ -74,7 +74,7 @@ ye shes spyan drangs so sor thim//
 <tei:milestone unit="normal"/><tei:p n="24" unit="page">hūm̐ hrīḥ rang bzhin dag pa sku gsum zhing khams nas/ khro rol phur bu'i lha tshogs 'khor dang bcas//
 'gro blo mos pa'i snang tshul mthun pa yi//
 sprul pa yang sprul 'gyed cing gshegs su gsol//
-badz+ra sa ma ya dzaḥ dzaḥhūm̐ baṃ hoḥ </tei:p>
+badzra sa ma ya dzaḥ dzaḥhūm̐ baṃ hoḥ </tei:p>
 <tei:milestone unit="small"/><tei:p n="25" unit="page">bzhugs su gsol ba ni/ </tei:p>
 <tei:milestone unit="normal"/><tei:p n="26" unit="page">hūm̐ hrīḥ rang rang dgyes pa'i gnas mchog so so ru//
 dam ye dbyer med chu la chu bzhag tshul//
@@ -122,7 +122,7 @@ mi sgrib tshangs pa'i dngos grub bstsal du gsol//
 sngags bskor 'od kyis don gnyis byas//
 rtsa gsum byin rlabs rang la bsdus//
 mchog thun dngos grub thob par gyur//
-oṃ āḥhūm̐ artsig nirtsig na mo bha ga ba te dzñā na badz+ra karma kī li kī la ya sarba bigh+nān baṃ hūm̐ phaṭaḥ āḥhrīḥhūm̐ bh+yo hūm̐ phaṭaḥ</tei:p>
+oṃ āḥhūm̐ artsig nirtsig na mo bha ga ba te dzñā na badzra karma kī li kī la ya sarba bighnān baṃ hūm̐ phaṭaḥ āḥhrīḥhūm̐ bhyo hūm̐ phaṭaḥ</tei:p>
 <tei:milestone unit="small"/><tei:p n="39" unit="page"> ces so//
 tshogs byed par spro na bsham ste bran/ </tei:p>
 <tei:milestone unit="normal"/><tei:p n="40" unit="page">raṃ yaṃ khaṃ/ oṃ āḥhūm̐/ hūm̐ hrīḥ me rlung chu 'phros tshogs kyi dngos zhen sbyangs//
@@ -144,7 +144,7 @@ dam tshig chag nyams 'gal 'khrul mthol lo bshags//
 dgra bgegs log 'dren sgrol cig sha khrag rol//
 bdag gzhan bsod nams ye shes tshogs rdzogs shog /</tei:p>
 <tei:milestone unit="small"/><tei:p n="43" unit="page">lhag ma chad mdo brtan skyong rnams dus gcig tu bshams la/ </tei:p>
-<tei:milestone unit="normal"/><tei:p n="44" unit="page">bh+yo/ lhag la dgyes pa rnams kyis lhag ma bzhes/ khas blangs dam bcas srung mas gtor ma longs//
+<tei:milestone unit="normal"/><tei:p n="44" unit="page">bhyo/ lhag la dgyes pa rnams kyis lhag ma bzhes/ khas blangs dam bcas srung mas gtor ma longs//
 dbang phyug ma sring brtan ma'i tshogs rnams mchod//
 rnal 'byor bcol ba'i phrin las 'grub par mdzod//
 </tei:p>
@@ -158,7 +158,7 @@ nam zhig byang chub mchog sems bskyed dus ldang*//
 dngos grub dam pa bdag la bstsal nas kyang*//
 tshe gcig rdo rje 'chang gi sku brnyes nas//
 rang gzhan don gnyis mtha' ru phyin mdzad gsol//
-sarba sid+dhi pha la hoḥ </tei:p>
+sarba siddhi pha la hoḥ </tei:p>
 <tei:milestone unit="small"/><tei:p n="49" unit="page">bsdu zhing rgyun spyod bkra shis bsngo smon ni/ </tei:p>
 <tei:milestone unit="normal"/><tei:p n="50" unit="page">hūm̐/ bskyed pa'i lha tshogs rang thim rang nyid kyang*//
 rim par hūm̐ bsdus thig ler 'dus nas yal//
@@ -167,6 +167,6 @@ hoḥ phyogs dus mchog gsum sku gsum rtsa gsum gyi//
 bden pa'i stobs kyis bkra shis bde legs stsol//
 bdag gzhan tshogs rdzogs sgrib byang don gnyis 'grub//
 sku bzhi lhun grub myur du thob par shog /</tei:p>
-<tei:milestone unit="small"/><tei:p n="51" unit="page">ces pa 'di yang skyabs gnas rin po che 'jam mgon rig 'dzin gsung rab rgya mtshos bka' yang yang bstsal pa spyi bor blangs nas/ slob dpon pad+ma'i slob mar gyur pa'i skye mtha' yin par rloms pa/ gter ston rol pa rdo rjes blo nas gang dran bcos med du bris nas phul ba'o///
+<tei:milestone unit="small"/><tei:p n="51" unit="page">ces pa 'di yang skyabs gnas rin po che 'jam mgon rig 'dzin gsung rab rgya mtshos bka' yang yang bstsal pa spyi bor blangs nas/ slob dpon padma'i slob mar gyur pa'i skye mtha' yin par rloms pa/ gter ston rol pa rdo rjes blo nas gang dran bcos med du bris nas phul ba'o///
 /</tei:p>
 <tei:milestone unit="normal"/></tei:div></tei:body></tei:text></tei:TEI>

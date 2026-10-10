@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /dbu ma'i lta ba'i khrid yig zab don gnad kyi zla zer zhes bya ba/bla ma dang lhag pa'i lha gangs ri'i mdog can la phyag 'tshal lo/  /kun mkhyen ye she</tei:title><tei:author/><tei:title>༄༅/  /dbu ma'i lta ba'i khrid yig zab don gnad kyi zla zer zhes bya ba/bla ma dang lhag pa'i lha gangs ri'i mdog can la phyag 'tshal lo/  /kun mkhyen ye she</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT28942-031-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W28942</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/RONGTON/RONT031.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -175,5 +175,5 @@ ring du brtags kyang rtogs par dka' ba'i don//
 ring nas sbyangs pa'i blo gros phul byung gis//
 legs par rtogs pa tshul bzhin bshad pa 'dis//
 'gro ba ma lus sangs rgyas myur thob shog</tei:p>
-<tei:p n="10" unit="page">/ces bla ma dam pa rnams kyi zhal nas legs par rnyed pa'i dbu ma lta ba'i khrid kyi man ngag zab mo 'di ni rong ston chen po shes bya kun rig gis dpal nā len+d+ra'i dgon par sbyar ba'o// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
+<tei:p n="10" unit="page">/ces bla ma dam pa rnams kyi zhal nas legs par rnyed pa'i dbu ma lta ba'i khrid kyi man ngag zab mo 'di ni rong ston chen po shes bya kun rig gis dpal nā lend+ra'i dgon par sbyar ba'o// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

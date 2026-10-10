@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /bshes pa'i spring yig bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /bshes pa'i spring yig bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13363-001-0018</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13363</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/UMA/rtfs/volume-001/018UMA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(1)</tei:p>
@@ -89,7 +89,7 @@ gter bzhin srog dang 'dra bar bsrung bgyi ste//
 gdug pa dug dang mtshon dang dgra bo dang*//
 me bzhin 'dod pa'i bde la yid 'byung mdzod//
 'dod pa rnams ni phung khrol bskyed pa ste//
-rgyal ba'i dbang pos kim+pa'i 'bras 'drar gsungs//
+rgyal ba'i dbang pos kimpa'i 'bras 'drar gsungs//
 de dag spang bgyi de yi lcags sgrog gis//
 'khor ba'i btson rar 'jig rten 'di dag bcings//
 gang dag dbang po drug yul rnams la ni//
@@ -288,7 +288,7 @@ rnam par mdzes 'tshal son par rtses nas slar//
 'dab ma ral gri 'dra tshal nags rnams kyis//
 rkang lag rna ba sna gcod 'thob par 'gyur//
 dal gyis 'bab pa lha yi bu mo ni//
-gdong mdzes gser gyi pad+ma lhan bzhugs nas//
+gdong mdzes gser gyi padma lhan bzhugs nas//
 slar yang dmyal ba'i chu bo rab med par//
 tsha sgo bzod brlag chu tshan 'jug 'tshal lo//
 lha yul 'dod bde shin tu chen po dang*//
@@ -486,6 +486,6 @@ nyon mongs nyam thag sems can tshogs kyi 'jigs skye dang*//
 'jig rten las 'das ming tsam zhi la mi bsnyengs pa//
 mi bgres nongs pa mi mnga'i go 'phang brnyes par mdzod//
 bshes pa'i spring yig slob dpon 'phags pa klu sgrub kyis//
-mdza' bo rgyal po bde spyod la bskur ba rdzogs so// //rgya gar gyi mkhan po sarba dzña de ba dang*/ zhu chen gyi lo tsā ba ban+de dpal brtsegs kyis bsgyur cing zhus te gtan la phab pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
+mdza' bo rgyal po bde spyod la bskur ba rdzogs so// //rgya gar gyi mkhan po sarba dzña de ba dang*/ zhu chen gyi lo tsā ba bande dpal brtsegs kyis bsgyur cing zhus te gtan la phab pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
 /1$0000300</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

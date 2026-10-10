@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">oṃ swa sti/  /'jam pa'i dbyangs sogs sras bcas rgyal kun dang*/  /khyad par o rgyan mtsho skyes rdo rje bcas/  /rtsa gsum rab 'byams rgya mtsho lhag pa'</tei:title><tei:author/><tei:title>oṃ swa sti/  /'jam pa'i dbyangs sogs sras bcas rgyal kun dang*/  /khyad par o rgyan mtsho skyes rdo rje bcas/  /rtsa gsum rab 'byams rgya mtsho lhag pa'</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13341-080-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13341</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/pecha/rtfs/Taksham-Chochod_tdoc/063e_shabtan.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">) oṃ swa sti//
@@ -8,12 +8,12 @@ khyad par o rgyan mtsho skyes rdo rje bcas//
 rtsa gsum rab 'byams rgya mtsho lhag pa'i lhas//
 rjes bzung byin rlabs dbang bskur lung bstan thob//
 slob dpon chen po 'jam dpal bshes gnyen dang*//
-sprul pa'i gter chen rig 'dzin pad+ma gling*//
+sprul pa'i gter chen rig 'dzin padma gling*//
 chos rje 'dzam gling bde ba'i rdo rje yi//
 gsang gsum thugs rje'i sgyu 'phrul rol pa las//
 sprul pa'i sku mchog 'jigs med bdud las rgyal//
 dge legs nor bu phun sum tshogs pa'i dpal//
 zhabs pad mi shigs rdo rje ltar brtan cing*//
 phrin las 'dzam gling kun khyab 'bar gyur cig /</tei:p>
-<tei:p n="2" unit="page">ces pa'ang rang grwa mgon bla bsod nams dpal 'bar nas bkra shis pa'i lha reg dang rten bcas ched bskul ngor/ mtsho skyes pad+ma'i gsang gsum gyi byin rlabs yang yang thob pa'i skal pa can kho bo nam mkha' dri med rab 'byams pas sgro bkur dang bral bar brjod pas de bzhin du 'grub pa'i rgyur gyur cig sid+dhi rastu// 1$0000024</tei:p>
+<tei:p n="2" unit="page">ces pa'ang rang grwa mgon bla bsod nams dpal 'bar nas bkra shis pa'i lha reg dang rten bcas ched bskul ngor/ mtsho skyes padma'i gsang gsum gyi byin rlabs yang yang thob pa'i skal pa can kho bo nam mkha' dri med rab 'byams pas sgro bkur dang bral bar brjod pas de bzhin du 'grub pa'i rgyur gyur cig siddhi rastu// 1$0000024</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

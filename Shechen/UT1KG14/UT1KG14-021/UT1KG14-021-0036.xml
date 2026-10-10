@@ -1,11 +1,11 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">thugs rje chen po rgyal po lugs 'gro 'dul gyi brgyud 'debs bzhugs so/  /chos sku snang mtha' longs sku spyan ras gzigs/  /sprul sku gangs can la</tei:title><tei:author/><tei:title>thugs rje chen po rgyal po lugs 'gro 'dul gyi brgyud 'debs bzhugs so/  /chos sku snang mtha' longs sku spyan ras gzigs/  /sprul sku gangs can la</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-021-0036</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/21-ZHA/Terzod-zha-P35.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250thugs rje chen po rgyal po lugs 'gro 'dul gyi brgyud 'debs bzhugs so//
 1$0000300chos sku snang mtha' longs sku spyan ras gzigs//
 sprul sku gangs can lha cig srong btsan dang*//
-rgyal kun spyi gzugs pad+ma 'byung gnas la//
+rgyal kun spyi gzugs padma 'byung gnas la//
 gsol ba 'debs so snying po'i don rtogs shog /zab gter sgo 'byed grub thob dngos grub dang*//
 gter chen nyang ral nyi ma 'od zer zhabs//
 mi bskyod rdo rje lce btsun shāka bzang la//
@@ -22,7 +22,7 @@ mtshungs med lo chen dharma shrī'i zhabs//
 grub pa'i dbang phyug kun bzang klong grol rje//
 gsol ba 'debs so= snyan brgyud mnga' bdag legs pa'i 'byung gnas zhabs//
 gdams pa'i chu bo kun 'dus sher mchog dpal//
-nyang ston grub dbang pad+ma'i mtshan can la//
+nyang ston grub dbang padma'i mtshan can la//
 gsol ba 'debs so=</tei:p>
 <tei:p n="2" unit="page">❀ bka' drin mnyam med rtsa ba'i bla ma dang*//
 dngos grub mchog stsol 'phags mchog spyan ras gzigs//

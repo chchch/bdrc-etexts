@@ -1,11 +1,11 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(kha)༄༅/  /sgrub thabs mtsho skyes kyi bsdus don bzhugs/  /༄༅/  /dpal kye'i rdo rje la phyag 'tshal lo/  /slob dpon pad+ma badz+ras mdzad pa'i sgrub thabs</tei:title><tei:author/><tei:title>(kha)༄༅/  /sgrub thabs mtsho skyes kyi bsdus don bzhugs/  /༄༅/  /dpal kye'i rdo rje la phyag 'tshal lo/  /slob dpon pad+ma badz+ras mdzad pa'i sgrub thabs</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(kha)༄༅/  /sgrub thabs mtsho skyes kyi bsdus don bzhugs/  /༄༅/  /dpal kye'i rdo rje la phyag 'tshal lo/  /slob dpon padma badzras mdzad pa'i sgrub thabs</tei:title><tei:author/><tei:title>(kha)༄༅/  /sgrub thabs mtsho skyes kyi bsdus don bzhugs/  /༄༅/  /dpal kye'i rdo rje la phyag 'tshal lo/  /slob dpon padma badzras mdzad pa'i sgrub thabs</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-041-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA040.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(kha)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-041-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA040.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(kha)༄༅//
 sgrub thabs mtsho skyes kyi bsdus don bzhugs// ༄༅//
 dpal kye'i rdo rje la phyag 'tshal lo//
-slob dpon pad+ma badz+ras mdzad pa'i sgrub thabs la don gsum ste/ phyag 'tshal zhing bshad par dam bca' ba dang*/ sgrub thabs kyi gzhung dang*/ mjug khengs bskyung zhing dge ba'i rtsa ba bsngo ba'o//
+slob dpon padma badzras mdzad pa'i sgrub thabs la don gsum ste/ phyag 'tshal zhing bshad par dam bca' ba dang*/ sgrub thabs kyi gzhung dang*/ mjug khengs bskyung zhing dge ba'i rtsa ba bsngo ba'o//
 dang po la gnyis te/ phyag 'tshal ba dang*/ bshad par dam bca' ba'o//
 spyi don gnyis pa gzhung gi don la gnyis te/ rten gyi gang zag gi dbang du byas te sgrub pa po rten gyi gang zag gi khyad par rnam par gzhag pa dang*/ des nyams su blangs pa'i dbang du byas te rnal 'byor bsgom pa'i go rim bstan pa'o//
 de la gnyis te/ sngon du 'gro ba'i cho ga tshogs gnyis bsag pa dang*/ de kho na nyid kyi rnal 'byor bsgom pa'i rim pa dngos so//
@@ -39,5 +39,5 @@ de la gsum/</tei:p>
 <tei:p n="4" unit="page">sku rdo rje'i rnal 'byor pas phyag gnyis pa bsgom pa dang*/ gsung rdo rje'i rnal 'byor pas phyag bzhi pa bsgom pa dang*/ thugs rdo rje'i rnal 'byor pas phyag drug pa bsgom pa'o//
 mnyam par ma bzhag pa la bzhi/ bzlas pa'i sngags bstan pa dang*/ spyod lam gyi rnal 'byor dang*/ dag pa rjes su dran pa dang*/ lam 'bras bu dang bcas pa'i phyir smon lam gdab par bstan pa'o//
 mjug gi don la bzhi/ rnal 'byor pa mchog la bzod par gsol ba dang*/ khengs bskyung ba dang*/ slob dpon bdag nyid cung zad drod dam nus pa thob par bstan pas gzhung rtsom pa'i rgyu bstan pa dang*/ brtsams pa'i dge ba'i rtsa ba gzhan don du bsngo ba'o//
-sa māp+ta mi thi// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+sa māpta mi thi// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

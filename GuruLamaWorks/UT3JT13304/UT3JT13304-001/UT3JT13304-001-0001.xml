@@ -1,10 +1,10 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13304-001-0001</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13304</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/PARCHIN/rtfs/volume-001/066PARCHIN.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000270 </tei:p>
 <tei:p n="2" unit="page">(1) ༄༅//
-shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan zhes bya ba bzhugs so// (2) rgya gar skad du/ a bhi sa ma ya a laṃ kā ra nā ma pra dzñā pā ra mi ta u pa de sha shās+t+ra kā ri kā/ bod skad du/ shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan zhes bya ba'i tshig le'ur byas pa/ sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo//
+shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan zhes bya ba bzhugs so// (2) rgya gar skad du/ a bhi sa ma ya a laṃ kā ra nā ma pra dzñā pā ra mi ta u pa de sha shāst+ra kā ri kā/ bod skad du/ shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan zhes bya ba'i tshig le'ur byas pa/ sangs rgyas dang byang chub sems dpa' thams cad la phyag 'tshal lo//
 nyan thos zhi ba tshol rnams kun shes nyid kyis nyer zhir 'khrid mdzad gang yin dang*//
 'gro la phan par byed rnams lam shes nyid kyis 'jig rten don sgrub mdzad pa gang*//
 gang dang yang dag ldan pas thub rnams rnam pa kun ldan sna tshogs 'di gsungs pa//
@@ -1033,7 +1033,7 @@ rno dang dkar dang mnyam pa dang*//
 byin gyis phra dang shangs mtho dang*//
 mchog tu dag pa dag dang ni//
 spyan yangs pa dang rdzi ma stug</tei:p>
-<tei:p n="25" unit="page">/pad+ma'i 'dab ma 'dra ba dang*//
+<tei:p n="25" unit="page">/padma'i 'dab ma 'dra ba dang*//
 smin tshugs ring dang 'jam pa dang*//
 snum dang spu ni mnyam pa dang*//
 phyag ring rgyas dang snyan mnyam dang*//
@@ -1086,6 +1086,6 @@ don bsdus gzhan de rnam pa drug /yul ni rnam pa gsum po rgyu//
 sbyor ba bzhi yi bdag nyid dang*//
 chos sku phrin las 'bras bu ni//
 don bsdus gzhan te rnam pa gsum//
-'phags pa shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan zhes bya ba'i tshig le'ur byas pa rdzogs so// //paṇ+ḍi ta go mi 'chi med dang*/ lo tsā ba blo ldan shes rab kyi 'gyur// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
+'phags pa shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan zhes bya ba'i tshig le'ur byas pa rdzogs so// //paṇḍi ta go mi 'chi med dang*/ lo tsā ba blo ldan shes rab kyi 'gyur// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
 /1$0000270</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

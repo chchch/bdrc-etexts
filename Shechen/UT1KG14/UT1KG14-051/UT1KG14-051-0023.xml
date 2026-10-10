@@ -1,13 +1,13 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rta glud gtang ba bsdus pa bzhugs so/  /na mo ār+ya re man+ta ye/rta glud zan nam rtswa la rta gzugs bya/  /glud dang changs bu ting lo spu glud bran/  /ra</tei:title><tei:author/><tei:title>rta glud gtang ba bsdus pa bzhugs so/  /na mo ār+ya re man+ta ye/rta glud zan nam rtswa la rta gzugs bya/  /glud dang changs bu ting lo spu glud bran/  /ra</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">rta glud gtang ba bsdus pa bzhugs so/  /na mo ārya re manta ye/rta glud zan nam rtswa la rta gzugs bya/  /glud dang changs bu ting lo spu glud bran/  /ra</tei:title><tei:author/><tei:title>rta glud gtang ba bsdus pa bzhugs so/  /na mo ārya re manta ye/rta glud zan nam rtswa la rta gzugs bya/  /glud dang changs bu ting lo spu glud bran/  /ra</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-051-0023</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/51-ZHI/TERDZO-ZHI-P22.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250rta glud gtang ba bsdus pa bzhugs so//
-1$0000300na mo ār+ya re man+ta ye/</tei:p>
+1$0000300na mo ārya re manta ye/</tei:p>
 <tei:p n="2" unit="page"> rta glud zan nam rtswa la rta gzugs bya//
 glud dang changs bu ting lo spu glud bran//
 rang nyid lhar gsal 'di skad brjod par bya//
- oṃ a mṛte hūm̐ phaṭa/ oṃ swa bhā wa  sogs/ bh+rūm̐ las rin chen snod du ti yig las//
+ oṃ a mṛte hūm̐ phaṭa/ oṃ swa bhā wa  sogs/ bhrūm̐ las rin chen snod du ti yig las//
 rta glud rta mchog rin chen dpag med dang*//
 g.yung drel rlung gi bong bu gwa pa sogs//
 rlung gshog rdzu 'phrul rkang pa myur mgyogs ldan//
@@ -43,7 +43,7 @@ bdag cag yon mchod tshe rabs thog med nas//
 bzhon pa rngog chags brkus phrogs brdungs bsad kyi//
 lan chags bu lon bdag po thams cad la//
 rngog chags glud bzang rgya chen 'di 'bul lo//
-na maḥsarba ta thā ga ta a wa lo ki te oṃ sam+bha ra sam+bha ra hūm̐/</tei:p>
+na maḥsarba ta thā ga ta a wa lo ki te oṃ sambha ra sambha ra hūm̐/</tei:p>
 <tei:p n="3" unit="page">lan gsum mam bdun brjod/ hūm̐/ bgegs dang lan chags btsan sri glud bdag rnams//
 glud gtor bdud rtsi'i longs spyod 'di phul bas//
 thams cad ma lus ngoms shing tshims gyur nas//
@@ -59,7 +59,7 @@ dkon mchog gsum dang chos nyid rnam dag dang*//
 rgyu 'bras bslu ba med pa bden pa'i stobs//
 rta mchog he ru ka dang gsang ba'i bdag /gu ru rdo rje gro lod mthu stobs kyis/ khyed kyi lus srog rdul du brlag par 'gyur//
  tshar mang po gtong na 'di yan wig / de bas glud gtor khyer la gzhan du dengs//
-phyin chad nam yang gnod par ma byed cig / ces brjod/ oṃ sum+bha ni  sogs mtshams bcad srung 'khor bsgom par bya'o//
-zhes rang la mkho ba byung dus rā ga a s+yas 'phral du sbyar ba la nyes pa gang mchis bshags shing sems can la phan par gyur cig /maṅga laṃ///
+phyin chad nam yang gnod par ma byed cig / ces brjod/ oṃ sumbha ni  sogs mtshams bcad srung 'khor bsgom par bya'o//
+zhes rang la mkho ba byung dus rā ga a syas 'phral du sbyar ba la nyes pa gang mchis bshags shing sems can la phan par gyur cig /maṅga laṃ///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

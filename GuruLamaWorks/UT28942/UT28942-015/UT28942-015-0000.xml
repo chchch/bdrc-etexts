@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /dad dmigs rnams kyi khrid yig rgyal sras rnams kyi 'jug ngogs bzhugs/  /</tei:title><tei:author/><tei:title>༄༅/  /dad dmigs rnams kyi khrid yig rgyal sras rnams kyi 'jug ngogs bzhugs/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT28942-015-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W28942</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/RONGTON/RONT015.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -173,5 +173,5 @@ srid pa'i rgya mtsho che las myur thar te//
 rnam mkhyen thar pa'i gling du bgrod par shog /dpal ldan bla ma rnams kyi byin rlabs dang*//
 rgyal ba sras bcas rnams kyi thugs rje dang*//
 chos skyong srung ma rnams kyi mthu stobs kyis//
-bdag gi smon lam ji bzhin 'grub par shog /ces dmigs rnam sgom pa'i khrid yig rgyal sras rnams kyi 'jug ngogs zhes bya ba rong ston chen po shes bya kun rig gis dpal nā len+d+ra'i dgon par sbyar ba'o// //'di bris dge bas sems can thams cad sangs rgyas kyi sa la 'god nus pa'i nus pa dang ldan par gyur cig /dpe gnyis bsdur nas zhus so// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
+bdag gi smon lam ji bzhin 'grub par shog /ces dmigs rnam sgom pa'i khrid yig rgyal sras rnams kyi 'jug ngogs zhes bya ba rong ston chen po shes bya kun rig gis dpal nā lend+ra'i dgon par sbyar ba'o// //'di bris dge bas sems can thams cad sangs rgyas kyi sa la 'god nus pa'i nus pa dang ldan par gyur cig /dpe gnyis bsdur nas zhus so// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

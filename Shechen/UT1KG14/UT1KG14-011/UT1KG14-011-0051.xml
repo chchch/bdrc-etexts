@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">'od gsal rdo rje snying po'i rig 'dzin brgyud pa'i skong bshags ḍā ki'i thol glu zhes bya ba bzhugs so/  /na mo gu ru bh+yaḥgazod nas ka dag dri med</tei:title><tei:author/><tei:title>'od gsal rdo rje snying po'i rig 'dzin brgyud pa'i skong bshags ḍā ki'i thol glu zhes bya ba bzhugs so/  /na mo gu ru bh+yaḥgazod nas ka dag dri med</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">'od gsal rdo rje snying po'i rig 'dzin brgyud pa'i skong bshags ḍā ki'i thol glu zhes bya ba bzhugs so/  /na mo gu ru bhyaḥgazod nas ka dag dri med</tei:title><tei:author/><tei:title>'od gsal rdo rje snying po'i rig 'dzin brgyud pa'i skong bshags ḍā ki'i thol glu zhes bya ba bzhugs so/  /na mo gu ru bhyaḥgazod nas ka dag dri med</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-011-0051</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/11-DA/terdzo-DA-P50.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250'od gsal rdo rje snying po'i rig 'dzin brgyud pa'i skong bshags ḍā ki'i thol glu zhes bya ba bzhugs so//
-1$0000300na mo gu ru bh+yaḥ </tei:p>
+1$0000300na mo gu ru bhyaḥ </tei:p>
 <tei:p n="2" unit="page">gzod nas ka dag dri med chos kyi sku /'od gsal lhun grub skur bzhengs longs spyod rdzogs//
 zung 'jug sprul pa'i zer gyis rigs can gsum//
 phan bde'i snang ba sbyin des dge legs stsol//
@@ -37,7 +37,7 @@ rnam grol dzñā na sū tra'i thugs dam bskang*//
 'chi med thog ma'i mgon po'i rnam rol ni//
 'chi med rtag pa dam pa'i gzugs 'chang ba//
 'chi med rig 'dzin ḍā ki'i tshogs kyi rje//
-'chi med pad+ma thod phreng thugs dam bskang*//
+'chi med padma thod phreng thugs dam bskang*//
 grub pa'i slob dpon chen pos rjes bzung zhing*//
 grub gnyis yid bzhin gter la dbang 'byor bas//
 grub mchog bye ba'i gtsug na ngal 'tsho ba//
@@ -80,5 +80,5 @@ tshe bsod dpal 'byor nyams rtogs yon tan rgyas//
 gzung 'dzin dgra bgegs rtsad nas chod par shog /mthar thug cir snang lha yi phyag rgyar dag /sgrar grags bde chen rdo rje'i dbyangs su rdzogs//
 rtog tshogs 'od gsal chos kyi skur smin nas//
 rang bzhin gdod ma'i dbyings su grol bar shog</tei:p>
-<tei:p n="4" unit="page">/ de ltar 'od gsal snying tig gi rig 'dzin bla ma brgyud pa'i tshogs kyi thugs dam skong ba'i rim pa mkha' spyod ḍā ki'i thol glu zhes bya ba 'di yang*/ theg pa mchog gi rnal 'byor pa kun mkhyen bla ma dgyes pa'i 'bangs 'jigs pa med pa'i sdes phyogs bral gyi rgyal khams nyul ba'i skabs su rgyal ba gnyis pa dri med 'od zer gyis sde gsum rdzogs pa chen po'i seng ge'i sgra dbyangs kyis bsil ldan ljongs kun khyab par mdzad pa'i gnas gangs ri thod dkar 'od zer sprin gyi skyed mos tshal du rnam 'phyang lo'i sa zla phyi ma'i dmar phyogs ḍā ki 'du ba'i dus kyi mchod pa chen po'i nub mor snang gsal zhig gi ngogs su shar mar sbyar ba dza yan+tu/ sarba dā maṅga laṃ// //</tei:p>
+<tei:p n="4" unit="page">/ de ltar 'od gsal snying tig gi rig 'dzin bla ma brgyud pa'i tshogs kyi thugs dam skong ba'i rim pa mkha' spyod ḍā ki'i thol glu zhes bya ba 'di yang*/ theg pa mchog gi rnal 'byor pa kun mkhyen bla ma dgyes pa'i 'bangs 'jigs pa med pa'i sdes phyogs bral gyi rgyal khams nyul ba'i skabs su rgyal ba gnyis pa dri med 'od zer gyis sde gsum rdzogs pa chen po'i seng ge'i sgra dbyangs kyis bsil ldan ljongs kun khyab par mdzad pa'i gnas gangs ri thod dkar 'od zer sprin gyi skyed mos tshal du rnam 'phyang lo'i sa zla phyi ma'i dmar phyogs ḍā ki 'du ba'i dus kyi mchod pa chen po'i nub mor snang gsal zhig gi ngogs su shar mar sbyar ba dza yantu/ sarba dā maṅga laṃ// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

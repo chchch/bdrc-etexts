@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /shes rab kyi pha rol tu phyin pa nyams su len pa'i man ngag zab don snying po zhes bya ba/bla ma dang lhag pa'i lha la phyag 'tshal lo/  /gang la gang gis skya</tei:title><tei:author/><tei:title>༄༅/  /shes rab kyi pha rol tu phyin pa nyams su len pa'i man ngag zab don snying po zhes bya ba/bla ma dang lhag pa'i lha la phyag 'tshal lo/  /gang la gang gis skya</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT28942-049-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W28942</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/RONGTON/RONT049.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -146,8 +146,8 @@ bla med go 'phang thob par 'gyur zhes smra//
 pha mas gtso byas srid na gnas pa kun//
 sa dang lam gyi rim pa legs bgrod nas//
 thams cad mkhyen pa'i go 'phang thob par shog</tei:p>
-<tei:p n="9" unit="page">/ces pa 'di yang rong ston chen po shes bya kun rig gis dpal nā len+d+rar sbyar ba'i yi ge pa ni nam mkha' dpal ldan no//
-'dis kyang bstan pa rin po che phyogs dus kun tu dar zhing rgyas par gyur cig/ ༈ //oṃ swasti pra dzā bh+yaḥ rdzogs sangs ye shes 'gro blo'i me long du//
+<tei:p n="9" unit="page">/ces pa 'di yang rong ston chen po shes bya kun rig gis dpal nā lend+rar sbyar ba'i yi ge pa ni nam mkha' dpal ldan no//
+'dis kyang bstan pa rin po che phyogs dus kun tu dar zhing rgyas par gyur cig/ ༈ //oṃ swasti pra dzā bhyaḥ rdzogs sangs ye shes 'gro blo'i me long du//
 gzugs sku'i bkod pa ci yang 'char ba las//
 bskal bzang 'dren pa stong gi drug par grags//
 rong ston chos rjes yid la rol par mdzod//
@@ -175,5 +175,5 @@ rjes su 'brang zhing bsrung ba nyid du mdzod//
 ces rnam 'gyur zhes pa lcags pho stag gi lo//
 smin drug zla ba'i dkar tshes la yongs su rdzogs par grub pa'i mthus/ rong ston chen po'i bstan pa phyogs dus kun tu dar zhing rgyas pa'i rgyur gyur cig</tei:p>
 <tei:p n="10" unit="page">'di'i lung gi brgyud pa ni/ rong ston thams cad mkhyen pa/ chos rje brgya rdo ba nam mkha' dpal bzang*/ kun mkhyen shākya don grub/ 'jam dbyangs kun dga' legs grub/ des bdag dge slong dpal byams pa kun dga' chos kyi grags pa la'o//
-shu bhaṃ mastu sar+b+ba dza ga tāṃ/ ye dharmā he tu pra bha wa he tun+te ṣān ta thā ga to h+ya ba data/ te ṣāñtsa yo ni ro dha e waṃ bā dī ma hā shra ma ṇa// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
+shu bhaṃ mastu sarb+ba dza ga tāṃ/ ye dharmā he tu pra bha wa he tunte ṣān ta thā ga to hya ba data/ te ṣāñtsa yo ni ro dha e waṃ bā dī ma hā shra ma ṇa// // ༈ bal yul mchod rten nye 'dabs nas rgyal yongs sa chen zhes pa las/ slob bu tha shal pa gu rus spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

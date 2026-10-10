@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(405)༄༅/  /bskang ba bsod nams gter mdzod zhes bya ba bzhugs so/  /tshogs kyi yo byad mang zhing bzang la gya noms pa dang/sha dang chang gi bza' btung mang du bsha</tei:title><tei:author/><tei:title>(405)༄༅/  /bskang ba bsod nams gter mdzod zhes bya ba bzhugs so/  /tshogs kyi yo byad mang zhing bzang la gya noms pa dang/sha dang chang gi bza' btung mang du bsha</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22946-002-0007</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22946</tei:idno><tei:idno type="SRC_PATH">PalriParkhang/W22946-mkhan-po-ngag-dbang-dpal-bzang-_ngaga/rtfs/NGAGA-vol-2-KHA/G-SONAM.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(405) ༄༅//
@@ -34,7 +34,7 @@ rdo rdze gzhon nu yab yum thugs dam bskang*//
 'jigs byed chen po khro rgyal yab yum bcu//
 za byed gsod byed khra thabs nyi shu dang*//
 pho brang sgo srung ma bzhi'i thugs= /las bzhi'i phrin las mdzad pa stobs dang ldan//
-sras mchog badz+ra kī li'i=</tei:p>
+sras mchog badzra kī li'i=</tei:p>
 <tei:p n="2" unit="page">/phyi nang dbang phyug mkha' 'gro bzhi dang bcas//
 dam can bcu gnyis lcam dral thugs dam bskang*//
 ging chen bco brgyad ging phran 'bum phrag bcas//

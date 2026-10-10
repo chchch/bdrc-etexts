@@ -1,8 +1,8 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /khams gsum chos kyi rgyal po thub dbang rat+na shrī 'bri gung 7skyob pa 'jig rten mgon po'i phyi yi bka' 'bum nor bu'i bang mdzod kyi </tei:title><tei:author/><tei:title>༄༅/  /khams gsum chos kyi rgyal po thub dbang rat+na shrī 'bri gung 7skyob pa 'jig rten mgon po'i phyi yi bka' 'bum nor bu'i bang mdzod kyi </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /khams gsum chos kyi rgyal po thub dbang ratna shrī 'bri gung 7skyob pa 'jig rten mgon po'i phyi yi bka' 'bum nor bu'i bang mdzod kyi </tei:title><tei:author/><tei:title>༄༅/  /khams gsum chos kyi rgyal po thub dbang ratna shrī 'bri gung 7skyob pa 'jig rten mgon po'i phyi yi bka' 'bum nor bu'i bang mdzod kyi </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13348-013-0005</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13348</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/2_KYOPA/rtfs/volume-013/CHOGDRIG.Tha.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅/ /khams gsum chos kyi rgyal po thub dbang rat+na shrī 'bri gung 7skyob pa  'jig rten mgon po'i phyi yi bka' 'bum nor bu'i bang mdzod kyi </tei:p>
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13348-013-0005</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13348</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/2_KyOPA/rtfs/volume-013/CHOGDRIG.Tha.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅/ /khams gsum chos kyi rgyal po thub dbang ratna shrī 'bri gung 7skyob pa  'jig rten mgon po'i phyi yi bka' 'bum nor bu'i bang mdzod kyi </tei:p>
 <tei:p n="2" unit="page">dkar chag bzhugs so// bod rab byung bcu bdun pa bya lo (2000) 'phrul dpar thengs gnyis pa zhus sgrigs pa'i gtam/ ngo sprod snying bsdus/ ༄༅/ /'das dus klu rigs sgron dang mar med mdzad//
 ma 'ongs byams pa da lta shākya thub//
 rnying ma'i dus mthar 7skyob pa 'bri gung pa/ 'jig rten gsum gyi mgon por gus phyag 'tshal/ byin rlabs brgyud pa'i mnga' bdag mar ston rje//
@@ -30,6 +30,6 @@ sngon 7rgyal dbang kun dga' rin chen gyi skabs su/ 7skyob pa'i bka' 'bum mthing 
 /</tei:p>
 <tei:p n="11" unit="page">legs byas dge ba ri bong 'dzin ltar cha shas yongs su gang ba 'di//
  rgyal ba'i bstan pa tsha zer rab 'bar gtsug lag pad tshal phyogs bcur rgyas//
- bstan 'dzin 'dab stong yongs su+u grol nas nges don snying po sbrang rtsis gtams//
+ bstan 'dzin 'dab stong yongs suu grol nas nges don snying po sbrang rtsis gtams//
  bdag gzhan 'gro kun sum rtsen gnas ltar bde skyid dpal la longs spyod shog /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

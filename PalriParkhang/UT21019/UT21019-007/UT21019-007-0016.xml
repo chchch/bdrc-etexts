@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">321)༄༅/bsangs bsur bsngo ba'i cho ga rgyas pa phrin las myur 'grub 'dod 'byung yid bzhin sprin phung bzhugs so/322)na mo/skyabs gnas bslu med dkon</tei:title><tei:author/><tei:title>321)༄༅/bsangs bsur bsngo ba'i cho ga rgyas pa phrin las myur 'grub 'dod 'byung yid bzhin sprin phung bzhugs so/322)na mo/skyabs gnas bslu med dkon</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Palri Parkhang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT21019-007-0016</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W21019</tei:idno><tei:idno type="SRC_PATH">PalriParkhang/W21019-rtse-le-sna-tshogs-rang-grol/rtfs/Tseley-Natsog-Rangdrol-Volume-7/Volume-7-Tsele-_321-330_.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">321) ༄༅/ bsangs bsur bsngo ba'i cho ga rgyas pa phrin las myur 'grub 'dod 'byung yid bzhin sprin phung bzhugs so/ 322) na mo/ skyabs gnas bslu med dkon mchog rnams//
@@ -26,7 +26,7 @@ phyag 'tshal mchod 'bul mnyes byas bshags//
  324) dge la yi rang chos bskor bskul//
 mya ngan mi 'da' gsol 'debs shing*//
 dge 'bras byang chub rgyur bsngo'o//
-na maḥ sarba ta thā ga te bh+yo bi shwa mu khe bh+yaḥsarba tad khaṃ ud+ga te s+pha ra ṇa i maṃ ga ga na khaṃ swā hā/ nam mkha' mdzod kyi ting 'dzin 'phrul//
+na maḥ sarba ta thā ga te bhyo bi shwa mu khe bhyaḥsarba tad khaṃ udga te spha ra ṇa i maṃ ga ga na khaṃ swā hā/ nam mkha' mdzod kyi ting 'dzin 'phrul//
 'dod yon longs spyod mchod pa'i sprin//
 gang la gang 'dod tshim byed pa'i//
 bsangs dang bsur gyi mchod pa 'di//
@@ -135,5 +135,5 @@ bde legs phun tshogs 'byung ba dang*//
 rdzogs pa'i sangs rgyas thob par shog  /phyogs dus gnas skabs thams cad du//
 bkra shis char chen rgyun mi chad//
 rgya cher babs pa'i byin rlabs ni//
-nam mkha'  330) mnyam pa 'byung bar shog  mgron rnams so so rang rang gi gnas su gshegs par gyur/ bsur mchod kyi rim pa rgyas par bkod pa 'di ni/ klo yul bhung bhal zhes bya ba'i sa phyogs kyi dpon po pad+ma'i ming can gang gis bskul ngor bris pa dge'o/ bkra shis/ </tei:p>
+nam mkha'  330) mnyam pa 'byung bar shog  mgron rnams so so rang rang gi gnas su gshegs par gyur/ bsur mchod kyi rim pa rgyas par bkod pa 'di ni/ klo yul bhung bhal zhes bya ba'i sa phyogs kyi dpon po padma'i ming can gang gis bskul ngor bris pa dge'o/ bkra shis/ </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

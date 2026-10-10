@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /'jam dpal tshe bdag nag po'i brgyud pa'i gsol 'debs byin chen nus pa'i char 'bebs bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /'jam dpal tshe bdag nag po'i brgyud pa'i gsol 'debs byin chen nus pa'i char 'bebs bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT10736-017-0001</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W10736</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Padma-Karpo/rtfs/17_tsa/17_01_tsa_qjam-dpal-tshe-bdag-nag-poqi-brgyud-paqi-gsol-qdebs-byin-chen-nus-paqi-char-qbebs.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ ༄༅//
@@ -19,7 +19,7 @@ rig 'dzin shrī seng ha la//
 gsol ba 'debs so thugs rje can//
 bdag la dbang bskur byin gyis rlobs//
 rgya gar dur khrod nag po nas//
-paṇa chen shin+taṃ gar+bha la//
+paṇa chen shintaṃ garbha la//
 gsol ba= /bdag la= /bal yul yam bu'i grong khyer nas//
 rgyal po bha su dhā ra la//
 gsol ba= /bdag la= /bod yul sgrag kyi yangs rdzong nas//
@@ -33,19 +33,19 @@ dhārma ke tu slob dpon la//
 gsol ba= /bdag la= /gnubs chen gu ru mchog ldan dang*//
 mthu chen rgyal mtshan lhun grub la//
 gsol ba= /bdag la= /sngags 'chang tshe bdag bkra shis dang*//
-rig 'dzin pad+ma dkar po la//
+rig 'dzin padma dkar po la//
 gsol ba= /bdag la= /yongs 'dzin ngag dbang bzang po dang*//
 rgyal ba dpag bsam dbang po la//
 gsol ba= /bdag la= /'dren mchog kun dga' lhun grub dang*//
 chos kyi dbang phyug dge legs zhabs//
 gsol ba= /bdag la= /zil gnon ye shes rol pa dang*//
 grub mchog ngag dbang bde chen la//
-gsol ba= /bdag la= /dpal chen dharma sur+ya dang*//
+gsol ba= /bdag la= /dpal chen dharma surya dang*//
 yongs 'dzin 'jam dpal dpa' bo la//
 gsol ba= /bdag la= /mi pham 'jam dpal rdo rje dang*//
 las rab bde chen rtsal gyi zhabs//
 gsol ba= /bdag la= /rig 'dzin chos skyong mgon po dang*//
-bdud 'joms pad+ma dgyes pa la//
+bdud 'joms padma dgyes pa la//
 gsol ba= /bdag la= /mthu stobs chos kyi rgya mtsho dang*//
 drin chen rtsa ba'i bla ma la//
 gsol ba=</tei:p>

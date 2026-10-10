@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /bde ba can du bgrod pa'i smon lam ni/maṅga laṃ swasti bha wan+tu/shes bya thams cad mngon sum gzigs pa po/  /mchog gi yon tan ma lus mthar phyin pa</tei:title><tei:author/><tei:title>༄༅/  /bde ba can du bgrod pa'i smon lam ni/maṅga laṃ swasti bha wan+tu/shes bya thams cad mngon sum gzigs pa po/  /mchog gi yon tan ma lus mthar phyin pa</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /bde ba can du bgrod pa'i smon lam ni/maṅga laṃ swasti bha wantu/shes bya thams cad mngon sum gzigs pa po/  /mchog gi yon tan ma lus mthar phyin pa</tei:title><tei:author/><tei:title>༄༅/  /bde ba can du bgrod pa'i smon lam ni/maṅga laṃ swasti bha wantu/shes bya thams cad mngon sum gzigs pa po/  /mchog gi yon tan ma lus mthar phyin pa</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13298-001-0001</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13298</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Karmapa-05/rtfs/01_5th-Karmapa-text-Dhemon-Shejama/5th-Karmapa-text_tdoc_bde-smon-shejama.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
 "$ "_ </tei:p>
-<tei:p n="2" unit="page">bde ba can du bgrod pa'i smon lam ni/ maṅga laṃ swasti bha wan+tu/ shes bya thams cad mngon sum gzigs pa po//
+<tei:p n="2" unit="page">bde ba can du bgrod pa'i smon lam ni/ maṅga laṃ swasti bha wantu/ shes bya thams cad mngon sum gzigs pa po//
 mchog gi yon tan ma lus mthar phyin pa'i//
 zla med brnyes pa de dang dam pa'i chos//
 byang chub sems dpa'i tshogs la gus phyag 'tshal//
@@ -93,7 +93,7 @@ sna tshogs mchod pas bdag gi sngun bsu zhing*//
 rang snang dri med chos kyi dbyings rang bzhin//
 rnam dag bde ba can gyi zhing khams der//
 bde chen sems kyis bde blag bgrod gyur cig /zhing der dmar ser 'od kyi phung po'i dbus//
-rab mang rin chen pad+ma'i ze'u 'bru la//
+rab mang rin chen padma'i ze'u 'bru la//
 dge slong bye ba 'bum dang thabs gcig pa'i//
 chos rje 'od dpag med pa mthong gyur cig /rgyal sras tshogs kyis yongs bskor bcom ldan 'das//
 thun mtshams 'char ka'i nyin byed ltar dmar ba//

@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ga)༄༅/  /rje btsun 'phags ma sgrol ma la gsol ba 'debs pa thugs dam gnad nas bskul ba'i sgra dbyangs bzhugs so/  /༄༅/  /na ma ār+yā tā rā yai/rnam mang</tei:title><tei:author/><tei:title>(ga)༄༅/  /rje btsun 'phags ma sgrol ma la gsol ba 'debs pa thugs dam gnad nas bskul ba'i sgra dbyangs bzhugs so/  /༄༅/  /na ma ār+yā tā rā yai/rnam mang</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ga)༄༅/  /rje btsun 'phags ma sgrol ma la gsol ba 'debs pa thugs dam gnad nas bskul ba'i sgra dbyangs bzhugs so/  /༄༅/  /na ma āryā tā rā yai/rnam mang</tei:title><tei:author/><tei:title>(ga)༄༅/  /rje btsun 'phags ma sgrol ma la gsol ba 'debs pa thugs dam gnad nas bskul ba'i sgra dbyangs bzhugs so/  /༄༅/  /na ma āryā tā rā yai/rnam mang</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23681-001-0083</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23681</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/Drub-thab-kuntu/rtfs/volume-001-014/DBTU083.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ga)༄༅//
 rje btsun 'phags ma sgrol ma la gsol ba 'debs pa thugs dam gnad nas bskul ba'i sgra dbyangs bzhugs so// ༄༅//
-na ma ār+yā tā rā yai/ rnam mang sku yi bkod pa dpag med cing*//
+na ma āryā tā rā yai/ rnam mang sku yi bkod pa dpag med cing*//
 rnam dag gsung gi spros pa mtha' las 'das//
 rnam grol thugs mnga' grangs med 'gro ba'i skyabs//
 bcom ldan sgrol ma'i zhabs la phyag 'tshal lo//
@@ -103,8 +103,8 @@ mdor na bcom ldan khyod kyi thugs rje yis//
 khrel med bdag gi drin can pha ma rnams//
 'khor ba'i sdug bsngal mtha' dag rab spangs te//
 myur du rdzogs pa'i sangs rgyas thob par mdzod//
-ces rje btsun 'phags ma sgrol ma la gsol ba 'debs pa thugs dam gnad nas bskul ba'i sgra dbyangs zhes bya ba 'di ni/ ban+de dpal grub kyis e waṃ chos 'khor rtser bris pa'o//
+ces rje btsun 'phags ma sgrol ma la gsol ba 'debs pa thugs dam gnad nas bskul ba'i sgra dbyangs zhes bya ba 'di ni/ bande dpal grub kyis e waṃ chos 'khor rtser bris pa'o//
 </tei:p>
 <tei:p n="4" unit="page">gong gi tshigs bcad rnams spro na lam du 'don par 'dod na bskyab tu gsol zhes pa'i gnas su thar bar shog ces skyar bar bya'o//
-maṅga laṃ bha wan+tu// // ༈ bal yul mchod rten rin po che bya rung kha shor gyi nye 'gram rgyal yongs sa chen zhes pa glog klad dpar khang las/ bder gshegs 7skyabs rje bco brgyad khri chen rdo rje 'chang mchog gi thugs dgongs rdzogs ched/ skyabs 'og pa tshar grwa gu rus glog klad phyag deb ched 'grem spel zhus pa'i dge 'bras sangs rgyas zhing du bsngo'o// //</tei:p>
+maṅga laṃ bha wantu// // ༈ bal yul mchod rten rin po che bya rung kha shor gyi nye 'gram rgyal yongs sa chen zhes pa glog klad dpar khang las/ bder gshegs 7skyabs rje bco brgyad khri chen rdo rje 'chang mchog gi thugs dgongs rdzogs ched/ skyabs 'og pa tshar grwa gu rus glog klad phyag deb ched 'grem spel zhus pa'i dge 'bras sangs rgyas zhing du bsngo'o// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

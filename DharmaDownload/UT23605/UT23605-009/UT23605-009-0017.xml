@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(315)༄༅/  /ri chos bai ḍūr+ya'i phreng ba zhes bya ba thar 'dod kyi mgul rgyan bzhugs so/  //  /</tei:title><tei:author/><tei:title>(315)༄༅/  /ri chos bai ḍūr+ya'i phreng ba zhes bya ba thar 'dod kyi mgul rgyan bzhugs so/  //  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(315)༄༅/  /ri chos bai ḍūrya'i phreng ba zhes bya ba thar 'dod kyi mgul rgyan bzhugs so/  //  /</tei:title><tei:author/><tei:title>(315)༄༅/  /ri chos bai ḍūrya'i phreng ba zhes bya ba thar 'dod kyi mgul rgyan bzhugs so/  //  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23605-009-0017</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23605</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/gdams-ngag-mdzod/rtfs/09_gdams-ngag-mdzod_ta/09_16_ri-chos-bai-Duryaqi-phreng-ba-zhes-bya-ba-thar-qdod-kyi-mgul-rgyan.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ (315)༄༅//
-ri chos bai ḍūr+ya'i phreng ba zhes bya ba thar 'dod kyi mgul rgyan bzhugs so///
+ri chos bai ḍūrya'i phreng ba zhes bya ba thar 'dod kyi mgul rgyan bzhugs so///
 /</tei:p>
 <tei:p n="2" unit="page">(316)༄༅//
 na ma shrī gu ra we/ rnam dag bde ba mchog gi dkyil 'khor du//
@@ -102,6 +102,6 @@ ri chos gdams pa'i dwang ma 'di yang rmad//
 de phyir byang chub (323)phyogs kyi chos 'phel nas//
 'dzad med spar gyi ring bsrel bskrun pa'i dges//
 bder gshegs rigs kyis khyab pa'i mkha' mnyam 'gro//
-dri med rgyal ba'i rang zhal mngon gyur shog /ces drung rin po che kun dga' rnam rgyal gyi ri chos 'di nyid spar du bsgrubs skabs spar byang smon tshig 'di 'bru dag byed po zur ban pad+ma rnam rgyal gyis smras pa'o///
+dri med rgyal ba'i rang zhal mngon gyur shog /ces drung rin po che kun dga' rnam rgyal gyi ri chos 'di nyid spar du bsgrubs skabs spar byang smon tshig 'di 'bru dag byed po zur ban padma rnam rgyal gyis smras pa'o///
 /(324)</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

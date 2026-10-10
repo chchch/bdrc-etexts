@@ -1,18 +1,18 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pa)༄༅/  /gter kha gong 'og gi brgyud pa'i gsol 'debs mdor bsdus gsung rgyun ma bzhugs so/  /hūm̐/o rgyan yul gyi nub byang mtshams/  /pad+ma ge</tei:title><tei:author/><tei:title>(pa)༄༅/  /gter kha gong 'og gi brgyud pa'i gsol 'debs mdor bsdus gsung rgyun ma bzhugs so/  /hūm̐/o rgyan yul gyi nub byang mtshams/  /pad+ma ge</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(pa)༄༅/  /gter kha gong 'og gi brgyud pa'i gsol 'debs mdor bsdus gsung rgyun ma bzhugs so/  /hūm̐/o rgyan yul gyi nub byang mtshams/  /padma ge</tei:title><tei:author/><tei:title>(pa)༄༅/  /gter kha gong 'og gi brgyud pa'i gsol 'debs mdor bsdus gsung rgyun ma bzhugs so/  /hūm̐/o rgyan yul gyi nub byang mtshams/  /padma ge</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23681-001-0340</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23681</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/Drub-thab-kuntu/rtfs/volume-001-014/DBTU340.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(pa)༄༅//
 gter kha gong 'og gi brgyud pa'i gsol 'debs mdor bsdus gsung rgyun ma bzhugs so//
 hūm̐/ o rgyan yul gyi nub byang mtshams//
-pad+ma ge sar sdong po la//
+padma ge sar sdong po la//
 ya mtshan mchog gi dngos grub brnyes//
-pad+ma 'byung gnas zhes su grags//
+padma 'byung gnas zhes su grags//
 'khor du mkha' 'gro mang pos bskor//
 khyed kyi rjes su bdag sgrub kyi//
 byin gyis rlob phyir gshegs su gsol//
-gu ru pad+ma sid+dhi hūm̐/ dpal ldan rtsa ba'i bla ma rin po che//
-bdag gi spyi bor pad+ma'i gdan bzhugs nas//
+gu ru padma siddhi hūm̐/ dpal ldan rtsa ba'i bla ma rin po che//
+bdag gi spyi bor padma'i gdan bzhugs nas//
 bka' drin chen po'i sgo nas rjes bzung ste//
 sku gsung thugs kyi dngos grub stsal du gsol//
 e ma hoḥ spros bral chos kyi dbyings kyi zhing khams su//
@@ -20,21 +20,21 @@ chos nyid dus gsum skye 'gag med pa'i ngang*//
 bya bral lhun rdzogs bde ba chen po'i sku//
 nam mkha' bzhin du thugs rje phyogs ris med//
 bla ma chos kyi sku la gsol ba 'debs//
-o rgyan pad+ma 'byung gnas la gsol ba 'debs//
+o rgyan padma 'byung gnas la gsol ba 'debs//
 bde chen lhun gyis grub pa'i zhing khams su//
 sku gsung thugs dang yon tan phrin las kyi//
 ye shes lnga ldan bde bar gshegs pa'i sku//
 thugs rje'i bye brag sna tshogs so sor ston//
 bla ma longs spyod rdzogs sku la gsol ba 'debs//
-o rgyan pad+ma 'byung gnas la gsol ba 'debs//
+o rgyan padma 'byung gnas la gsol ba 'debs//
 mi mjed 'jig rten dag pa'i zhing khams su//
 thugs rje chen pos 'gro ba'i don la byon//
 gang la gang 'dul thabs kyis 'gro don mdzad//
 'das dang ma byon da lta dus gsum gyi//
 bla ma sprul ba'i sku la gsol ba 'debs//
-o rgyan pad+ma 'byung gnas la gsol ba 'debs//
+o rgyan padma 'byung gnas la gsol ba 'debs//
 kun bzang rdor sems dga' rab shrī siṃ ha//
-pad+ma ka ra rje 'bangs nyi shu lnga//
+padma ka ra rje 'bangs nyi shu lnga//
 so zur gnubs dang gter ston rgya mtsho sogs//
 bka' gter bla ma rnams la gsol= /mnga' skyong khri lde srin sbar gnas sogs kyi//
 zab gter sgo 'byed don du bstan pa'i bdag</tei:p>
@@ -42,7 +42,7 @@ zab gter sgo 'byed don du bstan pa'i bdag</tei:p>
 gong ma nyi ma 'od zer la gsol= /de 'og zhing der spang ston grub pa'i sras//
 bod yul gter gcig gnam skas mkhar chu sogs//
 bco brgyad sgo 'byed gu ru chos dbang zhes//
-'brel tshad don ldan chen po la gsol= /'gro ba'i mgon po pad+ma dbang chen dang*//
+'brel tshad don ldan chen po la gsol= /'gro ba'i mgon po padma dbang chen dang*//
 myos ston zhig po mi bskyod rdo rje sogs//
 sras dang slob ma rim par byon pa yi//
 brgyud pa'i bla ma rnams la gsol ba 'debs//

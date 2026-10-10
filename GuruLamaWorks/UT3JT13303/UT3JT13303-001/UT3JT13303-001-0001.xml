@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rgya gar skad du/a bhi dharma sa muts+tsha ya/bod skad du/chos mngon pa kun las btus pa/bam po dang po/'jam dpal gzhon nur gyur pa la phyag 'tshal lo/  /</tei:title><tei:author/><tei:title>༄༅/  /rgya gar skad du/a bhi dharma sa muts+tsha ya/bod skad du/chos mngon pa kun las btus pa/bam po dang po/'jam dpal gzhon nur gyur pa la phyag 'tshal lo/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /rgya gar skad du/a bhi dharma sa mutstsha ya/bod skad du/chos mngon pa kun las btus pa/bam po dang po/'jam dpal gzhon nur gyur pa la phyag 'tshal lo/  /</tei:title><tei:author/><tei:title>༄༅/  /rgya gar skad du/a bhi dharma sa mutstsha ya/bod skad du/chos mngon pa kun las btus pa/bam po dang po/'jam dpal gzhon nur gyur pa la phyag 'tshal lo/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13303-001-0001</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13303</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/GNONPA/rtfs/volume-001/105NGONPA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000270 </tei:p>
 <tei:p n="2" unit="page">(1) ༄༅//
-rgya gar skad du/ a bhi dharma sa muts+tsha ya/ bod skad du/ chos mngon pa kun las btus pa/ bam po dang po/ 'jam dpal gzhon nur gyur pa la phyag 'tshal lo//
+rgya gar skad du/ a bhi dharma sa mutstsha ya/ bod skad du/ chos mngon pa kun las btus pa/ bam po dang po/ 'jam dpal gzhon nur gyur pa la phyag 'tshal lo//
 sdom ni/ du dang ci phyir nyer len dang*//
 mtshan nyid de yi rnam gzhag dang*//
 go rim don dang dpe dbye dang*//
@@ -1887,6 +1887,6 @@ yang ji skad du/ byang chub sems dpa' chos lnga dang ldan na tshangs par spyod p
 chos mngon pa kun las btus pa las/ 'bel ba'i gtam rnam par nges pa kun las btus pa zhes bya ba ste/ kun las btus pa lnga pa'o// //bstan bcos 'di ci'i phyir chos mngon pa kun las btus pa zhes bya zhe na/ rtogs nas bsdus pa'i phyir ro//
 kun nas bsdus pa'i phyir ro//
 yang dag par mtho ba'i gnas yin pa'i phyir ro//
-chos mngon pa kun las btus pa/ slob dpon thogs med kyis mdzad pa rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang*/ shī len+d+ra bo dhi dang*/ zhu chen gyi lo tsā ba ban de ye shes sdes bsgyur cing zhus te gnas la phab pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
+chos mngon pa kun las btus pa/ slob dpon thogs med kyis mdzad pa rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang*/ shī lend+ra bo dhi dang*/ zhu chen gyi lo tsā ba ban de ye shes sdes bsgyur cing zhus te gnas la phab pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
 /1$0000270</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">bstan pa'i bka' srung rnams kyi gtor 'bul nyung ngu bzhugs so/  /hūm̐ bh+yo/bsil tshal thod mkhar me rlung dbus/  /lha chen ma hā ka la che/  /sku mdog</tei:title><tei:author/><tei:title>bstan pa'i bka' srung rnams kyi gtor 'bul nyung ngu bzhugs so/  /hūm̐ bh+yo/bsil tshal thod mkhar me rlung dbus/  /lha chen ma hā ka la che/  /sku mdog</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">bstan pa'i bka' srung rnams kyi gtor 'bul nyung ngu bzhugs so/  /hūm̐ bhyo/bsil tshal thod mkhar me rlung dbus/  /lha chen ma hā ka la che/  /sku mdog</tei:title><tei:author/><tei:title>bstan pa'i bka' srung rnams kyi gtor 'bul nyung ngu bzhugs so/  /hūm̐ bhyo/bsil tshal thod mkhar me rlung dbus/  /lha chen ma hā ka la che/  /sku mdog</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-009-0034</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/09-TA/TERDZO-TA-P33.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250bstan pa'i bka' srung rnams kyi gtor 'bul nyung ngu bzhugs so//
-1$0000300hūm̐ bh+yo/ bsil tshal thod mkhar me rlung dbus//
+1$0000300hūm̐ bhyo/ bsil tshal thod mkhar me rlung dbus//
 lha chen ma hā ka la che//
 sku mdog rdul bral nam mkha'i mdangs//
 zhal gdangs rno dkar mche ba gtsigs//
@@ -13,8 +13,8 @@ ber nag gsol zhing gser sked bcings//
 tsan dan beng bcug lha dmag 'gyed//
 rab 'jigs sku dang yan lag rnams//
 thod pa skam rlon snying sbrul brgyan//
-sag l+h+wam mdzes gsol 'dor stabs bzhengs//
-hūm̐ bh+yo/ las mgon srog bdud spu gri nag /mthing nag gtum rngam 'jigs su rung*//
+sag lh+wam mdzes gsol 'dor stabs bzhengs//
+hūm̐ bhyo/ las mgon srog bdud spu gri nag /mthing nag gtum rngam 'jigs su rung*//
 zhal gdangs ljags 'dril mche ba gtsigs//
 dmar zlum spyan gyi sdang mig g.yo//
 bstan pa'i bya ra ltag pa'i spyan//
@@ -25,7 +25,7 @@ dmag dpon bzhi 'gyed yan lag spyan//
 dar nag ber gsol tsan dan beng*//
 thod pa skam rlon dpa' chas rdzogs//
 stag sham bdud rta rting dkar chibs//
-hūm̐ bh+yo/ lha mo dpal 'bar bye ru'i mdangs/ khro mo'i cha lugs g.yu smin can//
+hūm̐ bhyo/ lha mo dpal 'bar bye ru'i mdangs/ khro mo'i cha lugs g.yu smin can//
 gcod byed ral gri thod khrag 'dzin//
 nyi zla thod pa skam rlon phreng*//
 mi dang stag gi g.yang gzhis brgyan//
@@ -42,7 +42,7 @@ bla ma'i sku la bsdo ba dang*//
 rnal 'byor bdag la sdang byed pa'i//
 dgra bgegs thal ba rdul du rlog</tei:p>
 <tei:p n="2" unit="page">/ci ltar bcol ba'i phrin las kun//
-ma thogs myur bar sgrub mdzad gsol/ ༈ /bh+yo/ bstan srung gtso mo 'dod khams dbang phyug ma//
+ma thogs myur bar sgrub mdzad gsol/ ༈ /bhyo/ bstan srung gtso mo 'dod khams dbang phyug ma//
 lang tsho sbed cing sku mdog mun pa'i mdangs//
 zhal gcig phyag gnyis spyan gsum mche bzhi gtsigs//
 ral gri nad rkyal thogs nas drel nag zhon//

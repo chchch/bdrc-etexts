@@ -1,13 +1,13 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(nya)༄༅/  /slob dpon pad+ma'i gsol 'debs bsam pa myur 'grub ma bzhugs/  /na maḥsarba bud+dha bo dhi satwā ya/dus gsum rgyal ba kun gyi sprul pa'i ska</tei:title><tei:author/><tei:title>(nya)༄༅/  /slob dpon pad+ma'i gsol 'debs bsam pa myur 'grub ma bzhugs/  /na maḥsarba bud+dha bo dhi satwā ya/dus gsum rgyal ba kun gyi sprul pa'i ska</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(nya)༄༅/  /slob dpon padma'i gsol 'debs bsam pa myur 'grub ma bzhugs/  /na maḥsarba buddha bo dhi satwā ya/dus gsum rgyal ba kun gyi sprul pa'i ska</tei:title><tei:author/><tei:title>(nya)༄༅/  /slob dpon padma'i gsol 'debs bsam pa myur 'grub ma bzhugs/  /na maḥsarba buddha bo dhi satwā ya/dus gsum rgyal ba kun gyi sprul pa'i ska</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23681-001-0203</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23681</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/Drub-thab-kuntu/rtfs/volume-001-014/DBTU203.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(nya)༄༅//
-slob dpon pad+ma'i gsol 'debs bsam pa myur 'grub ma bzhugs//
-na maḥsarba bud+dha bo dhi satwā ya/ dus gsum rgyal ba kun gyi sprul pa'i sku//
+slob dpon padma'i gsol 'debs bsam pa myur 'grub ma bzhugs//
+na maḥsarba buddha bo dhi satwā ya/ dus gsum rgyal ba kun gyi sprul pa'i sku//
 mkhyen brtse nus ldan gu ru rin po che//
 lho nub rnga yab gling phran dpal ri yi//
-pad+ma 'od nas da lta gnas 'dir byon//
+padma 'od nas da lta gnas 'dir byon//
 steng gi cha la rtsa brgyud bla ma dang*//
 bar gyi cha la yi dam zhi khro'i tshogs//
 'og gi cha la bka' srung mkha' 'gro rnams//
@@ -50,6 +50,6 @@ rang nyid nus pa mnyam par byin gyis rlobs//
 bdag gis 'gro ba'i sdug bsngal ma bzod pas//
 bdag cag byas med yus kyi gdung shugs kyis//
 bdag nyid chen po khyed la gsol btab pas//
-bdag gzhan don kun yid bzhin 'grub gyur cig /ces slob dpon rin po che pad+ma 'byung gnas la thugs rje myur bskul gsol 'debs bsam pa myur 'grub bod khams kun tu bde ba'i dpal ster zhes bya ba 'di'ang sa skya pa shākya'i dge bsnyen paṇ+ḍi ta sngags 'chang ngag dbang kun dga' bsod nams kyis lcags mo sbrul lor dbus gtsang gi ljongs 'dir dus ngan gyi 'khrug long sna tshogs byung dus skye 'gro rnams bde la 'god pa zhig byung na snyam pa'i lhag bsam rnam par dag pas kun nas bslangs te hor zla bcu pa'i dkar phyogs rdzogs pa gnyis pa'i tshes la dge sdings chos kyi pho brang chen por legs par sbyar ba 'dis kyang bsam pa thams cad yid bzhin du 'grub pa'i rgyur gyur cig/</tei:p>
+bdag gzhan don kun yid bzhin 'grub gyur cig /ces slob dpon rin po che padma 'byung gnas la thugs rje myur bskul gsol 'debs bsam pa myur 'grub bod khams kun tu bde ba'i dpal ster zhes bya ba 'di'ang sa skya pa shākya'i dge bsnyen paṇḍi ta sngags 'chang ngag dbang kun dga' bsod nams kyis lcags mo sbrul lor dbus gtsang gi ljongs 'dir dus ngan gyi 'khrug long sna tshogs byung dus skye 'gro rnams bde la 'god pa zhig byung na snyam pa'i lhag bsam rnam par dag pas kun nas bslangs te hor zla bcu pa'i dkar phyogs rdzogs pa gnyis pa'i tshes la dge sdings chos kyi pho brang chen por legs par sbyar ba 'dis kyang bsam pa thams cad yid bzhin du 'grub pa'i rgyur gyur cig/</tei:p>
 <tei:p n="3" unit="page">// ༈ bal yul mchod rten rin po che bya rung kha shor gyi nye 'gram rgyal yongs sa chen zhes pa glog klad dpar khang las/ bder gshegs 7skyabs rje bco brgyad khri chen rdo rje 'chang mchog gi thugs dgongs rdzogs ched/ skyabs 'og pa tshar grwa gu rus glog klad phyag deb ched 'grem spel zhus pa'i dge 'bras sangs rgyas zhing du bsngo'o// //</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

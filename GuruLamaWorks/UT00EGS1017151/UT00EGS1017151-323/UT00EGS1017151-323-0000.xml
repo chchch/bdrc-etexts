@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /sems kyi gnas lugs rnal du mtshon pa'i man ngag bzhugs/  /༄༅/  /sems kyi gnas lugs rnal du mtshon par byed pa'i man ngag tshigs su bcad pa bar</tei:title><tei:author/><tei:title>(na)༄༅/  /sems kyi gnas lugs rnal du mtshon pa'i man ngag bzhugs/  /༄༅/  /sems kyi gnas lugs rnal du mtshon par byed pa'i man ngag tshigs su bcad pa bar</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-323-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA317.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-323-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA317.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
 sems kyi gnas lugs rnal du mtshon pa'i man ngag bzhugs// ༄༅//
 sems kyi gnas lugs rnal du mtshon par byed pa'i man ngag tshigs su bcad pa brgyad pa zhes bya ba/ bla ma dang 'jam pa'i dbyangs la phyag 'tshal lo//
 bdag tu 'dzin pa'i 'khri shing bcad//
@@ -36,5 +36,5 @@ skyes bu gang gis 'di rig na//
 bud shing zad pa'i me bzhin du//
 'khor ba pa yi rgyun bzlog nas//
 byang chub dam pa 'thob par 'gyur//
-rang gi sems ngos bzung ba'i tshigs su bcad pa brgyad pa zhes bya ba/ dpal ldan sa skya paṇ+ḍi tas sbyar ba rdzogs so// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
+rang gi sems ngos bzung ba'i tshigs su bcad pa brgyad pa zhes bya ba/ dpal ldan sa skya paṇḍi tas sbyar ba rdzogs so// // ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

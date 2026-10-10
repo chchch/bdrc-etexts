@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">dpal mngon rdzogs rgyal po las/brgyud pa'i gsol 'debs rtag pa'i rgyal mo'i dgyes glu zhes bya ba bzhugs so/  /chos sku kun bzang drug pa rdo rje </tei:title><tei:author/><tei:title>dpal mngon rdzogs rgyal po las/brgyud pa'i gsol 'debs rtag pa'i rgyal mo'i dgyes glu zhes bya ba bzhugs so/  /chos sku kun bzang drug pa rdo rje </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-032-0055</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/32-KHI/TERDZO-KHI-P50.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250dpal mngon rdzogs rgyal po las/ brgyud pa'i gsol 'debs rtag pa'i rgyal mo'i dgyes glu zhes bya ba bzhugs so//
@@ -10,7 +10,7 @@ dpal chen mngon rdzogs rgyal po he ru ka /ma rgyud lha mo yongs 'khyud bde ba mo
 rdo rje chos dang las kyi dbang mo la//
 gsol ba 'debs so byin rlabs mthu dbang stsol//
 grub pa'i slob dpon dha na saṃskṛta//
-snang srid zil gnon pad+ma thod phreng rtsal//
+snang srid zil gnon padma thod phreng rtsal//
 ye shes mtsho rgyal khri srong lde'u btsan la//
 gsol ba 'debs so byin rlabs mthu dbang stsol//
 ma mo mngon khol 'brog mi dpal ye'i zhabs//
@@ -43,5 +43,5 @@ phrin las rnam bzhi'i 'khor los sgyur bar shog /srid rgyal dmag drangs rigs drug
 thar lam stegs 'dzugs mi gnas dbyings su bsgral//
 bzang mo'i mkhar thebs dbyings dang ye shes don//
 zung 'jug ma mo rol pa'i mchog thob shog /</tei:p>
-<tei:p n="3" unit="page">ces pa'ang yar stod sham po gangs kyi rwa ba'i mdun zhol du gzhung sa chen po'i bka' bzhin/ gangs can bstan 'gro spyi'i sku rim du gter gsar ma mo'i sgrub mdos gtong ba'i thog mar pad+ma gar dbang blo gros mtha' yas kyis thol byung du bris pa dge legs 'phel// // </tei:p>
+<tei:p n="3" unit="page">ces pa'ang yar stod sham po gangs kyi rwa ba'i mdun zhol du gzhung sa chen po'i bka' bzhin/ gangs can bstan 'gro spyi'i sku rim du gter gsar ma mo'i sgrub mdos gtong ba'i thog mar padma gar dbang blo gros mtha' yas kyis thol byung du bris pa dge legs 'phel// // </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

@@ -1,10 +1,10 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /grub mchog dril bu lugs kyi bde mchog rim lnga'i rdzogs rim gyi dmigs skor tshang ba'i gsol 'debs dngos grub mchog stsol bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /grub mchog dril bu lugs kyi bde mchog rim lnga'i rdzogs rim gyi dmigs skor tshang ba'i gsol 'debs dngos grub mchog stsol bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-009-0014</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHYEN/rtfs/volume-009/5TA.CA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT22082-009-0014</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W22082</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/7__KUNKHyEN/rtfs/volume-009/5TA.CA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
 grub mchog dril bu lugs kyi bde mchog rim lnga'i rdzogs rim gyi dmigs skor tshang ba'i gsol 'debs dngos grub mchog stsol bzhugs so//</tei:p>
-<tei:p n="2" unit="page">na mo gu ru rat+na shrī tsakra sam+ba rā ya/ dpal rigs kun bdag po rdo rje 'chang*//
+<tei:p n="2" unit="page">na mo gu ru ratna shrī tsakra samba rā ya/ dpal rigs kun bdag po rdo rje 'chang*//
 sku gcig la dus gsum sangs rgyas kyi|&#160;|zhing 'khor dang bcas pa'i bkod pa rdzogs//
 rje mtshungs med rin chen dpal la 'dud//
 dpyid bde ba chen po'i ngang nyid du//
@@ -83,8 +83,8 @@ snying chos kyi 'khor lo 'dab brgyad dbus//
 thabs shes rab nyi zla kha sbyor nang*//
 gzhom med kyi thig le hūm̐ gi gzugs|&#160;|sems brtan pas kun rtog rgyu ba bcad//
 ston mkha' ltar dag pa'i 'od gsal 'char//
-yum nang gi phag mo tsaṇ+ḍa līs//
-rtsa stong phrag don gnyis kun+da'i khams//
+yum nang gi phag mo tsaṇḍa līs//
+rtsa stong phrag don gnyis kunda'i khams//
 dpyid dhū tir zhu ba dbab ldog gis//
 sgras brjod du mi nus dga' bzhi ster//
 phyi dbang po'i rlung sems 'gro 'ong bral//
@@ -97,7 +97,7 @@ snying dwangs ma lnga 'dus thig le las//
 rlung 'jug gnas ldang ba rdo rje gsum//
 rang chas kyi gsang sngags bzlas pa yis//
 dbye dka' ba ma rig mdud pa grol//
-gzhi pad+mar rab gnas rdo rje'i rtse//
+gzhi padmar rab gnas rdo rje'i rtse//
 gnad dbu mar chud pa'i rang sems hūm̐//
 bcud bdud rtsi'i dwangs ma 'thung 'thung bas//
 g.yo med kyi lhan cig skyes dgas myos//
@@ -164,5 +164,5 @@ chos tshul bzhin 'dzin pa nyid gyur cig /gnas nyi shu rtsa bzhi'i pho brang na//
 mthu ldan gyi dpa' bo dpa' mo rnams//
 ma bu gcig brtse bzhin bdag cag la//
 dus rtag tu g.yel med skyong gyur cig  */</tei:p>
-<tei:p n="5" unit="page">ces pa'ang bstan pa'i gsal byed du gyur pa'i dam pa chen po mdo sngags yongs la mkhyen dpyod gzhan dring mi 'jog pa mdo khams lho'i mchog sprul dkon mchog lhun gyis grub pa phrin las rnam par rgyal ba nas/ lam rim gnyis kyi gnad 'gag yongs su rdzogs shing*/ khyad par grub mchog dril bu pa'i lugs kyi bde mchog rim lnga'i rdzogs rim gyi dmigs skor cha tshang ba tshigs bcad go sla 'khyer bde zhig nyams bzhed gsol 'debs su dgos zhes bskul ma mdzad pa ltar/ 'bri gung pa shākya'i dge slong dharma kīrtis sbyar ba dza yan+tu// //shu bhaṃ// </tei:p>
+<tei:p n="5" unit="page">ces pa'ang bstan pa'i gsal byed du gyur pa'i dam pa chen po mdo sngags yongs la mkhyen dpyod gzhan dring mi 'jog pa mdo khams lho'i mchog sprul dkon mchog lhun gyis grub pa phrin las rnam par rgyal ba nas/ lam rim gnyis kyi gnad 'gag yongs su rdzogs shing*/ khyad par grub mchog dril bu pa'i lugs kyi bde mchog rim lnga'i rdzogs rim gyi dmigs skor cha tshang ba tshigs bcad go sla 'khyer bde zhig nyams bzhed gsol 'debs su dgos zhes bskul ma mdzad pa ltar/ 'bri gung pa shākya'i dge slong dharma kīrtis sbyar ba dza yantu// //shu bhaṃ// </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

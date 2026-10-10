@@ -1,10 +1,10 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /zhib mo rnam par 'thag pa zhes bya ba'i mdo bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /zhib mo rnam par 'thag pa zhes bya ba'i mdo bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13363-001-0013</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13363</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/UMA/rtfs/volume-001/013UMA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000270༄༅//
 zhib mo rnam par 'thag pa zhes bya ba'i mdo bzhugs so// </tei:p>
-<tei:p n="2" unit="page">(1) rgya gar skad du/ bai da l+yaṃ sū tra nā ma/ bod skad du/ zhib mo rnam par 'thag pa zhes bya ba'i mdo/ slob dpon 'phags pa klu sgrub la phyag 'tshal lo//
+<tei:p n="2" unit="page">(1) rgya gar skad du/ bai da lyaṃ sū tra nā ma/ bod skad du/ zhib mo rnam par 'thag pa zhes bya ba'i mdo/ slob dpon 'phags pa klu sgrub la phyag 'tshal lo//
 rtog ge shes pa'i nga rgyal gyis//
 gang zhig rtsod par mngon 'dod pa//
 de yi nga rgyal spang ba'i phyir//
@@ -86,6 +86,6 @@ tshar gcad pa'i gnas la ni/</tei:p>
 gnyis ka khas ma blangs pa'i phyir ro//
 de ma grub na ma grub tu zad do//
 de kho na bzhin du brjod pa ma yin te/ mngon par brjod pa ni med pa nyid yin no//
-zhib mo rnam par 'thag pa zhes bya ba'i mdo/ slob dpon 'phags pa klu sgrub kyi zhal snga nas mdzad pa rdzogs so// //kha che'i paṇ+ḍi ta a nan+ta dang*/ lo ts+tsha ba dge slong grags 'byor shes rab kyis bsgyur pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
+zhib mo rnam par 'thag pa zhes bya ba'i mdo/ slob dpon 'phags pa klu sgrub kyi zhal snga nas mdzad pa rdzogs so// //kha che'i paṇḍi ta a nanta dang*/ lo tstsha ba dge slong grags 'byor shes rab kyis bsgyur pa'o// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
 /1$0000270</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

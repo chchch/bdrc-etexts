@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /phyag rgya chen po rnal 'byor bzhi'i bshad pa nges don lta ba'i mig ces bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /phyag rgya chen po rnal 'byor bzhi'i bshad pa nges don lta ba'i mig ces bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13326-008-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13326</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Mahamudra/rtfs/05_Drukpa/008_drukpa_tdoc.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">༄༅//
@@ -74,7 +74,7 @@ rang gi ngo bo ji lta ba bzhin brjod pa la rdzogs pa'i sangs rgyas rnams kyang t
 gzhon nu ma'i bde ba snying la zhen pa'i dpe tsam las gzhan bsnyad par bya ba ste gzhan rkyen gyis rtogs par mi nus pa/ so so rang gis rig par bya ba nyid kyis na mi dmigs pa'o//
 tshul 'di ni/ dpal til gyi zhabs can gyis bshad pa/ kye ho 'di ni rang rig ye shes te//
 ngag gi lam 'das yid kyi spyod yul min//
-til+li ngas ni ci yang bstan du med//
+tilli ngas ni ci yang bstan du med//
 rang gis rang nyid mtshon te shes par byos//
 zhes pa'o//
 da ni/ lam nyams su len pa'i rnal 'byor de nyid kyang*//
@@ -322,6 +322,6 @@ de ltar shin tu zab mo'i don//
 bla ma dam pa'i drin thob pas//
 cha tsam bdag gis 'dir brjod la//
 nyes pa mchis na bzod par mdzod//
-dpal mi pham rgyal ba'i dbang po'i gsung ji lta ba 'thor ba 'dir bsdus te gsal bar bkod pa 'di ni/ dge slong mi pham pad+ma dkar po phyogs thams cad las rnam par rgyal ba'i sdes/ ma dang mkha' 'gro'i mdun sa chen po tsa ri tra nyams rtogs gcig tu 'char ba'i gnas nang*/ yang dgon ke'u tshang gi nags ma bzang po'i khrod du sbyar ba 'dis kyang 'gro ba la phan thogs par gyur cig /maṅgalaṃ///
+dpal mi pham rgyal ba'i dbang po'i gsung ji lta ba 'thor ba 'dir bsdus te gsal bar bkod pa 'di ni/ dge slong mi pham padma dkar po phyogs thams cad las rnam par rgyal ba'i sdes/ ma dang mkha' 'gro'i mdun sa chen po tsa ri tra nyams rtogs gcig tu 'char ba'i gnas nang*/ yang dgon ke'u tshang gi nags ma bzang po'i khrod du sbyar ba 'dis kyang 'gro ba la phan thogs par gyur cig /maṅgalaṃ///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

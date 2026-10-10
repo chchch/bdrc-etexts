@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">gu ru drag po mthing nag gi gter srung gsol ka sangs rgyas bstan pa srung ba'i mtshon cha bzhugs so/  /sa ma ya:rgya rgya rgya:</tei:title><tei:author/><tei:title>gu ru drag po mthing nag gi gter srung gsol ka sangs rgyas bstan pa srung ba'i mtshon cha bzhugs so/  /sa ma ya:rgya rgya rgya:</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-014-0005</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/14-PHA/Terdzo-PHA-P04.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!# gu ru drag po mthing nag gi gter srung gsol ka sangs rgyas bstan pa srung ba'i mtshon cha bzhugs so//
@@ -44,7 +44,7 @@ mchog dang thun mong dngos grub stsol//
 bcol pa'i phrin las grub par mdzod//
 kyai/</tei:p>
 <tei:p n="3" unit="page">lha yi dge bsnyen rdo rje rig byed rtsal//
-pad+ma saṃ bha'i ji ltar bka' lung bzhin//
+padma saṃ bha'i ji ltar bka' lung bzhin//
 myur du sgrubs shig mthun rdzas gtor ma bzhes//
 zab mo gter gyi 'gro don phyogs bcur spel//
 byang chub sgrub pa'i rkyen ngan bar chad sol//
@@ -55,7 +55,7 @@ ming gi lhag ma tsam yang med pa yi//
 bstan dgra rtsad nas chod cig sa ma ya//
 bod khams dkar po'i chos la 'god pa yi//
 las bzhi'i phrin las ma g.yel gter gyi bdag /lha rgyal dbu 'phang dgung la bstod//
-rnal 'byor bcol pa'i 'phrin las grub par mdzod/ bh+yoḥ lha sman rgyal mo klu mo 'od ldan ma'i//
+rnal 'byor bcol pa'i 'phrin las grub par mdzod/ bhyoḥ lha sman rgyal mo klu mo 'od ldan ma'i//
 bka' nyan klu yi dge bsnyen dug gi gdong*//
 zab gter bka' srung nag po bzlog med khyed//
 sha khrag brgyan pa'i gtor ma 'di bzhes la//
@@ -71,7 +71,7 @@ dkar po dge bcu sgrub pa'i sde la brtson//
 sgrub brgyud bstan pa'i phrin las phyogs bcur spel//
 rnal 'byor byang chub sgrub pa'i bar chad sol//
 bcol pa'i phrin las myur du sgrub par mdzod//
-zab mo bka' yi gter 'di srungs shig rak+ṣa rak+ṣa/ zhes rim gnyis zab mo'i rnal 'byor tshogs gnyis kyis ston pa'i sku brnyan/ shes rab kyi ral gri lha rdzas bcas 'di ltar dgos zhes gsung gis bskul bas/ rig 'dzin chos rgyal rdo rje'i kun gzhi'i mtsho las rdol ba'i gter/</tei:p>
-<tei:p n="4" unit="page">nyer dgu'i nub mo snang gsal mar me'i ngogs la bstan pa yi ge pa ni dam ldan lhun grub kyis bgyis pa/ sa ma ya: rgya rgya rgya: zab rgya: dam tshig rgya: gu h+ya: zab mo gter gyi srung ma rnams kyis srungs shig rak+ṣa/ ching hu rin po che'i gdan sa dpal gyi g.yang 'khyil sgar na mdo sngags bshad sgrub gling gi pho brang nas sbyar ba don rgyud 'brug pa'i bstan pa dbyar mtsho ltar rgyas par gyur cig /maṅga laṃ///
+zab mo bka' yi gter 'di srungs shig rakṣa rakṣa/ zhes rim gnyis zab mo'i rnal 'byor tshogs gnyis kyis ston pa'i sku brnyan/ shes rab kyi ral gri lha rdzas bcas 'di ltar dgos zhes gsung gis bskul bas/ rig 'dzin chos rgyal rdo rje'i kun gzhi'i mtsho las rdol ba'i gter/</tei:p>
+<tei:p n="4" unit="page">nyer dgu'i nub mo snang gsal mar me'i ngogs la bstan pa yi ge pa ni dam ldan lhun grub kyis bgyis pa/ sa ma ya: rgya rgya rgya: zab rgya: dam tshig rgya: gu hya: zab mo gter gyi srung ma rnams kyis srungs shig rakṣa/ ching hu rin po che'i gdan sa dpal gyi g.yang 'khyil sgar na mdo sngags bshad sgrub gling gi pho brang nas sbyar ba don rgyud 'brug pa'i bstan pa dbyar mtsho ltar rgyas par gyur cig /maṅga laṃ///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

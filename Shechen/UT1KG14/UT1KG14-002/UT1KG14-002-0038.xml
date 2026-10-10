@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /'chi med mtsho skyes snying tig rtsa ba yan lag dang bcas pa'i skong ba sgyu 'phrul rnam par bkod pa'i sprin phung zhes bya ba bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /'chi med mtsho skyes snying tig rtsa ba yan lag dang bcas pa'i skong ba sgyu 'phrul rnam par bkod pa'i sprin phung zhes bya ba bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-002-0038</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/10-THA/Terdzo-tha.P42.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄༅//
@@ -43,7 +43,7 @@ rang gsal ma 'dres longs spyod rdzogs/ khyab brdal ye shes lnga yi bdag /thod ph
 thugs rje kun khyab 'od zer 'phro//
 rig rtsal ma 'gag sprul pa'i sku /thog mtha' med par bya ba byed//
 gu ru mtshan brgyad thugs dam bskang*//
-ma chags pad+ma'i rigs kyi gtso//
+ma chags padma'i rigs kyi gtso//
 ye shes rtsal rdzogs sems dpa' mchog</tei:p>
 <tei:p n="5" unit="page">/thugs rje'i bdag po 'gro ba'i mgon//
 spyan ras gzigs dbang thugs dam bskang*//
@@ -58,7 +58,7 @@ chos kyi 'byung gnas kun bzang mo//
 ye shes mkha' 'gro'i thugs dam bskang*//
 rnam dag chos nyid zhi ba las//
 rol pa chen po 'bar ba'i sku /dregs pa kun gyi rje btsan che//
-pad+ma drag po'i thugs dam bskang*//
+padma drag po'i thugs dam bskang*//
 dgongs brda snyan khung gtad rgya tshig /smon lam dbang thob rig pa 'dzin//
 mnga' bdag yab sras bai ro sogs//
 rtsa brgyud bla ma'i thugs dam bskang*//
@@ -91,7 +91,7 @@ thun mong mchog gi dngos grub stsol//
 hūm̐ hrīḥ bde chen ye shes lhan cig skyes//
 dus gsum sangs rgyas skyed pa'i yum//
 'chi med rdo rje'i sku brnyes ma//
-man+dā ra ba'i thugs dam bskang*//
+mandā ra ba'i thugs dam bskang*//
 gti mug mun pa bsal mdzad cing*//
 kun khyab chos dbyings ye shes dngos//
 yongs la mnga' mdzad sku yi rigs//
@@ -107,7 +107,7 @@ rin chen mkha' 'gro'i thugs dam bskang*//
 'dod chags rgya mtsho rmang nas skem//
 dbang mdzad sor rtog ye shes nyid//
 chags pa dbang sdud gsung gi rigs//
-pad+ma mkha' 'gro'i thugs dam bskang*//
+padma mkha' 'gro'i thugs dam bskang*//
 phrag dog rlung chen 'tshubs ma snyol//
 mngon spyod las mdzad bya grub bdag</tei:p>
 <tei:p n="7" unit="page">/gdug pa kun 'dul las kyi rigs//
@@ -142,7 +142,7 @@ hūm̐ hrīḥ thugs dam skong ba'i dam rdzas ni//
 lha rdzas phyi mchod tshar du dngar//
 rang byung nang mchod lhun gyis grub//
 gnyis med gsang mchod bde chen sprin//
-sman gtor rak+ta dam tshig rdzas//
+sman gtor rakta dam tshig rdzas//
 'dod yon longs spyod tshogs kyi bcud//
 skye 'gro'i gzugs snang 'byor pa'i dpal//
 lha sngags ting 'dzin dam tshig sogs//
@@ -220,7 +220,7 @@ gsang 'dzin rigs kyi bdag po'i bkas//
 rjes su gnang ba don yod phyir//
 so skye'i tshig la 'brel med kyang*//
 'byung rung rten 'brel la dmigs nas//
-pad+ma gar dbang 'du gsum pas//
+padma gar dbang 'du gsum pas//
 tsa 'dra rin chen brag gi mgul//
 kun bzang bde chen gling du bris//
 mchog bstan rgyas pa'i rgyu ru shog /dge legs 'phel// </tei:p>

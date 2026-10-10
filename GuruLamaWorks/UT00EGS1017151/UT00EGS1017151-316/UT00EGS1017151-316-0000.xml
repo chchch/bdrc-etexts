@@ -1,8 +1,8 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(na)༄༅/  /theg chen lam gyi rnam gzhag mdor bsdus bzhugs/  /༄༅/  /bla ma dam pa'i zhabs la gus pas phyag 'tshal lo/  /thub pas chos rnams gang gsungs pa/  /ja</tei:title><tei:author/><tei:title>(na)༄༅/  /theg chen lam gyi rnam gzhag mdor bsdus bzhugs/  /༄༅/  /bla ma dam pa'i zhabs la gus pas phyag 'tshal lo/  /thub pas chos rnams gang gsungs pa/  /ja</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-316-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA310.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-316-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKyA310.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(na)༄༅//
 theg chen lam gyi rnam gzhag mdor bsdus bzhugs// ༄༅//
 bla ma dam pa'i zhabs la gus pas phyag 'tshal lo//
 thub pas chos rnams gang gsungs pa//
@@ -39,6 +39,6 @@ gzhan don grub pas bdag gi don//
 lhun gyis grub pa chos nyid pas//
 gnyis ka'i don kun phun tshogs pa'i//
 bdag nyid chen por de nas 'gyur//
-theg pa chen po'i lam gyi rnam gzhag mdor bsdus pa/ dpal ldan sa skya paṇ+ḍi tas sbyar ba'o///
+theg pa chen po'i lam gyi rnam gzhag mdor bsdus pa/ dpal ldan sa skya paṇḍi tas sbyar ba'o///
 / ༈ gu rus dpar rtsa spel ba'o//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

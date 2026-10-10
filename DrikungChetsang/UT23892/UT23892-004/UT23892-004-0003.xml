@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">/dam pa'i chos 'dul ba'i bslab bya mdor bsdus bzhugs so/  //brtse chen smra ba'i dbang po thams cad mkhyen/  /'jigs med zhi ba'i nags khrod der bzhugs</tei:title><tei:author/><tei:title>/dam pa'i chos 'dul ba'i bslab bya mdor bsdus bzhugs so/  //brtse chen smra ba'i dbang po thams cad mkhyen/  /'jigs med zhi ba'i nags khrod der bzhugs</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Drikung Chetsang</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT23892-004-0003</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W23892</tei:idno><tei:idno type="SRC_PATH">DrikungChetsang/6_KUNRIN/rtfs/volume-004/NGA-CA1.005.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">/dam pa'i chos 'dul ba'i bslab bya mdor bsdus bzhugs so///
@@ -156,7 +156,7 @@ yan lag gi ltung ba la gzhi bsam pa sbyor ba mthar thug dang bzhi/ dang po gzhi 
 bsam pa kun slong ni bde ba nyams su myong bar 'dod pa/ sbyor ba reg cing rtsal ba/ mthar thug de'i rkyen gyi bde ba nyams su myong ba'o//
 yan lag 'di rnam pa thams cad tshang na dngos gzhi dang*/ gang rung ma tshang na/ pham lhag gi skabs 'dir/ sbom po dang ltung ba gzhan rnams kyi skabs su nyes byas su shes par bya'o//
 gnyis pa phyi rol yo byad la 'dod pa las gyur pa ma byin par len pa'i pham pa la/ gleng gzhi ni/ yul rgyal po'i khab/ gang zag dge slong nor can/ nyon mongs pa 'dod chags/ nyes pa shing brkus la brten nas bcas so//
-rgyu tshogs la gzhi bsam sbyor mthar thug dang bzhi/ dang po la gzhi la/ yul ni mi 'gro ba/ rang las nor rdzas tha dad pa/ dngos po zas su byas pa ma yin pa rin thang tshang ba/ de'i khyad par yang*/ kar+ṣa pa na'i bzhi char longs pa/ de'i khyad par yang*/ yul gcig tu dang*/ dus gcig tu dang*/ sbyor ba gcig gi nang du rin thang tshang*/ de yang brku bya rku byed gnyis ka la ltos nas rin thang tshang ba'o//
+rgyu tshogs la gzhi bsam sbyor mthar thug dang bzhi/ dang po la gzhi la/ yul ni mi 'gro ba/ rang las nor rdzas tha dad pa/ dngos po zas su byas pa ma yin pa rin thang tshang ba/ de'i khyad par yang*/ karṣa pa na'i bzhi char longs pa/ de'i khyad par yang*/ yul gcig tu dang*/ dus gcig tu dang*/ sbyor ba gcig gi nang du rin thang tshang*/ de yang brku bya rku byed gnyis ka la ltos nas rin thang tshang ba'o//
 bsam pa la 'du shes dang kun slong gnyis las/ 'du shes ni ma 'khrul ba/ kun slong ni nor 'di ni gzhan gyi yin yang*/ ma gnang kyang 'di nyid kyi ched du gtan du bral bar bya'o snyam pa'i bsam pa rgyun ma chad pa'o//
 sbyor ba lus ngag gang rung du grub cing rku bar brtsams pa'o//
 mthar thug grub blos khyad par du byas pa'i gnas spos pa'o//
@@ -354,6 +354,6 @@ mthun pa rnams kyi dka' thub bde//
 dam pa dag dang 'grogs pa bde//
 zhes sogs gsungs so//
 </tei:p>
-<tei:p n="29" unit="page">'dir dgos pa'i las dang*/ lag len dogs gcod rnams ni las chog lag len be'u bum dang thun mong pa'i 'dul ba'i rnam par bzhag pa rnams las byung*/ bslab par bya ba'i tshul mdor bsdus pa chos lung na bka' bcu 'dzin pa slob dpon rin po che bstan pa'i zhal mnga' nas/ legs par thob pa zin bris su bsgrigs pa 'di nyid shākya'i dge slong ā nan+da shrī bha dras sbyar ba'o//
+<tei:p n="29" unit="page">'dir dgos pa'i las dang*/ lag len dogs gcod rnams ni las chog lag len be'u bum dang thun mong pa'i 'dul ba'i rnam par bzhag pa rnams las byung*/ bslab par bya ba'i tshul mdor bsdus pa chos lung na bka' bcu 'dzin pa slob dpon rin po che bstan pa'i zhal mnga' nas/ legs par thob pa zin bris su bsgrigs pa 'di nyid shākya'i dge slong ā nanda shrī bha dras sbyar ba'o//
 maṅgalaṃ//</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

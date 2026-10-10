@@ -1,10 +1,10 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /bstan bcos bzhi brgya pa zhes bya ba'i tshig le'ur byas pa bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /bstan bcos bzhi brgya pa zhes bya ba'i tshig le'ur byas pa bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT3JT13363-001-0021</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W3JT13363</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/UMA/rtfs/volume-001/021UMA.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000270 </tei:p>
 <tei:p n="2" unit="page">(1) ༄༅//
-bstan bcos bzhi brgya pa zhes bya ba'i tshig le'ur byas pa bzhugs so// (2) rgya gar skad du/ tsa tuḥsha ta ka shās+t+rā kā ri kā nā ma/ bod skad du/ bstan bcos bzhi brgya pa zhes bya ba'i tshig le'ur byas pa/ 'phags pa 'jam dpal la phyag 'tshal lo//
+bstan bcos bzhi brgya pa zhes bya ba'i tshig le'ur byas pa bzhugs so// (2) rgya gar skad du/ tsa tuḥsha ta ka shāst+rā kā ri kā nā ma/ bod skad du/ bstan bcos bzhi brgya pa zhes bya ba'i tshig le'ur byas pa/ 'phags pa 'jam dpal la phyag 'tshal lo//
 gang la 'jig rten gsum mnga' bdag /rang nyid 'chi bdag byed po med//
 yong nges rnal bzhin nyid log na//
 de las ma rungs gzhan ci yod//
@@ -1594,6 +1594,6 @@ yod dang med dang yod min ces//
 gang la phyogs ni yod min pa//
 de la yun ni ring po na'ang*//
 klan ka brjod par nus ma yin//
-rnal 'byor spyad pa bzhi brgya pa las slob dpon dang slob ma rnam par gtan la dbab pa bstan pa ste rab tu byed pa bcu drug pa'o// //slob dpon 'phags pa lha'i zhal snga nas mdzad pa/ byang chub sems dpa'i rnal 'byor spyad pa bzhi brgya pa'i tshig le'ur byas pa rdzogs so// //kha che'i grong khyer dpe med kyi dbus rin chen sbas pa'i kun dga' ra bar/ rgya gar gyi mkhan po su smra dzā na dang*/ bod kyi lo ts+tsha ba pa tshab nyi ma grags kyis bsgyur cing zhus te gtan la phab pa// //sarba maṅga laṃ// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
+rnal 'byor spyad pa bzhi brgya pa las slob dpon dang slob ma rnam par gtan la dbab pa bstan pa ste rab tu byed pa bcu drug pa'o// //slob dpon 'phags pa lha'i zhal snga nas mdzad pa/ byang chub sems dpa'i rnal 'byor spyad pa bzhi brgya pa'i tshig le'ur byas pa rdzogs so// //kha che'i grong khyer dpe med kyi dbus rin chen sbas pa'i kun dga' ra bar/ rgya gar gyi mkhan po su smra dzā na dang*/ bod kyi lo tstsha ba pa tshab nyi ma grags kyis bsgyur cing zhus te gtan la phab pa// //sarba maṅga laṃ// // 1$0000220༈ /bal yul nas rgyal yongs sa chen zhes pa las gu rus spel///
 /1$0000270</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

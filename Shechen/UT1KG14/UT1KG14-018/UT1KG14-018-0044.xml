@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">'jam dpal dug gdong nag po'i gcig chog gsum gyi gdams pa bzhugs so/  /dus 'di nas bzung byang chub snying po'i bar/  /bla ma mchog dang dkon mchog gsu</tei:title><tei:author/><tei:title>'jam dpal dug gdong nag po'i gcig chog gsum gyi gdams pa bzhugs so/  /dus 'di nas bzung byang chub snying po'i bar/  /bla ma mchog dang dkon mchog gsu</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-018-0044</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/18-TSHA/Terzod-tsha-P43.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250'jam dpal dug gdong nag po'i gcig chog gsum gyi gdams pa bzhugs so//
@@ -13,11 +13,11 @@ de phyir bdag ni gshin rje gshed gyur nas//
 de rnams sangs rgyas sa la 'god par bya//
 'gro kun bde ldan sdug bsngal kun bral zhing*//
 bde las nyams med btang snyoms la gnas shog /</tei:p>
-<tei:p n="2" unit="page">lan gsum/ e ya bh+yoḥ ha la sna tshogs las grub rdo rje'i mkhar//
+<tei:p n="2" unit="page">lan gsum/ e ya bhyoḥ ha la sna tshogs las grub rdo rje'i mkhar//
 gru bzhi me 'bar dug rlangs sprin ltar gtibs//
 de dbus bdag mdun dam ye dbyer med pa/ khro chu dug gdong mthing ljang dmar ba'i zhal//
 dbu gsum mchod rten gsum nang rigs gsum mgon//
-phyag drug g.yas g.yon dgra s+t+wa tsit+ta bsnams//
+phyag drug g.yas g.yon dgra st+wa tsitta bsnams//
 rab 'jigs khro bo'i chas rdzogs gshog pa gdengs//
 sku sked chu srin rngams zhal sbrul chun 'phyo//
 sku smad gnam lcags phur pas byad ma gzir//
@@ -31,7 +31,7 @@ nad gdon gnod byed thams cad tshar bcad nas//
 sangs rgyas sras bcas kun gyi byin rlabs dang*//
 'gro ba'i tshe bsod dregs pa'i mthu stobs kun//
 'od zer rnam par bsdus nas bdag la bstim//
-bdag nyid mthu stobs gzi brjid mtshungs med gyur/ du tri ya ma rā dza/ ya ma rak+ṣa/ kro ta pa tsa la/ kā la rū pa/ a kro rā dza/ ya ma rā dza sa ma ya dzaḥdzaḥ zhes bzla'o//
+bdag nyid mthu stobs gzi brjid mtshungs med gyur/ du tri ya ma rā dza/ ya ma rakṣa/ kro ta pa tsa la/ kā la rū pa/ a kro rā dza/ ya ma rā dza sa ma ya dzaḥdzaḥ zhes bzla'o//
 srung dmigs ni/ thugs ka'i hūm̐ nang bsrung bya mtha' dag tshud//
 ya dang hūm̐ las 'od zer khro chung 'phros//
 rgyal ba'i byin rlabs dregs pa'i mthu nus bsdus//
@@ -42,8 +42,8 @@ byad ma'i tshe bsod srog gi dwangs ma dang*//
 rang gi bla tshe 'khyams dang khyer ba rnams//
 'od zer dzaḥdamar gyis bsdus bdag la thim//
 skye 'chi 'gyur med rdo rje'i sku ru gyur//
- rtsa sngags sham bur/ ru ru rak+mo rak+sha ma bh+yo dzaḥdzaḥ</tei:p>
-<tei:p n="3" unit="page">zhes yum sngags dang*/ ma ma nṛ bh+rūm̐ badz+ra rak+ṣa rak+ṣa swā hā/ ces bzlas so//
+ rtsa sngags sham bur/ ru ru rakmo raksha ma bhyo dzaḥdzaḥ</tei:p>
+<tei:p n="3" unit="page">zhes yum sngags dang*/ ma ma nṛ bhrūm̐ badzra rakṣa rakṣa swā hā/ ces bzlas so//
 zlog dmigs ni/ spyi gtsug mchod rten gsum gyi nang du ni//
 rta mgrin bya khyung gshin rje'i gshed nag po//
 spyi bor 'char ka mgrin par myos byed 'bar//
@@ -60,7 +60,7 @@ rang la bstims shing byad ma'i las sgrib dang*//
 gshin rje khros pas 'byung ba rnam par 'khrugs//
 mtshon cha sna tshogs chu rlabs ltar khol bas//
 byad ma lhar bcas rdul du brlag par gyur//
- bsnyen sngags la yum sngags btags te/ du tri ya ma rā dza/ ya ma rak+sha kro ta pa tsa la ti a ya ma du ru tsa sha na dgra bo byad ma lha srung dang bcas pa thams cad nṛ tri mā ra ya bh+yo bh+yo zlog zlog / ces bzlas so//
+ bsnyen sngags la yum sngags btags te/ du tri ya ma rā dza/ ya ma raksha kro ta pa tsa la ti a ya ma du ru tsa sha na dgra bo byad ma lha srung dang bcas pa thams cad nṛ tri mā ra ya bhyo bhyo zlog zlog / ces bzlas so//
 ces pa karma chags med pa'i gcig chog gsum gyi gdams ngag kha bskangs pa 'di yang rgyal khams pa tshe dbang kun khyab kyis so///
 / </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

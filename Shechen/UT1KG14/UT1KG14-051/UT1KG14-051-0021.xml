@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">re man+ta'i gtor 'bul ni/dkar gtor gtsang ma bran la a kā ros byin gyis brlabs nas/hūm̐/rdo rje khro bo re man+ta/  /gur gum gzhon nu'i mdog 'dra </tei:title><tei:author/><tei:title>re man+ta'i gtor 'bul ni/dkar gtor gtsang ma bran la a kā ros byin gyis brlabs nas/hūm̐/rdo rje khro bo re man+ta/  /gur gum gzhon nu'i mdog 'dra </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">re manta'i gtor 'bul ni/dkar gtor gtsang ma bran la a kā ros byin gyis brlabs nas/hūm̐/rdo rje khro bo re manta/  /gur gum gzhon nu'i mdog 'dra </tei:title><tei:author/><tei:title>re manta'i gtor 'bul ni/dkar gtor gtsang ma bran la a kā ros byin gyis brlabs nas/hūm̐/rdo rje khro bo re manta/  /gur gum gzhon nu'i mdog 'dra </tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-051-0021</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/51-ZHI/TERDZO-ZHI-P20.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250re man+ta'i gtor 'bul ni/1$0000300 </tei:p>
-<tei:p n="2" unit="page">dkar gtor gtsang ma bran la  a kā ro sa byin gyis brlabs nas/ hūm̐/ rdo rje khro bo re man+ta//
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-051-0021</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/51-ZHI/TERDZO-ZHI-P20.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> 1$0000250re manta'i gtor 'bul ni/1$0000300 </tei:p>
+<tei:p n="2" unit="page">dkar gtor gtsang ma bran la  a kā ro sa byin gyis brlabs nas/ hūm̐/ rdo rje khro bo re manta//
 gur gum gzhon nu'i mdog 'dra zhing*/ khro 'dzum bzhad cing sgeg pa'i gzugs//
 dbu la dngul gyi rmog zhu la//
 bya phod dkar pos brgyan pa gsol//
@@ -27,13 +27,13 @@ dar nag ber gsol g.yu 'brug 'chib//
 phyag na 'khor lo zhags pa bsnams//
 'dir gshegs brgyan pa'i gtor ma bzhes//
 rta nad zhi ba'i phrin las mdzod//
-hūm̐/ dpal ldan ār+ya re man+ta//
+hūm̐/ dpal ldan ārya re manta//
 btso ma gser gyi kha dog can//
 gzhon nu nyi ma'i sras po ni//
-pad+ma rā ga'i kha dog can//
+padma rā ga'i kha dog can//
 'dir gshegs brgyan pa'i gtor ma bzhes//
 rta g.yang dngos grub bstsal du gsol//
-hūm̐/ ma hā kā la re man+ta//
+hūm̐/ ma hā kā la re manta//
 sprul pa khyung gis nam mkha' gang*//
 lcags kyi bya khras bar snang gang*//
 stag dang seng ges sa gzhi gang*//
@@ -59,7 +59,7 @@ ral gri phyar zhing gnod byed 'dul//
 gzhi byes lam gsum gar 'dug kyang*//
 rta yi rdzi bo ma g.yel cig /bcol pa'i phrin las 'grub par mdzod//
  ces gtor ma gtsang sar phul//
-cho ga rgyas pa ma lcogs na gtor 'bul kho nas chog /ces pa rta gzungs cho ga'i kha skong du rig sngags 'dzin pa rā ga a s+yas bris pa'o//
+cho ga rgyas pa ma lcogs na gtor 'bul kho nas chog /ces pa rta gzungs cho ga'i kha skong du rig sngags 'dzin pa rā ga a syas bris pa'o//
 'di bris nyes pa rta lha'i tshogs la bshags shing dge bas bkra shis bde legs 'byung gyur cig//
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

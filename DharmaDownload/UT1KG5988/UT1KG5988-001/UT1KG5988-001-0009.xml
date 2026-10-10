@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄༅/  /'phags pa byams pa'i mtshan brgya rtsa brgyad pa gzungs sngags dang bcas pa bzhugs so/  /</tei:title><tei:author/><tei:title>༄༅/  /'phags pa byams pa'i mtshan brgya rtsa brgyad pa gzungs sngags dang bcas pa bzhugs so/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Dharma Download</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG5988-001-0009</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG5988</tei:idno><tei:idno type="SRC_PATH">DharmaDownload/Kagyur-Zungdue/rtfs/volume-001/009_byams-paqi-mtsan-brgya-rtsa-brgyad.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">"$ ༄༅//
@@ -7,7 +7,7 @@
 </tei:p>
 <tei:p n="2" unit="page">༄༅//
 byang chub sems dpa' sems dpa' chen po byams pa la phyag 'tshal lo//
-de nas byang chub sems dpa' byams pas rang gi snying po smras pa/ na mas+t+re ya dhi kā nāṃ/ sarba ta thā ga tā nāṃ/ tad+ya thā/ oṃ sa ra sa ra/ su ru su ru/ dha ra dha ra/ ma hā dha ra/ tsa ra tsa ra/ ma hā tsa ra/ bha ra bha ra/ ma hā bha ra/ kaṃ pa kaṃ pa/ ma hā kaṃ pa/ hūṃ ma hā s+pha ra ṇa dharma a gra/ sā ga ra swā hā/ de nas de bzhin gshegs pa thams cad kyis 'di skad ces bka' bstsal to//
+de nas byang chub sems dpa' byams pas rang gi snying po smras pa/ na mast+re ya dhi kā nāṃ/ sarba ta thā ga tā nāṃ/ tadya thā/ oṃ sa ra sa ra/ su ru su ru/ dha ra dha ra/ ma hā dha ra/ tsa ra tsa ra/ ma hā tsa ra/ bha ra bha ra/ ma hā bha ra/ kaṃ pa kaṃ pa/ ma hā kaṃ pa/ hūṃ ma hā spha ra ṇa dharma a gra/ sā ga ra swā hā/ de nas de bzhin gshegs pa thams cad kyis 'di skad ces bka' bstsal to//
 kye ma gzungs chen mo 'di ni yon tan che ba ste mtha' yas par khyab pa/ bskal pa bye ba phrag mang por yang shin tu thos par dka' ba/ sangs rgyas 'byung ba thams cad ston pa/ de bzhin gshegs pa grangs med pa 'jig rten gyi khams thams cad snyed kyis bsnyen bkur mdzad mdzad pa/ sgrib pa dang*/ sdug bsngal ba dang*/ 'khrug pa dang*/ rmi lam ngan pa dang*/ ltas ngan pa thams cad las thar bar byed pa/ sems can gyi khams mtha' yas mu mad pa longs su thar bar byed pa ste shin tu dkon pa'o//
 de nas rdo rje'i dkyil 'khor gyi 'khor lha dang lha ma yin du bcas pa nor bu'i cod pan gyis bsgyings pa/ rgyan phreng rab tu g.yo ba rnams kyis spyi bor thal mo sbyar nas byang chub sems dpa'i mchog 'phags pa byams pa la mtshan brgya rtsa brgyad kyis mngon par bstod pa//
 dpa' bo chen po thabs brnyes pa//
@@ -36,8 +36,8 @@ sangs rgyas longs spyod longs par spyod//
 sangs rgyas bstan pa ston pa po//
 te sa zla 'byin bzhin du yangs//
 sa yi dbang phyug bde mdzad pa//
-pad+ma 'dab stong rtse mo can//
-rdo rje pad+ma legs par skyes//
+padma 'dab stong rtse mo can//
+rdo rje padma legs par skyes//
 chos kyi longs spyod longs par spyod//
 sa dang mnyam par thub pa dka'//
 snang bar byed pa 'byung ba po//
@@ -46,7 +46,7 @@ gtso bo chen po cher grags pa//
 seng ge chen po stobs po che//
 cha lugs chen po zhal che ba//
 skye bo ngan dang sdug bsngal 'dul//
-rdo rje byu ru bai ḍūr+ya//
+rdo rje byu ru bai ḍūrya//
 nor bu'i dbu thod rgyan du thogs//
 byu ru gser gyi gcal bkram la//
 sku chen zhabs kyi stabs kyis gshegs//
@@ -79,7 +79,7 @@ kun nas spa ba'i dkyil 'khor pa//
 ma pham thub med dag pa ste//
 sangs rgyas cha lugs mnyam med che/</tei:p>
 <tei:p n="4" unit="page">byams pa'i snying pa snying po che//
-byams pa'i pad+ma las byung ba//
+byams pa'i padma las byung ba//
 rdo rje 'chang chen rdo rje can//
 rdo rjes brgyan pa'i dkyil 'khor pa//
 rig sngags 'chang ba rnams kyis btud//
@@ -107,7 +107,7 @@ sgrub pa po ste rtsod pa med//
 dkyil 'khor ldan pa rdo rjes ston//
 rlung chen shugs kyis bskyod pa yi//
 g.yo dang 'brug sgrog sgra ldan pa//
-sangs rgyas spyod yul pad+ma ste/ de bzhin nyid kyi mtsho las skyes//
+sangs rgyas spyod yul padma ste/ de bzhin nyid kyi mtsho las skyes//
 mngon shes chen po mngon shes brnyes//
 khyab bdag sangs rgyas kun dang mnyam//
 de nas sa yi dbang phyug go /byams pa'i dkyil 'khor byams pa la//

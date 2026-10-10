@@ -1,5 +1,5 @@
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">'jam dpal khro bo dregs pa 'joms byed kyi brgyud 'debs bzhugs so/  /rigs kun khyab bdag kun bzang rdo rje 'chang*/  /longs spyod rdzogs sku dpal</tei:title><tei:author/><tei:title>'jam dpal khro bo dregs pa 'joms byed kyi brgyud 'debs bzhugs so/  /rigs kun khyab bdag kun bzang rdo rje 'chang*/  /longs spyod rdzogs sku dpal</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
-                                    The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
+                                    The Creative Commons Attribution 3.0 Unported (CC By 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-017-0026</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/17-TSA/terdzo-tsa-P25.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">1$0000250'jam dpal khro bo dregs pa 'joms byed kyi brgyud 'debs bzhugs so//
@@ -10,8 +10,8 @@ gsol ba 'debs so mchog thun dngos grub stsol//
 gshin rje'i rnal 'byor gtsug lag dpal dge dang*//
 'khor 'das dbang bsgyur khrag 'thung nag po la//
 gsol ba 'debs so mchog thun dngos grub stsol//
-drag sngags mthu yi bka' babs shān+tiṃghar//
-rgyal ba gnyis pa pad+ma 'byung gnas dpal//
+drag sngags mthu yi bka' babs shāntiṃghar//
+rgyal ba gnyis pa padma 'byung gnas dpal//
 skad gnyis smra ba'i dbang phyug bai ro rje//
 gsol ba 'debs so mchog thun dngos grub stsol//
 'jam dpal zhi khro'i smin grol nges gsang sogs//
@@ -29,5 +29,5 @@ bsad mnan bsreg sogs mngon spyod 'khrul 'khor gyis//
 nag po'i rtsa lag sder bcas tshar gcod shog /sgyu ma mkhan gyi sgyu ma'i rol gar bzhin//
 dngos kun sems nyid gcig pu'i rang rtsal du//
 rtogs nas zung 'jug 'jam dpal dpa' bo'i sku /tshe 'dir 'grub pa'i skal bzang thob par shog /</tei:p>
-<tei:p n="2" unit="page">ces 'jam dpal dregs pa 'joms byed kyi brgyud 'debs 'di ni lhag pa'i lha de nyid las dngos grub brnyes pa'i sngags 'chang blo gros rgyal ba'i gsung gis bskul ba las rig pa 'dzin pa 'gyur med rdo rjes bris pa dza yan+tu// // </tei:p>
+<tei:p n="2" unit="page">ces 'jam dpal dregs pa 'joms byed kyi brgyud 'debs 'di ni lhag pa'i lha de nyid las dngos grub brnyes pa'i sngags 'chang blo gros rgyal ba'i gsung gis bskul ba las rig pa 'dzin pa 'gyur med rdo rjes bris pa dza yantu// // </tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>
