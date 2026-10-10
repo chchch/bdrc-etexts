@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ya)༄༅/  /smon lam bdun bcu pa zhes bya ba'i bstan bcos kyi rnam par bshad pa gzhan la phan pa'i dbyangs kyi rol mo zhes bya ba bzhugs so/  /na mo mañju sha</tei:title><tei:author/><tei:title>(ya)༄༅/  /smon lam bdun bcu pa zhes bya ba'i bstan bcos kyi rnam par bshad pa gzhan la phan pa'i dbyangs kyi rol mo zhes bya ba bzhugs so/  /na mo mañju sha</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(ya)༄༅/  /smon lam bdun bcu pa zhes bya ba'i bstan bcos kyi rnam par bshad pa gzhan la phan pa'i dbyangs kyi rol mo zhes bya ba bzhugs so/  /na mo mañdzu sha</tei:title><tei:author/><tei:title>(ya)༄༅/  /smon lam bdun bcu pa zhes bya ba'i bstan bcos kyi rnam par bshad pa gzhan la phan pa'i dbyangs kyi rol mo zhes bya ba bzhugs so/  /na mo mañdzu sha</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
                                     The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1016899-121-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1016899</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SHAKCHOG/SHAK113.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(ya)༄༅//
-smon lam bdun bcu pa zhes bya ba'i bstan bcos kyi rnam par bshad pa gzhan la phan pa'i dbyangs kyi rol mo zhes bya ba bzhugs so// na mo mañju shrī ye/ smon lam bdun bcu pa zhes bya ba'i bstan bcos kyi rnam par bshad pa 'jam pa'i dbyangs la phyag 'tshal lo//
+smon lam bdun bcu pa zhes bya ba'i bstan bcos kyi rnam par bshad pa gzhan la phan pa'i dbyangs kyi rol mo zhes bya ba bzhugs so// na mo mañdzu shrī ye/ smon lam bdun bcu pa zhes bya ba'i bstan bcos kyi rnam par bshad pa 'jam pa'i dbyangs la phyag 'tshal lo//
 byed po'i sngon gyi smon lam gser gyi char//
 tshangs dang dbang po'i snying mtshor nges sim pa//
 tshogs gnyis rtsa lag rgyas pa'i dpag bsam gyi//
@@ -1474,7 +1474,7 @@ nges tshig yin te go rim bzhin//
 tshogs dang lus dang 'dus pa ni//
 rnam grangs dag ste de bzhin sbyar//
 zhes pa'o//
-de yang go rim bzhin du/ a k+ṣa ra zhes pa dang*/ byañjā na zhes pa dang*/ warna zhes bya ba'i sgra las drangs pa'o//
+de yang go rim bzhin du/ a k+ṣa ra zhes pa dang*/ byañdzā na zhes pa dang*/ warna zhes bya ba'i sgra las drangs pa'o//
 ci'i phyir tshogs zhes bya na/ kā ya zhes bya ba'i sgra la tshogs dang*/ lus dang*/ 'dus pa zhes bya ba yin la/ ming tshig gnyis kyi skabs su yang de bzhin du sbyar ro//
 zhes pa'i don to//
 spyir yi ge la gnyis te/ don dam pa'i dang*/ kun rdzob pa'i 'o//
@@ -2814,7 +2814,7 @@ ta ma la dang tsan+dan dang*//
 ga pur gu gul gur kum dang*//
 du ru ka dang arga dang*//
 ku mu ta dang tsam+pa ka</tei:p>
-<tei:p n="129" unit="page">/ba ru sha ka ma li ka /mañju dzi hwa pri yaṅku//
+<tei:p n="129" unit="page">/ba ru sha ka ma li ka /mañdzu dzi hwa pri yaṅku//
 sug smel dang ni ma sha ka /baiḍūr+ya dang margad dang*//
 ke ke ru rnams legs sbyar skad//
 thad sor bzhag pa yin zhes bya//
@@ -2834,7 +2834,7 @@ skad du nges par 'khrul mi bya//
 shu dag li shi shing kun yang*//
 rgya min bod min skad zhig ste//
 legs sbyar skad du 'khrul mi bya//
-ne rañjā na legs sbyar skad//
+ne rañdzā na legs sbyar skad//
 bod kyi skad dod gang yin bsam//
 wā ra ṇa si zhes bya ba//
 ral gri phub kyi gnas dang ni//

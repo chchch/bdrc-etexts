@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(cha)༄༅/  /dhūpārtsanas+yātsāraḥpañcadzātarutaswaranāmabidzahāraṃ/  /</tei:title><tei:author/><tei:title>(cha)༄༅/  /dhūpārtsanas+yātsāraḥpañcadzātarutaswaranāmabidzahāraṃ/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(cha)༄༅/  /dhūpārtsanas+yātsāraḥpañtsadzātarutaswaranāmabidzahāraṃ/  /</tei:title><tei:author/><tei:title>(cha)༄༅/  /dhūpārtsanas+yātsāraḥpañtsadzātarutaswaranāmabidzahāraṃ/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
                                     The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1016703-083-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1016703</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/ZUCHEN/ZUCN080.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(cha)༄༅//
-dhūpārtsanas+yātsāraḥpañcadzātarutaswaranāmabidzahāraṃ// </tei:p>
+dhūpārtsanas+yātsāraḥpañtsadzātarutaswaranāmabidzahāraṃ// </tei:p>
 <tei:p n="2" unit="page">༄༅//
 bsang mchod kyi cho ga skye ba lnga pa'i sgra dbyangs zhes bya ba bzhugs so// ༄༅//
 gauṇ+yaḥsaṃyuk+taman+yār+thamagromahāsaṃkalpas+yābatāraṃpratidz+nyānahi/ r+yasmāt+saṃsāradair+gh+yaṃhitodāranairābhogyaṃbhūtarat+nas+t+ribhiḥpālaya// ༄༅//
@@ -39,7 +39,7 @@ dngos gzhi bdag bskyed spyan drangs mchod//
 phrin las zhu zhing phywa g.yang dgug /rjes ni bzod gsol gshegs su gsol//
 bkra shis bsngo ba'i rgyas gdab bo//
 zhes pa ltar las/ sngon du mchod pa byin gyis brlab pa ni/ oṃ badz+ra yak+ṣas bsangs/ oṃ badz+ra dz+wa las gzi byin bskyed/</tei:p>
-<tei:p n="3" unit="page">swa bhā was sbyangs/ stong pa'i ngang las lha rdzas las grub pa'i bsang rdzas dang mchod pa'i yo byad bsam gyis mi khyab pas nam mkha'i khams thams cad gang bar gyur cig so so'i phyag rgya dang bcas te/ oṃ swa bhā wa shud+dhaḥsarba dharmāḥswa bhā wa shud+dho3haṃ gis skyon sbyangs/ oṃ na maḥsarba ta thā ga te bh+yo bi shwa mu khe bh+yaḥ sarba thā khaṃ ud+ga te s+pha ra ṇa i maṃ ga ga na khaṃ swā hās rgyas par spel/ oṃ badz+ra a mṛ ta kuṇ+ḍa li ha na ha na hūm̐ phaṭa kyis bdud rtsir bsgyur/ na maḥsarba ta thā ga ta a wa lo ki te/ oṃ sam+bha ra sam+bha ra hūm̐ gis rang rang 'dod pa thob par byas/ oṃ dz+nyā na a wa lo ki te na mas+sa man+ta s+pha ra ṇa rasmi sam+bha wa sa ma ya ma hā ma ṇi du ru du ru hṛ da ya swā hās rang dbang thob par byas/ na mas+sa man+ta bud+dhā nāṃ gra he shwa ri pra bhañja ti ma hā sa ma ya swā hās mgron mnyes pa'i mthu dang ldan par byas/ sngags de dag spro na lan gsum gsum brjod/ oṃ badz+ra ar+ghaṃ āḥhūm̐/ oṃ badz+ra pā d+yaṃ āḥhūm̐ nas/ oṃ badz+ra shab+da āḥhūm̐/ rol mo dang bcas te dharma ra ṇi/ sogs lan gsum gyis byin dbab bo//
+<tei:p n="3" unit="page">swa bhā was sbyangs/ stong pa'i ngang las lha rdzas las grub pa'i bsang rdzas dang mchod pa'i yo byad bsam gyis mi khyab pas nam mkha'i khams thams cad gang bar gyur cig so so'i phyag rgya dang bcas te/ oṃ swa bhā wa shud+dhaḥsarba dharmāḥswa bhā wa shud+dho3haṃ gis skyon sbyangs/ oṃ na maḥsarba ta thā ga te bh+yo bi shwa mu khe bh+yaḥ sarba thā khaṃ ud+ga te s+pha ra ṇa i maṃ ga ga na khaṃ swā hās rgyas par spel/ oṃ badz+ra a mṛ ta kuṇ+ḍa li ha na ha na hūm̐ phaṭa kyis bdud rtsir bsgyur/ na maḥsarba ta thā ga ta a wa lo ki te/ oṃ sam+bha ra sam+bha ra hūm̐ gis rang rang 'dod pa thob par byas/ oṃ dz+nyā na a wa lo ki te na mas+sa man+ta s+pha ra ṇa rasmi sam+bha wa sa ma ya ma hā ma ṇi du ru du ru hṛ da ya swā hās rang dbang thob par byas/ na mas+sa man+ta bud+dhā nāṃ gra he shwa ri pra bhañdza ti ma hā sa ma ya swā hās mgron mnyes pa'i mthu dang ldan par byas/ sngags de dag spro na lan gsum gsum brjod/ oṃ badz+ra ar+ghaṃ āḥhūm̐/ oṃ badz+ra pā d+yaṃ āḥhūm̐ nas/ oṃ badz+ra shab+da āḥhūm̐/ rol mo dang bcas te dharma ra ṇi/ sogs lan gsum gyis byin dbab bo//
 skyabs su 'gro zhing sems bskyed pa ni/ dge legs dpal gyi 'byung gnas bla ma dang*//
 dkon mchog gsum la rtag par skyabs su mchi//
 'gro 'dul kha lo sgyur mchog thob pa'i phyir//
@@ -107,7 +107,7 @@ dbyar skyes lo 'dab stug po'i gos bzangs dang*//
 rnam bkra me tog sar pa'i do shal bklubs//
 khu byug bung ba'i glu dbyangs len gyin byung*//
 gang der btus pa'i phang phung lo 'dab dang*//
-me tog mañja rīs mdzes bzang dgu'i shing*//
+me tog mañdza rīs mdzes bzang dgu'i shing*//
 tsan+dan a ga ru dang spos dkar sman//
 dkar gsum mngar gsum ja chang phye mar bsregs//
 de yi bsung gi du ris 'khyog po dag</tei:p>
@@ -370,7 +370,7 @@ lus can mi gtsang nyams chag sgrib sbyangs nas//
 bde 'byor legs bris dpal la spyod gyur cig /de ltar bsang mchod kyi cho ga skye ba lnga pa'i sgra dbyangs zhes bya ba 'di ni/ gtsug lag zung gi blo gros rnam par gsal ba'i dge slong dkon mchog dpal ldan gyis snga phyir bskul ngor/ rje btsun e waṃ pa chen po'i lugs bzang dri ma med pa'i rjes su slob pa'i 'dun pa ma bor tsam gyi ban+de tshul khrims rin chen du bod pas/ slob dpon pad+ma'i brgyags rngan dang bdag chen rgya gar pa'i bsang yig sogs mkhas mchog rnams kyi gsung don brjod byar byas nas ha cang rgyas dang bsdus mtha' dag tu ma lhung bar/</tei:p>
 <tei:p n="11" unit="page">me stag lo'i tha skar zla ba'i dkar phyogs kyi rdzogs pa gnyis pa'i tshes la sa dkar bsam 'grub gling du grub par bgyis pa dge legs 'phel bar gyur cig/ // ༄༅//
 bsang mchod bsdus pa bde legs nyi ma zhes bya ba bzhugs so// ༄༅//
-na mo mañju shrī ye/ lha bsang bsdus pa khyer bde 'dir//
+na mo mañdzu shrī ye/ lha bsang bsdus pa khyer bde 'dir//
 dri zhim bsung btang bran ma thag /phyogs rnams kun tu bsang mgron gyis//
 khyab par dmigs nas 'di skad do//
 oṃ āḥhūm̐/ bde gshegs gsang gsum rdo rjes byin brlabs pa'i//

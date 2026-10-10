@@ -1,10 +1,10 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄/  /dz+nyānālokabṛd+dhināmamañjughoṣatādharmarādzabrah+mādewapuṣ+pas+yayogabiharatisma/  /</tei:title><tei:author/><tei:title>༄/  /dz+nyānālokabṛd+dhināmamañjughoṣatādharmarādzabrah+mādewapuṣ+pas+yayogabiharatisma/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">༄/  /dz+nyānālokabṛd+dhināmamañdzughoṣatādharmarādzabrah+mādewapuṣ+pas+yayogabiharatisma/  /</tei:title><tei:author/><tei:title>༄/  /dz+nyānālokabṛd+dhināmamañdzughoṣatādharmarādzabrah+mādewapuṣ+pas+yayogabiharatisma/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Shechen</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
                                     The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
-                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-011-0034</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/11-DA/terdzo-DA-P33.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄// dz+nyā nā lo ka bṛ d+dhi nā ma ma ñju gho ṣa tā dha rma rā dza bra h+mā de wa pu ṣ+pa s+ya yo ga bi ha ra ti sma //</tei:p>
+                                </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT1KG14-011-0034</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W1KG14</tei:idno><tei:idno type="SRC_PATH">Shechen/Rinchen-Terdzod-Shechen-vols-01-54/rtfs/11-DA/terdzo-DA-P33.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page"> "!#༄// dz+nyā nā lo ka bṛ d+dhi nā ma ma ñdzu gho ṣa tā dha rma rā dza bra h+mā de wa pu ṣ+pa s+ya yo ga bi ha ra ti sma //</tei:p>
 <tei:p n="2" unit="page">1$0000280༄//
-'jam pa'i dbyangs dngos chos rgyal tshangs pa lha'i me tog gi rnal 'byor ye shes snang ba rgyas pa zhes bya ba bzhugs so1$0000300// na mo gu ru mañju shrī gho ṣā ya/ snying dbus mi shigs thig le ru//
+'jam pa'i dbyangs dngos chos rgyal tshangs pa lha'i me tog gi rnal 'byor ye shes snang ba rgyas pa zhes bya ba bzhugs so1$0000300// na mo gu ru mañdzu shrī gho ṣā ya/ snying dbus mi shigs thig le ru//
 sgrib gsum zad pa'i 'od po che//
 ye shes snang ba lam me ba//
 'jam dpal gzhon nu khri srong zhabs//
@@ -87,7 +87,7 @@ thugs rje'i dbang gis 'dir gshegs la//
 rdo rje gsum gyi byin chen phob//
 phyi nang gsang ba'i dbang bzhi skur//
 ye shes lnga yi dngos grub stsol//
-oṃ āḥhūm̐ ma hā dharma rā dza mañju shrī sa pa ri wā ra e h+ye hi/</tei:p>
+oṃ āḥhūm̐ ma hā dharma rā dza mañdzu shrī sa pa ri wā ra e h+ye hi/</tei:p>
 <tei:p n="4" unit="page">gsum pa bzhugs su gsol ba ni//
  a/ dam tshig lha sngags chos nyid klong*//
 ye shes sems dpa'i sku gsung thugs//
@@ -148,7 +148,7 @@ thogs med blo gros rgyas par gyur//
 oṃ a ra pa tsa na dhīḥ</tei:p>
 <tei:p n="5" unit="page">bla ma yi dam dbyer med pa'i//
 mtshan sngags 'dis kyang dngos grub bskul//
- oṃ āḥmañju shrī brah+mā de ba puṣ+pa sarba pra dz+nyā dz+nyā na sid+dhi hūm̐/ snang ba thams cad lha yi sku /chu zla 'ja' tshon lta bur blta//
+ oṃ āḥmañdzu shrī brah+mā de ba puṣ+pa sarba pra dz+nyā dz+nyā na sid+dhi hūm̐/ snang ba thams cad lha yi sku /chu zla 'ja' tshon lta bur blta//
 grags pa rten cing 'brel 'byung sngags//
 sgra brnyan brag ca'i tshul du bsam//
 dran rtog 'od gsal dbyings kyi ngang*//
@@ -168,7 +168,7 @@ mchog thun dngos grub bstsal du gsol//
 badz+ra sa ma ya dzaḥ oṃ/ snod bcud rang byung bdud rtsi lnga//
 'dod yon rgya mtsho'i sprin phung 'phro//
 bla na med pa'i tshogs mchod kyis//
-rtsa gsum lha tshogs mnyes gyur cig /sarba pañca a mrita ga ṇa tsakra pū dza oṃ/ āḥ phung po rang byung bhan+dha ru//
+rtsa gsum lha tshogs mnyes gyur cig /sarba pañtsa a mrita ga ṇa tsakra pū dza oṃ/ āḥ phung po rang byung bhan+dha ru//
 rtsa rlung thig le'i gtor ma bshams//
 dkyil 'khor lha tshogs thugs dam bskang*//
 sgo gsum dam tshig nyams chag bshags//
@@ -191,7 +191,7 @@ gnyis 'dzin zhi zhing rig rtsal rgyas//
 rlung sems dbang sdus rtog tshogs sgrol//
 ka dag lhun grub rdo rje'i grong//
 mngon par byang chub rten 'brel sgrigs//
-sarba dharma pā la bhāñja hoḥ gsum pa dngos grub gsol ba ni//
+sarba dharma pā la bhāñdza hoḥ gsum pa dngos grub gsol ba ni//
  hoḥ rang byung dbyings kyi dkyil 'khor nas//
 rig pa rang snang 'jam pa'i dbyangs//
 thugs rje 'gro 'dul khri srong rje//
@@ -206,7 +206,7 @@ rig stong zung 'jug gnyug ma'i ngang*//
 rig gdangs 'gag med lhug par bskyang*//
 a a a/ lnga pa thun mtshams lha skur ldang*//
  hūm̐/ ka dag gting gsal 'dus ma byas//
-lhun grub zung 'jug sgyu ma'i sku /snang grags rigs gsum mañju shrī'i//
+lhun grub zung 'jug sgyu ma'i sku /snang grags rigs gsum mañdzu shrī'i//
 sku gsung thugs kyi phyag rgyar sad//
 oṃ āḥhūm̐/ drug pa bsngo smon bya ba ni//
  hoḥ dus gsum bsags pa'i legs byas kun//
@@ -228,6 +228,6 @@ dad pa'i me tog snying nas rgyas//
 mos gus sbrang rtsi'i zil dngar rgyun//
 'gog pa med par 'jo ba la//
 legs byas cung zad mchis srid na//
-'gro kun nyer 'tsho'i gzhir gyur cig /shrī mañju gho ṣa brah+mā puṣ+pa de ba'i ye shes chen po'i byin rlabs cung zad thob pa la brten nas mtsho skyes bla ma dgyes pa'i 'bangs pad+ma 'od gsal mdo sngags gling pas blo gros kyi a dar+shar ji ltar shar ba bzo med du skad cig gis bris pa sarba dā maṅga laṃ bha ba tu///
+'gro kun nyer 'tsho'i gzhir gyur cig /shrī mañdzu gho ṣa brah+mā puṣ+pa de ba'i ye shes chen po'i byin rlabs cung zad thob pa la brten nas mtsho skyes bla ma dgyes pa'i 'bangs pad+ma 'od gsal mdo sngags gling pas blo gros kyi a dar+shar ji ltar shar ba bzo med du skad cig gis bris pa sarba dā maṅga laṃ bha ba tu///
 /</tei:p>
 </tei:div></tei:body></tei:text></tei:TEI>

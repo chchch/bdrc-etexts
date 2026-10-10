@@ -1,9 +1,9 @@
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(nga )༄༅/  /pañcas+thābid+yāyāmahāpaṇ+ḍitetipariyashasayātsār+yārat+naḥpuṇ+yāgraṣ+yaprawatsanipustakodwitīyābh+yaṃsam+puṭas+yaṭīkamarmas+yaprabhāswarobidzahār/  /</tei:title><tei:author/><tei:title>(nga )༄༅/  /pañcas+thābid+yāyāmahāpaṇ+ḍitetipariyashasayātsār+yārat+naḥpuṇ+yāgraṣ+yaprawatsanipustakodwitīyābh+yaṃsam+puṭas+yaṭīkamarmas+yaprabhāswarobidzahār/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"><tei:teiHeader><tei:fileDesc><tei:titleStmt><tei:title type="derived">(nga )༄༅/  /pañtsas+thābid+yāyāmahāpaṇ+ḍitetipariyashasayātsār+yārat+naḥpuṇ+yāgraṣ+yaprawatsanipustakodwitīyābh+yaṃsam+puṭas+yaṭīkamarmas+yaprabhāswarobidzahār/  /</tei:title><tei:author/><tei:title>(nga )༄༅/  /pañtsas+thābid+yāyāmahāpaṇ+ḍitetipariyashasayātsār+yārat+naḥpuṇ+yāgraṣ+yaprawatsanipustakodwitīyābh+yaṃsam+puṭas+yaṭīkamarmas+yaprabhāswarobidzahār/  /</tei:title></tei:titleStmt><tei:publicationStmt><tei:distributor>Guru Lama Works</tei:distributor><tei:availability status="free"><tei:licence target="http://creativecommons.org/licenses/by/3.0/" when="2014-01-01">
                                     The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence
                                         applies to this document.
                                     The licence was added on January 1, 2014.
                                 </tei:licence></tei:availability><tei:date when="2014">2014</tei:date><tei:idno type="TBRC_TEXT_RID">UT00EGS1017151-066-0000</tei:idno></tei:publicationStmt><tei:sourceDesc><tei:bibl><tei:idno type="TBRC_RID">W00EGS1017151</tei:idno><tei:idno type="SRC_PATH">GuruLamaWorks/For-Conversion-Disk-01-20130424/rtfs/SA-KABUM/SKYA064A.rtf</tei:idno></tei:bibl></tei:sourceDesc></tei:fileDesc></tei:teiHeader><tei:text><tei:body><tei:div><tei:p n="1" unit="page">(nga )༄༅//
-pañcas+thābid+yāyāmahāpaṇ+ḍitetipariyashasayātsār+yārat+naḥpuṇ+yāgraṣ+yaprawatsanipustakodwitīyābh+yaṃsam+puṭas+yaṭīkamarmas+yaprabhāswarobidzahār// </tei:p>
+pañtsas+thābid+yāyāmahāpaṇ+ḍitetipariyashasayātsār+yārat+naḥpuṇ+yāgraṣ+yaprawatsanipustakodwitīyābh+yaṃsam+puṭas+yaṭīkamarmas+yaprabhāswarobidzahār// </tei:p>
 <tei:p n="2" unit="page">༄༅//
 gnas lnga rig pa'i paṇ+ḍi ta chen po zhes yongs su grags pa'i slob dpon rin po che bsod nams rtse mo'i gsung rab glegs bam gnyis pa las sam+pu ṭa'i ṭī ka gnad kyi gsal byed bzhugs so// oṃ swa sti sid+dhaṃ/ na mo gu ru bha drā ya/ na maḥshrī he badz+rā ya/ gang gi thugs rje rgyun mi chad pa mkha' mtshungs khyab gyur pas//
 rtog pas gzir ba'i 'gro la gzigs kyang spros pa kun bral ba'i//
@@ -2944,7 +2944,7 @@ khādz+dza i ni bza' bar bya'o//
 gā ḍheṃ ni 'bad pas so//
 ma a ṇā ni chang ngo*//
 pidz+dza a i ni btung bar bya'o//
-hā le ni kyi grogs po dag go /kā liñja ra ni skal ba dang ldan pa rnams so//
+hā le ni kyi grogs po dag go /kā liñdza ra ni skal ba dang ldan pa rnams so//
 pa ṇi a i ni 'ong du gzhug pa'o//
 dun+du ra ni skal ba med pa'o//
 bādz+dzi a i ni 'ong du mi gzhug pa'o//
@@ -2955,7 +2955,7 @@ kā pū ra ni ga pur te byang chub kyi sems so//
 lā i a i ni de rnams lus la byug par bya'o//
 des gtsang mi gtsang gi rtog pa gzhom pa dang bar chad las bsrung ba'i dgos pa'o//
 gzhan yang mā la tin+dha ṇaṃ ni tshod ma'o//
-sā liñja ste sha chen las byas pa'o//
+sā liñdza ste sha chen las byas pa'o//
 ta hiṃ ni dus der ro//
 bha ru khā i a i ni mang po btung bar bya'o//
 gzhan yang tshogs kyi dus der phreṃ kha ṇa ni nang du 'ong ba'o//
@@ -3054,8 +3054,8 @@ shal+ma li yi shing la gnas//
 zhes gsungs pa 'di yin par bsam mo//
 rgyud der koṅka na'i ming ni mi snang ngo*//
 'di ni byang phyogs tshang tshing 'khrigs pa'i dur khrod ces bya ba yin no ces gsung ngo*//
-tsa ri tra zhes bya ba'i yul yang lho phyogs na gnas te/ der kar+ya ñja'i shing la gnas pa zhing skyong bya ba kun mdzes zhes bya ba rigs ngan las byung ba gnas te/ tsa ri tra yi yul du ni//
-ka rā ñja la gnas pa ni//
+tsa ri tra zhes bya ba'i yul yang lho phyogs na gnas te/ der kar+ya ñdza'i shing la gnas pa zhing skyong bya ba kun mdzes zhes bya ba rigs ngan las byung ba gnas te/ tsa ri tra yi yul du ni//
+ka rā ñdza la gnas pa ni//
 bya ba kun mdzes zhes bya ba//
 shak+ti brtsigs pa'i skye gnas 'byung*//
 zhes so//
